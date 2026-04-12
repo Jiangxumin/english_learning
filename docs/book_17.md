@@ -1,3 +1,8 @@
+---
+sidebar_position: 17
+title: "Book 17: Bajie and the Monster — The Prisoners Are Released (Ch.97-102)"
+---
+
 **Journey to the West 97: Bajie and the Monster**
 
 > Bajie took a step back as a dark mist surrounded the people on the road. When the mist cleared, he saw they were really a monster and several little demons.

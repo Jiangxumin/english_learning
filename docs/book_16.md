@@ -1,3 +1,8 @@
+---
+sidebar_position: 16
+title: "Book 16: The Demon Officers — Wind and Fog (Ch.91-96)"
+---
+
 **Journey to the West 91: The Demon Officers**
 
 > The demon general looked at Wukong, who was still in disguise.

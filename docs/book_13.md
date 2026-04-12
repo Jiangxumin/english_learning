@@ -1,3 +1,8 @@
+---
+sidebar_position: 13
+title: "Book 13: Two Wukongs — Tricked Again and Again (Ch.73-78)"
+---
+
 **Journey to the West 73: Two Wukongs**
 
 > Wujing watched as the fake Wujing fed the horse some hay.

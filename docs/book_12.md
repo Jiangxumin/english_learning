@@ -1,3 +1,8 @@
+---
+sidebar_position: 12
+title: "Book 12: The Master Thief — A Surprise at Fruit and Flower Mountain (Ch.67-72)"
+---
+
 **Journey to the West 67: The Master Thief**
 
 > \"What are we going to do now?\" cried Wukong. \"One-Horned Buffalo stole all our weapons!\"

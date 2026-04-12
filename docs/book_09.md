@@ -1,3 +1,8 @@
+---
+sidebar_position: 9
+title: "Book 9: Red Boy — The River God (Ch.49-54)"
+---
+
 **Journey to the West 49: Red Boy**
 
 > \"Wukong is right,\" said Bajie. \"We should all go home and forget about reaching the Western Paradise. I\'ll return to my cave and take a nice long nap.\"

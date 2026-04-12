@@ -1,3 +1,8 @@
+---
+sidebar_position: 10
+title: "Book 10: The Monks and the Cart — Snow! (Ch.55-60)"
+---
+
 **Journey to the West 55: The Monks and the Cart**
 
 > \"Everybody, wake up!\" called Wukong.

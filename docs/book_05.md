@@ -1,3 +1,8 @@
+---
+sidebar_position: 5
+title: "Book 5: Powerful Wind Magic — The Frying Pan (Ch.25-30)"
+---
+
 **Journey to the West 25: Powerful Wind Magic**
 
 > The wind stopped. Wukong jumped to his feet and called back the little Wukongs.

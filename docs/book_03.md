@@ -1,3 +1,8 @@
+---
+sidebar_position: 3
+title: "Book 3: The True Scriptures — The Robe (Ch.13-18)"
+---
+
 **Journey to the West 13: The True Scriptures**
 
 > Five hundred years passed. Wukong stayed trapped under the mountain. A thick layer of moss covered the monkey.

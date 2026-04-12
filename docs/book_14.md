@@ -1,3 +1,8 @@
+---
+sidebar_position: 14
+title: "Book 14: The Mountain of Flames — The Sad King (Ch.79-84)"
+---
+
 **Journey to the West 79: The Mountain of Flames**
 
 > Wukong was furious. \"The Bull Demon King tricked me!\"

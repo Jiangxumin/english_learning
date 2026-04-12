@@ -1,3 +1,8 @@
+---
+sidebar_position: 2
+title: "Book 2: The Land of Darkness — The Bet (Ch.7-12)"
+---
+
 **Journey to the West 7: The Land of Darkness**
 
 > Sun Wukong put his hand on the iron pillar. He felt it move.

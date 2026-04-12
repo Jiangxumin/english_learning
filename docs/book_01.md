@@ -1,4 +1,11 @@
-**Journey to the West 1: The Monkey**
+---
+sidebar_position: 1
+title: "Book 1: The Monkey — The Dragon King (Ch.1-6)"
+---
+
+import Vocab from '@theme/Vocab';
+
+## Journey to the West 1: The Monkey
 
 > From the beginning of time, a rock had sat high on top of a mountain. The sun, the moon, Heaven, and Earth all worked their magic on the rock. One day the rock split open. Inside was a monkey.
 >
@@ -10,7 +17,7 @@
 >
 >      \"Yes, Your Majesty,\" said the captain.
 >
->      The captain rushed out of the hall. He looked out the southern gate of Heaven and saw the monkey on Earth **below**. The light was gone. But the captain had magical sight. He could see everything that had just happened.
+>      The captain rushed out of the hall. He looked out the southern gate of Heaven and saw the monkey on Earth <Vocab word="below" phonetic="/bɪˈloʊ/" definition="在下方，在底下" />. The light was gone. But the captain had magical sight. He could see everything that had just happened.
 >
 >      \"Interesting,\" said the captain.
 >
@@ -517,20 +524,3 @@
 >      Wukong went closer and looked up at the large piece of iron.
 >
 >      The Dragon King folded his arms. \"If you can pick it up, you can have it.\"
-
----
-
-## Notes
-
-**below** (第14行)
-- **词性**：副词（adverb）
-- **释义**：在下方，在底下
-- **原文**：*He looked out the southern gate of Heaven and saw the monkey on Earth **below**.*
-- **解析**：此处 below 修饰 "on Earth"，表示从天庭（高处）俯瞰人间（低处）的空间关系。天在南门之上，地在南门之下，below 强调了"向下看"的视角。
-- **例句**：
-  - The valley below was covered in mist.（下面的山谷笼罩在薄雾中。）
-  - From the top of the tower, we could see the whole city below.（从塔顶我们可以看到下方整座城市。）
-- **近义词对比**：
-  - **below**：泛指"在较低位置"，不一定正下方，范围广
-  - **under**：强调"正下方"，被覆盖
-  - **beneath**：较正式/文学用法，可兼指具体和抽象位置

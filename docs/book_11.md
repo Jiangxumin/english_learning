@@ -1,3 +1,8 @@
+---
+sidebar_position: 11
+title: "Book 11: The Demon under the Ice — Help from Heaven (Ch.61-66)"
+---
+
 **Journey to the West 61: The Demon under the Ice**
 
 > Wukong leaped into the air. His three companions and the horse fell into the water with a splash.

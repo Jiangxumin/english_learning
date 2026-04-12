@@ -1,3 +1,8 @@
+---
+sidebar_position: 8
+title: "Book 8: A Visit from Laozi — The Scared Boy (Ch.43-48)"
+---
+
 **Journey to the West 43: A Visit from Laozi**
 
 > Golden Horn scowled at Wukong. \"I doubt you have a gourd like mine.\"

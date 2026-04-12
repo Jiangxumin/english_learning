@@ -1,3 +1,8 @@
+---
+sidebar_position: 6
+title: "Book 6: Guanyin's Vase — Tricked Again (Ch.31-36)"
+---
+
 **Journey to the West 31: Guanyin\'s Vase**
 
 > The two priests pushed the Tang Monk toward the enormous frying pan.

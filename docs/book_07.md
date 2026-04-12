@@ -1,3 +1,8 @@
+---
+sidebar_position: 7
+title: "Book 7: Missing from Heaven — Sun Kongwu (Ch.37-42)"
+---
+
 **Journey to the West 37: Missing from Heaven**
 
 > \"Who are you?\" the monster asked the monkey. \"What are you doing here?\"

@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+title: "Book 4: An Evil Plan — The Great King Yellow Wind (Ch.19-24)"
+---
+
 **Journey to the West 19: An Evil Plan**
 
 > The head priest called for two other priests, who quickly ran into the room.

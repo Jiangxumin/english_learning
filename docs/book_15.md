@@ -1,3 +1,8 @@
+---
+sidebar_position: 15
+title: "Book 15: Fire, Smoke, and Sand — The Demons' Plan (Ch.85-90)"
+---
+
 **Journey to the West 85: Fire, Smoke, and Sand**
 
 > Wukong landed on another mountain peak.

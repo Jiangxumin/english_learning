@@ -1,3 +1,8 @@
+---
+sidebar_position: 18
+title: "Book 18: The Land of the West — Rewards (Ch.103-108)"
+---
+
 **Journey to the West 103: The Land of the West**
 
 > Wukong returned from the Land of Darkness. Lady Kou brought the travelers back to her house. Inside the coffin the squire\'s body was gray and lifeless.
