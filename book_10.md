@@ -1,0 +1,469 @@
+**Journey to the West 55: The Monks and the Cart**
+
+> \"Everybody, wake up!\" called Wukong.
+>
+>      The travelers had camped for a night in the woods. The Tang Monk woke up and stretched. Wujing opened his eyes and yawned.
+>
+>      Bajie moaned, \"It\'s too early. Let me sleep just a few more hours.\"
+>
+>      \"Bajie, don\'t be lazy,\" said the Tang Monk. \"It\'s time to get up. Please start making breakfast.\"
+>
+>      The pig got to his feet. \"All we do is work,\" he said. \"Cook food . . . carry bags . . . walk, walk, walk!\"
+>
+>      \"We\'re on a noble mission,\" said Wujing. \"Because of our difficult journey, the Tang Empire will have the True Scriptures. You should be happy to do all this work.\"
+>
+>      After a quick breakfast, the group started walking. They went through a valley and over some hills. Later that afternoon they heard yelling.
+>
+>      \"It sounds like some people are in trouble,\" said the Tang Monk.
+>
+>      Wujing nodded. \"Yes. I wonder what\'s going on.\"
+>
+>      \"You all wait here,\" said Wukong. \"I\'ll go and investigate.\"
+>
+>      The monkey leaped into the air and looked around. He saw a group of Buddhist monks pushing a cart up a steep hill. The cart was loaded with big stones. The monks looked miserable. Their robes were dirty and ripped.
+>
+>      Two Daoist priests stood nearby. They were dressed in fine clothes.
+>
+>      \"Work faster!\" yelled one of the priests.
+>
+>      The Buddhists looked frightened. They struggled to move the cart faster.
+>
+>      \"Why are those monks pushing that cart?\" thought Wukong. \"And why are they scared of the Daoists?\"
+>
+>      The monkey waited for the Daoists to leave. Then he made himself look like a Buddhist monk.
+>
+>      \"Hello,\" said Wukong, walking toward the group of monks. \"Why are you pushing this cart?\"
+>
+>      The monks stopped pushing the cart and turned toward Wukong. They looked surprised.
+>
+>      \"You must be new here,\" one monk said. \"You should leave before you\'re discovered.\"
+>
+>      \"Why?\" asked Wukong.
+>
+>      \"Daoists are in charge here,\" said another monk.
+>
+>      Wukong shrugged. \"People from different religions can still get along.\"
+>
+>      \"Not in this kingdom,\" said the first monk. \"Buddhists are treated horribly here. The Daoists make us do hard work.\"
+>
+>      \"Why do the Daoists treat you so badly?\" asked Wukong.
+>
+>      \"Years ago this kingdom had a drought,\" said the monk. \"Crops died and people starved. Buddhist monks prayed to Buddha for rain. But no rain came.\"
+>
+>      \"One day a powerful Daoist arrived,\" said the other monk. \"He\'s called the Tiger Immortal. He recited prayers, and right away rain fell. Since then Daoists have been in charge. They destroyed all the Buddhist monasteries and statues.\"
+>
+>      \"That\'s terrible,\" said Wukong. \"Those Daoists can\'t get away with this.\"
+>
+>      \"The Daoists won\'t treat us this way forever,\" said a third monk. \"The spirit of the planet Venus visited us in a dream one night. He said that one day someone would come along to save us.\"
+>
+>      \"Oh really?\" Wukong raised an eyebrow. \"Who is going to save you?\"
+>
+>      \"A fierce monkey spirit,\" said the monk. \"His name is Sun Wukong. He is so powerful that Heaven\'s entire army couldn\'t defeat him!\"
+>
+>      Wukong smiled. \"I\'ve heard of Sun Wukong. And it\'s true that he\'s very powerful. Did Venus tell you what he looks like?\"
+>
+>      \"Oh yes,\" said the monk.
+>
+>      \"So you\'ll recognize him if you see him?\" asked Wukong, trying not to laugh.
+>
+>      \"Certainly,\" said the monk. \"Why do you ask?\"
+>
+>      Light sparkled around Wukong. A moment later he was a monkey again.
+>
+>      \"Sun Wukong!\" cried the monks. They all fell to their knees and bowed.
+
+**Journey to the West 56: The Tiger Immortal**
+
+> Wukong led the monks to his companions. The monks told the Tang Monk everything that they had told Wukong.
+>
+>      \"That\'s terrible,\" said the Tang Monk. \"We must help you.\"
+>
+>      \"Yes,\" the monkey agreed. \"I\'ll deal with the Tiger Immortal in the morning.\"
+>
+>      The monks knew of an empty building nearby. They led the travelers there, and everyone went to sleep for the night.
+>
+>      The next morning Wukong woke up early. Someone was pounding on the door of the building.
+>
+>      A voice boomed, \"I am the Tiger Immortal!\"
+>
+>      The Tang Monk\'s eyes popped open. He and all the other monks trembled with fear.
+>
+>      Wujing and Bajie drew their weapons.
+>
+>      Wukong smiled. \"Don\'t worry, everyone. I\'ll deal with this villain.\"
+>
+>      The monkey went outside.
+>
+>      \"Who are you?\" demanded the Tiger Immortal.
+>
+>      \"I am Sun Wukong,\" said the monkey. \"And you should be ashamed of yourself! Just because you\'re a little powerful, you think you can treat the Buddhist monks badly.\"
+>
+>      \"A little powerful?\" The Tiger Immortal looked offended. \"I am 
+>
+> *very *
+>
+> powerful!\"
+>
+>      Wukong laughed. \"You\'re not as powerful as I am. Did you know that the Jade Emperor is afraid of me? I once defeated his entire army.\"
+>
+>      The Tiger Immortal puffed out his chest. \"I can summon rain,\" he said. \"I doubt you can do that.\"
+>
+>      Wukong snorted. \"I can summon rain. It\'s easy.\"
+>
+>      \"Well then, let\'s have a contest,\" said the Tiger Immortal. \"Whoever summons more rain is the winner. If you win, I\'ll let you and all the monks go free. But if I win, you must stay here and be my slaves.\"
+>
+>      \"You\'re a fool,\" said Wukong. \"I accept your challenge.\"
+>
+>      The Tiger Immortal led everyone into town. In the center of town was a Daoist altar. A stone tablet, incense sticks, and papers with magic writing were on the altar.
+>
+>      A crowd of people arrived to see what was going on.
+>
+>      \"I will go first,\" announced the Tiger Immortal. He walked toward the altar.
+>
+>      The Tang Monk shook his head. \"This is terrible,\" he muttered.
+>
+>      Bajie glanced at him. \"Don\'t worry, Master. Wukong will win this contest.\"
+>
+>      \"But what if he doesn\'t win?\" asked the monk. \"We\'ll all be stuck here, forced to work for the Tiger Immortal. If that happens, we\'ll never reach the Western Paradise. The True Scriptures will never get to the Tang Empire.\" The monk buried his face in his hands.
+>
+>      \"Bajie is right, Master,\" said Wujing. \"We have nothing to worry about.\"
+>
+>      Wukong stood by them, smiling.
+>
+>      From the altar the Tiger Immortal called out, \"I will now pray to Heaven for rain!\"
+>
+>      The Tiger Immortal lit the incense and then sat down. He closed his eyes and began to recite a spell. Next he lit one of the papers on fire. When that one went out, he lit another paper. Soon all of the papers were gone. The Tiger Immortal lifted the stone tablet and then slammed it down. 
+>
+> *Bam!*
+>
+>      There was a gasp from the crowd. Wukong looked up at the sky, which was becoming dark. Wind blew and dark clouds moved in. Thunder rumbled.
+>
+>      The Tang Monk trembled. \"Oh no! It\'s working! It\'s going to rain!\"
+>
+>      Wukong chuckled. \"You all wait here. I\'ll be right back.\"
+>
+>      The monkey recited a quick spell and then left his body. Up in the sky, he found the Old Woman of the Wind fanning the clouds. The Dragon King of the Eastern Sea was approaching.
+>
+>      Wukong called out, \"Stop what you\'re doing! Don\'t make any rain!\"
+
+**Journey to the West 57: A Guessing Game**
+
+> \"Don\'t make any rain yet,\" Wukong repeated.
+>
+>      \"But we must,\" said the Old Woman of the Wind. \"Someone on Earth just prayed for it.\"
+>
+>      \"And the Jade Emperor heard the prayers,\" added the Dragon King of the Eastern Sea.
+>
+>      \"The person who recited the prayers is bad,\" said Wukong. \"He\'s the Tiger Immortal, and he plans to make the Tang Monk a slave.\"
+>
+>      The Dragon King looked concerned. \"That\'s terrible. We all want the Tang Monk to reach the Western Paradise.\"
+>
+>      \"But we must obey the Jade Emperor\'s orders,\" said the woman.
+>
+>      \"Just wait a moment,\" said the monkey. \"I\'ll go back down to the ground now. When I raise my iron bar, you can make it rain.\"
+>
+>      The woman and the Dragon King agreed to wait a moment. Wukong returned to his body.
+>
+>      The sky cleared, and the Tiger Immortal shook with anger. \"Why didn\'t my spell work?\" he cried.
+>
+>      Bajie laughed at him. \"Some rain! You couldn\'t even summon one drop!\"
+>
+>      \"I\'ll try again,\" said the Tiger Immortal.
+>
+>      \"No, you won\'t,\" said Wukong. \"You had a chance to summon rain, and you obviously can\'t. Now it\'s my turn.\"
+>
+>      The monkey raised his iron bar into the air. Instantly clouds moved back in, and thunder boomed. Rain began to pour down. The crowd cheered.
+>
+>      The Tang Monk sighed. \"Wonderful! Now all the Buddhist monks will be free. And we can continue our journey.\"
+>
+>      The Tiger Immortal stomped over to Wukong. \"I want another contest!\"
+>
+>      Wukong laughed. \"Why would you want another contest? You\'ll only lose again.\"
+>
+>      The Tiger Immortal ignored the monkey\'s question. \"I challenge the Tang Monk to a guessing game.\"
+>
+>      The Tang Monk\'s mouth fell open. \"But---\"
+>
+>      \"We accept your challenge,\" said the monkey with a smile.
+>
+>      \"Good,\" said the Tiger Immortal. \"I will be right back.\" He walked away.
+>
+>      \"Wukong, why did you agree to this contest?\" asked the Tang Monk. \"I won\'t win.\"
+>
+>      \"Don\'t worry, Master,\" said the monkey. \"I\'ll help you.\"
+>
+>      The Tiger Immortal soon came back with a small box. \"If you can guess what\'s in this box, I will let you all go free.\"
+>
+>      As the Tang Monk stared at the box, Wukong plucked a hair. Using his magic, he made the hair look like himself. Then he made himself tiny and squeezed through a crack in the box. Inside the box was a ripe peach. Quickly he ate the peach, leaving only the pit.
+>
+>      A moment later he was standing next to the Tang Monk again.
+>
+>      Wukong leaned toward the monk and whispered, \"It\'s a peach pit.\"
+>
+>      \"Are you sure?\" whispered the monk. \"How do you know?\"
+>
+>      \"Stop talking to each other!\" said the Tiger Immortal. \"What\'s in the box?\"
+>
+>      \"I think it\'s a peach pit,\" said the monk nervously.
+>
+>      \"Ha!\" said the Tiger Immortal. \"You\'re wrong, Monk. It\'s not just a peach pit. It\'s a whole peach. I\'ll show you.\"
+>
+>      The Tiger Immortal opened the box and showed it to everyone. \"See?\"
+>
+>      The Tang Monk smiled. \"I was right! It 
+>
+> *is *
+>
+> a peach pit.\"
+>
+>      \"What?\" cried the Tiger Immortal. He looked in the box and gasped. \"Who ate the peach?\"
+>
+>      Wukong laughed. \"The Tang Monk guessed correctly!\"
+>
+>      \"I guess we can leave now,\" said Wujing.
+>
+>      \"Yes, but we should eat some dinner first,\" said Bajie. \"All this talk about peaches has made me hungry.\"
+>
+>      Wukong looked at the Tiger Immortal. \"You will set the Buddhist monks free now, right?\"
+>
+>      The Tiger Immortal glared at the monkey. \"I challenge you to another contest!\"
+
+**Journey to the West 58: The Meditation Contest**
+
+> \"I challenge you to a meditation contest,\" said the Tiger Immortal. \"Whoever can meditate the longest without moving is the winner.\"
+>
+>      Wukong gulped. \"I used to meditate a lot,\" he thought. \"But I haven\'t done it lately. I\'m terrible at sitting still.\"
+>
+>      The Tang Monk stepped forward. \"I accept your challenge.\"
+>
+>      \"Master, are you sure?\" asked Wujing.
+>
+>      The Tang Monk nodded. \"I\'ve spent many years meditating. This contest will be easy for me.\"
+>
+>      The Tiger Immortal grinned. \"This won\'t be an ordinary meditation contest. We will float in the air and meditate. Can you do that?\"
+>
+>      Now the Tang Monk looked nervous. But before the monk could answer, Wukong clapped him on the back.
+>
+>      \"Of course the Tang Monk can float in the air,\" the monkey replied.
+>
+>      Then he whispered into the monk\'s ear. \"Don\'t worry, Master. You just meditate. I\'ll handle everything else.\"
+>
+>      \"What are you babbling about?\" snapped the Tiger Immortal. \"Let\'s start the contest.\"
+>
+>      The Tiger Immortal and the Tang Monk went in front of the crowd. They sat down with their legs crossed and their palms facing up. They closed their eyes and started meditating.
+>
+>      After a moment the Tiger Immortal slowly floated up into the air.
+>
+>      \"Uh-oh,\" said Bajie. \"Master can\'t do that. He\'ll lose the contest.\"
+>
+>      \"Don\'t worry,\" said Wukong. \"He just needs some help from me.\"
+>
+>      The monkey recited a spell and then blew toward the Tang Monk. The monk lifted off the ground. His eyes remained closed. Soon he was floating next to the Tiger Immortal.
+>
+>      \"I think Master will win this contest,\" said Wujing.
+>
+>      \"I\'m pretty good at meditating too,\" said Bajie. \"I could have competed in this contest.\"
+>
+>      Wukong smirked. \"It would take a lot of magic to lift you, Bajie.\"
+>
+>      The pig snorted.
+>
+>      \"Master\'s face is twitching!\" said Wujing suddenly.
+>
+>      \"Uh-oh,\" said Bajie. \"I wonder what\'s wrong.\"
+>
+>      \"Maybe he has a headache,\" said Wujing. \"This isn\'t good. If the monk moves at all, he will lose the contest.\"
+>
+>      Wukong looked up at the Tang Monk. \"I think he has an itch,\" said the monkey. \"Wait here.\"
+>
+>      Wukong became invisible and flew up to the monk. A flea was crawling on the monk\'s head.
+>
+>      \"Hmm,\" thought Wukong. \"Why would a flea be on the Tang Monk? He has no hair.\" The monkey bit his lip. \"The Tiger Immortal must have used magic to put this flea here. That rotten cheater!\"
+>
+>      Wukong brushed the flea away and scratched the Tang Monk\'s head. The monk\'s face stopped twitching.
+>
+>      \"Now I\'ll teach the Tiger Immortal a lesson,\" thought Wukong.
+>
+>      The monkey plucked one of his hairs and turned it into a centipede. He dropped the centipede onto the Tiger Immortal\'s head.
+>
+>      The Tiger Immortal\'s ear twitched as the centipede crawled over it. Then the centipede crawled along his mouth. The Tiger Immortal\'s lip curled slightly. His nose wrinkled. Next the centipede crawled on the Tiger Immortal\'s nose. The Tiger Immortal sniffed. And then . . .
+>
+>      \"Ouch!\" cried the Tiger Immortal. \"Something bit me!\" He lost his concentration and fell, hitting the ground with a puff of smoke. When the smoke cleared, a dead tiger lay on the ground. The crowd gasped.
+>
+>      Wukong and the Tang Monk came back down.
+>
+>      The crowd was silent. Daoists and Buddhists all stared at one another.
+>
+>      The monkey cleared his throat. \"The Tiger Immortal was just an evil tiger spirit. Now that he\'s gone, I want you Daoists to treat the Buddhists kindly. Everybody should live together peacefully.\"
+
+**Journey to the West 59: Scared Villagers**
+
+> \"Can we please stop to rest?\" moaned Bajie one day.
+>
+>      The group had spent the morning walking down a long mountain trail.
+>
+>      \"My knees feel weak!\" cried the pig.
+>
+>      \"We\'ll rest in a little while, Bajie,\" said the Tang Monk.
+>
+>      As they walked, the travelers started to hear the sound of rushing water. It grew louder and louder.
+>
+>      \"We\'re approaching a river,\" said Wujing.
+>
+>      The trail went around a hill. A moment later the travelers saw the river.
+>
+>      \"How will we cross this river?\" said the Tang Monk. \"It\'s so wide, I can\'t see the other side.\"
+>
+>      Wukong leaped into the air and looked around. \"There\'s a small village nearby,\" he said. \"Maybe someone there has a boat.\"
+>
+>      The group walked to the village. The street was deserted. A few villagers peeked out of windows and from behind doors. They looked scared.
+>
+>      A man was getting water from a well.
+>
+>      \"Hello!\" said Wukong.
+>
+>      Startled, the man dropped his bucket down the well and spun around. \"Wh-who are you?\"
+>
+>      The Tang Monk stepped forward. \"I\'m from the Tang Empire. We\'re traveling to the Western Paradise to get scriptures from Buddha.\"
+>
+>      The man relaxed a bit. \"That\'s wonderful!\"
+>
+>      \"We need a boat to get across the river,\" said Bajie.
+>
+>      \"I don\'t have a boat,\" said the man. \"But someone in the village might. Please come with me. I\'ll make some tea. My name is Chen.\"
+>
+>      The travelers followed Chen to his home. Inside, they sat down as Chen boiled water for tea.
+>
+>      \"Why does everyone in this village seem so scared?\" asked the Tang Monk.
+>
+>      Chen sighed and sat down. He started to cry.
+>
+>      \"My dear man,\" said the Tang Monk. \"What\'s wrong? Did I upset you?\"
+>
+>      \"No,\" said Chen through his tears. \"It\'s just that life is very bad in this village. A few years ago, a terrible demon arrived. He\'s always treated us badly, but now things are worse. He demanded that we give him a child. If we don\'t, he\'ll destroy our entire village. Tomorrow morning I must . . . hand over my son!\" Chen burst into tears all over again.
+>
+>      Wukong giggled and then laughed.
+>
+>      The Tang Monk glared at the monkey. \"Wukong! Why are you laughing?\"
+>
+>      Bajie shook his head. \"He\'s cruel, Master. You should recite the Tight Headband spell.\"
+>
+>      \"There\'s no need for that,\" said Wukong, still laughing. He turned to Chen. \"I\'m not laughing at you, sir. I\'m laughing because today is the luckiest day of your life.\"
+>
+>      Chen raised his eyebrows. \"How am I lucky?\"
+>
+>      \"You\'ve probably never heard of me,\" said Wukong. \"But I am Sun Wukong, the Monkey King. I once defeated the Jade Emperor\'s entire army. And tomorrow I will save your son\'s life.\"
+>
+>      \"Are you a spirit?\" asked Chen.
+>
+>      \"Yes, a very powerful spirit,\" said Wukong. \"Bring your son out here. I need to look at him.\"
+>
+>      Chen left the room for a moment. When he came back, a small boy was with him.
+>
+>      \"This is my son,\" said Chen.
+>
+>      Wukong walked around the boy, examining him closely. Finally the monkey folded his arms and said, \"I have a plan.\"
+>
+>                                                                           
+> \* \* \*
+>
+>      The next morning the boy climbed onto a small platform. Several villagers carried the platform to the edge of the river. They placed the platform on the ground and then backed away.
+>
+>      For a moment everything was quiet. The boy sat alone on the platform.
+>
+>      Suddenly a dark cloud approached. A fierce-looking demon emerged from the cloud. It had sharp teeth.
+>
+>      The boy smiled at the demon. \"Hello!\"
+
+**Journey to the West 60: Snow!**
+
+> The demon eyed the smiling boy suspiciously. \"Aren\'t you scared of me?\" asked the demon.
+>
+>      \"No,\" said the boy. \"Should I be?\"
+>
+>      \"Well, yes,\" said the demon. \"I plan to eat you. Doesn\'t that sound terrible?\"
+>
+>      The boy shrugged. \"Not really.\"
+>
+>      The demon hesitated for a moment and then moved closer. Suddenly the boy changed into Wukong. The monkey pulled out his iron bar and swung.
+>
+>      The demon jumped back, and Wukong missed.
+>
+>      \"Who are you?\" demanded the demon.
+>
+>      \"I am Sun Wukong,\" said the monkey. \"And you should be ashamed of yourself! What kind of monster eats children?\"
+>
+>      \"Sun Wukong?\" said the demon. \"I thought you were trapped under a mountain. What are you doing here?\"
+>
+>      \"My punishment is over,\" said the monkey. \"I am traveling to the Western Paradise with the Tang Monk.\"
+>
+>      The demon\'s eyes lit up. \"The Tang Monk!\"
+>
+>      Wukong lunged. The demon spun around and disappeared.
+>
+>      The monkey returned to Chen\'s home and told everyone what had happened.
+>
+>      \"Because of you, I still have my son,\" said Chen. \"Thank you.\"
+>
+>      \"You\'re welcome,\" said Wukong. \"But I believe the demon now wants to capture the Tang Monk. So in the morning we must find a boat and leave.\"
+>
+>      Meanwhile the demon was deep under the water. \"I must capture the Tang Monk and eat him,\" he said to himself. \"It won\'t be easy with that monkey around. I\'ll need some magic.\"
+>
+>                                                                             
+> \* \* \*
+>
+>      Late that night a cold wind blew. A snowflake drifted to the ground. Then another one fell, and another.
+>
+>      Bajie couldn\'t sleep. \"It\'s freezing in here,\" he said to himself.
+>
+>      He looked at Wukong and Wujing. Both of them were sleeping soundly.
+>
+>      \"Those two look very comfortable,\" said the pig. \"Their blankets must be warmer than mine.\"
+>
+>      In the morning Wukong woke up, shivering. \"Th-that was a t-terrible night\'s sleep,\" he said to himself. \"I was so cold!\" He looked down at his body. \"No wonder I was cold! What happened to my blanket?\"
+>
+>      Wujing woke up. \"Why is it so cold in---ah-choo!---in here? Where did my blanket go?\"
+>
+>      They looked at Bajie. The pig was tucked cozily under three blankets. Even his head was covered.
+>
+>      Wukong gave him a kick. \"Wake up, thief!\"
+>
+>      Bajie rolled over, giggling under the blankets.
+>
+>      Wujing frowned. \"You stole our---ah-choo!\"
+>
+>      Wukong scratched his head. \"Why is it so cold anyway? It\'s spring.\" He looked out the window and gasped. \"It snowed last night!\"
+>
+>      They woke the Tang Monk and Chen, and everyone went outside. A thick blanket of snow covered the entire village.
+>
+>      \"It would be dangerous to cross the river in this weather,\" said Chen. \"You should stay here until the snow melts.\"
+>
+>      A villager ran over. \"The river is frozen solid!\" he said.
+>
+>      \"That\'s wonderful news!\" The Tang Monk smiled. \"Maybe we can walk across it.\"
+>
+>      The travelers thanked Chen and said good-bye. Soon they were standing at the edge of the frozen river.
+>
+>      \"I wonder if it\'s safe to walk on,\" said Wujing.
+>
+>      \"I\'ll test it with my rake,\" said Bajie.
+>
+>      The pig walked onto the ice and raised his rake. 
+>
+> *Slam! *
+>
+> He brought the rake down hard, but the ice didn\'t crack.
+>
+>      \"It\'s solid,\" he said.
+>
+>      The travelers stepped onto the ice and started walking. After a few hours, the riverbank was no longer in sight. Suddenly there was a rumbling sound, and the ice shook.
+>
+>      \"What caused that?\" asked the monk.
+>
+>      \"I don\'t know,\" said Wukong, \"But we should be---\"
+>
+>      
+>
+> *Crack! *
+>
+> Underneath them, the ice split wide open!

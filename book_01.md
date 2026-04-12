@@ -1,5 +1,4 @@
- 1: The Monkey
-------------------
+**Journey to the West 1: The Monkey**
 
 > From the beginning of time, a rock had sat high on top of a mountain. The sun, the moon, Heaven, and Earth all worked their magic on the rock. One day the rock split open. Inside was a monkey.
 >
@@ -71,8 +70,7 @@
 >
 >      Monkey took a deep breath and leaped into the waterfall.
 
- 2: The Waterfall Cave
----------------------
+**Journey to the West 2: The Waterfall Cave**
 
 > Monkey splashed through the waterfall and landed in a large cave. His eyes opened wide. The cave was filled with bamboo, trees, and beautiful flowers. Moss covered the walls. A stream flowed through the cave, and glowing light and mist filled the air.
 >
@@ -246,8 +244,7 @@
 >
 >      Wukong, however, smiled. None of the other students knew it, but Subodhi had given him a secret message.
 
-4: Secret Formulas
-------------------
+**Journey to the West 4: Secret Formulas**
 
 > When the other students went to bed that night, Wukong stayed awake. At three o\'clock in the morning, he crept quietly through the dark temple. He entered Subodhi\'s room.
 >
@@ -338,8 +335,7 @@
 >
 >      The gibbon ran to him. \"Your Majesty! Something terrible has happened!\"
 
-5: The Demon of Chaos
----------------------
+**Journey to the West 5: The Demon of Chaos**
 
 > \"What happened here?\" Wukong asked the gibbon.
 >
@@ -444,8 +440,7 @@
 >
 >      \"I can\'t use any of the weapons we have!\" said Wukong.
 
-6: The Dragon King
--------------------------------------------------------------------
+**Journey to the West 6: The Dragon King**
 
 > \"What\'s wrong with our swords and spears?\" asked the gibbon.
 >

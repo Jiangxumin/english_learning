@@ -1,0 +1,589 @@
+**Journey to the West 73: Two Wukongs**
+
+> Wujing watched as the fake Wujing fed the horse some hay.
+>
+>      \"I don\'t know how you made fake versions of us, Wukong,\" said the purple spirit. \"But you won\'t get the True Scriptures without the real Tang Monk.\"
+>
+>      Wukong folded his arms. \"Oh yes, I will.\"
+>
+>      Wujing leaped into the air and flew south. \"I\'ll tell the bodhisattva what Wukong is doing,\" he thought. \"She can stop him.\"
+>
+>      When Wujing arrived at Mount Potalaka, he was even more shocked. Wukong was meditating in the bodhisattva\'s garden.
+>
+>      \"Wukong!\" cried Wujing. \"How did you get here so fast?\"
+>
+>      \"What are you talking about?\" asked the monkey.
+>
+>      Guanyin came out of her pagoda. \"Wujing, what are you doing here?\"
+>
+>      The purple spirit bowed. \"Bodhisattva, I must speak with you. Wukong has made fake versions of me, Bajie, and the Tang Monk. He\'s planning to make the journey without us.\"
+>
+>      \"What!\" shouted Wukong.
+>
+>      Wujing glanced at the monkey. \"I just saw him on the Fruit and Flower Mountain. I don\'t know how he got here before me.\"
+>
+>      \"You\'re lying!\" yelled Wukong.
+>
+>      Guanyin smiled. \"You\'re mistaken, Wujing. Wukong has been here the whole time.\"
+>
+>      Wujing was surprised. \"He has?\"
+>
+>      Guanyin nodded.
+>
+>      Wukong made a fist. \"Someone is pretending to be me! And he\'s living on my mountain! I\'m going there right now. I\'m going to destroy him!\"
+>
+>      \"I\'ll go with you,\" said Wujing.
+>
+>     Wukong and Wujing soon arrived on the Fruit and Flower Mountain. The monkey\'s eyes burned with anger when he saw the fake Wukong.
+>
+>      \"Who are you?\" demanded Wukong.
+>
+>      \"Who are 
+>
+> *you? *
+>
+> \" asked the fake Wukong.
+>
+>      \"I am Sun Wukong, king of the Fruit and Flower Mountain!\"
+>
+>      \"No,\" said the other monkey. \" 
+>
+> *I *
+>
+> am Sun Wukong, king of the Fruit and Flower Mountain!\"
+>
+>      Furious, Wukong pulled out his iron bar. The fake Wukong pulled out his iron bar.
+>
+>      Wukong attacked, and so did the fake Wukong. 
+>
+> *Clang! *
+>
+> The ground shook as the iron bars crashed into each other. The two monkeys fought with fury.
+>
+>      Wujing watched as one Wukong struck the other. 
+>
+> *Crack! *
+>
+> The other Wukong blocked the bar and swung back. 
+>
+> *Bam!*
+>
+>      \"Wujing, help me!\" cried one Wukong.
+>
+>      Wujing raised his spear and was about to enter the fight.
+>
+>      The other Wukong shouted. \"No, Wujing! Help 
+>
+> *me *
+>
+> !\"
+>
+>      Wujing looked from one Wukong to the other. \"Who is the real Wukong?\"
+>
+>      \"I am!\" shouted one Wukong as he struck at the other.
+>
+>      \"No!\" shouted the other Wukong, blocking the first one\'s attack. \" 
+>
+> *I *
+>
+> am!\"
+>
+>      \"Don\'t listen to him!\" cried one monkey.
+>
+>      \"Don\'t listen to 
+>
+> *him *
+>
+> !\" cried the other.
+>
+>      Wujing stamped his foot. \"Stop fighting!\" he shouted.
+>
+>      Instantly both monkeys stopped fighting. They looked at the purple spirit.
+>
+>      \"I don\'t know which one of you is the real Wukong,\" said Wujing. \"Go to Mount Potalaka. Guanyin will be able to tell who is who. I will return to the Tang Monk to tell him what\'s going on.\"
+>
+>      The two Wukongs glanced at each other.
+>
+>      \"That\'s a good idea,\" said one of them. \"Guanyin will easily see that I am the real Wukong.\"
+>
+>      \"It 
+>
+> *is *
+>
+> a good idea,\" the other agreed. \"Guanyin will easily see that 
+>
+> *I *
+>
+> am the real Wukong.\"
+>
+>      Soon the two Wukongs stood before Guanyin. She looked carefully at each one.
+>
+>      \"I can\'t tell which one of you is the real Wukong,\" she said.
+>
+>      One Wukong took a deep breath. \"Use the Tight Headband spell. The spell will work only with my headband---the real headband.\"
+>
+>      \"Yes!\" said the other one. \"Use the Tight Headband spell! The spell will work only with 
+>
+> *my *
+>
+> headband.\"
+
+**Journey to the West 74: Curious Ear**
+
+> Guanyin recited the Tight Headband spell. Both Wukongs fell to the ground, howling in pain.
+>
+>      \"Please stop!\" they cried.
+>
+>      Guanyin stopped reciting the spell, and the two monkeys stood back up.
+>
+>      The bodhisattva frowned. \"I still don\'t know which of you is the real Wukong. You should both go to Heaven. The real Wukong used to live there. Maybe the Jade Emperor can tell who is who.\"
+>
+>      \"Good idea,\" said one Wukong. He pointed at the other. \"The Jade Emperor will see that this monkey is a fake!\"
+>
+>      \"I\'m not a fake!\" cried the other monkey. \"You are!\"
+>
+>      He tried to strike the other Wukong. But that one dodged the blow and swung back.
+>
+>      The two monkeys were still fighting when they arrived at the southern gate of Heaven.
+>
+>      The guard narrowed his eyes. \"Wukong? Is that you?\"
+>
+>      \"Yes, it\'s me,\" said both of the Wukongs.
+>
+>      \"I must speak with the Jade Emperor,\" said one monkey. He pointed at the other monkey. \"He\'s a fake Wukong!\"
+>
+>      \"I\'m not a fake Wukong!\" said the other monkey. \"I\'m the real one! I must speak with the Jade Emperor!\"
+>
+>      The guard allowed both Wukongs to enter Heaven.
+>
+>      
+>
+> *Crash! Clang! Bang! *
+>
+> Spirits and gods fled as the two Wukongs fought all over Heaven. The monkeys knocked over statues and trees.
+>
+>      Still fighting, they stormed into the Cloud Palace. When the Jade Emperor saw them, he was furious.
+>
+>      \"What\'s going on?\" he boomed.
+>
+>      \"Your Majesty!\" said one of the Wukongs. \"Please punish this monkey. He\'s pretending to be me.\"
+>
+>      \"Punish 
+>
+> *him! *
+>
+> \" cried the other.
+>
+>      \"He\'s pretending to be me!\"
+>
+>      \"Stand still, both of you,\" said the Jade Emperor. \"Let me get a good look at you.\"
+>
+>      The two Wukongs stood still as the Jade Emperor looked carefully at them.
+>
+>      Finally the emperor shrugged. \"You look exactly alike. I can\'t tell who is who.\"
+>
+>      One of the Wukongs swung at the other with his iron bar. \"I\'m the real Wukong!\"
+>
+>      \"No!\" The other Wukong blocked the bar and swung back. \"I\'m the real Wukong!\"
+>
+>      \"Both of you, leave at once!\" thundered the Jade Emperor. \"One Wukong is bad enough. I don\'t want two of you around. You can fight somewhere else!\"
+>
+>      The two monkeys kept fighting as they headed out of the palace. The spirit of the planet Venus followed them.
+>
+>      \"Wukong, wait,\" said the spirit.
+>
+>      Both monkeys stopped to look at him.
+>
+>      \"Go to the Land of Darkness,\" said Venus. \"Maybe the Judge of the Dead can tell you apart.\"
+>
+>      Soon the two Wukongs were standing before the Judge of the Dead.
+>
+>      The judge shook his head. \"You look exactly alike.\"
+>
+>      \"Check the Directory,\" said one of the Wukongs. \"Maybe it will have some information about a fake Sun Wukong.\"
+>
+>      \"Yes,\" said the other Wukong. \"Check the Directory.\"
+>
+>      The judge nodded and opened the Directory. He turned the pages of the giant book, reading carefully. Finally he closed it.
+>
+>      \"There\'s no \'Fake Sun Wukong\' in the Directory,\" said the judge. \"I\'m sorry. But I have no idea which one of you is the real Wukong.\"
+>
+>      A spirit was sitting at a nearby desk. \"I believe my pet beast, Curious Ear, can help,\" said the spirit. He took a step back, and a small beast crept out from under the desk. \"Curious Ear can tell the true from the false,\" said the spirit.
+>
+>      The beast stared hard at the two Wukongs.
+>
+>      Finally it spoke. \"I know who the fake Sun Wukong is.\"
+
+**Journey to the West 75: Battle of the Wukongs**
+
+> The two Wukongs stared at Curious Ear.
+>
+>      \"I\'m the real Wukong!\" shouted one monkey. \"Right?\"
+>
+>      \"No, it\'s me!\" shouted the other monkey.
+>
+>      \"I know which of you is the fake Sun Wukong,\" said Curious Ear. \"But I won\'t say who it is. The fake Sun Wukong has all the same powers as the real one. If I point him out, he\'ll be angry. He could destroy the entire palace.\"
+>
+>      \"It\'s true,\" said one Wukong. \"I could destroy this whole palace if I wanted to.\"
+>
+>      \"You mean, I could destroy it,\" said the other Wukong.
+>
+>      \"No!\" yelled the other. \"I could!\"
+>
+>      The two Wukongs began swinging their iron bars at each other.
+>
+>      \"Please stop!\" cried the Judge of the Dead. \"You\'ll tear this whole palace down!\"
+>
+>      The monkeys stopped.
+>
+>      \"Buddha can help you,\" said Curious Ear. \"He\'ll be able to see which of you is the real Wukong. And he\'s powerful enough to destroy the fake one.\"
+>
+>      \"Of course!\" cried one Wukong. \"We\'ll go see Buddha!\"
+>
+>      \"Oh, um, sure,\" said the other Wukong. He looked worried.
+>
+>      \"You\'re nervous!\" said the first Wukong. \"That\'s because you know Buddha is going to see who you really are.\"
+>
+>      \"No!\" shouted the other Wukong. He swung his iron bar furiously.
+>
+>      \"Get out!\" cried the Judge of the Dead. \"Take your fight somewhere else!\"
+>
+>      The two Wukongs left the Land of Darkness. Clouds swirled and thunder boomed as the two mighty spirits battled across the sky.
+>
+>      They soon arrived in the Western Paradise. A guard rushed out of the Thunderclap Monastery.
+>
+>      \"Stop fighting immediately!\" he called up to them. \"Tell me who you are!\"
+>
+>      The two Wukongs landed in front of the guard.
+>
+>      The guard looked surprised. \"Wukong?\" he said. \"There are two of you!\"
+>
+>      \"Yes,\" said one of the Wukongs. \"I must speak with Buddha right away.\"
+>
+>      The other Wukong scratched his head. \"If Buddha is busy, we can just come back another time.\"
+>
+>      The first Wukong shot a look at the other. \"No, we can\'t.\"
+>
+>      \"You may enter,\" said the guard. \"But you must behave yourselves while inside.\"
+>
+>      As the first Wukong started to enter the monastery, the other one backed away.
+>
+>      \"You\'re coming with me!\" said the first Wukong. He grabbed the other monkey by the arm and dragged him into the monastery.
+>
+>      In front of Buddha, the first Wukong bowed. The other Wukong hesitated a moment and then bowed also.
+>
+>      \"Greetings, Buddha,\" said the first Wukong. \"I must ask for your help.\"
+>
+>      \"I know why you\'re here, Wukong,\" said Buddha. He looked at the other monkey. \"And I know that 
+>
+> *you *
+>
+> are a fake.\"
+>
+>      The other Wukong gasped and then vanished. Buddha held a bowl up in the air and then placed it upside down on a table.
+>
+>      \"I\'ve trapped the fake Wukong under this bowl,\" said Buddha.
+>
+>      When Buddha lifted the bowl, a tiny monkey spirit lay on the table. Wukong leaned closer to see.
+>
+>      \"He was a monkey who became an evil spirit,\" said Buddha. \"He wanted to be you because you\'re so powerful.\"
+>
+>      Wukong laughed. \"Many spirits want to be me.\"
+>
+>      The monkey thanked Buddha and then flew back to Mount Potalaka.
+>
+>      Guanyin decided it was time for Wukong to rejoin his companions on the journey. She and the monkey found the Tang Monk and the others along the road to the west.
+>
+>      The bodhisattva told the Tang Monk that it wasn\'t Wukong who\'d attacked him.
+>
+>      \"You must keep Wukong with you,\" explained Guanyin.
+>
+>      \"Yes, Bodhisattva,\" said the Tang Monk, bowing.
+>
+>      \"Thank you, Bodhisattva,\" said Wukong. \"I\'ll make sure the Tang Monk reaches the Western Paradise!\"
+
+**Journey to the West 76: The Iron Immortal**
+
+> Wukong was once again traveling west with the Tang Monk.
+>
+>      \"Master,\" said Wukong. \"While I was at Mount Potalaka, I thought a lot. I realize now that it\'s wrong to harm people. I won\'t ever do it again.\"
+>
+>      \"I\'m glad, Wukong,\" said the Tang Monk.
+>
+>      \"Can we please slow down?\" Bajie moaned. \"I\'m tired and it\'s hot!\"
+>
+>      Wukong laughed. \"Not much has changed since I left. Bajie still complains all the time!\"
+>
+>      Wujing wiped his brow. \"It 
+>
+> *is *
+>
+> hot. Maybe we should take a break.\"
+>
+>      \"Yes,\" said the Tang Monk. \"But I don\'t understand why it\'s so hot. It\'s not summer.\"
+>
+>      The travelers soon reached a village. An old man offered to take them in for the night.
+>
+>      Later that evening they were all eating dinner.
+>
+>      \"Is it always so hot here?\" asked Bajie.
+>
+>      The man nodded. \"The Mountain of Flames is near here. It\'s always burning.\"
+>
+>      \"Well, I\'ll be happy when we continue on our journey,\" said the pig. \"Then we can get away from this heat.\"
+>
+>      \"Where are you going?\" asked the man.
+>
+>      \"We\'re going to the Western Paradise,\" said the Tang Monk.
+>
+>      The man frowned. \"You can\'t travel west from here.\"
+>
+>      Everyone stopped eating and looked at the old man.
+>
+>      \"Why not?\" asked the Tang Monk.
+>
+>      \"The Mountain of Flames is to the west,\" said the man. \"It\'s impossible to pass.\"
+>
+>      \"We\'ll go around it,\" said the Tang Monk.
+>
+>      The old man shook his head. \"All the land around the mountain is covered in flames. The land stretches far to the north and the south. It\'s impossible to go around.\"
+>
+>      \"Then we must wait for a strong rainstorm,\" said Bajie. \"That will put out the flames.\"
+>
+>      \"No,\" said the man. \"The flames are magical. There is just one spirit who can put them out.\"
+>
+>      \"Who?\" asked Wujing.
+>
+>      \"She\'s called the Iron Immortal,\" said the man. \"She has a special fan that can put out the flames. It\'s made from a plantain leaf.\"
+>
+>      Wukong stood up. \"Where does the Iron Immortal live? I\'ll demand that she put out the flames.\"
+>
+>      She won\'t listen to you,\" said the man. \"She is very powerful.\"
+>
+>      Wukong folded his arms in front of his chest. \"I am as powerful as a god. Just tell me where she lives.\"
+>
+>      The old man told Wukong where the Iron Immortal lived. The monkey leaped into the air.
+>
+>      The man gasped. \"He\'s a spirit!\"
+>
+>      Wukong was soon on the Iron Immortal\'s mountain. He found a cave door and knocked.
+>
+>      \"Open up!\" he demanded.
+>
+>      The door flew open, and a tall woman appeared. She held a large fan.
+>
+>      \"Who are you?\" she asked.
+>
+>      \"I am Sun Wukong. I need to borrow your fan.
+>
+>      \"Sun Wukong? Ugh!\" cried the Iron Immortal. \"You are my worst enemy!\"
+>
+>      Wukong was confused. \"I am? Why?\"
+>
+>      The Iron Immortal glared at the monkey. \"My husband is the Bull Demon King, who used to be your friend. And our son is Red Boy. Because of you, Red Boy is a prisoner of the bodhisattva Guanyin!\"
+>
+>      Wukong laughed. \"Red Boy isn\'t a prisoner. He is Guanyin\'s student. He isn\'t evil anymore.\"
+>
+>      The Iron Immortal shrieked. \"That\'s even worse!\"
+>
+>      Wukong sighed. \"Can I please just borrow your fan for a little while?\"
+>
+>      \"No!\" said the woman.
+>
+>      \"Well then, can I speak with the Bull Demon King?\" asked the monkey.
+>
+>      \"He\'s at a banquet,\" said the Iron Immortal. \"Now leave!\"
+>
+>      Wukong grew angry. \"I\'m not leaving until I borrow your---\"
+>
+>      
+>
+> *Whoosh! *
+>
+> The Iron Immortal waved the fan. A furious wind blew, and Wukong was gone!
+
+**Journey to the West 77: The Magic Fan**
+
+> For over a day, the wind from the fan carried Wukong. When he finally landed, he was far from the Iron Immortal\'s mountain.
+>
+>      Wukong looked around and saw a mountain nearby. It looked familiar.
+>
+>      \"Mount Sumeru!\" said Wukong. \"The bodhisattva Lingji lives there. Maybe he can help me deal with the Iron Immortal. He was able to stop the great king Yellow Wind\'s wind magic.\"
+>
+>      The monkey went to Lingji\'s pagoda. The bodhisattva was sitting in his garden.
+>
+>      \"Greetings, Bodhisattva,\" said Wukong.
+>
+>      \"Hello, Wukong,\" said Lingji. \"It\'s good to see you again. I was just about to have tea.\"
+>
+>      Wukong and Lingji sat outside, drinking tea. The monkey told the bodhisattva everything that had happened with the Iron Immortal.
+>
+>      The bodhisattva handed a small stone to Wukong. \"Keep this magic stone in your pocket. It will stop the wind from blowing you away.\"
+>
+>      \"Thank you, Bodhisattva,\" said the monkey.
+>
+>      \"Would you like to stay for lunch?\" asked Lingji.
+>
+>      \"No, thank you,\" said Wukong. \"I must get back to my companions. I need to get that fan from the Iron Immortal so we can continue west.\"
+>
+>                                                                           \*
+> \* \*
+>
+>      Wukong returned to the Iron Immortal\'s cave door. \"Open up!\" he shouted. \"I need your fan!\"
+>
+>      The Iron Immortal came out and wrinkled her nose. \"I thought I got rid of you.\" She raised her fan. \"I\'ll just have to wave harder this time!\"
+>
+>      The woman waved the fan furiously. A terrible wind blew past Wukong. But the monkey didn\'t move.
+>
+>      The Iron Immortal\'s eyes burned with anger. \"How did you---\"
+>
+>      \"The bodhisattva Lingji gave me a magic stone,\" said Wukong. \"Your fan can\'t blow me away now.\"
+>
+>      The monkey pulled out his iron bar. \"Now give me that fan!\"
+>
+>      The Iron Immortal shot back into her cave. Before she could shut the door, Wukong turned into a cricket. He quickly leaped into the cave.
+>
+>      Silently he followed the Iron Immortal along a tunnel. When the woman reached a room, she sat down. She tucked the fan into her robe.
+>
+>      \"Wukong is a horrible monkey!\" she said to herself. \"He forced my poor baby, Red Boy, to become good. Then he demanded to borrow my precious fan!\"
+>
+>      The Iron Immortal reached for a cup of water. As she took a drink, Wukong leaped into the cup.
+>
+>      
+>
+> *Gulp!*
+>
+>      Inside the Iron Immortal\'s stomach, Wukong changed back into himself.
+>
+>      
+>
+> *Boomph! Pow! Boomph! Pow! *
+>
+> The monkey punched and kicked.
+>
+>      The Iron Immortal fell to her knees. \"Ahh! What was in that water? I feel awful!\"
+>
+>      \"It was me!\" shouted Wukong. \"I\'m in your stomach now! And I won\'t stop punching and kicking until you give me that fan!\"
+>
+>      
+>
+> *Boomph! Pow!*
+>
+>      \"Please stop!\" cried the Iron Immortal. \"You can have the fan. Just don\'t hurt me anymore!\"
+>
+>      Wukong leaped out through the woman\'s nose and returned to his normal size. \"Give me the fan!\" he demanded.
+>
+>      The Iron Immortal climbed back to her feet. She reached into her robe and pulled out a fan. \"Here, take it. Now leave!\"
+>
+>                                                                           \*
+> \* \*
+>
+>      Wukong found his companions in the village with the old man. The monkey explained how he\'d tricked the Iron Immortal.
+>
+>      \"Wonderful!\" said the Tang Monk. \"Now we can continue our journey.\"
+>
+>      They all thanked the old man and then headed west. They came to the top of a hill and saw the Mountain of Flames. Fire covered all the land around it.
+>
+>      \"Watch this,\" said Wukong.
+>
+>      The monkey waved the fan hard. 
+>
+> *Whoosh! *
+>
+> A strong wind blew toward the mountain.
+>
+>      Wukong smiled. \"In a moment, we\'ll---\"
+>
+>      Suddenly there was a roar as the flames grew bigger, filling the sky!
+
+**Journey to the West 78: Tricked Again and Again**
+
+> \"Oh no!\" Wukong looked at the fan. \"This fan doesn\'t work! The Iron Immortal must have tricked me.\"
+>
+>      The travelers backed away as the fire burned hotter.
+>
+>      \"What will we do?\" asked the Tang Monk. \"We can\'t go through that fire.\"
+>
+>      Bajie threw his hands up. \"Let\'s just go home. We\'ll write a letter to Buddha explaining what happened.\"
+>
+>      \"Bajie, we can\'t do that!\" the Tang Monk scolded.
+>
+>      Wukong spoke up. \"I used to be friends with the Iron Immortal\'s husband, the Bull Demon King. I have an idea.\"
+>
+>                                                                                 \*
+> \* \*
+>
+>      The Iron Immortal was in her cave when she heard a knock.
+>
+>      \"Oh no,\" she said to herself. \"That monkey is back.\"
+>
+>      She walked quietly to the door and peeked outside. When she saw the Bull Demon King, she smiled and opened the door.
+>
+>      \"I\'m glad you\'re back,\" said the Iron Immortal. \"Sun Wukong was here.\"
+>
+>      \"I used to be friends with him.\" The demon smiled. \"It would have been nice to see him again.\"
+>
+>      His wife was confused. \"What do you mean? You told me that you never really liked him.\"
+>
+>      \"Oh, really?\" said the demon.
+>
+>      \"He was very rude,\" said the woman. \"He demanded I let him borrow my fan.\"
+>
+>      \"You didn\'t give it to him, did you?\" asked the demon.
+>
+>      \"Of course not,\" said his wife. \"I gave him a fake fan that looks just like the real one.\"
+>
+>      The demon began pacing. \"Wukong is very smart and very powerful,\" he said. \"He\'ll realize you tricked him, and then he\'ll come back here.\"
+>
+>      \"What should we do?\" asked the Iron Immortal.
+>
+>      \"Give me the fan,\" said the demon. \"I\'ll keep it safe.\"
+>
+>      The Iron Immortal opened a chest and took out the fan. She handed it to her husband.
+>
+>      Suddenly light sparkled and Wukong stood in front of her.
+>
+>      \"I tricked you!\" The monkey laughed and ran out of the cave.
+>
+>      The Iron Immortal stamped her foot. \"Ugh!\"
+>
+>      She was still angry when her husband came home.
+>
+>      \"Hello, dear,\" said the Bull Demon King with a big smile. But then his smile faded. \"What\'s wrong?\"
+>
+>      \"Your friend Sun Wukong was here!\" she snapped.
+>
+>      \"He\'s not my friend!\" said the demon. \"Even before he defeated Red Boy, I never really liked him.\"
+>
+>      \"Well, you\'ll like him even less now,\" said the Iron Immortal. \"He stole my fan!\"
+>
+>      The demon looked surprised. \"That fan\'s wind magic is powerful. How did the monkey steal it?\"
+>
+>      \"He tricked me into giving it to him,\" said his wife. \"He made himself look like you.\"
+>
+>      The demon\'s face turned red. \"How dare he do that!\" He took a deep breath. \"Don\'t worry. I will find that rotten monkey. I\'ll get your fan back!\"
+>
+>      The Bull Demon King stomped out of the cave.
+>
+>                                                                                 \*
+> \* \*
+>
+>      Wukong walked along the road, carrying the plantain-leaf fan. He was still laughing about how he\'d tricked the Iron Immortal. Then he saw Bajie approaching.
+>
+>      \"Bajie!\" cried Wukong. \"What are you doing here?\"
+>
+>      \"I was coming to help you,\" said the pig.
+>
+>      \"Thanks, but I don\'t need help.\" Wukong held up the fan. \"I tricked the Iron Immortal and got the real fan this time.\"
+>
+>      \"Good!\" said Bajie. \"I can carry it for you.\"
+>
+>      \"Thanks,\" said Wukong as he handed the fan to Bajie.
+>
+>      The monkey patted his friend on the shoulder. \"Now let\'s get back to Master. We need to---\"
+>
+>      Suddenly there was a flash of light. A second later the Bull Demon King stood next to Wukong.
+>
+>      The demon laughed. \"I tricked you, Wukong!\"
+>
+>      There was another flash and the demon was gone.
