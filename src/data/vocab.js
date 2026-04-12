@@ -24,6 +24,22 @@ const vocab = {
         { word: 'beneath', note: '较正式/文学用法，可兼指具体和抽象位置' },
       ],
     },
+    {
+      word: 'shrugged',
+      phonetic: '/ʃrʌɡd/',
+      brief: '耸肩（表示不在乎、不知道或无奈）',
+      pos: 'verb (past tense of shrug)',
+      detail:
+        'shrug 指上下耸动肩膀，在英语中是一个常见肢体语言，表示"我不在乎""我不知道""随便"等态度。本书中出现两次：第一次是玉皇大帝听说光来自一块石头，耸肩表示不以为然；第二次是悟空被问想学什么，耸肩表示无所谓。',
+      examples: [
+        '"I don\'t know," she shrugged.（"我不知道，"她耸了耸肩。）',
+        'He shrugged off the criticism.（他对批评满不在乎。）',
+      ],
+      synonyms: [
+        { word: 'shrug off', note: '对…满不在乎，一笑了之' },
+        { word: 'dismiss', note: '不予理会，打发掉（更正式）' },
+      ],
+    },
   ],
   // book_02: [ ... ],
   // book_03: [ ... ],
