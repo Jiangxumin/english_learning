@@ -3,7 +3,7 @@ sidebar_position: 3
 title: "Book 3: The True Scriptures — The Robe (Ch.13-18)"
 ---
 
-**Journey to the West 13: The True Scriptures**
+## Journey to the West 13: The True Scriptures
 
 > Five hundred years passed. Wukong stayed trapped under the mountain. A thick layer of moss covered the monkey.
 >
@@ -72,7 +72,7 @@ title: "Book 3: The True Scriptures — The Robe (Ch.13-18)"
 >
 >      Suddenly a voice boomed, \"Who is walking on my mountain?\"
 
-**Journey to the West 14: A Promise to Protect**
+## Journey to the West 14: A Promise to Protect
 
 > The Tang Monk trembled with fear.
 >
@@ -152,7 +152,7 @@ title: "Book 3: The True Scriptures — The Robe (Ch.13-18)"
 >
 >      One man stepped forward and waved a sword. \"Give us your money, or you\'ll be sorry!\"
 
-**Journey to the West 15: Tea with a Dragon**
+## Journey to the West 15: Tea with a Dragon
 
 > The Tang Monk looked at the robbers. He was shaking. \"I\'m s-sorry,\" he said. \"But . . . we\'re just monks. We don\'t have any money.\"
 >
@@ -243,7 +243,7 @@ title: "Book 3: The True Scriptures — The Robe (Ch.13-18)"
 >
 >      The Dragon King continued. \"Not only that, but you made a promise to Guanyin. Perhaps, Wukong, it is you who has a bad attitude?\"
 
-**Journey to the West 16: Wukong Gets Tricked**
+## Journey to the West 16: Wukong Gets Tricked
 
 > Wukong looked at the Dragon King and sighed.
 >
@@ -340,7 +340,7 @@ title: "Book 3: The True Scriptures — The Robe (Ch.13-18)"
 >
 >      With one bite, the dragon swallowed the horse and then slipped back underwater.
 
-**Journey to the West 17: The Dragon in the River**
+## Journey to the West 17: The Dragon in the River
 
 > \"That dragon ate my horse!\" said the monk. He fell to his knees. \"How will I ever get to the Western Paradise? There are so many dangers along the way!\"
 >
@@ -403,7 +403,7 @@ title: "Book 3: The True Scriptures — The Robe (Ch.13-18)"
 >
 >      Wukong scratched his head. \"It\'s too late for that now. He won\'t come out of the water.\"
 
-**Journey to the West 18: The Robe**
+## Journey to the West 18: The Robe
 
 > Wukong and Guanyin flew over the ocean and back to the wide river.
 >

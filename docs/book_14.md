@@ -3,7 +3,7 @@ sidebar_position: 14
 title: "Book 14: The Mountain of Flames — The Sad King (Ch.79-84)"
 ---
 
-**Journey to the West 79: The Mountain of Flames**
+## Journey to the West 79: The Mountain of Flames
 
 > Wukong was furious. \"The Bull Demon King tricked me!\"
 >
@@ -78,7 +78,7 @@ title: "Book 14: The Mountain of Flames — The Sad King (Ch.79-84)"
 >
 >      Wukong smiled. He had done evil things a long time ago. Now he was fixing them.
 
-**Journey to the West 80: The Small Thunderclap Monastery**
+## Journey to the West 80: The Small Thunderclap Monastery
 
 > One afternoon Wukong and his companions were resting by a stream. They were eating peaches and berries.
 >
@@ -160,7 +160,7 @@ title: "Book 14: The Mountain of Flames — The Sad King (Ch.79-84)"
 >
 >      Light flashed, and the statue turned into a demon with yellow eyebrows. The demon stood up and smiled. \"The Tang Monk!\"
 
-**Journey to the West 81: Help from a Dragon**
+## Journey to the West 81: Help from a Dragon
 
 > Bajie and Wujing swung their weapons at the demon.
 >
@@ -258,7 +258,7 @@ title: "Book 14: The Mountain of Flames — The Sad King (Ch.79-84)"
 >
 >      Wukong gulped. \"Uh-oh.\"
 
-**Journey to the West 82: The Magic Cloth**
+## Journey to the West 82: The Magic Cloth
 
 > \"Oh no,\" thought Wukong. \"Yellow Brows is coming!\"
 >
@@ -330,7 +330,7 @@ title: "Book 14: The Mountain of Flames — The Sad King (Ch.79-84)"
 >
 >      \"Yes,\" said Maitreya. \"And I\'ve come to help you.\"
 
-**Journey to the West 83: The Melon Field**
+## Journey to the West 83: The Melon Field
 
 > \"Are you sure you can help?\" Wukong asked the Buddha Maitreya. \"Yellow Brows is powerful. He captured everyone with a magic cloth. He trapped me in a pair of cymbals.\"
 >
@@ -410,7 +410,7 @@ title: "Book 14: The Mountain of Flames — The Sad King (Ch.79-84)"
 >
 >      The travelers went outside and continued west.
 
-**Journey to the West 84: The Sad King**
+## Journey to the West 84: The Sad King
 
 > \"I wish I had money,\" Bajie moaned. \"All this food looks so good.\"
 >

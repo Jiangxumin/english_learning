@@ -3,7 +3,7 @@ sidebar_position: 5
 title: "Book 5: Powerful Wind Magic — The Frying Pan (Ch.25-30)"
 ---
 
-**Journey to the West 25: Powerful Wind Magic**
+## Journey to the West 25: Powerful Wind Magic
 
 > The wind stopped. Wukong jumped to his feet and called back the little Wukongs.
 >
@@ -81,7 +81,7 @@ title: "Book 5: Powerful Wind Magic — The Frying Pan (Ch.25-30)"
 >
 >      \"Wake up, lazy!\" shouted Wukong.
 
-**Journey to the West 26: The Monster in the River**
+## Journey to the West 26: The Monster in the River
 
 > \"I hope we reach the Western Paradise soon,\" said the Tang Monk one morning.
 >
@@ -163,7 +163,7 @@ title: "Book 5: Powerful Wind Magic — The Frying Pan (Ch.25-30)"
 >
 >      He gasped in fear. The forest was filled with wolves, bears, and tigers!
 
-**Journey to the West 27: The Ginseng Fruit**
+## Journey to the West 27: The Ginseng Fruit
 
 > The Tang Monk trembled with fear. The animals showed their fangs.
 >
@@ -237,7 +237,7 @@ title: "Book 5: Powerful Wind Magic — The Frying Pan (Ch.25-30)"
 >
 >      \"That fruit sounds wonderful,\" said Bajie to himself. \"I want some too!\"
 
-**Journey to the West 28: Wukong Leaves His Body**
+## Journey to the West 28: Wukong Leaves His Body
 
 > Bajie looked out the kitchen window. Wukong and Wujing were outside talking.
 >
@@ -323,7 +323,7 @@ title: "Book 5: Powerful Wind Magic — The Frying Pan (Ch.25-30)"
 >
 >      \"I think you made a mistake,\" said the monkey with a big smile. \"Why don\'t you go outside to your ginseng tree and count the fruit again?\"
 
-**Journey to the West 29: The Magic Sleeve**
+## Journey to the West 29: The Magic Sleeve
 
 > \"I know we counted the fruit correctly,\" said one priest. \"But we\'ll count again anyway.\"
 >
@@ -405,7 +405,7 @@ title: "Book 5: Powerful Wind Magic — The Frying Pan (Ch.25-30)"
 >
 >      The Great Immortal waved his arm. His sleeve swooped down toward Wukong and his companions. Instantly they were all swept up in it.
 
-**Journey to the West 30: The Frying Pan**
+## Journey to the West 30: The Frying Pan
 
 > Wukong and his companions were tied up in a room in the abbey.
 >

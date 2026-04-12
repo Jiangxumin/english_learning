@@ -3,7 +3,7 @@ sidebar_position: 4
 title: "Book 4: An Evil Plan — The Great King Yellow Wind (Ch.19-24)"
 ---
 
-**Journey to the West 19: An Evil Plan**
+## Journey to the West 19: An Evil Plan
 
 > The head priest called for two other priests, who quickly ran into the room.
 >
@@ -83,7 +83,7 @@ title: "Book 4: An Evil Plan — The Great King Yellow Wind (Ch.19-24)"
 >
 >      \"We . . . we can\'t,\" said one priest. He was shaking. \"The robe is gone!\"
 
-**Journey to the West 20: The Black Bear Spirit**
+## Journey to the West 20: The Black Bear Spirit
 
 > Wukong glared at the two scared priests. \"The robe is gone?\" he cried. \"Where did it go?\"
 >
@@ -149,7 +149,7 @@ title: "Book 4: An Evil Plan — The Great King Yellow Wind (Ch.19-24)"
 >
 >      Before Wukong could say anything else, the bear ran back into his cave. The door slammed shut.
 
-**Journey to the West 21: The Monster\'s Friend**
+## Journey to the West 21: The Monster\'s Friend
 
 > Wukong stood before Guanyin. He was telling the bodhisattva everything that had happened at the monastery.
 >
@@ -205,7 +205,7 @@ title: "Book 4: An Evil Plan — The Great King Yellow Wind (Ch.19-24)"
 >
 > *Gulp!*
 
-**Journey to the West 22: A Very Strange Pill**
+## Journey to the West 22: A Very Strange Pill
 
 > The Black Wind King took a step back. He looked confused. \"That pill jumped down my throat!\"
 >
@@ -292,7 +292,7 @@ title: "Book 4: An Evil Plan — The Great King Yellow Wind (Ch.19-24)"
 >
 >      A pig-like creature leaped from the cave, swinging a heavy rake.
 
-**Journey to the West 23: Great Protectors**
+## Journey to the West 23: Great Protectors
 
 > The creature had a pig\'s snout and ears. But he ran on two legs like a person. He swung the rake again.
 >
@@ -366,7 +366,7 @@ title: "Book 4: An Evil Plan — The Great King Yellow Wind (Ch.19-24)"
 >
 >      \"Oh no!\" cried Wukong. \"Where is the Tang Monk?\"
 
-**Journey to the West 24: The Great King Yellow Wind**
+## Journey to the West 24: The Great King Yellow Wind
 
 > Wukong and Bajie looked all around. But the Tang Monk was gone.
 >

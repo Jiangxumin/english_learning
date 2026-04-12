@@ -3,7 +3,7 @@ sidebar_position: 9
 title: "Book 9: Red Boy — The River God (Ch.49-54)"
 ---
 
-**Journey to the West 49: Red Boy**
+## Journey to the West 49: Red Boy
 
 > \"Wukong is right,\" said Bajie. \"We should all go home and forget about reaching the Western Paradise. I\'ll return to my cave and take a nice long nap.\"
 >
@@ -61,7 +61,7 @@ title: "Book 9: Red Boy — The River God (Ch.49-54)"
 >
 >      The demon punched himself in the nose. Smoke poured from his nostrils, and fire shot from his mouth. A moment later flames covered the entire mountainside!
 
-**Journey to the West 50: Magic Fire**
+## Journey to the West 50: Magic Fire
 
 > Wukong and his companions ran back down the mountain, escaping the fire.
 >
@@ -133,7 +133,7 @@ title: "Book 9: Red Boy — The River God (Ch.49-54)"
 >
 >      \"Bodhisattva!\" cried the pig with a smile. \"This is a surprise. I was just coming to see you!\"
 
-**Journey to the West 51: Guanyin Becomes Angry**
+## Journey to the West 51: Guanyin Becomes Angry
 
 > Bajie didn\'t know Guanyin was really Red Boy in disguise.
 >
@@ -196,7 +196,7 @@ title: "Book 9: Red Boy — The River God (Ch.49-54)"
 >
 >      \"I have what I need now,\" said Guanyin. \"Let\'s go.\"
 
-**Journey to the West 52: An Ocean from a Vase**
+## Journey to the West 52: An Ocean from a Vase
 
 > Wukong and Guanyin stood on the lotus platform above Red Boy\'s mountain.
 >
@@ -268,7 +268,7 @@ title: "Book 9: Red Boy — The River God (Ch.49-54)"
 >
 >      \"Oh no!\" cried Red Boy. \"I\'m trapped!\"
 
-**Journey to the West 53: The Man in the Canoe**
+## Journey to the West 53: The Man in the Canoe
 
 > From behind Guanyin, Wukong peeked at Red Boy. The demon was trapped by the swords, all pointed at his face.
 >
@@ -336,7 +336,7 @@ title: "Book 9: Red Boy — The River God (Ch.49-54)"
 >
 >      Wukong stamped his foot. \"That man kidnapped Master and Bajie! I knew he looked suspicious!\"
 
-**Journey to the West 54: The River God**
+## Journey to the West 54: The River God
 
 > Wukong stared at the river. \"I should have stopped Master from getting in that canoe. But whenever I warn him about someone, he doesn\'t believe me.\"
 >

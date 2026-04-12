@@ -3,7 +3,7 @@ sidebar_position: 13
 title: "Book 13: Two Wukongs — Tricked Again and Again (Ch.73-78)"
 ---
 
-**Journey to the West 73: Two Wukongs**
+## Journey to the West 73: Two Wukongs
 
 > Wujing watched as the fake Wujing fed the horse some hay.
 >
@@ -133,7 +133,7 @@ title: "Book 13: Two Wukongs — Tricked Again and Again (Ch.73-78)"
 >
 > headband.\"
 
-**Journey to the West 74: Curious Ear**
+## Journey to the West 74: Curious Ear
 
 > Guanyin recited the Tight Headband spell. Both Wukongs fell to the ground, howling in pain.
 >
@@ -219,7 +219,7 @@ title: "Book 13: Two Wukongs — Tricked Again and Again (Ch.73-78)"
 >
 >      Finally it spoke. \"I know who the fake Sun Wukong is.\"
 
-**Journey to the West 75: Battle of the Wukongs**
+## Journey to the West 75: Battle of the Wukongs
 
 > The two Wukongs stared at Curious Ear.
 >
@@ -307,7 +307,7 @@ title: "Book 13: Two Wukongs — Tricked Again and Again (Ch.73-78)"
 >
 >      \"Thank you, Bodhisattva,\" said Wukong. \"I\'ll make sure the Tang Monk reaches the Western Paradise!\"
 
-**Journey to the West 76: The Iron Immortal**
+## Journey to the West 76: The Iron Immortal
 
 > Wukong was once again traveling west with the Tang Monk.
 >
@@ -407,7 +407,7 @@ title: "Book 13: Two Wukongs — Tricked Again and Again (Ch.73-78)"
 >
 > The Iron Immortal waved the fan. A furious wind blew, and Wukong was gone!
 
-**Journey to the West 77: The Magic Fan**
+## Journey to the West 77: The Magic Fan
 
 > For over a day, the wind from the fan carried Wukong. When he finally landed, he was far from the Iron Immortal\'s mountain.
 >
@@ -501,7 +501,7 @@ title: "Book 13: Two Wukongs — Tricked Again and Again (Ch.73-78)"
 >
 >      Suddenly there was a roar as the flames grew bigger, filling the sky!
 
-**Journey to the West 78: Tricked Again and Again**
+## Journey to the West 78: Tricked Again and Again
 
 > \"Oh no!\" Wukong looked at the fan. \"This fan doesn\'t work! The Iron Immortal must have tricked me.\"
 >

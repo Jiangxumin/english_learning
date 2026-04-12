@@ -3,7 +3,7 @@ sidebar_position: 16
 title: "Book 16: The Demon Officers — Wind and Fog (Ch.91-96)"
 ---
 
-**Journey to the West 91: The Demon Officers**
+## Journey to the West 91: The Demon Officers
 
 > The demon general looked at Wukong, who was still in disguise.
 >
@@ -101,7 +101,7 @@ title: "Book 16: The Demon Officers — Wind and Fog (Ch.91-96)"
 >
 >      The monkey looked down and saw that his disguise was gone. He gulped. \"Uh-oh!\"
 
-**Journey to the West 92: The Lion Demon**
+## Journey to the West 92: The Lion Demon
 
 > The elephant pointed at Wukong. \"He\'s not a demon. He\'s a monkey!\"
 >
@@ -193,7 +193,7 @@ title: "Book 16: The Demon Officers — Wind and Fog (Ch.91-96)"
 >
 >      \"Yes, I am still alive!\" Wukong suddenly shouted. \"It\'s nice and warm in here!\"
 
-**Journey to the West 93: A Problem for the Lion Demon**
+## Journey to the West 93: A Problem for the Lion Demon
 
 > The elephant and the raptor stared at the lion.
 >
@@ -289,7 +289,7 @@ title: "Book 16: The Demon Officers — Wind and Fog (Ch.91-96)"
 >
 >      As soon as the monkey was gone, the elephant turned to the other two demons. \"I have a new plan for capturing the Tang Monk.\"
 
-**Journey to the West 94: The Elephant Demon**
+## Journey to the West 94: The Elephant Demon
 
 > The lion demon rubbed his aching mouth. \"Let\'s leave the Tang Monk alone. Wukong is dangerous.\"
 >
@@ -376,7 +376,7 @@ title: "Book 16: The Demon Officers — Wind and Fog (Ch.91-96)"
 >
 >      With a powerful flap of its wings, the giant bird flew away.
 
-**Journey to the West 95: The Raptor Demon**
+## Journey to the West 95: The Raptor Demon
 
 > The Tang Monk and Wujing were tied up inside the demons\' cave. Bajie was also tied up, floating in the tub of salt water again.
 >
@@ -456,7 +456,7 @@ title: "Book 16: The Demon Officers — Wind and Fog (Ch.91-96)"
 >
 >      Wukong bowed. \"Thank you, Buddha.\"
 
-**Journey to the West 96: Wind and Fog**
+## Journey to the West 96: Wind and Fog
 
 > \"I hope we reach the Western Paradise soon,\" said the Tang Monk. \"This journey has been very dangerous.\"
 >
