@@ -40,6 +40,23 @@ const vocab = {
         { word: 'dismiss', note: '不予理会，打发掉（更正式）' },
       ],
     },
+    {
+      word: 'all the way',
+      phonetic: '/ɔːl ðə weɪ/',
+      brief: '一路上，一直（到某处）',
+      pos: 'phrase',
+      detail:
+        'all the way 是一个固定搭配，表示"从起点到终点的全程、一路不停"。原文中猴子说溪水"flows all the way to the ocean"，意思是溪流从山上一路流淌直到汇入大海，强调距离之远、路径之完整。',
+      examples: [
+        'We drove all the way from Beijing to Shanghai.（我们从北京一路开到了上海。）',
+        'He followed her all the way home.（他一路跟着她回到了家。）',
+        'The trail goes all the way to the top of the mountain.（这条小路一直通到山顶。）',
+      ],
+      synonyms: [
+        { word: 'the whole way', note: '全程，语气相似，更强调"整段路程"' },
+        { word: 'straight', note: '径直地，强调方向而非距离' },
+      ],
+    },
   ],
   // book_02: [ ... ],
   // book_03: [ ... ],
