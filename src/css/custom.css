@@ -29,7 +29,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-/* ── Vocab tooltip component ── */
+/* ── Vocab inline tooltip ── */
 
 .vocab-word {
   color: var(--ifm-color-primary);
@@ -69,4 +69,99 @@
 
 .vocab-definition {
   font-weight: 600;
+}
+
+.vocab-detail-link {
+  font-size: 0.8rem;
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+  text-align: right;
+  margin-top: 2px;
+}
+.vocab-detail-link:hover {
+  text-decoration: underline;
+}
+
+/* ── VocabList — bottom annotation cards ── */
+
+.vocab-list {
+  margin-top: 3rem;
+  border-top: 2px solid var(--ifm-color-emphasis-300);
+  padding-top: 1.5rem;
+}
+
+.vocab-list-title {
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+  color: var(--ifm-color-primary);
+}
+
+.vocab-card {
+  background: var(--ifm-color-emphasis-100);
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.vocab-card-header {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.vocab-card-word {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--ifm-color-primary);
+}
+
+.vocab-card-pos {
+  font-size: 0.8rem;
+  color: var(--ifm-color-emphasis-600);
+  background: var(--ifm-color-emphasis-200);
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+
+.vocab-card-phonetic {
+  font-style: italic;
+  color: var(--ifm-color-emphasis-600);
+}
+
+.vocab-card-brief {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.vocab-card-detail {
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--ifm-color-emphasis-700);
+  margin-bottom: 0.5rem;
+}
+
+.vocab-card-section {
+  margin-top: 0.5rem;
+}
+
+.vocab-card-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: var(--ifm-color-emphasis-500);
+  letter-spacing: 0.5px;
+}
+
+.vocab-card-section ul {
+  margin: 0.25rem 0 0 1rem;
+  padding: 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.vocab-synonyms {
+  list-style: none;
+  margin-left: 0 !important;
 }
