@@ -57,6 +57,23 @@ const vocab = {
         { word: 'straight', note: '径直地，强调方向而非距离' },
       ],
     },
+    {
+      word: 'neither',
+      phonetic: '/ˈniːðər/',
+      brief: '也不（用于附和否定句）',
+      pos: 'adverb',
+      detail:
+        'neither 在此处是副词用法，用于口语中附和前一个人的否定说法。原文中一只高猴子说"I\'m not going to try"（我不去试），矮猴子接着说"Me neither"（我也不去），用 neither 简洁地表达"我也是"。注意：neither 还常用于 neither...nor...（既不…也不…）的搭配中。',
+      examples: [
+        '"I can\'t swim." — "Me neither."（"我不会游泳。" — "我也不会。"）',
+        'Neither John nor Mary could attend the meeting.（约翰和玛丽都没能参加会议。）',
+        'He neither smiled nor spoke.（他既没笑也没说话。）',
+      ],
+      synonyms: [
+        { word: 'nor', note: '与 neither 搭配，构成 neither...nor... 双重否定句式' },
+        { word: 'either', note: '否定句中也可用，如 "I don\'t either"，但 "me neither" 更口语化' },
+      ],
+    },
   ],
   // book_02: [ ... ],
   // book_03: [ ... ],
