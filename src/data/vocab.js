@@ -644,7 +644,26 @@ const vocab = {
       ],
     },
   ],
-  // book_02: [ ... ],
+  book_02: [
+    {
+      word: 'piece',
+      phonetic: '/piːs/',
+      brief: '块，件，片',
+      pos: 'noun',
+      detail:
+        'piece 是非常常用的量词/名词，表示"一块、一件、一片"，可搭配几乎所有不可数名词。原文中悟空摸到铁柱后想"This piece of iron really is magical"——这块铁真是神奇啊。用 piece of iron 而不说 pillar，视角从"建筑构件"变成"一块材料"，暗示悟空开始把它当作自己的东西。',
+      examples: [
+        'She tore off a piece of paper.（她撕下一小片纸。）',
+        'This is a beautiful piece of music.（这是一首优美的乐曲。）',
+        'He picked up a piece of wood.（他捡起一块木头。）',
+      ],
+      synonyms: [
+        { word: 'chunk', note: '厚块，通常指不规则的大块' },
+        { word: 'fragment', note: '碎片，断裂下来的小部分' },
+        { word: 'slice', note: '薄片，切下来的扁平一片' },
+      ],
+    },
+  ],
   // book_03: [ ... ],
 };
 
