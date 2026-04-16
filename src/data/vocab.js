@@ -663,6 +663,402 @@ const vocab = {
         { word: 'slice', note: '薄片，切下来的扁平一片' },
       ],
     },
+    {
+      word: 'shrank',
+      phonetic: '/ʃræŋk/',
+      brief: '缩小，收缩',
+      pos: 'verb (past tense of shrink)',
+      detail:
+        'shrink 指尺寸或数量变小，过去式为 shrank，过去分词为 shrunk。原文中悟空对铁柱喊"Smaller!"后"The pillar shrank"——铁柱缩小了，这是如意金箍棒"如意"二字的核心能力：能大能小，随心意变化。',
+      examples: [
+        'The sweater shrank in the wash.（毛衣洗缩水了。）',
+        'The population shrank over the years.（人口这些年减少了。）',
+        'His confidence shrank after the failure.（失败后他的信心缩了。）',
+      ],
+      synonyms: [
+        { word: 'contracted', note: '收缩，更正式，常用于经济或物理变化' },
+        { word: 'dwindled', note: '逐渐减少、缩小，强调渐进过程' },
+        { word: 'expanded', note: '反义词：膨胀、扩大' },
+      ],
+    },
+    {
+      word: 'clenched',
+      phonetic: '/klentʃt/',
+      brief: '紧握，攥紧（拳头/牙关）',
+      pos: 'verb (past tense of clench)',
+      detail:
+        'clench 指用力收紧、攥紧，最常见的搭配是 clench one\'s fists（攥紧拳头）和 clench one\'s teeth（咬紧牙关），都是愤怒、紧张或忍耐时常见的身体反应。原文中龙王"clenched his fists"——攥紧双拳，准备上天庭告状，动作直接传达了他的愤怒。',
+      examples: [
+        'He clenched his fists in anger.（他愤怒地攥紧了拳头。）',
+        'She clenched her teeth to stop herself from crying.（她咬紧牙关忍住不哭。）',
+        'He clenched the railing tightly.（他紧紧抓住栏杆。）',
+      ],
+      synonyms: [
+        { word: 'gripped', note: '紧握，侧重手部抓住某物' },
+        { word: 'gritted', note: '咬紧（牙关），grit one\'s teeth' },
+        { word: 'squeezed', note: '挤压，通用词，不一定带情绪' },
+      ],
+    },
+    {
+      word: 'lasted',
+      phonetic: '/ˈlæstɪd/',
+      brief: '持续，延续',
+      pos: 'verb (past tense of last)',
+      detail:
+        'last 作动词表示"持续、延续"，指某事维持了多长时间。原文中"They held a big feast that lasted until late at night"——他们举办了一场持续到深夜的大宴会，用 lasted 强调庆祝活动的时间之长。',
+      examples: [
+        'The meeting lasted two hours.（会议持续了两个小时。）',
+        'The storm lasted all night.（暴风雨持续了一整夜。）',
+        'Their friendship has lasted for many years.（他们的友谊持续了很多年。）',
+      ],
+      synonyms: [
+        { word: 'continued', note: '继续，强调不间断地延续' },
+        { word: 'endured', note: '忍受、持久，带有"经得起"的意味' },
+        { word: 'went on', note: '口语化，"进行、持续"' },
+      ],
+    },
+    {
+      word: 'Let go of me',
+      phonetic: '/lɛt ɡoʊ əv miː/',
+      brief: '放开我！松手！',
+      pos: 'phrase',
+      detail:
+        'let go of 表示"松开、放开"，后面接被放开的对象。let go 单独用表示"放手"，加上 of somebody/something 表示"放开某人/某物"。原文中悟空被两个鬼使抓住，大喊"Let go of me!"——放开我！这是被抓住时最本能的英语反应。',
+      examples: [
+        'Let go of my arm!（放开我的胳膊！）',
+        'Don\'t let go of the rope.（别松开绳子。）',
+        'She couldn\'t let go of the past.（她无法放下过去。——比喻用法）',
+      ],
+      synonyms: [
+        { word: 'release me', note: '释放我、放开我，更正式' },
+        { word: 'get off me', note: '从我身上下去，更口语化、更粗鲁' },
+        { word: 'unhand me', note: '放开我，古式/文学用法' },
+      ],
+    },
+    {
+      word: 'struggled',
+      phonetic: '/ˈstrʌɡəld/',
+      brief: '挣扎，奋力反抗',
+      pos: 'verb (past tense of struggle)',
+      detail:
+        'struggle 指为了摆脱困境或控制而奋力抵抗、挣扎，既可以是身体的扭动反抗，也可以是精神上的艰难奋斗。原文中悟空被鬼使拖走时"kicked and struggled"——又踢又挣扎，用 struggled 描绘他拼命想要挣脱的场面。',
+      examples: [
+        'The fish struggled to get free.（鱼拼命挣扎想要逃脱。）',
+        'She struggled against the strong wind.（她在狂风中艰难前行。）',
+        'He has always struggled with math.（他一直在数学上很吃力。）',
+      ],
+      synonyms: [
+        { word: 'fought', note: '战斗、对抗，更主动，不一定是被动的挣扎' },
+        { word: 'wrestled', note: '扭打、摔跤，强调肢体上的搏斗' },
+        { word: 'resisted', note: '抵抗，侧重意志上的不屈服' },
+      ],
+    },
+    {
+      word: 'creepy',
+      phonetic: '/ˈkriːpi/',
+      brief: '令人毛骨悚然的，阴森的',
+      pos: 'adjective',
+      detail:
+        'creepy 形容某事物让人感到不安、害怕或起鸡皮疙瘩，常用来形容阴森的地方、怪异的人或恐怖的氛围。原文中鬼使拖着悟空走向"a dark and creepy city"——一座黑暗阴森的城市，即阴曹地府。creepy 比 scary 语气轻一些，更多是"毛骨悚然"而非"惊恐万分"。',
+      examples: [
+        'That old house is really creepy at night.（那座老房子晚上真的很阴森。）',
+        'He gives me a creepy feeling.（他让我感到毛骨悚然。）',
+        'There was a creepy sound coming from the basement.（地下室传来一阵令人不安的声音。）',
+      ],
+      synonyms: [
+        { word: 'scary', note: '吓人的，程度更强，直接引发恐惧' },
+        { word: 'eerie', note: '怪异而令人不安的，更文学化' },
+        { word: 'spooky', note: '幽灵般的、诡异的，常与鬼怪相关' },
+      ],
+    },
+    {
+      word: "I'm supposed to",
+      phonetic: '/aɪm səˈpoʊzd tuː/',
+      brief: '我应该……，按理说会……',
+      pos: 'phrase',
+      detail:
+        'be supposed to 表示"应该、被期望做某事"，暗含"按理说应该如此"的意味，与 should 相比多了一层"别人认为/本来安排"的含义。原文中悟空喊"I\'m supposed to live forever!"——我按理说是应该长生不老的！暗示他学过长生术，不该被鬼使拘到地府来，语气中有强烈的不可置信。',
+      examples: [
+        'You\'re supposed to take off your shoes indoors.（你应该在室内脱鞋。）',
+        'The train is supposed to arrive at 3 PM.（火车按理说下午三点到。）',
+        'I was supposed to call her, but I forgot.（我本该打电话给她，但忘了。）',
+      ],
+      synonyms: [
+        { word: 'should', note: '应该，更通用，不强调"别人期望"的语气' },
+        { word: 'ought to', note: '应当，更正式，与 supposed to 语义接近' },
+        { word: 'meant to', note: '本意是、注定要，强调原定计划' },
+      ],
+    },
+    {
+      word: 'yanked',
+      phonetic: '/jæŋkt/',
+      brief: '猛拉，使劲拽',
+      pos: 'verb (past tense of yank)',
+      detail:
+        'yank 指突然、用力地拉扯某物，动作快速而粗暴。原文中悟空"yanked his arms free"——猛地挣脱双臂，用力之大连鬼使都抓不住。yanked 强调瞬间爆发的力量，比 pulled 更迅猛。',
+      examples: [
+        'She yanked the door open.（她猛地拉开了门。）',
+        'He yanked his hand away.（他猛地抽回了手。）',
+        'Someone yanked the bag from her grasp.（有人一把夺走了她手里的包。）',
+      ],
+      synonyms: [
+        { word: 'pulled', note: '拉，通用词，力度可大可小' },
+        { word: 'jerked', note: '猛扯，突然而急促的动作' },
+        { word: 'tugged', note: '用力拉，持续使劲而非瞬间爆发' },
+      ],
+    },
+    {
+      word: 'fled',
+      phonetic: '/flɛd/',
+      brief: '逃跑了，溃散',
+      pos: 'verb (past tense of flee)',
+      detail:
+        'flee 指因恐惧或危险而迅速逃跑，过去式为 fled，过去分词也是 fled。比 run away 更正式、更紧迫。原文中悟空挥舞铁棒闯入地府，"Demons and ghosts fled"——大小鬼魂纷纷逃散，一个 fled 字就勾勒出悟空的威势和鬼魂的胆怯。',
+      examples: [
+        'The villagers fled from the flood.（村民们逃离了洪水。）',
+        'The thief fled the scene.（小偷逃离了现场。）',
+        'Thousands fled the war-torn city.（数千人逃离了那座饱受战火的城市。）',
+      ],
+      synonyms: [
+        { word: 'escaped', note: '逃脱，强调成功摆脱困境' },
+        { word: 'ran away', note: '跑开、逃跑，更口语化' },
+        { word: 'retreated', note: '撤退，有组织的后退，而非慌乱逃跑' },
+      ],
+    },
+    {
+      word: 'contains',
+      phonetic: '/kənˈteɪnz/',
+      brief: '包含，含有',
+      pos: 'verb',
+      detail:
+        'contain 指某物内部"包含、装有"其他东西，强调内部的构成内容。原文中判官说"The Directory contains the name and age of every creature"——生死簿包含了每一种生灵的名字和寿数。第三人称单数形式 contains 说明主语是 Directory。',
+      examples: [
+        'The box contains old letters.（盒子里装着旧信件。）',
+        'This book contains 200 pages.（这本书有 200 页。）',
+        'Water contains hydrogen and oxygen.（水含有氢和氧。）',
+      ],
+      synonyms: [
+        { word: 'includes', note: '包括，强调其中一部分，不一定是全部内容' },
+        { word: 'holds', note: '容纳、装着，侧重容量' },
+        { word: 'consists of', note: '由……组成，强调整体与部分的关系' },
+      ],
+    },
+    {
+      word: 'flipped',
+      phonetic: '/flɪpt/',
+      brief: '快速翻阅，翻动（书页）',
+      pos: 'verb (past tense of flip)',
+      detail:
+        'flip 指用手指快速翻动，常用于翻书页、翻卡片。flip through the pages 表示"快速翻阅书页"，带有查找或浏览的意味。原文中判官在生死簿里找悟空的名字，"the judge flipped through the pages"——翻动书页查找，动作简洁利落。',
+      examples: [
+        'She flipped through the magazine.（她快速翻阅了那本杂志。）',
+        'He flipped the coin.（他抛了硬币。）',
+        'She flipped the page and kept reading.（她翻了一页继续读。）',
+      ],
+      synonyms: [
+        { word: 'turned', note: '翻（页），更通用的说法，不强调速度' },
+        { word: 'browsed', note: '浏览，侧重阅读行为而非翻页动作' },
+        { word: 'rifled', note: '快速翻找，更急促，带有翻箱倒柜的感觉' },
+      ],
+    },
+    {
+      word: 'glared',
+      phonetic: '/ɡlɛrd/',
+      brief: '怒目而视，瞪眼',
+      pos: 'verb (past tense of glare)',
+      detail:
+        'glare 指愤怒地、长时间地盯着某人，目光凶狠。常搭配 glare at somebody。原文中悟空举起铁棒"glared at the judge"——怒视判官，一个 glare 配合铁棒，威胁之意不言自明。',
+      examples: [
+        'She glared at him in anger.（她愤怒地瞪着他。）',
+        'The teacher glared at the noisy students.（老师怒视着吵闹的学生。）',
+        'He didn\'t say a word, just glared.（他一言不发，只是怒目而视。）',
+      ],
+      synonyms: [
+        { word: 'stared', note: '盯着看，中性词，不一定带怒意' },
+        { word: 'scowled', note: '皱眉怒视，侧重面部表情的凶狠' },
+        { word: 'gaped', note: '目瞪口呆地看，因惊讶而非愤怒' },
+      ],
+    },
+    {
+      word: 'Shaking',
+      phonetic: '/ˈʃeɪkɪŋ/',
+      brief: '发抖，颤抖（因恐惧或紧张）',
+      pos: 'verb (present participle of shake)',
+      detail:
+        'shake 作动词指"摇动、发抖"，此处用现在分词 Shaking 放在句首作状语，描述判官交书时的身体状态——吓得发抖。原文"Shaking, the judge handed the book to Wukong"——判官哆哆嗦嗦地把书递给了悟空，分词短语比说"the judge was shaking"更简洁有力。',
+      examples: [
+        'Shaking with fear, she opened the door.（她吓得发抖，打开了门。）',
+        'He was shaking from the cold.（他冷得发抖。）',
+        'Trembling, she picked up the phone.（颤抖着，她拿起了电话。）',
+      ],
+      synonyms: [
+        { word: 'trembling', note: '颤抖，与 shaking 接近但更多指细微的抖动' },
+        { word: 'shivering', note: '打寒颤，通常因寒冷引起' },
+        { word: 'quivering', note: '微微发抖，更细微、更持久' },
+      ],
+    },
+    {
+      word: 'court',
+      phonetic: '/kɔːrt/',
+      brief: '朝廷，宫廷；法庭',
+      pos: 'noun',
+      detail:
+        'court 有多个含义：此处指"朝廷、宫廷"——帝王处理政务和接见臣民的场所。也可指"法庭""球场"。原文中信使跑进朝廷"ran into the court"汇报龙王求见，court 在此对应天庭的朝堂。',
+      examples: [
+        'The king held court every morning.（国王每天早晨上朝。）',
+        'She took her case to court.（她把案子告上了法庭。）',
+        'They played tennis on the court.（他们在球场上打网球。）',
+      ],
+      synonyms: [
+        { word: 'palace', note: '宫殿，侧重建筑本身而非政治功能' },
+        { word: 'throne room', note: '王座大厅，更具体地指君主接见的房间' },
+        { word: 'tribunal', note: '法庭、裁判所，仅限司法含义' },
+      ],
+    },
+    {
+      word: 'make a complaint',
+      phonetic: '/meɪk ə kəmˈpleɪnt/',
+      brief: '投诉，控告',
+      pos: 'phrase',
+      detail:
+        'make a complaint 是固定搭配，表示"提出投诉、控告"。complaint 是名词（投诉），动词形式为 complain。原文中龙王上告天庭"I want to make a complaint"——我要投诉，正式地控告悟空强抢兵器的蛮横行为。注意 complaint 也可用于日常抱怨，如 noise complaints（噪音投诉）。',
+      examples: [
+        'I\'d like to make a complaint about the service.（我要投诉你们的服务。）',
+        'She made a formal complaint to the manager.（她向经理提出了正式投诉。）',
+        'He made a complaint against his neighbor.（他投诉了他的邻居。）',
+      ],
+      synonyms: [
+        { word: 'file a complaint', note: '正式提交投诉，更行政化、法律化' },
+        { word: 'protest', note: '抗议，更公开、更激烈的表达方式' },
+        { word: 'object', note: '反对，侧重表达不赞同' },
+      ],
+    },
+    {
+      word: 'punish',
+      phonetic: '/ˈpʌnɪʃ/',
+      brief: '惩罚，处罚',
+      pos: 'verb',
+      detail:
+        'punish 指因某人做错事而给予惩罚，名词形式为 punishment。原文中判官请求玉帝"I beg you to punish him!"——求您惩罚他！用 beg（恳求）+ punish 的组合，表现判官对悟空大闹地府的愤恨和对天庭权威的依赖。',
+      examples: [
+        'The teacher punished the students for cheating.（老师惩罚了作弊的学生。）',
+        'He was punished for breaking the rules.（他因违反规定而受到处罚。）',
+        'The crime should be severely punished.（这项罪行应该受到严惩。）',
+      ],
+      synonyms: [
+        { word: 'discipline', note: '管教、惩戒，侧重教育目的' },
+        { word: 'penalize', note: '处罚，多用于比赛或制度中的制裁' },
+        { word: 'reward', note: '反义词：奖赏' },
+      ],
+    },
+    {
+      word: 'troops',
+      phonetic: '/truːps/',
+      brief: '军队，部队',
+      pos: 'noun (plural)',
+      detail:
+        'troops 指军队、部队，通常用复数形式。单数 troop 指一个士兵或一群人，但日常中几乎都用复数 troops 表示"军队"。原文中玉帝下令"Gather some troops"——调集军队，准备下界捉拿悟空，这是天庭的武力回应。',
+      examples: [
+        'The troops marched into the city.（军队开进了城市。）',
+        'Thousands of troops were sent to the border.（数千名士兵被派往边境。）',
+        'The general led his troops into battle.（将军率领部队投入战斗。）',
+      ],
+      synonyms: [
+        { word: 'soldiers', note: '士兵们，侧重个人，troops 侧重整体编制' },
+        { word: 'forces', note: '武装力量，范围更广，含海空军等' },
+        { word: 'army', note: '陆军，更具体的军种名称' },
+      ],
+    },
+    {
+      word: 'arrested',
+      phonetic: '/əˈrɛstɪd/',
+      brief: '逮捕，拘捕',
+      pos: 'verb (past participle of arrest)',
+      detail:
+        'arrest 指官方机构依法拘捕某人，名词形式也是 arrest。原文中玉帝下令"I want Sun Wukong arrested!"——我要孙悟空被逮捕！这里用了 want somebody done 结构，表示"要某人被……"，arrested 是被动用法。对比 catch（抓住），arrest 更正式，强调法律或官方行为。',
+      examples: [
+        'The police arrested the thief.（警察逮捕了小偷。）',
+        'He was arrested for stealing.（他因盗窃被捕。）',
+        'She wanted the criminal arrested immediately.（她要求立即逮捕罪犯。）',
+      ],
+      synonyms: [
+        { word: 'captured', note: '抓获，不一定是官方行为' },
+        { word: 'caught', note: '抓住，更口语化、更通用' },
+        { word: 'detained', note: '拘留、扣押，可能是暂时性的' },
+      ],
+    },
+    {
+      word: 'in charge of',
+      phonetic: '/ɪn tʃɑːrdʒ əv/',
+      brief: '负责管理，掌管',
+      pos: 'phrase',
+      detail:
+        'in charge of 表示"负责管理、掌管某事"，主语是管理者。对比 in the charge of（被……管理），注意有没有 the 含义完全相反。原文中玉帝安排悟空"He will be in charge of the Royal Peach Garden"——让他负责管理蟠桃园，表面是给官做，实则是想把他留在天庭便于监视。',
+      examples: [
+        'She is in charge of the project.（她负责这个项目。）',
+        'Who is in charge of this department?（谁负责这个部门？）',
+        'He left me in charge of the store.（他让我照看店铺。）',
+      ],
+      synonyms: [
+        { word: 'responsible for', note: '对……负责，侧重责任归属' },
+        { word: 'in control of', note: '控制、掌管，侧重权力' },
+        { word: 'running', note: '运营、管理，更口语化' },
+      ],
+    },
+    {
+      word: 'inspected',
+      phonetic: '/ɪnˈspɛktɪd/',
+      brief: '检查，视察',
+      pos: 'verb (past tense of inspect)',
+      detail:
+        'inspect 指仔细查看、检查，比 look 更正式、更系统，带有官方或专业的意味。名词形式为 inspection（检查、视察）。原文中悟空每天早晨"inspected the trees"——巡查桃树，说明他起初对待这份工作很认真。inspect 强调逐个仔细查看，而非随意浏览。',
+      examples: [
+        'The teacher inspected each student\'s work.（老师检查了每个学生的作业。）',
+        'The health inspector inspected the restaurant.（卫生检查员视察了那家餐厅。）',
+        'He inspected the car before buying it.（他在买车前仔细检查了车况。）',
+      ],
+      synonyms: [
+        { word: 'examined', note: '检查、审查，侧重深入了解细节' },
+        { word: 'checked', note: '核对、查看，更日常通用' },
+        { word: 'surveyed', note: '纵览、审视，侧重从全局角度看' },
+      ],
+    },
+    {
+      word: 'seriously',
+      phonetic: '/ˈsɪriəsli/',
+      brief: '认真地，严肃地',
+      pos: 'adverb',
+      detail:
+        'seriously 是 serious（认真的、严肃的）的副词形式。take something seriously 是常见搭配，表示"认真对待某事"。原文中悟空起初对看管蟠桃园的差事很上心"He took his job very seriously"——他非常认真地对待这份工作，但这和他后来偷吃蟠桃形成有趣的反差。',
+      examples: [
+        'He takes his studies very seriously.（他非常认真地对待学业。）',
+        'You should take this warning seriously.（你应该认真对待这个警告。）',
+        'Are you joking, or are you seriously proposing this?（你在开玩笑，还是认真的？）',
+      ],
+      synonyms: [
+        { word: 'earnestly', note: '认真地、诚挚地，语气更正式' },
+        { word: 'strictly', note: '严格地，侧重规则和纪律' },
+        { word: 'casually', note: '反义词：随意地、漫不经心地' },
+      ],
+    },
+    {
+      word: 'in sight',
+      phonetic: '/ɪn saɪt/',
+      brief: '在视野内，看得见',
+      pos: 'phrase',
+      detail:
+        'in sight 表示"在视野范围内、看得见"，反义词为 out of sight（看不见了）。原文中悟空四下张望"None of the gardeners were in sight"——没有任何园丁在视线内，确认四下无人后才敢偷吃蟠桃。',
+      examples: [
+        'There was no one in sight.（周围一个人影都看不见。）',
+        'Land was finally in sight.（终于看到陆地了。）',
+        'Help is nowhere in sight.（援助遥遥无期。）',
+      ],
+      synonyms: [
+        { word: 'visible', note: '可见的，形容词形式' },
+        { word: 'around', note: '在附近，不强调是否看得到' },
+        { word: 'out of sight', note: '反义词：看不见了、消失在视野外' },
+      ],
+    },
   ],
   // book_03: [ ... ],
 };
