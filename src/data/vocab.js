@@ -1724,7 +1724,26 @@ const vocab = {
       ],
     },
   ],
-  // book_03: [ ... ],
+  book_03: [
+    {
+      word: 'thick',
+      phonetic: '/θɪk/',
+      brief: '厚的，浓密的',
+      pos: 'adjective',
+      detail:
+        'thick 指"厚的、浓密的"，反义词为 thin（薄的）。可形容具体物体的厚度（a thick book 一本厚书），也可形容植被、毛发、雾气等覆盖物的浓密程度。原文中"A thick layer of moss covered the monkey"——一层厚厚的苔藓覆盖了猴子，thick 强调苔藓层之厚，暗示五百年风吹日晒、与世隔绝的漫长岁月。',
+      examples: [
+        'The wall is very thick.（这面墙非常厚。）',
+        'She has thick hair.（她的头发很浓密。）',
+        'The fog was so thick that I couldn\'t see anything.（雾太浓了，我什么都看不见。）',
+      ],
+      synonyms: [
+        { word: 'dense', note: '密集的、浓密的，侧重单位面积内数量多' },
+        { word: 'heavy', note: '重的、厚的，侧重重量感' },
+        { word: 'thin', note: '反义词：薄的、稀疏的' },
+      ],
+    },
+  ],
 };
 
 export default vocab;
