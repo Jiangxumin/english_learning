@@ -11,11 +11,11 @@ const config = {
     v4: true,
   },
 
-  url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/',
+  url: 'https://jiangxumin.github.io',
+  baseUrl: '/english_learning/',
 
-  organizationName: 'journey-to-the-west',
-  projectName: 'jtw-reader',
+  organizationName: 'Jiangxumin',
+  projectName: 'english_learning',
 
   onBrokenLinks: 'throw',
 
