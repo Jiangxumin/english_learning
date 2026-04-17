@@ -1059,6 +1059,168 @@ const vocab = {
         { word: 'out of sight', note: '反义词：看不见了、消失在视野外' },
       ],
     },
+    {
+      word: 'bit into',
+      phonetic: '/bɪt ˈɪntuː/',
+      brief: '咬了一口',
+      pos: 'phrase (past tense of bite into)',
+      detail:
+        'bite into 指"咬进去、咬一口"，过去式为 bit into。bite 的变化形式为 bite → bit → bitten。原文中悟空摘下蟠桃"and bit into it"——咬了一口，简洁地描写了他偷吃仙桃的动作。bite into 强调牙齿切入食物的过程。',
+      examples: [
+        'She bit into the apple.（她咬了一口苹果。）',
+        'He bit into the sandwich hungrily.（他饿狠狠地咬了一口三明治。）',
+        'I bit into the cookie and found a nut.（我咬了一口饼干，发现里面有坚果。）',
+      ],
+      synonyms: [
+        { word: 'took a bite of', note: '咬了一口……，更完整的表达' },
+        { word: 'nibbled', note: '小口咬、轻咬，动作更轻微' },
+        { word: 'chewed', note: '咀嚼，强调咬之后的嚼动作' },
+      ],
+    },
+    {
+      word: 'annual',
+      phonetic: '/ˈænjuəl/',
+      brief: '每年的，年度的',
+      pos: 'adjective',
+      detail:
+        'annual 表示"每年的、一年一次的"，名词形式可指"年报、年刊"。原文中"the annual Peach Festival"——一年一度的蟠桃会，是天庭最重要的盛会。注意 annual 强调周期性，annually 是其副词形式（每年地）。',
+      examples: [
+        'The company holds an annual meeting.（公司每年召开年会。）',
+        'The annual rainfall is about 1000 mm.（年降雨量约为 1000 毫米。）',
+        'We celebrate our annual holiday in July.（我们每年七月庆祝年度假期。）',
+      ],
+      synonyms: [
+        { word: 'yearly', note: '每年的，与 annual 几乎同义，更口语化' },
+        { word: 'regular', note: '定期的，不一定是每年' },
+        { word: 'monthly', note: '每月的，频率更高' },
+      ],
+    },
+    {
+      word: 'maidens',
+      phonetic: '/ˈmeɪdənz/',
+      brief: '少女，侍女',
+      pos: 'noun (plural of maiden)',
+      detail:
+        'maiden 指"年轻未婚女子、少女"，在古代语境中也可指"侍女、宫女"。原文中王母娘娘召集侍女"her maidens, Red Gown and Blue Gown"——她的侍女红衣和蓝衣，对应神话中的仙女。maiden 比 girl 更正式、更文学化。',
+      examples: [
+        'The maiden served the queen faithfully.（这位侍女忠心耿耿地服侍女王。）',
+        'In old tales, a brave knight rescues a maiden.（在古老的故事中，勇敢的骑士拯救少女。）',
+        'The ship\'s maiden voyage was a success.（这艘船的首航很成功。——maiden 作形容词表示"首次的"）',
+      ],
+      synonyms: [
+        { word: 'maids', note: '女仆、侍女，更日常的说法' },
+        { word: 'fairies', note: '仙女，带魔法色彩' },
+        { word: 'ladies', note: '女士们，更通用，不一定年轻' },
+      ],
+    },
+    {
+      word: 'How may',
+      phonetic: '/haʊ meɪ/',
+      brief: '请问可以……吗？（礼貌提供帮助）',
+      pos: 'phrase',
+      detail:
+        'How may I/we help you? 是服务场景中最常见的礼貌用语，比 How can I help you? 更正式、更客气。may 是 may 的原形，比 can 更委婉。原文中侍女问王母"How may we help you?"——我们怎样才能帮到您？体现下对上的恭敬语气。',
+      examples: [
+        'How may I help you today?（请问今天有什么可以帮您的？）',
+        'How may we be of service?（请问我们能为您做些什么？）',
+        'How may I assist you?（请问需要什么帮助？）',
+      ],
+      synonyms: [
+        { word: 'How can I help', note: '我能怎么帮忙，比 may 稍欠正式' },
+        { word: 'What can I do for you', note: '有什么我能为您做的' },
+        { word: 'How may I serve you', note: '我该如何为您效劳，极正式' },
+      ],
+    },
+    {
+      word: 'gasped',
+      phonetic: '/ɡæspt/',
+      brief: '倒吸一口凉气，惊喘',
+      pos: 'verb (past tense of gasp)',
+      detail:
+        'gasp 指因惊讶、恐惧或疼痛而猛吸一口气，发出喘息声。常搭配 gasp in surprise / horror。原文中两位仙女看到蟠桃被吃光，"both maidens gasped"——两人都倒吸一口凉气，生动表现了她们看到空荡荡桃树时的震惊。',
+      examples: [
+        'She gasped when she saw the price.（她看到价格时倒吸了一口凉气。）',
+        'He gasped in pain as the doctor touched his wound.（医生碰到伤口时他痛得倒吸一口气。）',
+        'The audience gasped at the magician\'s trick.（观众对魔术师的戏法发出惊叹。）',
+      ],
+      synonyms: [
+        { word: 'panted', note: '喘气，通常因运动或缺氧' },
+        { word: 'exclaimed', note: '惊呼，侧重发声而非吸气动作' },
+        { word: 'choked', note: '呛到、噎住，带窒息感' },
+      ],
+    },
+    {
+      word: 'startled',
+      phonetic: '/ˈstɑːrtəld/',
+      brief: '吓了一跳，受到惊吓',
+      pos: 'adjective / verb (past participle of startle)',
+      detail:
+        'startle 指突然被吓到，通常是短暂的、瞬间的惊吓，比 scared 更强调"突然性"。be startled 表示"被吓了一跳"。原文中仙女们被悟空突然跳下来吓到"The maidens were startled"——两位侍女吓了一跳，毕竟她们没想到桃树间会有人。',
+      examples: [
+        'She was startled by the loud noise.（她被巨响吓了一跳。）',
+        'The sudden knock startled him.（突然的敲门声吓了他一跳。）',
+        'I was startled to see him there.（看到他在那里我吃了一惊。）',
+      ],
+      synonyms: [
+        { word: 'scared', note: '害怕的，持续时间更长，程度可更深' },
+        { word: 'alarmed', note: '警觉的、不安的，侧重意识到危险' },
+        { word: 'surprised', note: '惊讶的，不一定是害怕' },
+      ],
+    },
+    {
+      word: 'lit up',
+      phonetic: '/lɪt ʌp/',
+      brief: '亮了起来，（眼睛）放光',
+      pos: 'phrase (past tense of light up)',
+      detail:
+        'light up 表示"点亮、照亮"，过去式为 lit up。形容眼睛时"His eyes lit up"表示他的眼睛因兴奋或期待而闪闪发亮，是非常生动的表情描写。原文中悟空听说蟠桃会"His eyes lit up"——眼睛一亮，立刻打起了如意算盘，表现了他贪吃爱热闹的天性。',
+      examples: [
+        'Her face lit up with a smile.（她脸上绽放出笑容。）',
+        'His eyes lit up when he saw the gift.（他看到礼物时眼睛一亮。）',
+        'The fireworks lit up the night sky.（烟火照亮了夜空。）',
+      ],
+      synonyms: [
+        { word: 'brightened', note: '变亮、开朗起来，更通用' },
+        { word: 'beamed', note: '满脸笑容、喜形于色，侧重表情' },
+        { word: 'glowed', note: '发光、泛红，侧重柔和的光芒' },
+      ],
+    },
+    {
+      word: 'Instantly',
+      phonetic: '/ˈɪnstəntli/',
+      brief: '立刻，马上',
+      pos: 'adverb',
+      detail:
+        'instantly 表示"立刻、瞬间"，强调某事在极短时间内发生，几乎没有延迟。形容词形式为 instant（即时的、速食的）。原文中悟空念咒后"Instantly Red Gown and Blue Gown fell asleep"——两位仙女瞬间就睡着了，instantly 突出法术生效的神速。',
+      examples: [
+        'She instantly recognized the song.（她立刻认出了那首歌。）',
+        'The medicine worked instantly.（药立刻起效了。）',
+        'He replied almost instantly.（他几乎是立刻回复的。）',
+      ],
+      synonyms: [
+        { word: 'immediately', note: '立即，最常用，语气和 instantly 接近' },
+        { word: 'at once', note: '马上、立刻，口语化' },
+        { word: 'gradually', note: '反义词：渐渐地' },
+      ],
+    },
+    {
+      word: 'cast a spell',
+      phonetic: '/kæst ə spɛl/',
+      brief: '施咒，施法',
+      pos: 'phrase',
+      detail:
+        'cast a spell (on somebody) 表示"对某人施咒、施法术"。cast 的过去式仍是 cast。spell 指咒语、法术。原文中蓝衣说悟空"cast a spell on us"——对我们施了法术（让我们睡着了）。这个短语在奇幻文学中极为常见，也可用于比喻"被迷住了"，如 She cast a spell on him（她把他迷住了）。',
+      examples: [
+        'The witch cast a spell on the princess.（女巫对公主施了咒语。）',
+        'He cast a spell to make himself invisible.（他施了隐身术。）',
+        'The beautiful music cast a spell over the audience.（美妙的音乐让观众如痴如醉。）',
+      ],
+      synonyms: [
+        { word: 'put a curse on', note: '下诅咒，语气更重、更邪恶' },
+        { word: 'use magic on', note: '对……使用魔法，更直白的说法' },
+        { word: 'hex', note: '施巫术，口语化' },
+      ],
+    },
   ],
   // book_03: [ ... ],
 };
