@@ -1489,6 +1489,240 @@ const vocab = {
         { word: 'already', note: '已经，强调动作已完成，但不强调"才刚发生"' },
       ],
     },
+    {
+      word: 'shattered',
+      phonetic: '/ˈʃætərd/',
+      brief: '粉碎，碎裂',
+      pos: 'verb (past tense of shatter)',
+      detail:
+        'shatter 指物体猛烈地碎裂成很多碎片，比 break 更强调"突然炸开、四散飞溅"的画面感。动词变化为 shatter → shattered → shattered。原文中天兵用剑砍悟空，"The swords shattered"——剑碎了，反衬悟空刀枪不入的金刚之躯。shatter 常用于玻璃、瓷器等脆性材质，用在剑上更突出了撞击之猛烈。',
+      examples: [
+        'The glass shattered into a thousand pieces.（玻璃碎成了无数片。）',
+        'The vase shattered when it hit the floor.（花瓶摔到地上碎了。）',
+        'Her hopes were shattered by the bad news.（坏消息让她的希望破灭了。——比喻用法）',
+      ],
+      synonyms: [
+        { word: 'broke', note: '弄坏、断裂，通用词，不一定碎成片' },
+        { word: 'smashed', note: '砸碎，强调外力撞击导致的破碎' },
+        { word: 'cracked', note: '裂开，可能只是出现裂缝而非完全碎裂' },
+      ],
+    },
+    {
+      word: 'Several',
+      phonetic: '/ˈsɛvərəl/',
+      brief: '几个，数个',
+      pos: 'determiner / pronoun',
+      detail:
+        'several 表示"几个、数个"，指数量在三个以上但又不太多，比 a few 多，比 many 少。在英语中 several 属于"模糊量词"，不给出精确数字但暗示"不止一两个"。原文中玉帝调来"Several fire gods"——好几位火神，several 暗示人数不少，烘托天庭动用了相当规模的火力来对付悟空，却依然无功而返。',
+      examples: [
+        'Several students raised their hands.（几个学生举起了手。）',
+        'I have read several books this month.（我这个月读了好几本书。）',
+        'Several people were injured in the accident.（好几个人在事故中受伤。）',
+      ],
+      synonyms: [
+        { word: 'a few', note: '几个，数量比 several 少，通常指三两个' },
+        { word: 'various', note: '各种各样的，侧重多样性而非数量' },
+        { word: 'numerous', note: '许多的，数量比 several 多得多，更正式' },
+      ],
+    },
+    {
+      word: 'get rid of',
+      phonetic: '/ɡɛt rɪd əv/',
+      brief: '摆脱，除掉，赶走',
+      pos: 'phrase',
+      detail:
+        'get rid of 是极常用的短语，表示"摆脱、除掉、处理掉"某人或某物，语气口语化。rid 本身是形容词（摆脱了的），只用在 be rid of / get rid of 中。原文中玉帝问"how will we get rid of him?"——我们怎么才能除掉他？get rid of 在此意为"消灭、解决掉"，因为前面刀劈火烧都不管用，玉帝的焦虑溢于言表。',
+      examples: [
+        'We need to get rid of these old newspapers.（我们需要把这些旧报纸处理掉。）',
+        'I can\'t get rid of this cold.（我这感冒怎么也好不了。）',
+        'She wanted to get rid of the annoying salesman.（她想打发掉那个烦人的推销员。）',
+      ],
+      synonyms: [
+        { word: 'eliminate', note: '消除、消灭，更正式，常用于书面语' },
+        { word: 'dispose of', note: '处理掉、处置，侧重处理废弃物的动作' },
+        { word: 'be rid of', note: '摆脱，表示状态而非动作' },
+      ],
+    },
+    {
+      word: 'coal',
+      phonetic: '/koʊl/',
+      brief: '煤，煤炭',
+      pos: 'noun',
+      detail:
+        'coal 指煤炭——一种可燃烧的黑色矿物燃料。此处"Burning pieces of coal flew everywhere"——燃烧的煤块四处飞溅，描写太上老君炼丹炉被打翻时的混乱场面。英语中 coal 可作可数名词（一块煤 = a piece of coal / a coal），也可作不可数名词（煤炭这种物质）。搭配 charcoal 指木炭，不是 coal。',
+      examples: [
+        'The factory burns coal to generate electricity.（这家工厂烧煤发电。）',
+        'He put another piece of coal on the fire.（他往火里又添了一块煤。）',
+        'Coal mining used to be a major industry here.（采煤曾是这里的主要产业。）',
+      ],
+      synonyms: [
+        { word: 'charcoal', note: '木炭，由木材烧制而成，不是煤' },
+        { word: 'ember', note: '余烬、暗火，指快熄灭的燃烧物碎片' },
+        { word: 'ash', note: '灰烬，燃烧后的残余物' },
+      ],
+    },
+    {
+      word: 'smashed',
+      phonetic: '/smæʃt/',
+      brief: '砸碎，猛击',
+      pos: 'verb (past tense of smash)',
+      detail:
+        'smash 指用力猛击使物体破碎或毁坏，强调外力的猛烈程度。变化形式为 smash → smashed → smashed。原文中悟空冲出炼丹炉后"smashed everything in the room"——把房间里的一切都砸了个粉碎。与 shatter 不同，smash 侧重"猛砸"的动作和力度，而 shatter 侧重"碎裂四散"的结果。smash 还可作名词，如 a smash hit（大热门）。',
+      examples: [
+        'He smashed the window with a rock.（他用石头砸碎了窗户。）',
+        'The car smashed into a wall.（汽车猛撞到墙上。）',
+        'She smashed the record and won the race.（她打破了纪录并赢得了比赛。——比喻用法）',
+      ],
+      synonyms: [
+        { word: 'shattered', note: '粉碎，侧重碎裂飞溅的结果而非砸击动作' },
+        { word: 'crushed', note: '压碎、碾碎，侧重从上方施压' },
+        { word: 'broke', note: '弄坏，通用词，力度和画面感都不如 smash 强' },
+      ],
+    },
+    {
+      word: 'burned up',
+      phonetic: '/bɜːrnd ʌp/',
+      brief: '烧毁，烧成灰烬',
+      pos: 'phrase (past tense of burn up)',
+      detail:
+        'burn up 指完全烧毁、烧光，强调火势之猛以至于把东西彻底烧掉。与 burn down（烧塌，指建筑物）不同，burn up 侧重物体被火焰吞噬殆尽。原文中太上老君说"I thought he was burned up"——我以为他被烧成了灰。burned up 在此是被动语态，暗示预期悟空会被大火彻底毁掉，结果却毫发无损。',
+      examples: [
+        'The meteor burned up as it entered the atmosphere.（陨石进入大气层时烧毁了。）',
+        'The papers were burned up in the fire.（那些文件在大火中烧成了灰。）',
+        'He was burned up with fever.（他烧得厉害。——burn up 也可比喻发高烧）',
+      ],
+      synonyms: [
+        { word: 'burned down', note: '烧塌，专指建筑物被烧毁倒塌' },
+        { word: 'incinerated', note: '焚化、化为灰烬，更正式，常用于专业语境' },
+        { word: 'burned out', note: '烧空、烧尽，指内部被烧光但外壳可能还在' },
+      ],
+    },
+    {
+      word: 'outrage',
+      phonetic: '/ˈaʊtreɪdʒ/',
+      brief: '暴行；震怒，愤慨',
+      pos: 'noun',
+      detail:
+        'outrage 作名词指"令人震惊的暴行、不公正行为"，也可指人们因此产生的"震怒、愤慨"情绪。原文中玉帝怒吼"This is an outrage!"——这简直是无法无天！outrage 比 anger 更强烈，不仅愤怒，还包含"不可置信、不可容忍"的意味，是天庭最高统治者对悟空公然挑衅的极度愤慨。',
+      examples: [
+        'The public expressed outrage at the decision.（公众对这个决定表示愤慨。）',
+        'The scandal caused national outrage.（丑闻引发了全国性的愤怒。）',
+        'What an outrage! How could they do that?（简直无法无天！他们怎么能这样做？）',
+      ],
+      synonyms: [
+        { word: 'scandal', note: '丑闻、丑事，侧重道德层面引发公愤的事件' },
+        { word: 'atrocity', note: '暴行、残暴行为，程度更重，多指战争或暴力罪行' },
+        { word: 'indignation', note: '义愤，因不公正而愤怒，更正式' },
+      ],
+    },
+    {
+      word: 'figure',
+      phonetic: '/ˈfɪɡjər/',
+      brief: '身影，人影，轮廓',
+      pos: 'noun',
+      detail:
+        'figure 在此处指"人影、身影"，强调看到一个模糊或远处的身影轮廓，而不具体描写面部细节。原文中悟空突然停下，"Before him was a huge figure, glowing with golden light"——面前出现一个巨大的身影，浑身散发着金光。figure 暗示这人威严而神秘，制造悬念——直到下文才揭示是如来佛祖。figure 还有"数字""人物""体形"等多个常用含义。',
+      examples: [
+        'A tall figure appeared in the doorway.（一个高大的身影出现在门口。）',
+        'I saw a dark figure standing by the tree.（我看到一个黑影站在树旁。）',
+        'She is an important figure in Chinese history.（她是中国历史上的重要人物。——"人物"含义）',
+      ],
+      synonyms: [
+        { word: 'shape', note: '形状、轮廓，更模糊，不一定是人' },
+        { word: 'silhouette', note: '剪影，侧影，强调逆光下的黑色轮廓' },
+        { word: 'person', note: '人，直接指明是人，缺少 figure 的模糊和悬念感' },
+      ],
+    },
+    {
+      word: 'formulas',
+      phonetic: '/ˈfɔːrmjələz/',
+      brief: '公式，秘诀，口诀',
+      pos: 'noun (plural of formula)',
+      detail:
+        'formula 本义是"公式、方程式"（数学/化学），此处引申为"秘诀、法术口诀"。悟空说"A sage taught me secret formulas"——一位仙人教了我秘传口诀，对应西游记中菩提祖师传授的七十二变和筋斗云等法术。复数 formulas（也可写作 formulae /ˈfɔːrmjəliː/）暗示不止一种法术。',
+      examples: [
+        'There is no magic formula for success.（成功没有神奇的秘诀。）',
+        'The scientist developed a new formula for the medicine.（科学家研发了新药配方。）',
+        'H₂O is the formula for water.（H₂O 是水的化学式。）',
+      ],
+      synonyms: [
+        { word: 'spells', note: '咒语，魔法用语，更偏向奇幻文学' },
+        { word: 'recipes', note: '配方、秘诀，侧重材料组合的方法' },
+        { word: 'incantations', note: '咒文、念诵，更正式，多用于宗教或仪式语境' },
+      ],
+    },
+    {
+      word: 'severely',
+      phonetic: '/səˈvɪrli/',
+      brief: '严厉地，严重地',
+      pos: 'adverb',
+      detail:
+        'severely 是 severe（严厉的、严重的）的副词形式，表示"严厉地、严重地"。修饰惩罚时表示惩罚极其严酷，修饰伤势时表示伤情很重。原文中佛祖对悟空说"you will be punished severely"——你将受到严厉的惩罚。severely 修饰 punished，强调输了赌注的后果绝非轻微的教训，暗示被压五行山的命运。注意 severe 的名词形式为 severity。',
+      examples: [
+        'He was severely punished for his mistake.（他因错误受到了严厉的惩罚。）',
+        'She was severely injured in the accident.（她在事故中受了重伤。）',
+        'The teacher severely criticized the student.（老师严厉地批评了那个学生。）',
+      ],
+      synonyms: [
+        { word: 'harshly', note: '严酷地、粗暴地，侧重方式的无情' },
+        { word: 'strictly', note: '严格地，侧重规则执行的一丝不苟' },
+        { word: 'lightly', note: '反义词：轻轻地、轻微地' },
+      ],
+    },
+    {
+      word: 'palm',
+      phonetic: '/pɑːm/',
+      brief: '手掌，手心',
+      pos: 'noun',
+      detail:
+        'palm 指"手掌、手心"，即手的内侧从手腕到手指根部的部分。也可指棕榈树（palm tree）。原文中悟空"Wukong stepped up onto Buddha\'s palm"——悟空跳上了佛祖的手掌，这是西游记最经典的场景之一：如来佛祖掌中天地，悟空自以为跳到天边，实际从未离开佛祖的手心。palm 在此构成绝妙的隐喻——无论悟空多么强大，都逃不出佛祖的掌心。',
+      examples: [
+        'She held the tiny bird in the palm of her hand.（她把小鸟捧在手心里。）',
+        'He read his fortune from the lines on his palm.（他看手相算命。）',
+        'Coconuts grow on palm trees.（椰子长在棕榈树上。——palm 的另一含义）',
+      ],
+      synonyms: [
+        { word: 'hand', note: '手，通用词，palm 特指手掌那一面' },
+        { word: 'grasp', note: '抓握、掌控，侧重握住的动作或控制的权力' },
+        { word: 'fist', note: '拳头，手握紧的状态，与 palm（手掌张开）相反' },
+      ],
+    },
+    {
+      word: 'grunted',
+      phonetic: '/ɡrʌntɪd/',
+      brief: '咕哝，发出低沉的哼声',
+      pos: 'verb (past tense of grunt)',
+      detail:
+        'grunt 指从喉咙深处发出的低沉短促声音，人在用力、不满或猪叫时都会 grunt。原文中悟空被大山压住，"Grr!" Wukong grunted, and pushed with all his strength——悟空低吼一声，拼尽全力去推。grunted 配合"Grr!"的拟声词，生动再现了他咬牙用力的画面。grunt 也可作名词，如 a grunt of effort（一声用力的闷哼）。',
+      examples: [
+        'He grunted as he lifted the heavy box.（他搬重箱子时闷哼了一声。）',
+        'She grunted in reply, not bothering to look up.（她咕哝了一声算作回答，头都没抬。）',
+        'The pig grunted happily while eating.（猪吃东西时发出满足的哼哼声。）',
+      ],
+      synonyms: [
+        { word: 'groaned', note: '呻吟，声音更长、更低沉，多因痛苦或疲惫' },
+        { word: 'growled', note: '低吼，更凶狠，带有威胁意味' },
+        { word: 'muttered', note: '嘀咕、含糊地说，侧重说出口的话而非发声' },
+      ],
+    },
+    {
+      word: 'trapped',
+      phonetic: '/træpt/',
+      brief: '被困住，被束缚',
+      pos: 'verb (past participle of trap) / adjective',
+      detail:
+        'trap 作动词指"困住、使落入陷阱"，此处 trapped 是被动语态"will be trapped"——将被困住。也可作形容词表示"被困的、受困的"。原文中佛祖说"He will be trapped until his punishment is over"——他将被困在这里直到惩罚结束。trapped 在此意味着悟空完全失去了自由行动的能力，被压在五行山下无法逃脱，对应中文"镇压"之意。',
+      examples: [
+        'The hikers were trapped by the sudden snowstorm.（登山者被突如其来的暴风雪困住了。）',
+        'She felt trapped in her boring job.（她觉得自己被困在无聊的工作中。——比喻用法）',
+        'A bear was trapped in the net.（一只熊被困在网里了。）',
+      ],
+      synonyms: [
+        { word: 'stuck', note: '卡住、困住，更口语化，程度可轻可重' },
+        { word: 'confined', note: '被限制、禁闭，侧重空间上的约束' },
+        { word: 'imprisoned', note: '被监禁，更正式，强调法律或官方的关押' },
+      ],
+    },
   ],
   // book_03: [ ... ],
 };
