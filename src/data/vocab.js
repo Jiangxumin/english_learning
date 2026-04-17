@@ -1204,6 +1204,24 @@ const vocab = {
       ],
     },
     {
+      word: 'moaned',
+      phonetic: '/moʊnd/',
+      brief: '呻吟着说，哀叹',
+      pos: 'verb (past tense of moan)',
+      detail:
+        'moan 作动词指"呻吟、发出低沉的哀声"，常因痛苦、悲伤或绝望而发出。此处用于引述动词 "moaned the Jade Emperor"——玉帝哀叹道，描写他在天兵天将全部败退后的无力与绝望。moan 作引述动词比 said 更具情感色彩，传递出说话者内心的沮丧。',
+      examples: [
+        'The patient moaned in pain.（病人痛苦地呻吟着。）',
+        '"What are we going to do?" she moaned.（"我们该怎么办？"她哀叹道。）',
+        'He moaned about his bad luck all day.（他整天抱怨自己运气不好。）',
+      ],
+      synonyms: [
+        { word: 'groaned', note: '呻吟、发出沉闷的声音，比 moan 更粗重' },
+        { word: 'sighed', note: '叹气，语气更轻，更偏向无奈而非痛苦' },
+        { word: 'complained', note: '抱怨，侧重言语上的不满，而非声音上的哀叹' },
+      ],
+    },
+    {
       word: 'cast a spell',
       phonetic: '/kæst ə spɛl/',
       brief: '施咒，施法',
@@ -1219,6 +1237,256 @@ const vocab = {
         { word: 'put a curse on', note: '下诅咒，语气更重、更邪恶' },
         { word: 'use magic on', note: '对……使用魔法，更直白的说法' },
         { word: 'hex', note: '施巫术，口语化' },
+      ],
+    },
+    {
+      word: 'hurled',
+      phonetic: '/hɜːrld/',
+      brief: '猛投，用力掷出',
+      pos: 'verb (past tense of hurl)',
+      detail:
+        'hurl 指用全力投掷某物，力度和速度都远超 throw。原文中太上老君取下臂上的金刚圈，瞄准后"hurled it down to Earth"——猛地掷向地面，砸中悟空。hurl 比 throw 更暴力、更急促，常带有愤怒或决绝的意味。太上老君从天庭高处向下猛掷金刚圈，hurl 完美传达了这一击的力道和下坠的速度。',
+      examples: [
+        'He hurled the ball as far as he could.（他尽全力把球扔了出去。）',
+        'The protesters hurled stones at the police.（抗议者向警察投掷石块。）',
+        'She hurled insults at him.（她对他破口大骂。——比喻用法）',
+      ],
+      synonyms: [
+        { word: 'threw', note: '扔，最通用，力度可大可小' },
+        { word: 'flung', note: '猛甩、用力抛，强调动作的突然性和随意性' },
+        { word: 'tossed', note: '轻轻抛、随意扔，力度远不及 hurl' },
+      ],
+    },
+    {
+      word: 'right',
+      phonetic: '/raɪt/',
+      brief: '紧紧地，就在（强调位置或时间）',
+      pos: 'adverb',
+      detail:
+        'right 此处不是形容词"正确的"，而是副词，表示"就在、紧紧地"，用于强调位置或时间的精确性。原文中"Erlang was right behind him"——二郎神就在他身后紧追不舍。right behind 表示"紧贴在后面、几乎追上"，比单纯的 behind him 紧迫感强得多。类似的用法还有 right here（就在这里）、right now（就在此刻）。',
+      examples: [
+        'She lives right next door.（她就住在隔壁。）',
+        'I\'ll be there right after dinner.（我吃完饭马上就到。）',
+        'He stood right in front of me.（他就站在我正前方。）',
+      ],
+      synonyms: [
+        { word: 'directly', note: '直接地、正好，强调位置的精确' },
+        { word: 'exactly', note: '确切地，侧重准确无误' },
+        { word: 'just', note: '就、正好，口语化程度相当，但语气稍轻' },
+      ],
+    },
+    {
+      word: 'temple',
+      phonetic: '/ˈtɛmpəl/',
+      brief: '庙宇，寺院',
+      pos: 'noun',
+      detail:
+        'temple 指宗教祭祀场所，在中文语境中通常对应"庙、寺、神殿"。原文中悟空灵机一动"I\'ll turn myself into a temple"——我把自己变成一座庙！这是七十二变中最幽默的一段：悟空眼睛变窗户，嘴巴变大门，尾巴变旗杆。但尾巴没处放只能竖在庙后——正是这个破绽被二郎神识破。注意 temple 还有另一个常见含义——"太阳穴"（头两侧），如 He was hit on the temple。',
+      examples: [
+        'They visited an ancient temple in the mountains.（他们参观了山中的一座古庙。）',
+        'The temple was built hundreds of years ago.（这座庙是几百年前建的。）',
+        'She rubbed her temples to ease the headache.（她揉了揉太阳穴缓解头疼。——"太阳穴"含义）',
+      ],
+      synonyms: [
+        { word: 'shrine', note: '神龛、圣地，规模通常较小，供奉特定神灵' },
+        { word: 'monastery', note: '修道院、僧院，侧重僧侣居住的场所' },
+        { word: 'sanctuary', note: '圣所、庇护所，更强调神圣或安全的空间' },
+      ],
+    },
+    {
+      word: 'crane',
+      phonetic: '/kreɪn/',
+      brief: '鹤',
+      pos: 'noun',
+      detail:
+        'crane 是一种长腿长颈的大型水鸟——鹤，常在溪流、沼泽边捕鱼。原文中悟空变成鱼藏入溪流，但二郎神又变成一只 crane 来捕他——鹤以鱼为食，是鱼的天然天敌。这是七十二变斗法中"一物降一物"的第三轮：麻雀→鹰→鱼→鹤，每次变化都形成食物链上的压制关系。注意 crane 还有另一个常见含义——"起重机"（同形同音异义词）。',
+      examples: [
+        'A crane stood gracefully in the shallow water.（一只鹤优雅地站在浅水中。）',
+        'Cranes migrate south for the winter.（鹤群冬季南迁。）',
+        'A crane lifted the steel beams.（一台起重机吊起了钢梁。——"起重机"含义）',
+      ],
+      synonyms: [
+        { word: 'heron', note: '鹭，外形与鹤相似，但脖子弯曲方式不同，常在淡水边捕鱼' },
+        { word: 'stork', note: '鹳，西方传说中送子的鸟' },
+      ],
+    },
+    {
+      word: 'swooped',
+      phonetic: '/swuːpt/',
+      brief: '俯冲，猛扑下来',
+      pos: 'verb (past tense of swoop)',
+      detail:
+        'swoop 指从高处猛然向下俯冲，常用于猛禽捕食时的动作，也可用于警察突击等比喻场景。原文中"The hawk swooped toward him"——鹰朝他俯冲过来，swooped 完美捕捉了猛禽收翅加速、从空中直扑猎物的那一瞬间，速度感和威胁感十足。',
+      examples: [
+        'The eagle swooped down and grabbed the rabbit.（鹰俯冲下来抓住了兔子。）',
+        'The police swooped on the hideout.（警察突袭了藏身点。）',
+        'The owl swooped silently through the night.（猫头鹰在夜空中无声地俯冲。）',
+      ],
+      synonyms: [
+        { word: 'dived', note: '俯冲、潜水，通用词，不限于从空中向下' },
+        { word: 'plunged', note: '急速坠落、猛冲，更强调垂直向下的速度' },
+        { word: 'pounced', note: '猛扑，强调着陆瞬间的扑击，常用于猫科动物' },
+      ],
+    },
+    {
+      word: 'hawk',
+      phonetic: '/hɔːk/',
+      brief: '鹰，隼',
+      pos: 'noun',
+      detail:
+        'hawk 是一种猛禽，捕食小型鸟类、老鼠等，视力锐利、飞行迅猛。原文中悟空变成麻雀躲藏，抬头却看到一只 hawk 俯冲而来——那是二郎神变的！hawk 是 sparrow 的天敌，这一变化对决完美体现了"一物降一物"：你变小躲藏，我就变成捕食你的猛禽来追踪。',
+      examples: [
+        'A hawk circled high above the field.（一只鹰在田野上空盘旋。）',
+        'Hawks hunt small birds and mice.（鹰捕食小鸟和老鼠。）',
+        'He watched like a hawk.（他像鹰一样密切注视着。——比喻锐利的监视）',
+      ],
+      synonyms: [
+        { word: 'eagle', note: '鹰、雕，体型比 hawk 更大，象征力量' },
+        { word: 'falcon', note: '隼，飞行速度极快的猛禽' },
+        { word: 'vulture', note: '秃鹫，食腐猛禽，不捕猎活物' },
+      ],
+    },
+    {
+      word: 'perched',
+      phonetic: '/pɜːrtʃt/',
+      brief: '栖息，停落（在树枝上）',
+      pos: 'verb (past tense of perch)',
+      detail:
+        'perch 指鸟儿停在树枝、电线等高处休息或观察，也可指人坐在边缘位置。原文中悟空变成麻雀后"perched on a branch"——栖息在一根树枝上，perch 是描写鸟类动作最地道的动词，比 sat 或 stood 更精准，自带"小巧的脚爪稳稳扣住细枝"的画面。',
+      examples: [
+        'A bird perched on the windowsill.（一只鸟停在窗台上。）',
+        'The eagle perched at the top of the tree.（老鹰栖息在树顶。）',
+        'She perched on the edge of the chair.（她坐在椅子边上。）',
+      ],
+      synonyms: [
+        { word: 'roosted', note: '栖息、歇息，特指鸟类夜间回巢休息' },
+        { word: 'alighted', note: '飞落、降落，强调从飞行中落下的动作' },
+        { word: 'settled', note: '落下、安顿，通用词，不限于鸟类' },
+      ],
+    },
+    {
+      word: 'sparrow',
+      phonetic: '/ˈspæroʊ/',
+      brief: '麻雀',
+      pos: 'noun',
+      detail:
+        'sparrow 是一种小型常见的鸟类——麻雀。在《西游记》七十二变的斗法情节中，悟空变成一只麻雀想躲过二郎神，但二郎神有第三只眼（天眼），立刻识破并变成一只鹰（hawk）来扑他。sparrow 体型小巧、不起眼，悟空选它正是为了隐蔽；而 hawk 是猛禽，以小型鸟类为食，形成天然的食物链压制——这一鸟一鹰的变化对决是全书最精彩的斗法段落之一。',
+      examples: [
+        'A sparrow was singing on the roof.（一只麻雀在屋顶上歌唱。）',
+        'Sparrows are common city birds.（麻雀是常见的城市鸟类。）',
+        'The sparrow pecked at the crumbs.（麻雀啄食面包屑。）',
+      ],
+      synonyms: [
+        { word: 'finch', note: '雀类，体型相近但颜色通常更鲜艳' },
+        { word: 'wren', note: '鹪鹩，体型更小的鸣禽' },
+      ],
+    },
+    {
+      word: 'banged',
+      phonetic: '/bæŋd/',
+      brief: '猛撞，砰砰作响',
+      pos: 'verb (past tense of bang)',
+      detail:
+        'bang 指发出巨大的撞击声，既可作动词也可作名词。原文中"Their weapons banged together all through the night"——他们的兵器彻夜相撞，砰砰作响。banged 是拟声词，读起来就有"砰"的声响感，比 hit 或 struck 更强调碰撞时的巨大噪音和力量感。',
+      examples: [
+        'He banged the door shut.（他砰的一声关上了门。）',
+        'The two cars banged into each other.（两辆车猛地撞在了一起。）',
+        'She banged her head on the shelf.（她的头撞到了架子上。）',
+      ],
+      synonyms: [
+        { word: 'crashed', note: '猛烈碰撞、坠毁，破坏性更强' },
+        { word: 'clashed', note: '交锋、撞击，常用于刀剑相碰的清脆声响' },
+        { word: 'thudded', note: '沉闷地撞击，发出"咚"的低沉声响' },
+      ],
+    },
+    {
+      word: 'swirled',
+      phonetic: '/swɜːrld/',
+      brief: '旋转，翻涌',
+      pos: 'verb (past tense of swirl)',
+      detail:
+        'swirl 指水流、气流或烟雾等呈螺旋状旋转、翻涌。原文中"Clouds swirled and wind blew as the two giants fought in the sky"——两位巨人在天空激战时云层翻涌、狂风呼啸。swirled 比 moved 或 blew 更有画面感，描绘出云团在巨大力量搅动下螺旋翻滚的动态景象，烘托战斗的激烈与壮观。',
+      examples: [
+        'Dust swirled in the wind.（尘土在风中旋转飞扬。）',
+        'The river swirled around the rocks.（河水在岩石周围打着旋儿。）',
+        'Smoke swirled up from the chimney.（烟雾从烟囱里袅袅盘旋而上。）',
+      ],
+      synonyms: [
+        { word: 'whirled', note: '飞速旋转，强调速度，可指物体或人' },
+        { word: 'eddie', note: '打旋、形成漩涡，专指水流' },
+        { word: 'churned', note: '剧烈翻搅，强调内部搅动而非旋转' },
+      ],
+    },
+    {
+      word: 'struck',
+      phonetic: '/strʌk/',
+      brief: '击打，攻击',
+      pos: 'verb (past tense of strike)',
+      detail:
+        'strike 指用力击打、攻击，过去式和过去分词均为 struck。原文中"Erlang blocked the bar with his sword and then struck back"——二郎神用剑挡住铁棒，随即反击。struck back 表示"反击、回击"，strike 在战斗场景中比 hit 更正式、更有力度感，常用于剑击、雷击等有力量的打击。',
+      examples: [
+        'He struck the table with his fist.（他用拳头猛击桌面。）',
+        'Lightning struck the tree.（闪电击中了那棵树。）',
+        'She struck back at her attacker.（她向袭击者反击。）',
+      ],
+      synonyms: [
+        { word: 'hit', note: '打、击，最通用的词，力度可大可小' },
+        { word: 'slashed', note: '猛砍、劈，强调用刀剑横向挥击' },
+        { word: 'smashed', note: '猛砸、粉碎，强调破坏性力量' },
+      ],
+    },
+    {
+      word: 'punished',
+      phonetic: '/ˈpʌnɪʃt/',
+      brief: '被惩罚，受到处罚',
+      pos: 'verb (past participle of punish)',
+      detail:
+        'punish 指因某人的过错或罪行而施加惩罚。被动形式 be punished 表示"被惩罚、受到处罚"。原文中二郎神警告悟空"And you will be punished!"——你将会受到惩罚！这是天庭对叛逆者的官方威胁语气，you will be punished 用被动语态显得冷酷而正式，好像惩罚是不可避免的命运。',
+      examples: [
+        'The criminal was punished severely.（罪犯受到了严厉的惩罚。）',
+        'If you break the rules, you will be punished.（如果你违反规则，将会受到处罚。）',
+        'She punished her son for lying.（她因儿子撒谎而惩罚了他。）',
+      ],
+      synonyms: [
+        { word: 'penalized', note: '被处罚，更正式，常用于体育或制度上的处罚' },
+        { word: 'disciplined', note: '被管教、处分，语气较轻，侧重教育目的' },
+        { word: 'rewarded', note: '反义词：被奖赏' },
+      ],
+    },
+    {
+      word: 'no match for',
+      phonetic: '/noʊ mætʃ fɔːr/',
+      brief: '不是……的对手，比不上',
+      pos: 'phrase',
+      detail:
+        'no match for somebody 表示"完全不是某人的对手、远远比不上"，强调双方实力悬殊，一方毫无胜算。原文中悟空得意地说"He and his army are no match for---"——他和他的军队根本不是……的对手，话还没说完就被打断，自信满满的语气通过 no match for 一览无余。',
+      examples: [
+        'She is no match for him in chess.（她下棋根本不是他的对手。）',
+        'Our team was no match for the champions.（我们队完全不是冠军队的对手。）',
+        'This old car is no match for a sports car.（这辆旧车比不上跑车。）',
+      ],
+      synonyms: [
+        { word: "can't hold a candle to", note: '远远比不上，更口语化、更形象的比喻' },
+        { word: 'outclassed by', note: '被……完全碾压，强调实力差距' },
+        { word: 'inferior to', note: '不如、次于，更正式，语气较平' },
+      ],
+    },
+    {
+      word: 'just',
+      phonetic: '/dʒʌst/',
+      brief: '刚刚，刚才',
+      pos: 'adverb',
+      detail:
+        'just 在此处表示"刚刚、刚才"，用于完成时态中强调动作在极短时间之前发生。原文中长臂猿欢呼"Our king has just defeated an entire army from Heaven!"——咱们大王刚刚打败了天庭的一整支大军！just 让胜利听起来还热乎着，烘托出猴子们兴奋自豪的情绪。just 在英语中用法极多，此处是时间副词用法。',
+      examples: [
+        'I have just finished my homework.（我刚做完作业。）',
+        'She just left the office.（她刚离开办公室。）',
+        'They\'ve just arrived at the airport.（他们刚到机场。）',
+      ],
+      synonyms: [
+        { word: 'recently', note: '最近，时间范围比 just 更宽，不强调"刚刚"' },
+        { word: 'a moment ago', note: '刚才，短语形式，更口语化' },
+        { word: 'already', note: '已经，强调动作已完成，但不强调"才刚发生"' },
       ],
     },
   ],
