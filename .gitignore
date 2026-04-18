@@ -6,3 +6,5 @@ build/
 
 # Docusaurus cache
 .docusaurus/
+
+.playwright-mcp/

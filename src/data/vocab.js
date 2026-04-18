@@ -2053,6 +2053,418 @@ const vocab = {
         { word: 'whispered', note: '反义词：低语，轻声说' },
       ],
     },
+    {
+      word: 'trembled',
+      phonetic: '/ˈtrembld/',
+      brief: '颤抖，发抖',
+      pos: 'verb',
+      detail:
+        'trembled 是 tremble 的过去式，意为"颤抖、发抖"，多因恐惧、寒冷或激动引起的不自主身体震动。原文中"The Tang Monk trembled with fear"——唐僧吓得发抖，trembled with fear 是经典搭配，生动描绘了唐僧听到山底传来的怒声时的恐惧反应。',
+      examples: [
+        'She trembled with cold.（她冷得发抖。）',
+        'His hands trembled as he opened the letter.（他拆信时双手颤抖。）',
+        'The dog trembled with fear during the storm.（暴风雨中那只狗吓得直发抖。）',
+      ],
+      synonyms: [
+        { word: 'shivered', note: '战栗、哆嗦，多因寒冷或恐惧引起' },
+        { word: 'shook', note: '摇动、发抖，动作幅度通常比 tremble 大' },
+        { word: 'quivered', note: '微微颤动，侧重轻微的、持续的抖动' },
+      ],
+    },
+    {
+      word: 'tumbled',
+      phonetic: '/ˈtʌmbld/',
+      brief: '滚落，翻滚下来',
+      pos: 'verb',
+      detail:
+        'tumbled 是 tumble 的过去式，意为"滚落、翻滚"，指人或物体失去平衡后沿着斜面翻滚而下。原文中"He fell off his horse and tumbled down the mountain"——他从马上摔下来，沿山坡翻滚而下，tumbled 比 fell 更具画面感，强调连续翻滚的动作，而非单纯的下坠。',
+      examples: [
+        'The rocks tumbled down the hillside.（岩石从山坡上滚落。）',
+        'She tumbled off the bike and scraped her knee.（她从自行车上摔下来，擦破了膝盖。）',
+        'The child tumbled into the pile of leaves.（孩子一头扎进了落叶堆里。）',
+      ],
+      synonyms: [
+        { word: 'rolled', note: '滚动，强调物体沿某个方向持续转动' },
+        { word: 'fell', note: '落下、掉落，最基础的说法，不强调翻滚动作' },
+        { word: 'plummeted', note: '垂直坠落，速度更快、更危险' },
+      ],
+    },
+    {
+      word: 'gasped',
+      phonetic: '/ɡæspt/',
+      brief: '倒吸一口气，惊喘',
+      pos: 'verb',
+      detail:
+        'gasped 是 gasp 的过去式，意为"倒吸一口气、惊喘"，指因惊讶、恐惧或疼痛而突然猛吸一口气。原文中出现了两次：第一次 Wukong 听到唐僧身份时 gasped（惊讶地倒吸一口气）；第二次唐僧看到整座山飞起时 gasped（震惊地倒吸一口气）。两次 gasped 都标志着关键剧情转折——先是对身份的确认，后是对法力的震撼。',
+      examples: [
+        'She gasped when she saw the surprise.（她看到惊喜时倒吸了一口气。）',
+        'He gasped in pain as the doctor touched his wound.（医生碰到伤口时他痛得倒吸凉气。）',
+        '"You did what?!" she gasped.（"你做了什么？！"她惊喘道。）',
+      ],
+      synonyms: [
+        { word: 'panted', note: '气喘吁吁，侧重运动后大口喘气' },
+        { word: 'choked', note: '呛到、哽咽，侧重呼吸困难' },
+        { word: 'exclaimed', note: '惊叫，侧重声音表达而非呼吸动作' },
+      ],
+    },
+    {
+      word: 'supposed to',
+      phonetic: '/səˈpoʊzd tə/',
+      brief: '应该，理应',
+      pos: 'phrase',
+      detail:
+        'be supposed to 意为"应该、理应"，表示根据约定、计划或期望某人应该做某事。原文中"I\'m supposed to go with you!"——我理应跟你一起去！Wukong 用 supposed to 强调这不是他自己的主意，而是 Guanyin 安排的命运——他被"注定"要保护唐僧取经。',
+      examples: [
+        'You are supposed to hand in your homework today.（你今天应该交作业。）',
+        'The meeting was supposed to start at 9.（会议本应在9点开始。）',
+        'She is supposed to be the best student in class.（她应该是班里最好的学生。）',
+      ],
+      synonyms: [
+        { word: 'meant to', note: '注定、本应，语气与 supposed to 接近' },
+        { word: 'expected to', note: '被期望做某事，侧重他人期待' },
+        { word: 'ought to', note: '应该，更正式，带有道德义务意味' },
+      ],
+    },
+    {
+      word: 'went on',
+      phonetic: '/wɛnt ɒn/',
+      brief: '继续说，接着讲',
+      pos: 'phrase',
+      detail:
+        'went on 是 go on 的过去式，在此意为"继续说、接着讲"，用于描述一个人说完一段话后接着往下说。原文中"The bodhisattva Guanyin visited me, Wukong went on"——悟空继续说道。went on 在对话中起到连接上下文的作用，表明 Wukong 在前文的惊呼后进一步解释自己的来历。',
+      examples: [
+        '"And then," she went on, "we found the treasure."（"然后，"她继续说，"我们发现了宝藏。"）',
+        'He went on to explain the rules.（他继续解释规则。）',
+        'After a pause, she went on with her story.（停顿了一下后，她继续讲她的故事。）',
+      ],
+      synonyms: [
+        { word: 'continued', note: '继续，最中性的说法，不如 went on 口语化' },
+        { word: 'added', note: '补充说，侧重增加新信息' },
+        { word: 'proceeded', note: '继续进行，更正式' },
+      ],
+    },
+    {
+      word: 'shrubs',
+      phonetic: '/ʃrʌbz/',
+      brief: '灌木，矮树丛',
+      pos: 'noun',
+      detail:
+        'shrubs 是 shrub 的复数形式，意为"灌木、矮树丛"，指没有明显主干、靠近地面分枝的矮小木本植物。原文中"He pushed aside shrubs and brambles"——他拨开灌木和荆棘，shrubs 和 brambles 并列，描绘唐僧上山寻纸条时一路披荆斩棘的艰难场景。',
+      examples: [
+        'The garden was full of flowering shrubs.（花园里开满了花的灌木。）',
+        'He hid behind the shrubs.（他躲在灌木丛后面。）',
+        'The gardener trimmed the shrubs into shapes.（园丁把灌木修剪成各种形状。）',
+      ],
+      synonyms: [
+        { word: 'bushes', note: '灌木，与 shrubs 几乎同义，更口语化' },
+        { word: 'thickets', note: '密林、灌丛，侧重茂密难行' },
+        { word: 'hedges', note: '树篱，人工种植排列成行的灌木' },
+      ],
+    },
+    {
+      word: 'brambles',
+      phonetic: '/ˈbræmblz/',
+      brief: '荆棘，带刺灌木',
+      pos: 'noun',
+      detail:
+        'brambles 是 bramble 的复数形式，意为"荆棘、带刺灌木"，特指结浆果的带刺藤蔓植物（如黑莓丛）。原文中与 shrubs 并列出现——"pushed aside shrubs and brambles"——唐僧拨开灌木和荆棘，brambles 比 shrubs 更难通行，因为带有尖刺，暗示上山之路越走越艰辛。',
+      examples: [
+        'We had to push through the brambles.（我们不得不从荆棘丛中穿过。）',
+        'Wild blackberries grow on brambles.（野黑莓长在荆棘藤上。）',
+        'The brambles scratched her arms.（荆棘划伤了她的手臂。）',
+      ],
+      synonyms: [
+        { word: 'thorns', note: '刺、荆棘，侧重尖锐的刺本身' },
+        { word: 'thickets', note: '密灌丛，侧重茂密，不一定有刺' },
+        { word: 'briers', note: '荆棘，与 bramble 近义，多见于英式英语' },
+      ],
+    },
+    {
+      word: 'boulders',
+      phonetic: '/ˈboʊldərz/',
+      brief: '巨石，大圆石',
+      pos: 'noun',
+      detail:
+        'boulders 是 boulder 的复数形式，意为"巨石、大圆石"，指体积很大的光滑岩石，通常由风化或水流磨圆。原文中"pulled himself over large boulders"——他攀过巨大的圆石，boulders 表明山路上的巨石大到需要攀爬（pull himself over），进一步强调唐僧为了取下纸条而付出的体力。',
+      examples: [
+        'The hikers sat on a boulder to rest.（徒步者坐在一块巨石上休息。）',
+        'Boulders lined the riverbank.（河岸边排列着大圆石。）',
+        'The climbers scrambled over the boulders.（攀岩者手脚并用爬过巨石。）',
+      ],
+      synonyms: [
+        { word: 'rocks', note: '岩石，泛指，大小不限' },
+        { word: 'stones', note: '石头，通常比 boulders 小' },
+        { word: 'crags', note: '峭壁岩石，多指悬崖上的突起' },
+      ],
+    },
+    {
+      word: 'peak',
+      phonetic: '/piːk/',
+      brief: '山峰，山顶',
+      pos: 'noun',
+      detail:
+        'peak 意为"山峰、山顶"，指山的最高点。也可作形容词表示"巅峰的、最高的"。原文中"reached the mountain\'s peak"——到达了山顶，peak 标志着唐僧攀爬的终点，也是故事的关键转折——山顶上的纸条封印着 Wukong，取下纸条意味着即将释放齐天大圣。',
+      examples: [
+        'We finally reached the peak of the mountain.（我们终于到达了山顶。）',
+        'The mountain peak was covered in snow.（山顶被雪覆盖。）',
+        'Traffic reaches its peak during rush hour.（交通在高峰期达到顶峰。）',
+      ],
+      synonyms: [
+        { word: 'summit', note: '顶峰，更正式，常用于指最高级别的会议或成就' },
+        { word: 'top', note: '顶部，最通用的说法' },
+        { word: 'crest', note: '山脊、顶端，侧重线条的隆起部分' },
+      ],
+    },
+    {
+      word: 'breeze',
+      phonetic: '/briːz/',
+      brief: '微风，和风',
+      pos: 'noun',
+      detail:
+        'breeze 意为"微风、和风"，指轻柔的风。原文中"a breeze swept it from his hand"——一阵微风将它从他手中吹走。看似自然的风，实则是封印解除的超自然现象——纸条被风带回归佛陀手中。breeze 用轻柔的自然意象包裹了神圣的法力，体现了中国神话中"道法自然"的审美。',
+      examples: [
+        'A cool breeze blew through the window.（一阵凉风从窗口吹进来。）',
+        'The sea breeze felt wonderful.（海风让人心旷神怡。）',
+        'Let\'s go for a walk and enjoy the breeze.（我们去散步，享受微风吧。）',
+      ],
+      synonyms: [
+        { word: 'wind', note: '风，泛指，不强调强弱' },
+        { word: 'gust', note: '一阵强风，突然且猛烈' },
+        { word: 'zephyr', note: '和风，文学化用词，源自希腊神话中的西风之神' },
+      ],
+    },
+    {
+      word: 'swept',
+      phonetic: '/swept/',
+      brief: '席卷，横扫（sweep 的过去式）',
+      pos: 'verb',
+      detail:
+        'swept 是 sweep 的过去式，意为"席卷、横扫、扫过"，指快速有力地将某物带走或掠过某个区域。原文中"a breeze swept it from his hand"——一阵微风将纸条从他手中卷走，swept 与 breeze 搭配，微风虽轻却有力地夺走了纸条，暗示这并非普通的风，而是佛法的力量在运作。',
+      examples: [
+        'The flood swept away everything in its path.（洪水冲走了沿途的一切。）',
+        'She swept the floor clean.（她把地板扫得干干净净。）',
+        'A wave of excitement swept through the crowd.（一阵兴奋的情绪席卷了人群。）',
+      ],
+      synonyms: [
+        { word: 'blew', note: '吹，最基础的说法，不强调力度和范围' },
+        { word: 'carried', note: '带走，侧重搬运，不一定有"扫过"的动态感' },
+        { word: 'snatched', note: '一把夺走，侧重突然性和力度' },
+      ],
+    },
+    {
+      word: 'among',
+      phonetic: '/əˈmʌŋ/',
+      brief: '在…之中，被…所包围',
+      pos: 'preposition',
+      detail:
+        'among 意为"在…之中"，表示某人或某物处于一群同类事物之间或被其包围。原文中"disappeared among the clouds"——消失在云层之中，among 描绘了纸条飘入天空后被层层云朵吞没的画面，暗示它回归了天界。',
+      examples: [
+        'She sat among the flowers.（她坐在花丛中。）',
+        'The house was hidden among the trees.（房子隐藏在树林之中。）',
+        'He is popular among his classmates.（他在同学中很受欢迎。）',
+      ],
+      synonyms: [
+        { word: 'amongst', note: 'among 的变体，英式英语更常用，含义完全相同' },
+        { word: 'between', note: '在…之间，通常用于两者之间，而 among 用于三者或以上' },
+        { word: 'amid', note: '在…当中，较正式/文学化，强调被包围的状态' },
+      ],
+    },
+    {
+      word: 'gulped',
+      phonetic: '/ɡʌlpt/',
+      brief: '猛咽一口（气），紧张地吞咽',
+      pos: 'verb',
+      detail:
+        'gulped 是 gulp 的过去式，意为"猛咽一口气、紧张地吞咽"，常因紧张、害怕或震惊而不自觉地用力吞口水。原文中"The Tang Monk gulped"——唐僧猛咽了一口，发生在 Wukong 变成老虎的瞬间。gulped 比前文的 gasped 更侧重于"害怕到喉咙发紧"的身体反应，生动刻画了唐僧面对法力高强的徒弟时的不安。',
+      examples: [
+        'He gulped nervously before speaking.（他紧张地咽了口口水才开始说话。）',
+        'She gulped down the water.（她大口灌下了水。）',
+        'The boy gulped when he saw the dog.（男孩看到狗时紧张地咽了一下。）',
+      ],
+      synonyms: [
+        { word: 'swallowed hard', note: '使劲咽了一下，同样的紧张反应' },
+        { word: 'gasped', note: '倒吸一口气，侧重惊喘而非吞咽' },
+        { word: 'choked', note: '呛到、噎住，侧重呼吸困难' },
+      ],
+    },
+    {
+      word: 'vulture',
+      phonetic: '/ˈvʌltʃər/',
+      brief: '秃鹫，兀鹫',
+      pos: 'noun',
+      detail:
+        'vulture 意为"秃鹫、兀鹫"，是一种大型猛禽，以食腐为生，头部无羽毛。原文中 Wukong 展示变化之术时变成蛇、秃鹫等动物，vulture 作为一种令人畏惧的猛禽出现在变身序列中，突出了 Wukong 变化能力的多样性和震撼力。',
+      examples: [
+        'A vulture circled high above the desert.（一只秃鹫在沙漠上空盘旋。）',
+        'Vultures feed on dead animals.（秃鹫以动物尸体为食。）',
+        'The vulture swooped down to the ground.（秃鹫猛扑到地面上。）',
+      ],
+      synonyms: [
+        { word: 'eagle', note: '鹰，捕食活物的猛禽，比 vulture 更威猛' },
+        { word: 'hawk', note: '隼、鹰，体型比 eagle 和 vulture 小' },
+        { word: 'falcon', note: '猎鹰，以速度著称的猛禽' },
+      ],
+    },
+    {
+      word: 'shrank',
+      phonetic: '/ʃræŋk/',
+      brief: '缩小，收缩（shrink 的过去式）',
+      pos: 'verb',
+      detail:
+        'shrank 是 shrink 的过去式，意为"缩小、收缩"，指尺寸、体积变小。原文中"He shrank to the size of a bee"——他缩小到蜜蜂那么大，shrank 与前一句的"grow big"形成鲜明对比，展示 Wukong 的七十二变中自由变换大小的能力。',
+      examples: [
+        'The sweater shrank in the wash.（毛衣洗后缩水了。）',
+        'The company shrank its workforce.（公司缩减了员工人数。）',
+        'She shrank back in fear.（她吓得往后缩。）',
+      ],
+      synonyms: [
+        { word: 'dwindled', note: '逐渐减少、缩小，侧重缓慢过程' },
+        { word: 'contracted', note: '收缩，较正式，可指物理或经济领域' },
+        { word: 'grew', note: '反义词：增长、变大' },
+      ],
+    },
+    {
+      word: 'spun',
+      phonetic: '/spʌn/',
+      brief: '旋转，转动（spin 的过去式）',
+      pos: 'verb',
+      detail:
+        'spun 是 spin 的过去式，意为"旋转、快速转动"，指物体绕轴心快速旋转。原文中"The monkey spun it around"——悟空把金箍棒旋转起来，spun 刻画了 Wukong 挥舞金箍棒的熟练动作，旋转的画面感暗示他驾驭武器的力量和技巧。',
+      examples: [
+        'The dancer spun around on stage.（舞者在舞台上旋转。）',
+        'He spun the wheel.（他转动了轮子。）',
+        'The earth spins on its axis.（地球绕地轴自转。）',
+      ],
+      synonyms: [
+        { word: 'whirled', note: '急旋、飞转，速度更快更猛烈' },
+        { word: 'rotated', note: '旋转，较中性正式，不强调速度' },
+        { word: 'twirled', note: '轻快地转动，动作更优雅' },
+      ],
+    },
+    {
+      word: 'struck',
+      phonetic: '/strʌk/',
+      brief: '击打，猛击（strike 的过去式）',
+      pos: 'verb',
+      detail:
+        'struck 是 strike 的过去式，意为"击打、猛击"，指用力撞击某物。原文中"spun it around and then struck a huge boulder"——旋转金箍棒后猛击一块巨石，struck 与前文的 spun 形成连续动作链：旋转蓄力→猛然击打，一气呵成地展示了 Wukong 的惊人力量。',
+      examples: [
+        'He struck the nail with a hammer.（他用锤子敲钉子。）',
+        'Lightning struck the tree.（闪电劈中了那棵树。）',
+        'She struck him across the face.（她扇了他一巴掌。）',
+      ],
+      synonyms: [
+        { word: 'hit', note: '打、击，最通用的说法' },
+        { word: 'smashed', note: '猛砸、粉碎，侧重将目标打碎' },
+        { word: 'slammed', note: '猛撞、重拍，力度大且带响声' },
+      ],
+    },
+    {
+      word: 'boulder',
+      phonetic: '/ˈboʊldər/',
+      brief: '巨石，大圆石',
+      pos: 'noun',
+      detail:
+        'boulder 是 boulders 的单数形式，意为"巨石、大圆石"。原文中出现两次：第一次 Wukong 用金箍棒猛击一块巨石（struck a huge boulder），第二次巨石被击碎后炸成碎片（The boulder exploded）。与前面唐僧攀爬时遇到的 boulders（复数）不同，这里的 boulder 是 Wukong 展示力量的靶子，一块巨石在他面前不堪一击。',
+      examples: [
+        'A huge boulder blocked the path.（一块巨石挡住了去路。）',
+        'They sat on a boulder by the river.（他们坐在河边的一块大圆石上。）',
+      ],
+      synonyms: [
+        { word: 'boulders', note: '复数形式，本书前文已注' },
+        { word: 'rock', note: '岩石，泛指，大小不限' },
+      ],
+    },
+    {
+      word: 'pieces',
+      phonetic: '/ˈpiːsɪz/',
+      brief: '碎片，碎块',
+      pos: 'noun',
+      detail:
+        'pieces 是 piece 的复数形式，意为"碎片、碎块、片断"。原文中"exploded into tiny pieces"——炸成无数细小碎片，into pieces 是经典搭配，描述物体被打碎的结果。配合 exploded 使用，pieces 形象地展示了金箍棒的威力——整块巨石瞬间化为齑粉。',
+      examples: [
+        'The vase broke into pieces.（花瓶碎成了碎片。）',
+        'She tore the letter into pieces.（她把信撕成了碎片。）',
+        'The puzzle has a hundred pieces.（这个拼图有一百片。）',
+      ],
+      synonyms: [
+        { word: 'fragments', note: '碎片、断片，较正式，侧重不完整的部分' },
+        { word: 'shards', note: '碎片、破片，多指玻璃、陶瓷等尖锐碎片' },
+        { word: 'bits', note: '小块、一点，口语化，量较小' },
+      ],
+    },
+    {
+      word: 'horror',
+      phonetic: '/ˈhɒrər/',
+      brief: '恐惧，惊骇',
+      pos: 'noun',
+      detail:
+        'horror 意为"恐惧、惊骇"，指极度的害怕和震惊。原文中"The Tang Monk watched in horror"——唐僧惊恐地看着，in horror 是固定搭配，表示"惊恐地"。唐僧亲眼目睹 Wukong 一棒击碎巨石，horror 准确捕捉了他此刻复杂的心情：既是震撼，也有对这个凶猛徒弟的畏惧。',
+      examples: [
+        'She stared in horror at the accident.（她惊恐地盯着那场事故。）',
+        'He watched in horror as the building collapsed.（他惊骇地看着大楼倒塌。）',
+        'The movie is a horror film.（那部电影是恐怖片。）',
+      ],
+      synonyms: [
+        { word: 'terror', note: '极度恐惧，比 horror 更强烈，侧重对即时危险的害怕' },
+        { word: 'fear', note: '害怕、恐惧，最通用的说法' },
+        { word: 'dread', note: '畏惧、忧虑，侧重对未来可能发生之事的恐惧' },
+      ],
+    },
+    {
+      word: 'farther',
+      phonetic: '/ˈfɑːrðər/',
+      brief: '更远地，更远处',
+      pos: 'adverb',
+      detail:
+        'farther 是 far 的比较级，意为"更远地、更远处"，用于描述物理距离的延伸。原文中"The two traveled farther"——两人继续前行，走得更远了，farther 标志着场景的转换——从 Wukong 展示力量的段落过渡到遇见强盗的新危机，推动了故事发展。',
+      examples: [
+        'We walked farther down the road.（我们沿着路走得更远了。）',
+        'Can you throw the ball farther?（你能把球扔得更远吗？）',
+        'The village is farther than I thought.（村庄比我预想的更远。）',
+      ],
+      synonyms: [
+        { word: 'further', note: '更远、进一步，物理距离可用 farther/further 互换，但抽象程度用 further' },
+        { word: 'onward', note: '向前，侧重方向而非距离' },
+        { word: 'ahead', note: '前方、在前头，侧重位置' },
+      ],
+    },
+    {
+      word: 'rough',
+      phonetic: '/rʌf/',
+      brief: '粗暴的，粗野的',
+      pos: 'adjective',
+      detail:
+        'rough 意为"粗暴的、粗野的"，形容人或行为举止粗鲁不文明。也可形容表面粗糙不平。原文中"The men looked rough"——那些人看起来很粗野，rough 从外貌和气质上勾勒出一群强盗的形象，让读者立刻感到危险逼近。',
+      examples: [
+        'He has a rough voice.（他嗓音粗犷。）',
+        'The surface is rough, not smooth.（表面粗糙，不光滑。）',
+        'They had a rough time during the trip.（他们旅途艰辛。）',
+      ],
+      synonyms: [
+        { word: 'tough', note: '强悍的、坚韧的，可含褒义（坚强）或贬义（粗暴）' },
+        { word: 'coarse', note: '粗鲁的、粗糙的，侧重言行或质地' },
+        { word: 'gentle', note: '反义词：温和的、轻柔的' },
+      ],
+    },
+    {
+      word: 'mean',
+      phonetic: '/miːn/',
+      brief: '凶恶的，刻薄的',
+      pos: 'adjective',
+      detail:
+        'mean 作形容词意为"凶恶的、刻薄的、不友善的"，形容人心地不好或对他人不友善。原文中"The men looked rough and mean"——那些人看起来又粗野又凶恶，rough 描绘外表，mean 描绘内在性情，两个形容词叠加刻画出强盗的完整形象。',
+      examples: [
+        'Don\'t be mean to your little brother.（别对弟弟那么刻薄。）',
+        'He is a mean old man.（他是个刻薄的老头。）',
+        'That was a mean thing to say.（说那种话太刻薄了。）',
+      ],
+      synonyms: [
+        { word: 'cruel', note: '残忍的，程度比 mean 更重，带有伤害意图' },
+        { word: 'nasty', note: '恶毒的、令人厌恶的，语气更强' },
+        { word: 'kind', note: '反义词：善良的、友好的' },
+      ],
+    },
   ],
 };
 
