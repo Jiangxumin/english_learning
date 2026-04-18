@@ -2465,6 +2465,254 @@ const vocab = {
         { word: 'kind', note: '反义词：善良的、友好的' },
       ],
     },
+    {
+      word: 'shaking',
+      phonetic: '/ˈʃeɪkɪŋ/',
+      brief: '发抖，颤抖',
+      pos: 'verb',
+      detail:
+        'shaking 是 shake 的现在分词形式，意为"发抖、颤抖"，指身体不由自主地快速晃动，常因恐惧、寒冷或激动引起。原文中"The Tang Monk looked at the robbers. He was shaking"——唐僧看着强盗，浑身发抖，shaking 直观地表现了唐僧面对强盗时的极度恐惧，与前文的 trembled with fear 形成呼应。',
+      examples: [
+        'She was shaking with fear.（她吓得浑身发抖。）',
+        'His hands were shaking as he held the letter.（他拿着信时双手在发抖。）',
+        'The dog was shaking from the cold.（狗冻得直发抖。）',
+      ],
+      synonyms: [
+        { word: 'trembling', note: '颤抖，与 shaking 近义，侧重细微的持续抖动' },
+        { word: 'quivering', note: '微微颤动，幅度更小更轻' },
+        { word: 'shivering', note: '战栗、哆嗦，多因寒冷引起' },
+      ],
+    },
+    {
+      word: 'strike',
+      phonetic: '/straɪk/',
+      brief: '击打，猛击',
+      pos: 'verb',
+      detail:
+        'strike 意为"击打、猛击"，指用力向目标打击。原文中"Wukong raised the iron bar, ready to strike"——悟空举起铁棒，准备猛击，strike 在此描绘了悟空即将对逃跑的强盗发起致命一击的紧张瞬间。注意此处 strike 是动词原形（与不定式 ready to 搭配），而非过去式 struck。',
+      examples: [
+        'He was ready to strike.（他准备发起攻击。）',
+        'The snake struck at the mouse.（蛇向老鼠发起攻击。）',
+        'She struck the ball with all her strength.（她用尽全力击球。）',
+      ],
+      synonyms: [
+        { word: 'hit', note: '打、击，最通用的说法' },
+        { word: 'attack', note: '攻击，侧重发动进攻的意图' },
+        { word: 'smash', note: '猛砸、粉碎，侧重将目标打碎' },
+      ],
+    },
+    {
+      word: 'rather',
+      phonetic: '/ˈrɑːðər/',
+      brief: '宁愿，宁可',
+      pos: 'adverb',
+      detail:
+        'rather 在此意为"宁愿、宁可"，常与 would 搭配构成 would rather... than...（宁愿……也不……）。原文中"I would rather get hurt than hurt someone else"——我宁愿自己受伤也不愿伤害别人，would rather... than... 句型完美表达了佛教"宁可自苦、不害他人"的慈悲理念。',
+      examples: [
+        'I would rather stay at home than go out.（我宁愿待在家里也不想出去。）',
+        'She would rather read than watch TV.（她宁愿读书也不看电视。）',
+        'He would rather fail than cheat.（他宁愿失败也不作弊。）',
+      ],
+      synonyms: [
+        { word: 'prefer to', note: '更喜欢，侧重个人偏好而非选择' },
+        { word: 'sooner', note: '宁愿，与 would 搭配：would sooner... than...' },
+      ],
+    },
+    {
+      word: 'beaten them up',
+      phonetic: '/ˈbiːtn ðɛm ʌp/',
+      brief: '把他们揍了一顿',
+      pos: 'phrase',
+      detail:
+        'beat up 是短语动词，意为"痛打、狠揍"，指对某人进行暴力殴打。原文中"We should have beaten them up"——我们应该把他们揍一顿，这是 should have + 过去分词的虚拟语气结构，表示"本应该做但没做的事"。Wukong 用此短语表达对唐僧阻止他教训强盗的不满。',
+      examples: [
+        'The bullies beat up the little boy.（恶霸把小男孩揍了一顿。）',
+        'He was beaten up after school.（他放学后被揍了一顿。）',
+        'They beat up the thief and handed him to the police.（他们把小偷揍了一顿后交给了警察。）',
+      ],
+      synonyms: [
+        { word: 'pummel', note: '用拳头连续猛击' },
+        { word: 'thrash', note: '痛打、猛揍，力度更大' },
+        { word: 'assault', note: '袭击、殴打，较正式的法律用语' },
+      ],
+    },
+    {
+      word: 'cruel',
+      phonetic: '/ˈkruːəl/',
+      brief: '残忍的，残酷的',
+      pos: 'adjective',
+      detail:
+        'cruel 意为"残忍的、残酷的"，指故意给他人造成痛苦而无同情心。原文中唐僧指责悟空"You are cruel and violent"——你既残忍又暴力。cruel 侧重心理和道德层面的冷酷无情（故意伤害），violent 侧重行为上的暴力倾向，二者并列从内心到行为全面否定了悟空的做法。该词在 Chapter 15-16 中多次出现，是师徒冲突的核心争议词。',
+      examples: [
+        'It is cruel to hurt animals.（伤害动物是残忍的。）',
+        'The cruel king punished his people.（残忍的国王惩罚他的人民。）',
+        'Don\'t be cruel to others.（不要对他人残忍。）',
+      ],
+      synonyms: [
+        { word: 'merciless', note: '无情的、不宽恕的，强调没有怜悯心' },
+        { word: 'brutal', note: '野蛮的、凶残的，侧重行为极端暴力' },
+        { word: 'kind', note: '反义词：善良的、仁慈的' },
+      ],
+    },
+    {
+      word: 'violent',
+      phonetic: '/ˈvaɪələnt/',
+      brief: '暴力的，暴烈的',
+      pos: 'adjective',
+      detail:
+        'violent 意为"暴力的、暴烈的"，形容使用武力伤害他人的行为或倾向。原文中唐僧多次用 violent 指责悟空——"You are cruel and violent"、"he got angry when I scolded him for being violent"。violent 侧重外在行为上的暴力倾向，与 cruel（内心残忍）搭配使用，构成了唐僧否定暴力行为的完整表述。',
+      examples: [
+        'He has a violent temper.（他脾气暴躁。）',
+        'The protest turned violent.（抗议演变成了暴力冲突。）',
+        'She hates violent movies.（她讨厌暴力电影。）',
+      ],
+      synonyms: [
+        { word: 'aggressive', note: '好斗的、攻击性的，侧重主动挑衅' },
+        { word: 'fierce', note: '凶猛的，侧重天生的猛烈气质' },
+        { word: 'peaceful', note: '反义词：和平的、宁静的' },
+      ],
+    },
+    {
+      word: 'scold',
+      phonetic: '/skoʊld/',
+      brief: '责骂，训斥',
+      pos: 'verb',
+      detail:
+        'scold 意为"责骂、训斥"，指因不满某人的行为而以严厉的言语批评对方。原文中"How dare you scold me"——你竟敢训斥我！悟空认为唐僧没有资格训斥他，因为是他救了唐僧的命。该词还以过去式 scolded 出现在后文——"he got angry when I scolded him"。scold 侧重长辈对晚辈、上级对下级的训斥，暗示权力关系。',
+      examples: [
+        'My mother scolded me for being late.（妈妈因为我迟到而训斥了我。）',
+        'The teacher scolded the noisy students.（老师训斥了吵闹的学生。）',
+        'Don\'t scold the child in public.（不要当众训斥孩子。）',
+      ],
+      synonyms: [
+        { word: 'rebuke', note: '严厉斥责，更正式，语气更重' },
+        { word: 'reprimand', note: '训斥、惩戒，正式用语，常用于职场或官方场合' },
+        { word: 'praise', note: '反义词：表扬、赞美' },
+      ],
+    },
+    {
+      word: 'treatment',
+      phonetic: '/ˈtriːtmənt/',
+      brief: '对待，待遇',
+      pos: 'noun',
+      detail:
+        'treatment 意为"对待、待遇"，指某人被他人对待的方式。原文中"I don\'t have to accept this treatment"——我不必接受这种对待。Wukong 用 treatment 指代唐僧对他的训斥和否定，暗示他认为自己的付出（救了唐僧的命）不该换来这样的"待遇"，语气中带着委屈和愤愤不平。',
+      examples: [
+        'She received fair treatment from the teacher.（她得到了老师公平的对待。）',
+        'The animals were subjected to cruel treatment.（动物们遭受了残忍的对待。）',
+        'He complained about his treatment at the hotel.（他抱怨在酒店受到的待遇。）',
+      ],
+      synonyms: [
+        { word: 'handling', note: '处理、对待，侧重方式方法' },
+        { word: 'behavior toward', note: '对……的行为态度' },
+      ],
+    },
+    {
+      word: 'misbehaves',
+      phonetic: '/ˌmɪsbɪˈheɪvz/',
+      brief: '行为不端，调皮捣蛋',
+      pos: 'verb',
+      detail:
+        'misbehave 意为"行为不端、调皮捣蛋"，指不守规矩或做出不良行为。此处 misbehaves 是第三人称单数形式（主语为 he）。原文中 Guanyin 化身的老妇给唐僧金箍，说"Whenever he misbehaves, recite the Tight Headband spell"——每当他不听话时，就念紧箍咒。misbehaves 在此暗示 Guanyin 预见悟空的顽劣本性，需要一种约束机制来管教他。',
+      examples: [
+        'The child misbehaved in class.（那孩子在课堂上不守规矩。）',
+        'If you misbehave, you will be punished.（如果你行为不端，你会受到惩罚。）',
+        'He always misbehaves when guests come over.（客人来时他总是调皮捣蛋。）',
+      ],
+      synonyms: [
+        { word: 'acts up', note: '调皮捣蛋，口语化，侧重不服从管教' },
+        { word: 'misconducts', note: '行为不当，更正式' },
+        { word: 'behaves', note: '反义词：行为端正、守规矩' },
+      ],
+    },
+    {
+      word: 'sipped',
+      phonetic: '/sɪpt/',
+      brief: '小口抿，啜饮（sip 的过去式）',
+      pos: 'verb',
+      detail:
+        'sipped 是 sip 的过去式，意为"小口抿、啜饮"，指少量地、慢慢喝饮料。原文中"The Dragon King sipped his tea"——龙王小口抿着茶。sipped 这个动作营造出悠闲、从容的氛围，与悟空急躁的性格形成对比。同时，龙王一边品茶一边询问悟空的计划，暗示他作为智者的从容和引导者的角色。',
+      examples: [
+        'She sipped her coffee slowly.（她慢慢地抿着咖啡。）',
+        'He sipped the hot soup carefully.（他小心翼翼地啜饮热汤。）',
+        'They sat by the fire, sipping wine.（他们坐在火旁，小口品着酒。）',
+      ],
+      synonyms: [
+        { word: 'nursed', note: '慢慢喝，侧重长时间持有饮品' },
+        { word: 'drank', note: '喝，最通用的说法，不强调小口慢饮' },
+        { word: 'gulped', note: '大口吞咽，反义——猛灌而非小抿' },
+      ],
+    },
+    {
+      word: 'shrugged',
+      phonetic: '/ʃrʌɡd/',
+      brief: '耸肩（表示无所谓或无奈）',
+      pos: 'verb',
+      detail:
+        'shrugged 是 shrug 的过去式，意为"耸肩"，这是一个常见的肢体语言动作，通常表示无所谓、不确定或无奈的态度。原文中"Wukong shrugged"——悟空耸了耸肩，然后说"I\'m not doing it anymore"（我不想再做了）。耸肩配合放弃的话语，体现了悟空对取经之事漫不经心、无所谓的态度。',
+      examples: [
+        'She shrugged and said, "I don\'t know."（她耸了耸肩说："我不知道。"）',
+        'He shrugged off the criticism.（他对批评不屑一顾。）',
+        '"Whatever," he shrugged.（"无所谓，"他耸了耸肩。）',
+      ],
+      synonyms: [
+        { word: 'dismissed', note: '不予理会，侧重态度上的拒绝接受' },
+        { word: 'brushed off', note: '不当回事，口语化的轻视表达' },
+      ],
+    },
+    {
+      word: 'attitude',
+      phonetic: '/ˈætɪtjuːd/',
+      brief: '态度，心态',
+      pos: 'noun',
+      detail:
+        'attitude 意为"态度、心态"，指对某事或某人的看法和行为方式。原文中多次出现：Wukong 说"That monk had a bad attitude"（那和尚态度很差），Dragon King 反驳说"it is you who has a bad attitude"（态度差的人其实是你）。attitude 在此成为师徒双方互相指责的焦点词——悟空指责唐僧的训斥是"态度不好"，龙王反将一军，指出悟空自己的态度才是问题所在。',
+      examples: [
+        'She has a positive attitude toward life.（她对生活有积极的态度。）',
+        'His bad attitude got him fired.（他糟糕的态度使他被解雇了。）',
+        'You need to change your attitude.（你需要改变你的态度。）',
+      ],
+      synonyms: [
+        { word: 'mindset', note: '心态、思维模式，侧重思考方式' },
+        { word: 'outlook', note: '观点、看法，侧重对事物的整体态度' },
+        { word: 'approach', note: '方式、方法，侧重处理问题的角度' },
+      ],
+    },
+    {
+      word: 'has a point',
+      phonetic: '/hæz ə pɔɪnt/',
+      brief: '有道理，说得对',
+      pos: 'phrase',
+      detail:
+        'have a point 是固定搭配，意为"说得有道理、有几分道理"，用于承认对方的观点有合理性。原文中龙王对悟空说"The monk has a point"——那个和尚说得有道理。龙王虽然是在劝悟空回去，但他用 has a point 这个委婉的说法，先肯定唐僧的观点，再引导悟空反思自己，比直接批评更有效。',
+      examples: [
+        '"She has a point," he admitted.（"她说得有道理，"他承认道。）',
+        'I think you have a point there.（我觉得你说得有道理。）',
+        'He grudgingly agreed that she had a point.（他不情愿地同意她说得有道理。）',
+      ],
+      synonyms: [
+        { word: 'makes sense', note: '说得通、有道理，更口语化' },
+        { word: 'is right', note: '是对的，更直接的肯定' },
+      ],
+    },
+    {
+      word: 'glared',
+      phonetic: '/ɡleərd/',
+      brief: '怒目而视，狠狠地瞪',
+      pos: 'verb',
+      detail:
+        'glared 是 glare 的过去式，意为"怒目而视、狠狠地瞪"，指带着愤怒或敌意长时间盯着某人。原文中"Wukong glared at the king"——悟空怒视着龙王。glared 发生在龙王说唐僧"说得有道理"之后——悟空原以为龙王会站在自己一边，却没想到被"背叛"，因此愤怒地瞪着对方。这个动作精准地刻画了悟空被冒犯时的即时情绪反应。',
+      examples: [
+        'She glared at him angrily.（她愤怒地瞪着他。）',
+        'The teacher glared at the noisy students.（老师狠狠地瞪了吵闹的学生。）',
+        'He glared at me across the room.（他从房间另一头怒视着我。）',
+      ],
+      synonyms: [
+        { word: 'scowled', note: '皱眉怒视，侧重面部表情的凶狠' },
+        { word: 'stared', note: '凝视，中性词，不一定带有怒意' },
+        { word: 'frowned', note: '皱眉，侧重不满的表情，程度比 glare 轻' },
+      ],
+    },
   ],
 };
 
