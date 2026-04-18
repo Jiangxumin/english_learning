@@ -33,6 +33,13 @@ export default function Vocab({ word }) {
       {word}
       {open && (
         <span className="vocab-tooltip" onClick={(e) => e.stopPropagation()}>
+          <button
+            className="vocab-tooltip-close"
+            onClick={() => setOpen(false)}
+            aria-label="Close"
+          >
+            &times;
+          </button>
           {entry?.phonetic && (
             <span className="vocab-phonetic">{entry.phonetic}</span>
           )}

@@ -52,6 +52,7 @@
   border: 1px solid var(--ifm-color-primary);
   border-radius: 6px;
   padding: 8px 12px;
+  padding-right: 28px;
   min-width: 180px;
   max-width: 320px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
@@ -84,6 +85,22 @@
 }
 .vocab-detail-link:hover {
   text-decoration: underline;
+}
+
+.vocab-tooltip-close {
+  position: absolute;
+  top: 2px;
+  right: 6px;
+  background: none;
+  border: none;
+  font-size: 1.1rem;
+  line-height: 1;
+  cursor: pointer;
+  color: #999;
+  padding: 0 2px;
+}
+.vocab-tooltip-close:hover {
+  color: var(--ifm-color-primary);
 }
 
 /* ── VocabList — bottom annotation cards ── */
