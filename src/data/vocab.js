@@ -1743,6 +1743,316 @@ const vocab = {
         { word: 'thin', note: '反义词：薄的、稀疏的' },
       ],
     },
+    {
+      word: 'cheat',
+      phonetic: '/tʃiːt/',
+      brief: '欺骗，作弊',
+      pos: 'verb',
+      detail:
+        'cheat 意为"欺骗、作弊"，指通过不诚实手段获取利益。原文中 Buddha 说东方的人们"lie, cheat, and steal"（撒谎、欺骗、偷窃），三个动词并列，层层递进地描述人性的堕落，cheat 在此强调人们互相欺骗、不守诚信。',
+      examples: [
+        'He cheated on the exam.（他在考试中作弊。）',
+        'Don\'t cheat your friends.（不要欺骗你的朋友。）',
+        'She was cheated out of her money.（她被骗走了钱。）',
+      ],
+      synonyms: [
+        { word: 'deceive', note: '欺骗，侧重隐瞒真相或制造假象' },
+        { word: 'trick', note: '耍花招，侧重用巧妙手段迷惑对方' },
+        { word: 'lie', note: '说谎，侧重言语上的不诚实' },
+      ],
+    },
+    {
+      word: 'steal',
+      phonetic: '/stiːl/',
+      brief: '偷窃，盗窃',
+      pos: 'verb',
+      detail:
+        'steal 意为"偷窃、盗窃"，指未经允许拿走他人的财物。原文中 Buddha 描述东方人的恶行："They lie, cheat, and steal"——撒谎、欺骗、偷窃，steal 是三个并列动词的最后一个，描绘行为从言语（lie）到欺骗（cheat）再到实际行动（steal）的升级，层层递进。',
+      examples: [
+        'Someone stole my bicycle.（有人偷了我的自行车。）',
+        'He was caught stealing from the store.（他在商店偷东西被抓了。）',
+        'She stole a glance at the letter.（她偷偷瞥了一眼那封信。）',
+      ],
+      synonyms: [
+        { word: 'rob', note: '抢劫，侧重使用暴力或威胁' },
+        { word: 'thieve', note: '偷窃，较正式/文学用语' },
+        { word: 'take', note: '拿走，中性词，不隐含非法意图' },
+      ],
+    },
+    {
+      word: 'greedy',
+      phonetic: '/ˈɡriːdi/',
+      brief: '贪婪的，贪心的',
+      pos: 'adjective',
+      detail:
+        'greedy 意为"贪婪的、贪心的"，指对财富、食物等有过度的欲望。原文中 Buddha 说"They are greedy and constantly fighting"——他们贪婪且不断争斗，greedy 与 fighting 搭配，揭示贪欲是争斗的根源，与佛教中"贪"作为三毒（贪、嗔、痴）之首的理念呼应。',
+      examples: [
+        'He is greedy for power.（他对权力贪得无厌。）',
+        'Don\'t be so greedy—leave some for others.（别这么贪心，给别人留点。）',
+        'The greedy dog tried to steal the bone.（那只贪婪的狗想偷骨头。）',
+      ],
+      synonyms: [
+        { word: 'avaricious', note: '贪财的，正式用语，侧重对金钱的贪欲' },
+        { word: 'selfish', note: '自私的，侧重只顾自己不顾他人' },
+        { word: 'generous', note: '反义词：慷慨的，大方的' },
+      ],
+    },
+    {
+      word: 'bundle',
+      phonetic: '/ˈbʌndl/',
+      brief: '捆，束，包',
+      pos: 'noun',
+      detail:
+        'bundle 意为"捆、束、包"，指用绳或布将多个物品扎在一起的包裹。原文中"He held up a bundle of scrolls"——他举起一捆经卷，bundle of scrolls 形象地描绘了 True Scriptures 作为一卷卷扎好的古代经书的样子，增强了画面的具体感。',
+      examples: [
+        'She carried a bundle of clothes.（她抱着一捆衣服。）',
+        'He tied the sticks into a bundle.（他把树枝扎成一捆。）',
+        'The baby was wrapped in a bundle of blankets.（婴儿被裹在一堆毯子里。）',
+      ],
+      synonyms: [
+        { word: 'pack', note: '包，背包，侧重容器功能' },
+        { word: 'parcel', note: '包裹，侧重邮寄或包装的物品' },
+        { word: 'bunch', note: '束，串，多用于花、钥匙等小型物品' },
+      ],
+    },
+    {
+      word: 'Empire',
+      phonetic: '/ˈempaɪər/',
+      brief: '帝国',
+      pos: 'noun',
+      detail:
+        'Empire 意为"帝国"，指由皇帝统治的大范围领土及其人民。原文中"the Tang Empire"即唐朝帝国，是故事发生的主要背景。Buddha 说东方的 Tang Empire 需要帮助，为后续取经之旅设定了地理与政治背景。',
+      examples: [
+        'The Roman Empire lasted for centuries.（罗马帝国延续了数百年。）',
+        'She built a business empire.（她建立了一个商业帝国。）',
+      ],
+      synonyms: [
+        { word: 'kingdom', note: '王国，由国王统治' },
+        { word: 'realm', note: '领域，王国，文学色彩较浓' },
+      ],
+    },
+    {
+      word: 'Emperor',
+      phonetic: '/ˈempərər/',
+      brief: '皇帝',
+      pos: 'noun',
+      detail:
+        'Emperor 意为"皇帝"，指帝国的最高统治者。原文中"The Tang Emperor"即唐太宗，他是推动取经的关键人物——正是他派遣玄奘法师前往西天取经。该词在本书中出现多次，是重要的人物称谓。',
+      examples: [
+        'The emperor ruled with wisdom.（这位皇帝以智慧治国。）',
+        'Qin Shi Huang was the first emperor of China.（秦始皇是中国第一位皇帝。）',
+      ],
+      synonyms: [
+        { word: 'king', note: '国王，统治范围通常比 emperor 小' },
+        { word: 'ruler', note: '统治者，泛指任何掌权者' },
+      ],
+    },
+    {
+      word: 'religious',
+      phonetic: '/rɪˈlɪdʒəs/',
+      brief: '宗教的，虔诚的',
+      pos: 'adjective',
+      detail:
+        'religious 意为"宗教的、与宗教相关的"，也可形容人"虔诚的"。原文中"old religious texts"指古老的宗教经文，暗示唐僧当时读的是旧版佛经，为后文引出"True Scriptures"（真经）做铺垫——旧经不够完善，需要真经来替代。',
+      examples: [
+        'They built a religious temple.（他们建了一座宗教寺庙。）',
+        'She is a very religious person.（她是一个非常虔诚的人。）',
+      ],
+      synonyms: [
+        { word: 'spiritual', note: '精神的，灵性的，不一定与具体宗教相关' },
+        { word: 'sacred', note: '神圣的，强调值得崇敬' },
+      ],
+    },
+    {
+      word: 'contain',
+      phonetic: '/kənˈteɪn/',
+      brief: '包含，容纳',
+      pos: 'verb',
+      detail:
+        'contain 意为"包含、容纳"，指某物内部持有或包括其他内容。原文中"They contain many lessons"——真经包含许多教义，contain 突出真经作为知识容器的意象，里面蕴藏着能让人解脱苦难的智慧。',
+      examples: [
+        'The box contains old letters.（盒子里装着旧信件。）',
+        'This book contains useful information.（这本书包含有用的信息。）',
+        'Water contains hydrogen and oxygen.（水含有氢和氧。）',
+      ],
+      synonyms: [
+        { word: 'include', note: '包括，侧重组成部分' },
+        { word: 'hold', note: '持有、容纳，侧重物理上的盛放' },
+      ],
+    },
+    {
+      word: 'suffer',
+      phonetic: '/ˈsʌfər/',
+      brief: '受苦，遭受',
+      pos: 'verb',
+      detail:
+        'suffer 意为"受苦、遭受痛苦"，指经历身体或精神上的折磨。原文中"People who learn the lessons never have to suffer again"——学得真经教义的人将不再受苦，suffer 在此直指佛教的核心诉求：脱离苦难（解脱），与"lie, cheat, steal"形成因果——恶行导致苦难，真经带来解脱。',
+      examples: [
+        'Many people suffered during the war.（许多人在战争中遭受苦难。）',
+        'She suffers from headaches.（她饱受头痛之苦。）',
+        'He suffered a lot of pain.（他承受了巨大的痛苦。）',
+      ],
+      synonyms: [
+        { word: 'endure', note: '忍受、忍耐，侧重承受力' },
+        { word: 'experience', note: '经历，中性词，不含痛苦意味' },
+      ],
+    },
+    {
+      word: 'Beams',
+      phonetic: '/biːmz/',
+      brief: '光束，光线',
+      pos: 'noun',
+      detail:
+        'beam 意为"光束、光线"，指一道集中的光。原形为 beam，此处为复数形式 Beams。原文中"Beams of light shone from it"——光芒从袈裟中射出，Beams of light 营造出神圣、超自然的视觉效果，暗示这件袈裟和这位女子（Guanyin 化身）并非凡间之物。',
+      examples: [
+        'A beam of sunlight came through the window.（一束阳光从窗户照进来。）',
+        'Beams of light lit up the stage.（多束光照亮了舞台。）',
+      ],
+      synonyms: [
+        { word: 'ray', note: '光线，通常指单条细线状的光' },
+        { word: 'glow', note: '光辉、柔光，侧重柔和扩散的光' },
+      ],
+    },
+    {
+      word: 'shone',
+      phonetic: '/ʃɒn/',
+      brief: '照耀，发光（shine 的过去式）',
+      pos: 'verb',
+      detail:
+        'shone 是 shine 的过去式，意为"发光、照耀"。原文中"Beams of light shone from it"——光芒从袈裟中射出，shone 作为过去式描述已经发生的动作，配合 Beams 描绘出袈裟被穿上后立刻发光的神奇场景。',
+      examples: [
+        'The sun shone brightly all day.（阳光一整天都灿烂地照耀着。）',
+        'Her eyes shone with excitement.（她的眼睛闪烁着兴奋的光芒。）',
+        'The polished metal shone like new.（抛光的金属像新的一样闪闪发亮。）',
+      ],
+      synonyms: [
+        { word: 'glowed', note: '发出柔和的光，侧重温暖、持续的光' },
+        { word: 'sparkled', note: '闪烁、闪耀，侧重亮点跳跃' },
+      ],
+    },
+    {
+      word: 'gasped',
+      phonetic: '/ɡæspt/',
+      brief: '倒吸一口气，惊喘',
+      pos: 'verb',
+      detail:
+        'gasp 意为"倒吸一口气"，指因惊讶、恐惧或疼痛而突然急促地吸气。原文为 gasped（过去式）。原文中"The emperor gasped"——皇帝看到袈裟发光后震惊地倒吸一口气，gasped 精准地传达了皇帝面对神迹时震惊、敬畏的瞬间反应。',
+      examples: [
+        'She gasped when she saw the price.（她看到价格时倒吸了一口气。）',
+        'He gasped for air after running.（他跑步后大口喘气。）',
+        'The crowd gasped in amazement.（人群惊叹地倒吸一口气。）',
+      ],
+      synonyms: [
+        { word: 'panted', note: '气喘吁吁，侧重体力消耗后的急促呼吸' },
+        { word: 'startled', note: '受惊的，侧重突然被吓到' },
+      ],
+    },
+    {
+      word: 'glowing',
+      phonetic: '/ˈɡləʊɪŋ/',
+      brief: '发光的，熠熠生辉的',
+      pos: 'adjective',
+      detail:
+        'glowing 是 glow 的现在分词形式作形容词，意为"发光的、光辉的"，形容物体发出柔和、温暖的光。原文中"the glowing robe"——那件发光的袈裟，glowing 赋予袈裟持续发光的动态感（-ing 形式强调状态持续），与前一句的 Beams/shone 形成呼应。',
+      examples: [
+        'The glowing embers kept us warm.（发光的余烬让我们保持温暖。）',
+        'She had a glowing smile.（她有灿烂的笑容。）',
+        'The fireflies were glowing in the dark.（萤火虫在黑暗中发光。）',
+      ],
+      synonyms: [
+        { word: 'radiant', note: '光辉灿烂的，侧重光芒向外辐射' },
+        { word: 'luminous', note: '发光的，侧重自体发光' },
+      ],
+    },
+    {
+      word: 'Fierce',
+      phonetic: '/fɪəs/',
+      brief: '凶猛的，凶恶的',
+      pos: 'adjective',
+      detail:
+        'fierce 意为"凶猛的、凶恶的、猛烈的"，形容具有攻击性或危险力量的事物。原文中"Fierce creatures and evil demons"——凶猛的妖兽和邪恶的恶魔，fierce 与 evil 并列修饰取经路上的威胁，预示旅途充满危险。',
+      examples: [
+        'The fierce dog guarded the house.（那只凶猛的狗守卫着房子。）',
+        'A fierce storm hit the coast.（一场猛烈的暴风雨袭击了海岸。）',
+        'She is a fierce competitor.（她是一个强劲的竞争者。）',
+      ],
+      synonyms: [
+        { word: 'ferocious', note: '残忍的、凶残的，程度比 fierce 更强' },
+        { word: 'savage', note: '野蛮的、凶猛的，侧重原始暴力' },
+        { word: 'gentle', note: '反义词：温和的，温柔的' },
+      ],
+    },
+    {
+      word: 'attack',
+      phonetic: '/əˈtæk/',
+      brief: '攻击，袭击',
+      pos: 'verb',
+      detail:
+        'attack 意为"攻击、袭击"，指以武力或言语对目标发起进攻。原文中"evil demons will try to attack you"——邪恶的恶魔会试图攻击你，attack 在此描述取经路上的具体威胁动作，与前文的 Fierce 呼应，构建出旅途的险恶画面。',
+      examples: [
+        'The lion attacked the zebra.（狮子攻击了斑马。）',
+        'The army attacked at dawn.（军队在黎明时发起进攻。）',
+        'He was attacked by a swarm of bees.（他被一群蜜蜂袭击了。）',
+      ],
+      synonyms: [
+        { word: 'assault', note: '猛攻、突击，侧重猛烈程度' },
+        { word: 'strike', note: '打击、攻击，动作更快速突然' },
+        { word: 'defend', note: '反义词：防御，保卫' },
+      ],
+    },
+    {
+      word: 'crowd',
+      phonetic: '/kraʊd/',
+      brief: '人群，群众',
+      pos: 'noun',
+      detail:
+        'crowd 意为"人群、群众"，指聚集在一起的大量人群。原文中"A big crowd gathered to say good-bye"——一大群人聚集来送行，crowd 体现了唐僧取经之事在国中引起的关注，人们自发前来告别，烘托出唐僧出发时的隆重场面。',
+      examples: [
+        'A large crowd gathered outside the stadium.（一大群人聚集在体育场外。）',
+        'The crowd cheered loudly.（人群大声欢呼。）',
+        'He pushed his way through the crowd.（他从人群中挤了过去。）',
+      ],
+      synonyms: [
+        { word: 'mob', note: '暴民、混乱的人群，带负面色彩' },
+        { word: 'audience', note: '观众、听众，侧重有组织地观看/聆听' },
+      ],
+    },
+    {
+      word: 'uneasily',
+      phonetic: '/ʌnˈiːzɪli/',
+      brief: '不安地，不自在地',
+      pos: 'adverb',
+      detail:
+        'uneasily 是 uneasy（不安的）的副词形式，意为"不安地、不自在地"。原文中"He looked around uneasily"——他不安地四处张望，uneasily 精准描绘了唐僧在荒山中感到的紧张和恐惧，为下一句突然传来的巨响（boomed）做铺垫，营造悬念。',
+      examples: [
+        'She shifted uneasily in her chair.（她在椅子上不安地挪动身体。）',
+        'He glanced around uneasily.（他不安地四处张望。）',
+        'The students waited uneasily for the test results.（学生们不安地等待考试结果。）',
+      ],
+      synonyms: [
+        { word: 'nervously', note: '紧张地，侧重精神上的焦虑' },
+        { word: 'anxiously', note: '焦虑地，侧重对未来的担忧' },
+        { word: 'calmly', note: '反义词：平静地，从容地' },
+      ],
+    },
+    {
+      word: 'boomed',
+      phonetic: '/buːmd/',
+      brief: '发出低沉的轰鸣声（boom 的过去式）',
+      pos: 'verb',
+      detail:
+        'boomed 是 boom 的过去式，意为"发出低沉、洪亮的轰鸣声"，常形容大嗓门或巨大的声响。原文中"Suddenly a voice boomed"——突然一个声音轰然响起，boomed 不仅描述声音之大，更暗示说话者的力量与威严，让读者和唐僧一起被突如其来的巨响震住，制造出戏剧性的出场效果。',
+      examples: [
+        'Thunder boomed in the distance.（远处雷声隆隆。）',
+        '"Come here!" he boomed.（"过来！"他大声吼道。）',
+        'The cannon boomed across the valley.（大炮的轰鸣声响彻山谷。）',
+      ],
+      synonyms: [
+        { word: 'roared', note: '咆哮、怒吼，侧重如野兽般的凶猛声音' },
+        { word: 'thundered', note: '如雷鸣般轰响，声音更大更震撼' },
+        { word: 'whispered', note: '反义词：低语，轻声说' },
+      ],
+    },
   ],
 };
 
