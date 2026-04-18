@@ -6,11 +6,14 @@ import vocabData from '@site/src/data/vocab';
  * Usage in MDX: <Vocab word="below" />
  *
  * Data is looked up from src/data/vocab.js — no inline props needed.
- * - Click → brief tooltip (phonetic + short definition)
- * - "Details →" link scrolls to the full annotation card at the bottom of the page.
+ * - Click → compact tooltip (phonetic + brief definition)
+ * - "Details →" expands to show full info (detail, examples, synonyms)
+ * - Expanded mode has "Jump to list ↕" to scroll to bottom card list
+ * - Collapse button returns to compact mode
  */
 export default function Vocab({ word }) {
   const [open, setOpen] = useState(false);
+  const [expanded, setExpanded] = useState(false);
 
   // Derive the book slug from the current URL: /book_01 → "book_01"
   let book = '';
@@ -22,39 +25,91 @@ export default function Vocab({ word }) {
   const entries = vocabData[book] || [];
   const entry = entries.find((e) => e.word === word);
 
+  const handleClose = () => {
+    setOpen(false);
+    setExpanded(false);
+  };
+
+  const handleExpand = (e) => {
+    e.preventDefault();
+    setExpanded(true);
+  };
+
+  const handleCollapse = () => {
+    setExpanded(false);
+  };
+
+  const handleJumpToList = (e) => {
+    e.preventDefault();
+    setOpen(false);
+    setExpanded(false);
+    const el = document.getElementById(`vocab-${word}`);
+    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  };
+
   return (
     <span
       className="vocab-word"
-      onClick={() => setOpen(!open)}
+      onClick={() => { setOpen(!open); setExpanded(false); }}
       role="button"
       tabIndex={0}
-      onKeyDown={(e) => { if (e.key === 'Enter') setOpen(!open); }}
+      onKeyDown={(e) => { if (e.key === 'Enter') { setOpen(!open); setExpanded(false); } }}
     >
       {word}
-      {open && (
+      {open && !expanded && (
         <span className="vocab-tooltip" onClick={(e) => e.stopPropagation()}>
-          <button
-            className="vocab-tooltip-close"
-            onClick={() => setOpen(false)}
-            aria-label="Close"
-          >
-            &times;
-          </button>
+          <button className="vocab-tooltip-close" onClick={handleClose} aria-label="Close">&times;</button>
           {entry?.phonetic && (
             <span className="vocab-phonetic">{entry.phonetic}</span>
           )}
-          <span className="vocab-definition">
-            {entry?.brief ?? word}
-          </span>
+          <span className="vocab-definition">{entry?.brief ?? word}</span>
           {entry && (
-            <a
-              className="vocab-detail-link"
-              href={`#vocab-${word}`}
-              onClick={() => setOpen(false)}
-            >
+            <a className="vocab-detail-link" href="#" onClick={handleExpand}>
               Details &rarr;
             </a>
           )}
+        </span>
+      )}
+      {open && expanded && entry && (
+        <span className="vocab-tooltip vocab-tooltip-expanded" onClick={(e) => e.stopPropagation()}>
+          <button className="vocab-tooltip-close" onClick={handleClose} aria-label="Close">&times;</button>
+          <div className="vocab-expanded-header">
+            <span className="vocab-expanded-word">{word}</span>
+            {entry.phonetic && <span className="vocab-phonetic">{entry.phonetic}</span>}
+            <span className="vocab-card-pos">{entry.pos}</span>
+          </div>
+          <div className="vocab-expanded-brief">{entry.brief}</div>
+          <div className="vocab-expanded-body">
+            {entry.detail && (
+              <p className="vocab-expanded-detail">{entry.detail}</p>
+            )}
+            {entry.examples?.length > 0 && (
+              <div className="vocab-expanded-section">
+                <div className="vocab-card-label">Examples</div>
+                <ul>
+                  {entry.examples.map((ex, i) => <li key={i}>{ex}</li>)}
+                </ul>
+              </div>
+            )}
+            {entry.synonyms?.length > 0 && (
+              <div className="vocab-expanded-section">
+                <div className="vocab-card-label">Synonyms</div>
+                <ul className="vocab-synonyms">
+                  {entry.synonyms.map((s, i) => (
+                    <li key={i}><strong>{s.word}</strong> — {s.note}</li>
+                  ))}
+                </ul>
+              </div>
+            )}
+          </div>
+          <div className="vocab-expanded-footer">
+            <button className="vocab-expanded-btn" onClick={handleCollapse} title="Collapse">
+              &#x21BA; Collapse
+            </button>
+            <a className="vocab-expanded-jump" href={`#vocab-${word}`} onClick={handleJumpToList}>
+              Jump to list &#x2193;
+            </a>
+          </div>
         </span>
       )}
     </span>

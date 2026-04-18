@@ -103,6 +103,97 @@
   color: var(--ifm-color-primary);
 }
 
+/* ── Vocab tooltip: expanded (detail) mode ── */
+
+.vocab-tooltip-expanded {
+  min-width: 300px;
+  max-width: 420px;
+  padding: 12px 14px;
+  padding-right: 30px;
+  max-height: 47vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.vocab-expanded-header {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 4px;
+}
+
+.vocab-expanded-word {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--ifm-color-primary);
+}
+
+.vocab-expanded-brief {
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.vocab-expanded-body {
+  overflow-y: auto;
+  flex: 1 1 auto;
+  max-height: 33vh;
+  padding-right: 4px;
+}
+
+.vocab-expanded-body p {
+  margin: 0 0 6px;
+}
+
+.vocab-expanded-detail {
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: var(--ifm-font-color-secondary);
+}
+
+.vocab-expanded-section {
+  margin-top: 6px;
+}
+
+.vocab-expanded-section ul {
+  margin: 2px 0 0 1rem;
+  padding: 0;
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+
+.vocab-expanded-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 8px;
+  padding-top: 6px;
+  border-top: 1px solid var(--ifm-color-emphasis-300);
+}
+
+.vocab-expanded-btn {
+  background: none;
+  border: 1px solid var(--ifm-color-emphasis-400);
+  border-radius: 4px;
+  font-size: 0.78rem;
+  padding: 3px 8px;
+  cursor: pointer;
+  color: var(--ifm-font-color-secondary);
+}
+.vocab-expanded-btn:hover {
+  border-color: var(--ifm-color-primary);
+  color: var(--ifm-color-primary);
+}
+
+.vocab-expanded-jump {
+  font-size: 0.78rem;
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+}
+.vocab-expanded-jump:hover {
+  text-decoration: underline;
+}
+
 /* ── VocabList — bottom annotation cards ── */
 
 .vocab-list {
