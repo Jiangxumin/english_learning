@@ -2911,6 +2911,222 @@ const vocab = {
         { word: 'vanished', note: '消失，侧重从视线中完全消失' },
       ],
     },
+    {
+      word: 'attacked',
+      phonetic: '/əˈtækt/',
+      brief: '攻击，袭击（attack 的过去式）',
+      pos: 'verb',
+      detail:
+        'attacked 是 attack 的过去式，意为"攻击、袭击"，指以武力对目标发起进攻。原文中两次出现：Wukong 用铁棒攻击恶龙，但恶龙每次都用尾巴挡住后潜入水中。attacked 与 blocking、dived 形成固定的动作循环——攻击→格挡→逃离，突出了水战中被动的拉锯局面。',
+      examples: [
+        'The army attacked at dawn.（军队在黎明时发起进攻。）',
+        'She was attacked by a stray dog.（她被一条流浪狗袭击了。）',
+        'He attacked the problem from a new angle.（他从一个新角度攻克这个问题。）',
+      ],
+      synonyms: [
+        { word: 'assaulted', note: '猛攻，语气更重，侧重猛烈程度' },
+        { word: 'struck', note: '击打，侧重单次有力的一击' },
+        { word: 'charged', note: '冲锋，侧重快速向前冲击' },
+      ],
+    },
+    {
+      word: 'Coward',
+      phonetic: '/ˈkaʊərd/',
+      brief: '胆小鬼，懦夫',
+      pos: 'noun',
+      detail:
+        'coward 意为"胆小鬼、懦夫"，指面对危险或困难时退缩不敢面对的人，常用来侮辱对方。原文中 Wukong 对潜入水中的恶龙大喊"Coward!"——胆小鬼！这个词是悟空用来激怒恶龙、逼迫它再次出水的激将法，体现了悟空暴躁且好斗的性格。',
+      examples: [
+        'He called her a coward for running away.（他骂她逃跑是胆小鬼。）',
+        'Don\'t be a coward—stand up for yourself!（别当懦夫，为你自己站出来！）',
+        'Only a coward would do that.（只有懦夫才会那样做。）',
+      ],
+      synonyms: [
+        { word: 'chicken', note: '胆小鬼，口语化，语气较轻' },
+        { word: 'weakling', note: '弱者，侧重身体或精神上的软弱' },
+        { word: 'hero', note: '反义词：英雄，勇士' },
+      ],
+    },
+    {
+      word: 'swirled',
+      phonetic: '/swɜːld/',
+      brief: '搅动，使旋转（swirl 的过去式）',
+      pos: 'verb',
+      detail:
+        'swirled 是 swirl 的过去式，意为"搅动、使旋转"，指液体或气体呈螺旋状流动。原文中"The monkey swirled the water with his iron bar"——悟空用铁棒搅动河水，swirled 刻画了悟空将铁棒插入水中用力搅动的画面，河水随之旋转翻涌，配合后文的 rough、crashed、churned 形成一组气势汹汹的水战描写。',
+      examples: [
+        'She swirled the wine in her glass.（她摇动杯中的红酒。）',
+        'The wind swirled the leaves into the air.（风把落叶卷上了天空。）',
+        'He swirled the water with a stick.（他用棍子搅动水面。）',
+      ],
+      synonyms: [
+        { word: 'stirred', note: '搅拌，侧重均匀混合' },
+        { word: 'whirled', note: '急旋，速度更快更猛烈' },
+        { word: 'churned', note: '剧烈搅动，力度更大' },
+      ],
+    },
+    {
+      word: 'crashed',
+      phonetic: '/kræʃt/',
+      brief: '撞击，拍打（crash 的过去式）',
+      pos: 'verb',
+      detail:
+        'crashed 是 crash 的过去式，意为"撞击、猛烈碰撞"，可指物体碰撞发出的巨响，也可形容海浪猛烈拍打。原文中"Waves crashed and churned"——波浪拍打着翻涌，crashed 描绘巨浪撞击的壮观场面，与 churned 并列使用，从声音（crashed）和动态（churned）两个维度刻画悟空搅河时的混乱景象。',
+      examples: [
+        'The waves crashed against the rocks.（海浪拍打着岩石。）',
+        'The car crashed into a tree.（汽车撞上了一棵树。）',
+        'Thunder crashed overhead.（头顶雷声轰鸣。）',
+      ],
+      synonyms: [
+        { word: 'smashed', note: '猛砸，侧重将目标打碎' },
+        { word: 'pounded', note: '连续重击，侧重反复的力度' },
+        { word: 'slammed', note: '猛撞，侧重力量的突然爆发' },
+      ],
+    },
+    {
+      word: 'churned',
+      phonetic: '/tʃɜːnd/',
+      brief: '翻涌，剧烈搅动（churn 的过去式）',
+      pos: 'verb',
+      detail:
+        'churned 是 churn 的过去式，意为"翻涌、剧烈搅动"，指液体被搅动得剧烈翻腾。原文中"Waves crashed and churned"——波浪拍打着翻涌，churned 与 crashed 并列描绘被悟空搅乱的河面，churned 侧重水体的翻腾搅动（不是平静的流动），配合前文的 swirled 形成递进：搅动→翻涌。',
+      examples: [
+        'Her stomach churned with anxiety.（她紧张得胃里翻腾。）',
+        'The boat rocked in the churning water.（船在翻涌的水中摇晃。）',
+        'The butter churned into cream.（牛奶被搅成了奶油。）',
+      ],
+      synonyms: [
+        { word: 'boiled', note: '沸腾般翻滚，强调剧烈程度' },
+        { word: 'seethed', note: '翻滚、激荡，也可形容愤怒的情绪' },
+        { word: 'rippled', note: '泛起涟漪，程度比 churned 轻得多' },
+      ],
+    },
+    {
+      word: 'dragged up',
+      phonetic: '/ˈdræɡd ʌp/',
+      brief: '从底部搅起，拽上来',
+      pos: 'phrase',
+      detail:
+        'dragged up 是 drag up 的过去式，意为"从底部搅起、拽上来"，指将沉在底部的物体拉到水面。原文中"The water dragged up dirt from the river bottom"——河水把河底的泥沙搅了上来，dragged up 描绘了悟空搅河的破坏力之大——连河底的泥沙都被卷了上来，河水因此变得浑浊不堪。',
+      examples: [
+        'The storm dragged up debris from the ocean floor.（风暴把海底的碎片卷了上来。）',
+        'She dragged up old memories.（她翻出了旧日的记忆——比喻用法。）',
+        'They dragged up the sunken boat.（他们把沉船打捞了上来。）',
+      ],
+      synonyms: [
+        { word: 'stirred up', note: '搅起，侧重使底部物质悬浮' },
+        { word: 'brought up', note: '带上来的，更通用的说法' },
+        { word: 'dredged up', note: '打捞、挖掘，侧重从深处的提取' },
+      ],
+    },
+    {
+      word: 'insults',
+      phonetic: '/ˈɪnsʌlts/',
+      brief: '辱骂，侮辱性的话',
+      pos: 'noun',
+      detail:
+        'insults 是 insult 的复数形式，意为"辱骂、侮辱性的话"，指故意伤害他人尊严的言语。原文中"He yelled all kinds of insults"——他大喊各种辱骂的话，insults 体现了悟空面对不肯出来的恶龙时的愤怒与无奈，只能用言语攻击来泄愤，但恶龙依然不为所动。',
+      examples: [
+        'He shouted insults at the referee.（他对裁判大喊辱骂。）',
+        'She ignored their insults.（她无视了他们的侮辱。）',
+        'The insults hurt her feelings.（那些辱骂伤害了她的感情。）',
+      ],
+      synonyms: [
+        { word: 'abuse', note: '谩骂、虐待，程度更重，可包含身体伤害' },
+        { word: 'taunts', note: '嘲讽、讥讽，侧重用言语刺激挑衅' },
+        { word: 'compliments', note: '反义词：赞美，称赞' },
+      ],
+    },
+    {
+      word: 'tough',
+      phonetic: '/tʌf/',
+      brief: '难对付的，强悍的',
+      pos: 'adjective',
+      detail:
+        'tough 意为"难对付的、强悍的"，形容人或事物难以击败或处理。原文中"That dragon is tough"——那条龙很难对付，tough 在此表示悟空对恶龙实力的认可——虽然他不害怕，但也承认单凭蛮力无法取胜，为后文求助于 Guanyin 埋下伏笔。',
+      examples: [
+        'This is a tough problem.（这是个棘手的问题。）',
+        'He is a tough opponent.（他是一个难对付的对手。）',
+        'She had a tough childhood.（她有一个艰难的童年。）',
+      ],
+      synonyms: [
+        { word: 'formidable', note: '可怕的、令人敬畏的，程度更强' },
+        { word: 'stubborn', note: '顽固的，侧重不肯改变或让步' },
+        { word: 'easy', note: '反义词：容易的，好对付的' },
+      ],
+    },
+    {
+      word: 'felt',
+      phonetic: '/fɛlt/',
+      brief: '摸了摸，触碰（feel 的过去式）',
+      pos: 'verb',
+      detail:
+        'felt 是 feel 的过去式，意为"触摸、摸了摸"，指用手触碰以感知某物。原文中"Wukong felt the headband and shot a look at the monk"——悟空摸了摸头上的金箍，狠狠瞪了唐僧一眼。felt 这个动作虽小却意味深长——金箍是他被控制的象征，摸它是不甘心的身体语言，配合 shot a look（狠狠瞪了一眼），传达了复杂的情绪：怨恨、无奈、认命。',
+      examples: [
+        'She felt the fabric to check its quality.（她摸了摸布料检查质量。）',
+        'He felt his pocket for the keys.（他摸了摸口袋找钥匙。）',
+        'The doctor felt his forehead.（医生摸了摸他的额头。）',
+      ],
+      synonyms: [
+        { word: 'touched', note: '触碰，最通用的说法' },
+        { word: 'stroked', note: '抚摸，动作更轻柔' },
+        { word: 'grabbed', note: '一把抓住，力度更大更粗暴' },
+      ],
+    },
+    {
+      word: 'pagoda',
+      phonetic: '/pəˈɡəʊdə/',
+      brief: '宝塔，佛塔',
+      pos: 'noun',
+      detail:
+        'pagoda 意为"宝塔、佛塔"，是一种东亚传统多层塔式建筑，通常与佛教寺庙相关。原文中"Guanyin was in a garden next to her pagoda"——观音在她的宝塔旁的花园里，pagoda 点明了 Guanyin 居所的神圣属性——这不是普通的建筑，而是佛教圣地的标志性建筑。',
+      examples: [
+        'The ancient pagoda stood on the hilltop.（古老的宝塔矗立在山顶。）',
+        'Tourists visited the famous pagoda.（游客们参观了那座著名的宝塔。）',
+        'The pagoda has five stories.（这座宝塔有五层。）',
+      ],
+      synonyms: [
+        { word: 'tower', note: '塔，泛指，不限于佛教建筑' },
+        { word: 'stupa', note: '佛塔，源于印度，半球形，与东亚的 pagoda 形制不同' },
+        { word: 'temple', note: '寺庙，泛指宗教场所' },
+      ],
+    },
+    {
+      word: 'setting',
+      phonetic: '/ˈsɛtɪŋ/',
+      brief: '放火，点燃（set 的现在分词）',
+      pos: 'verb',
+      detail:
+        'setting 是 set 的现在分词形式。在此处 set fire to 是固定搭配，意为"放火、点燃"，指故意使某物燃烧。原文中"he was being punished for setting fire to his father\'s palace"——他因放火烧了父亲的宫殿而受到惩罚。setting fire to 是西游记中白龙马（西海龙王三太子）的核心背景故事——他因纵火毁坏殿上明珠而被判死罪，后经观音搭救才得以活命。',
+      examples: [
+        'Someone was caught setting fire to the building.（有人放火烧楼时被抓住了。）',
+        'He was accused of setting fire to the forest.（他被指控纵火烧林。）',
+        'The police are investigating who set fire to the car.（警方正在调查谁放火烧了那辆车。）',
+      ],
+      synonyms: [
+        { word: 'igniting', note: '点燃，侧重引燃的过程' },
+        { word: 'lighting', note: '点火，较中性，可用于正常用途' },
+        { word: 'extinguishing', note: '反义词：扑灭，熄灭' },
+      ],
+    },
+    {
+      word: 'earn',
+      phonetic: '/ɜːn/',
+      brief: '赢得，获得',
+      pos: 'verb',
+      detail:
+        'earn 意为"赢得、获得"，指通过努力或付出而得到应有的回报。原文中"he can earn forgiveness"——他可以赢得宽恕，earn 在此强调宽恕不是白白赐予的，而是需要通过行动（保护唐僧取经）来换取，体现了佛教中"功德赎罪"的观念。',
+      examples: [
+        'She earned a lot of money.（她赚了很多钱。）',
+        'He earned the respect of his colleagues.（他赢得了同事们的尊重。）',
+        'You have to earn your place on the team.（你得凭实力赢得在队中的位置。）',
+      ],
+      synonyms: [
+        { word: 'gain', note: '获得，较通用，不强调付出与回报的关系' },
+        { word: 'deserve', note: '值得、应得，侧重是否配得上' },
+        { word: 'lose', note: '反义词：失去' },
+      ],
+    },
   ],
 };
 
