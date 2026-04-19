@@ -2713,6 +2713,204 @@ const vocab = {
         { word: 'frowned', note: '皱眉，侧重不满的表情，程度比 glare 轻' },
       ],
     },
+    {
+      word: 'alongside',
+      phonetic: '/əˈlɒŋˈsaɪd/',
+      brief: '在…旁边，沿着',
+      pos: 'preposition',
+      detail:
+        'alongside 意为"在…旁边、沿着"，表示与某物并排、挨着。原文中"He found the Tang Monk traveling alongside a stream"——他发现唐僧正沿着一条小溪前行，alongside a stream 描绘了唐僧独自赶路时与溪流并行的画面，营造出宁静的氛围，与后文金箍的紧张情节形成反差。',
+      examples: [
+        'She walked alongside her friend.（她走在朋友旁边。）',
+        'The boat docked alongside the pier.（船停靠在码头旁边。）',
+        'He worked alongside his father in the shop.（他和父亲一起在店里工作。）',
+      ],
+      synonyms: [
+        { word: 'beside', note: '在…旁边，侧重位置关系，不如 alongside 强调并行' },
+        { word: 'next to', note: '紧挨着，最通用的说法' },
+        { word: 'parallel to', note: '与…平行，侧重方向一致' },
+      ],
+    },
+    {
+      word: 'marvelous',
+      phonetic: '/ˈmɑːvələs/',
+      brief: '奇妙的，极好的',
+      pos: 'adjective',
+      detail:
+        'marvelous 意为"奇妙的、极好的、令人惊叹的"，形容令人赞叹不已的事物。原文中 Wukong 看到金箍时惊呼"This headband is marvelous!"——这头箍太妙了！marvelous 体现了悟空被金箍外表吸引时的真心赞叹，但讽刺的是，他正夸赞的物件将成为控制他的枷锁，制造了强烈的戏剧反差。',
+      examples: [
+        'What a marvelous idea!（多妙的想法！）',
+        'The view from the top was marvelous.（从顶上看下去的景色令人惊叹。）',
+        'She did a marvelous job on the project.（她在这个项目上做得非常出色。）',
+      ],
+      synonyms: [
+        { word: 'wonderful', note: '极好的，最通用的赞叹词，程度稍弱' },
+        { word: 'magnificent', note: '壮丽的、宏伟的，侧重视觉上的壮观' },
+        { word: 'fantastic', note: '极好的，口语化，带有兴奋语气' },
+      ],
+    },
+    {
+      word: 'closely',
+      phonetic: '/ˈkləʊsli/',
+      brief: '密切地，仔细地',
+      pos: 'adverb',
+      detail:
+        'closely 意为"密切地、仔细地"，表示以高度关注的方式观察或跟随。原文中"the monk, watching the monkey closely"——唐僧密切地注视着悟空，closely 暗示唐僧此刻并不只是随意地看着悟空，而是按照 Guanyin 的指示，密切观察时机，等待悟空主动戴上金箍。这个词营造了一种暗中算计的紧张氛围。',
+      examples: [
+        'The teacher watched the students closely during the exam.（考试时老师密切注视着学生。）',
+        'She listened closely to every word.（她仔细地听着每一个字。）',
+        'The police are closely monitoring the situation.（警方正在密切监控局势。）',
+      ],
+      synonyms: [
+        { word: 'carefully', note: '小心地、仔细地，侧重谨慎而非关注程度' },
+        { word: 'intently', note: '专注地、目不转睛地，精神集中程度更强' },
+        { word: 'attentively', note: '聚精会神地，侧重用心聆听或观察' },
+      ],
+    },
+    {
+      word: 'reflection',
+      phonetic: '/rɪˈflekʃən/',
+      brief: '倒影，反射',
+      pos: 'noun',
+      detail:
+        'reflection 意为"倒影、反射"，指光或物像在镜子、水面等光滑表面上形成的影像。原文中"He looked at his reflection in the stream"——他看着自己在溪水中的倒影，reflection 在此营造了一个充满讽刺的画面：悟空在水中欣赏自己的倒影，觉得戴金箍的自己很帅，却不知这金箍将给他带来巨大的痛苦。',
+      examples: [
+        'She saw her reflection in the mirror.（她在镜子里看到了自己的倒影。）',
+        'The reflection of the mountains in the lake was beautiful.（山在湖中的倒影很美。）',
+        'He stared at his reflection in the window.（他盯着自己在窗户上的倒影。）',
+      ],
+      synonyms: [
+        { word: 'image', note: '影像、形象，泛指任何可见的像' },
+        { word: 'mirror image', note: '镜像，强调与原物左右对称' },
+        { word: 'shadow', note: '影子，由光线遮挡形成，不是反射' },
+      ],
+    },
+    {
+      word: 'bulged',
+      phonetic: '/bʌldʒd/',
+      brief: '凸出，鼓起（bulge 的过去式）',
+      pos: 'verb',
+      detail:
+        'bulged 是 bulge 的过去式，意为"凸出、鼓起"，指某物向外膨胀、突出于正常轮廓。原文中"His eyes bulged"——他的眼睛凸了出来，bulged 精准刻画了悟空念紧箍咒时因极度痛苦而眼球外凸的身体反应，画面感极强，让读者直观感受到金箍收紧时那种难以忍受的剧痛。',
+      examples: [
+        'His eyes bulged with surprise.（他惊讶得眼睛都凸了出来。）',
+        'The bag bulged with books.（包被书塞得鼓鼓的。）',
+        'Her stomach bulged slightly after the meal.（饭后她的肚子微微鼓了起来。）',
+      ],
+      synonyms: [
+        { word: 'protruded', note: '突出、伸出，较正式，常用于描述物体' },
+        { word: 'swelled', note: '膨胀、肿大，侧重体积增大' },
+        { word: 'popped', note: '弹出、瞪出，更口语化，动作更突然' },
+      ],
+    },
+    {
+      word: 'explode',
+      phonetic: '/ɪkˈspləʊd/',
+      brief: '爆炸，炸开',
+      pos: 'verb',
+      detail:
+        'explode 意为"爆炸、炸开"，指因内部压力过大而猛烈破裂。原文中悟空痛呼"My head\'s going to explode!"——我的头要炸了！explode 用夸张的手法表达金箍收紧时头部的剧烈疼痛，虽然并非真的爆炸，但这种比喻让痛苦变得可感可知。后文唐僧威胁"If you do, I\'ll recite the spell until your head really does explode"，用 really does 加强语气。',
+      examples: [
+        'The bomb could explode at any moment.（炸弹随时可能爆炸。）',
+        'She wanted to explode with anger.（她气得快炸了。）',
+        'The balloon exploded with a loud bang.（气球砰的一声炸了。）',
+      ],
+      synonyms: [
+        { word: 'burst', note: '破裂、爆开，侧重突然裂开' },
+        { word: 'erupt', note: '喷发、爆发，常用于火山或强烈情绪' },
+        { word: 'blow up', note: '炸毁、爆炸，口语化，也可指充气' },
+      ],
+    },
+    {
+      word: 'lunged',
+      phonetic: '/lʌndʒd/',
+      brief: '猛扑，突然冲向（lunge 的过去式）',
+      pos: 'verb',
+      detail:
+        'lunged 是 lunge 的过去式，意为"猛扑、突然冲向"，指快速向前冲去攻击或抓取。原文中"Wukong pulled out his iron bar and lunged at the Tang Monk"——悟空抽出铁棒猛扑向唐僧。lunged 刻画了悟空被怒火驱使的瞬间爆发——从听到指责到拔棒猛扑，一气呵成，没有任何犹豫，展现了他暴烈冲动的性格。',
+      examples: [
+        'The dog lunged at the intruder.（狗向入侵者猛扑过去。）',
+        'He lunged forward to catch the ball.（他猛冲上前去接球。）',
+        'The tiger lunged at its prey.（老虎向猎物猛扑。）',
+      ],
+      synonyms: [
+        { word: 'charged', note: '冲锋、猛冲，侧重持续向前的冲击力' },
+        { word: 'dived', note: '扑过去，侧重身体向前倾倒的动作' },
+        { word: 'rushed', note: '冲过去，最通用，不强调攻击意图' },
+      ],
+    },
+    {
+      word: 'pounded',
+      phonetic: '/ˈpaʊndɪd/',
+      brief: '剧烈跳动，猛击（pound 的过去式）',
+      pos: 'verb',
+      detail:
+        'pounded 是 pound 的过去式，意为"剧烈跳动、猛击"，可形容心脏因恐惧或疼痛而剧烈搏动，也可形容头部因疼痛而感觉像被重锤敲打。原文中"Wukong\'s head pounded"——悟空的头剧烈地疼，pounded 将头部的疼痛具象化为"被反复重击"的感觉，配合紧箍咒的效果，让读者仿佛能感受到那种一波又一波的剧痛。',
+      examples: [
+        'Her heart pounded with fear.（她的心因恐惧而剧烈跳动。）',
+        'He pounded on the door.（他用力砸门。）',
+        'My head was pounding after the loud concert.（吵闹的音乐会后我的头剧烈地疼。）',
+      ],
+      synonyms: [
+        { word: 'throbbed', note: '抽痛、阵痛，侧重有节奏的痛感' },
+        { word: 'hammered', note: '锤击，比喻反复重击的动作感' },
+        { word: 'beat', note: '跳动、敲打，最基础的说法' },
+      ],
+    },
+    {
+      word: 'swelled',
+      phonetic: '/swɛld/',
+      brief: '涌起，膨胀（swell 的过去式）',
+      pos: 'verb',
+      detail:
+        'swelled 是 swell 的过去式，意为"涌起、膨胀、隆起"，指体积增大或水面升高。原文中"the water swelled and a dragon leaped from it"——河水涌起，一条龙从中跃出，swelled 描绘了水面突然隆起的动态画面，作为恶龙出场的先兆，营造出惊心动魄的视觉效果——平静的河水骤然翻涌，预示危险降临。',
+      examples: [
+        'The river swelled after the heavy rain.（暴雨后河水上涨了。）',
+        'Her ankle swelled after the fall.（她摔倒后脚踝肿了起来。）',
+        'The crowd swelled to over a thousand people.（人群壮大到超过一千人。）',
+      ],
+      synonyms: [
+        { word: 'surged', note: '涌动、激增，侧重力量的猛烈和突然' },
+        { word: 'rose', note: '升起、上涨，最基础的说法' },
+        { word: 'bulged', note: '凸起、鼓出，侧重局部突出而非整体升高' },
+      ],
+    },
+    {
+      word: 'yanked',
+      phonetic: '/jæŋkt/',
+      brief: '猛拉，一把拽（yank 的过去式）',
+      pos: 'verb',
+      detail:
+        'yanked 是 yank 的过去式，意为"猛拉、一把拽"，指突然用力拉扯某物。原文中"He yanked the Tang Monk off the horse"——他一把将唐僧从马上拽下来。yanked 刻画了悟空在危急关头的果断行动——恶龙袭来瞬间，他不顾唐僧的感受，猛力将其拽离危险区域，体现了悟空虽然脾气暴躁，但关键时刻保护师父的本能反应。',
+      examples: [
+        'She yanked the door open.（她一把拉开门。）',
+        'He yanked the rope to get attention.（他猛拉绳子以引起注意。）',
+        'The teacher yanked the phone from the student\'s hand.（老师一把夺过学生手里的手机。）',
+      ],
+      synonyms: [
+        { word: 'jerked', note: '猛扯、急拉，动作更突然更粗暴' },
+        { word: 'pulled', note: '拉，最基础的说法，不强调力度和突然性' },
+        { word: 'tugged', note: '用力拉，侧重持续用力而非瞬间爆发' },
+      ],
+    },
+    {
+      word: 'slipped',
+      phonetic: '/slɪpt/',
+      brief: '滑入，溜走（slip 的过去式）',
+      pos: 'verb',
+      detail:
+        'slipped 是 slip 的过去式，意为"滑入、溜走"，指平滑、顺畅地进入或离开某处，动作轻巧而不留痕迹。原文中"the dragon swallowed the horse and then slipped back underwater"——恶龙吞掉白马后便滑回水下，slipped 刻画了恶龙入水的动作之流畅、迅速，仿佛不曾出现一般，与前一秒的凶猛攻击形成对比——来得猛烈，退得无声。',
+      examples: [
+        'The fish slipped back into the water.（鱼滑回了水中。）',
+        'She slipped out of the room quietly.（她悄悄溜出了房间。）',
+        'He slipped on the wet floor.（他在湿滑的地板上滑倒了。）',
+      ],
+      synonyms: [
+        { word: 'glided', note: '滑行、轻滑，侧重优雅流畅的动作' },
+        { word: 'dived', note: '潜入、跳入，侧重主动向下进入' },
+        { word: 'vanished', note: '消失，侧重从视线中完全消失' },
+      ],
+    },
   ],
 };
 
