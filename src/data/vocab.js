@@ -3127,6 +3127,708 @@ const vocab = {
         { word: 'lose', note: '反义词：失去' },
       ],
     },
+    {
+      word: 'Sparkling',
+      phonetic: '/ˈspɑːklɪŋ/',
+      brief: '闪耀的，闪闪发光的',
+      pos: 'adjective',
+      detail:
+        'sparkling 是 sparkle 的现在分词作形容词，意为"闪耀的、闪闪发光的"，形容发出明亮、细碎而连续的光芒。原文中"Sparkling light surrounded the dragon"——闪耀的光芒环绕着龙，Sparkling 营造了 Guanyin 施法将龙变为白马时的超自然视觉效果，光芒闪烁暗示神力的运作，是一场庄严的变身仪式。',
+      examples: [
+        'The sparkling diamonds caught everyone\'s eye.（闪闪发光的钻石吸引了所有人的目光。）',
+        'We swam in the sparkling blue sea.（我们在波光粼粼的蓝色大海中游泳。）',
+        'Her sparkling eyes showed her excitement.（她闪闪发光的眼睛透露出她的兴奋。）',
+      ],
+      synonyms: [
+        { word: 'glittering', note: '璀璨的，侧重多面反射的亮点' },
+        { word: 'shining', note: '发光的，最通用的说法，不强调闪烁感' },
+        { word: 'dazzling', note: '耀眼得令人目眩的，程度更强' },
+      ],
+    },
+    {
+      word: 'faded',
+      phonetic: '/ˈfeɪdɪd/',
+      brief: '消退，逐渐消失（fade 的过去式）',
+      pos: 'verb',
+      detail:
+        'faded 是 fade 的过去式，意为"消退、逐渐消失"，指光线、颜色或声音等慢慢减弱直至不见。原文中"When the light faded, a horse stood where the dragon had been"——当光芒消退时，一匹马站在龙原来的位置。faded 描绘了变身完成后光芒缓缓消散的过渡画面，与前一秒的 Sparkling 形成前后呼应——光起（Sparkling）→光灭（faded）→龙变为马。',
+      examples: [
+        'The colors of the sunset faded slowly.（日落的色彩慢慢消退了。）',
+        'The sound faded into the distance.（声音逐渐消失在远方。）',
+        'Her smile faded when she heard the news.（听到这个消息后她的笑容消失了。）',
+      ],
+      synonyms: [
+        { word: 'dimmed', note: '变暗，侧重光线减弱' },
+        { word: 'vanished', note: '消失，更突然、更彻底' },
+        { word: 'brightened', note: '反义词：变亮' },
+      ],
+    },
+    {
+      word: 'shore',
+      phonetic: '/ʃɔːr/',
+      brief: '岸边，河岸，海岸',
+      pos: 'noun',
+      detail:
+        'shore 意为"岸边、河岸、海岸"，指水域与陆地交界处的陆地部分。原文中两次出现：第一次"A boat had arrived next to the shore"——一条船靠到了岸边；第二次"the monkey led the horse onto the shore"——猴子牵着马上了岸。shore 在本章中反复出现，标志着渡河场景中的空间转换——从水中到陆地、从此岸到彼岸。',
+      examples: [
+        'We walked along the shore of the lake.（我们沿着湖岸散步。）',
+        'The ship was visible from the shore.（从岸边可以看到那艘船。）',
+        'They built a house near the shore.（他们在岸边附近建了一座房子。）',
+      ],
+      synonyms: [
+        { word: 'bank', note: '河岸，多用于河流' },
+        { word: 'coast', note: '海岸，侧重整条海岸线' },
+        { word: 'beach', note: '海滩，侧重沙质或砾石的岸' },
+      ],
+    },
+    {
+      word: 'plains',
+      phonetic: '/pleɪnz/',
+      brief: '平原，草原',
+      pos: 'noun',
+      detail:
+        'plains 是 plain 的复数形式，意为"平原、草原"，指大片平坦开阔的陆地，通常没有树木。原文中"continued their journey over hills and across plains"——翻山越岭、穿过平原。plains 与 hills 形成地形对比——山上山下、高低起伏，概括了取经途中地貌的多样性和旅途的漫长艰辛。',
+      examples: [
+        'The Great Plains stretch across central North America.（大平原横跨北美中部。）',
+        'Buffalo once roamed the plains.（野牛曾在草原上游荡。）',
+        'They traveled across the flat plains for days.（他们在平坦的平原上行进了数日。）',
+      ],
+      synonyms: [
+        { word: 'flatlands', note: '平地，侧重地形平坦' },
+        { word: 'grasslands', note: '草地，草原，侧重植被' },
+        { word: 'valleys', note: '山谷，两侧有山的低地' },
+      ],
+    },
+    {
+      word: 'barely',
+      phonetic: '/ˈbeəli/',
+      brief: '几乎不，勉强',
+      pos: 'adverb',
+      detail:
+        'barely 意为"几乎不、勉强"，表示某事勉强达到某个程度，差一点就不行。原文中"We\'ve barely started our journey"——我们几乎还没开始旅程。barely 在此强调取经之路的漫长——虽然已经走了很远了（过了河、过了山和平原），但悟空说"才刚开始"，暗示前方的路还远得很。',
+      examples: [
+        'She barely passed the exam.（她勉强通过了考试。）',
+        'I barely had time to eat breakfast.（我几乎没时间吃早饭。）',
+        'He could barely believe his eyes.（他几乎不敢相信自己的眼睛。）',
+      ],
+      synonyms: [
+        { word: 'scarcely', note: '几乎不，与 barely 近义，更正式' },
+        { word: 'hardly', note: '几乎不，与 barely 近义，更口语化' },
+        { word: 'almost', note: '几乎——但 almost 表肯定，barely 表否定，方向相反' },
+      ],
+    },
+    {
+      word: 'honor',
+      phonetic: '/ˈɒnər/',
+      brief: '荣誉，荣幸',
+      pos: 'noun',
+      detail:
+        'honor 意为"荣誉、荣幸"，指因获得某种特别机会或认可而感到光荣。原文中"That is quite an honor"——那真是一项殊荣。方丈听到唐僧被选中去取真经后如此感叹，honor 在此表示被 Bodhisattva 选中是一种极高的荣誉和信任，方丈的语气中充满敬意。',
+      examples: [
+        'It is an honor to meet you.（很荣幸见到您。）',
+        'He won many honors in his career.（他在职业生涯中赢得了许多荣誉。）',
+        'They held a ceremony in honor of the heroes.（他们举行了仪式向英雄们致敬。）',
+      ],
+      synonyms: [
+        { word: 'privilege', note: '特权、殊荣，侧重难得的机会' },
+        { word: 'glory', note: '荣耀、光辉，侧重辉煌感和外在的光芒' },
+        { word: 'shame', note: '反义词：耻辱，羞愧' },
+      ],
+    },
+    {
+      word: 'treasure',
+      phonetic: '/ˈtreʒər/',
+      brief: '珍宝，宝物',
+      pos: 'noun',
+      detail:
+        'treasure 意为"珍宝、宝物"，指极具价值的人或物。原文中"It\'s a Buddhist treasure"——那是一件佛教珍宝，唐僧这样介绍观音所赐的锦襕袈裟。treasure 在此强调了袈裟的神圣和珍贵属性，也为后文方丈起了贪心、想要占为己有的情节埋下伏笔——正因为是 treasure，才引发贪念。',
+      examples: [
+        'The pirates buried their treasure on the island.（海盗把宝藏埋在了岛上。）',
+        'She is a treasure to her family.（她是家里的宝贝。）',
+        'The museum displays ancient treasures.（博物馆展出古代珍宝。）',
+      ],
+      synonyms: [
+        { word: 'valuable', note: '贵重物品，较泛指' },
+        { word: 'gem', note: '宝石、珍品，侧重小巧珍贵' },
+        { word: 'junk', note: '反义词：破烂，废物' },
+      ],
+    },
+    {
+      word: 'admired',
+      phonetic: '/ədˈmaɪərd/',
+      brief: '欣赏，赞赏（admire 的过去式）',
+      pos: 'verb',
+      detail:
+        'admired 是 admire 的过去式，意为"欣赏、赞赏、钦佩"，指带着喜爱或敬意观看某物。原文中"The priest admired it for a moment"——方丈欣赏了片刻。admired 表面上是欣赏袈裟的美，但结合后文他借走袈裟并起了贪心的情节，admired 暗含了从欣赏到贪欲的转变——"admired"只是贪念的伪装。',
+      examples: [
+        'She admired the beautiful painting.（她欣赏那幅美丽的画作。）',
+        'I admire your courage.（我钦佩你的勇气。）',
+        'He admired himself in the mirror.（他对着镜子欣赏自己。）',
+      ],
+      synonyms: [
+        { word: 'appreciated', note: '欣赏、感激，侧重理解和认同' },
+        { word: 'marveled at', note: '惊叹于，侧重对奇观的赞叹' },
+        { word: 'despised', note: '反义词：鄙视，蔑视' },
+      ],
+    },
+    {
+      word: 'gazing at',
+      phonetic: '/ˈɡeɪzɪŋ æt/',
+      brief: '凝视，目不转睛地看着',
+      pos: 'phrase',
+      detail:
+        'gaze at 意为"凝视、目不转睛地看着"，指长时间专注地注视某物，带有深思、痴迷或敬畏的情感色彩。此处 gazing at 是现在分词形式，与 was 构成过去进行时。原文中"the priest was awake, gazing at the robe"——方丈彻夜未眠，凝视着袈裟。gazing at 暗示方丈已从前一句的"admired"（欣赏）滑向执念——他不是随便看看，而是长时间痴迷地盯着看，为下一句"I can\'t return this robe. I must have it!"的贪念爆发做铺垫。',
+      examples: [
+        'She stood by the window, gazing at the stars.（她站在窗边凝视着星空。）',
+        'He was gazing at the painting for a long time.（他长时间凝视着那幅画。）',
+        'The child gazed at the toy in wonder.（那个孩子惊奇地注视着那个玩具。）',
+      ],
+      synonyms: [
+        { word: 'staring at', note: '盯着看，侧重目光固定，不一定有情感投入' },
+        { word: 'glaring at', note: '怒视，带有敌意' },
+        { word: 'glancing at', note: '瞥一眼，快速短暂的看，与 gazing 形成对比' },
+      ],
+    },
+  ],
+  book_04: [
+    {
+      word: 'courtyard',
+      phonetic: '/ˈkɔːrtjɑːrd/',
+      brief: '庭院，院子',
+      pos: 'noun',
+      detail:
+        'courtyard 意为"庭院、院子"，指被建筑物或墙壁围起来的露天空间。原文中"two priests walking across the courtyard"——两个和尚穿过庭院。courtyard 点明了场景空间——寺院中僧人们日常活动的露天区域，也是深夜搬运柴火时的必经之路。',
+      examples: [
+        'The children played in the courtyard.（孩子们在院子里玩耍。）',
+        'The hotel has a beautiful courtyard with a fountain.（酒店有一个带喷泉的美丽庭院。）',
+        'She sat in the courtyard reading a book.（她坐在院子里看书。）',
+      ],
+      synonyms: [
+        { word: 'yard', note: '院子，较口语化，可指任何围起来的空地' },
+        { word: 'patio', note: '露台、天井，通常铺有地面，用于休闲' },
+        { word: 'plaza', note: '广场，规模更大的开阔空间' },
+      ],
+    },
+    {
+      word: 'bundles',
+      phonetic: '/ˈbʌndlz/',
+      brief: '捆，束（bundle 的复数）',
+      pos: 'noun',
+      detail:
+        'bundles 是 bundle 的复数形式，意为"捆、束"，指用绳索或布绑扎在一起的包裹。原文中"They were carrying bundles of firewood"——他们扛着一捆捆柴火。bundles of firewood 描绘了两个和尚深夜搬运成捆柴火的画面，为放火焚寺的阴谋提供了视觉线索。',
+      examples: [
+        'She carried a bundle of clothes.（她抱着一捆衣服。）',
+        'He tied the sticks into bundles.（他把树枝扎成一捆一捆的。）',
+        'Bundles of newspapers were stacked by the door.（门边堆着一捆捆报纸。）',
+      ],
+      synonyms: [
+        { word: 'bales', note: '大包、大捆，通常指压缩打包的货物' },
+        { word: 'parcels', note: '包裹，侧重包装好的物品' },
+        { word: 'loads', note: '负荷、担子，侧重所搬运的量' },
+      ],
+    },
+    {
+      word: 'stacked',
+      phonetic: '/stækt/',
+      brief: '堆放，整齐地叠放（stack 的过去式）',
+      pos: 'verb',
+      detail:
+        'stacked 是 stack 的过去式，意为"堆放、整齐地叠放"，指将物品一个叠一个地放好。原文中"The priests stacked the firewood next to the building"——和尚们把柴火堆放在唐僧住的房间旁边。stacked 强调柴火被有目的地、整齐地堆放在目标建筑旁，暗示这是一场精心策划的纵火。',
+      examples: [
+        'She stacked the books on the shelf.（她把书整齐地摞在书架上。）',
+        'The plates were stacked in the cupboard.（盘子被叠放在橱柜里。）',
+        'He stacked the boxes by the door.（他把箱子堆在门边。）',
+      ],
+      synonyms: [
+        { word: 'piled', note: '堆积，侧重杂乱地堆，不如 stacked 整齐' },
+        { word: 'heaped', note: '堆成堆，侧重随意地聚拢' },
+        { word: 'arranged', note: '排列、布置，侧重有秩序地摆放' },
+      ],
+    },
+    {
+      word: 'lit',
+      phonetic: '/lɪt/',
+      brief: '点燃，点火（light 的过去式）',
+      pos: 'verb',
+      detail:
+        'lit 是 light 的过去式，意为"点燃、点火"，指使某物开始燃烧。原文中"the priests lit the wood on fire"——和尚们点燃了柴火。lit 是整个纵火情节的关键动作词——从搬运柴火（bundles）、堆放（stacked）到点燃（lit），三个动作构成完整的犯罪链条。',
+      examples: [
+        'She lit a candle.（她点燃了一根蜡烛。）',
+        'He lit the fire in the fireplace.（他点燃了壁炉里的火。）',
+        'They lit fireworks to celebrate.（他们放烟花庆祝。）',
+      ],
+      synonyms: [
+        { word: 'ignited', note: '点燃，较正式，侧重引燃的过程' },
+        { word: 'kindled', note: '生火、点燃，侧重慢慢引燃' },
+        { word: 'extinguished', note: '反义词：熄灭，扑灭' },
+      ],
+    },
+    {
+      word: 'screamed',
+      phonetic: '/skriːmd/',
+      brief: '尖叫，惊叫（scream 的过去式）',
+      pos: 'verb',
+      detail:
+        'screamed 是 scream 的过去式，意为"尖叫、惊叫"，指因恐惧、痛苦或激动而发出高声喊叫。原文中"The priests screamed and ran"——和尚们尖叫着逃跑。screamed 刻画了火势失控后僧人们的极度恐惧，与前一秒他们还在执行纵火任务的画面形成戏剧性反差——害人者反被其所害。',
+      examples: [
+        'She screamed when she saw the spider.（她看到蜘蛛时尖叫起来。）',
+        'The crowd screamed with excitement.（人群兴奋地尖叫。）',
+        'He screamed for help.（他大声呼救。）',
+      ],
+      synonyms: [
+        { word: 'shrieked', note: '尖叫，声音更尖锐刺耳' },
+        { word: 'yelled', note: '大喊，侧重声音大而非恐惧' },
+        { word: 'whispered', note: '反义词：低语，轻声说' },
+      ],
+    },
+    {
+      word: 'crumbled',
+      phonetic: '/ˈkrʌmbld/',
+      brief: '崩塌，碎裂（crumble 的过去式）',
+      pos: 'verb',
+      detail:
+        'crumbled 是 crumble 的过去式，意为"崩塌、碎裂"，指建筑物或固体结构因外力而破碎坍塌。原文中两次出现：第一次"Walls crumbled and roofs caved in"——墙壁崩塌，屋顶塌陷；第二次"the buildings\' walls were black and crumbled"——建筑物的墙壁焦黑且碎裂。crumbled 生动描绘了大火吞噬寺院后的毁坏场景。',
+      examples: [
+        'The old wall crumbled under the weight.（旧墙在重压下崩塌了。）',
+        'The cookie crumbled in his hand.（饼干在他手中碎裂了。）',
+        'The ancient ruins were slowly crumbling.（古遗址在慢慢风化崩塌。）',
+      ],
+      synonyms: [
+        { word: 'collapsed', note: '倒塌，侧重整体垮掉' },
+        { word: 'shattered', note: '粉碎，侧重突然碎裂成片' },
+        { word: 'stood', note: '反义词：矗立，完好无损' },
+      ],
+    },
+    {
+      word: 'caved in',
+      phonetic: '/keɪvd ɪn/',
+      brief: '塌陷，凹陷（cave in 的过去式）',
+      pos: 'phrase',
+      detail:
+        'caved in 是 cave in 的过去式，意为"塌陷、凹陷"，指屋顶、地面或墙壁向内塌落。原文中"Walls crumbled and roofs caved in"——墙壁崩塌，屋顶塌陷。caved in 侧重向内坍塌的方向性——屋顶不是被炸飞，而是向内垮塌，让人联想到建筑内部被火焰吞噬后支撑力丧失的画面。',
+      examples: [
+        'The roof caved in under the weight of the snow.（屋顶在积雪的重压下塌了。）',
+        'The tunnel caved in during the earthquake.（地震中隧道塌方了。）',
+        'The old bridge finally caved in.（那座旧桥终于坍塌了。）',
+      ],
+      synonyms: [
+        { word: 'collapsed', note: '倒塌、坍塌，最通用的说法' },
+        { word: 'gave way', note: '支撑不住而垮掉，侧重断裂的过程' },
+        { word: 'caved out', note: '挖空、掏空，与 cave in 方向相反' },
+      ],
+    },
+    {
+      word: 'gasped',
+      phonetic: '/ɡæspt/',
+      brief: '倒吸一口气，惊喘',
+      pos: 'verb',
+      detail:
+        'gasped 是 gasp 的过去式，意为"倒吸一口气、惊喘"，指因惊讶或震惊而突然急促吸气。原文中"The Tang Monk woke up and opened the door. He gasped."——唐僧醒来打开门，倒吸了一口气。gasped 精准捕捉了唐僧看到寺院废墟时震惊的瞬间反应——前一秒还在平安沉睡，推开门便面对一片焦土。',
+      examples: [
+        'She gasped when she saw the price.（她看到价格时倒吸了一口气。）',
+        'He gasped in surprise.（他惊讶地倒吸一口气。）',
+        'The crowd gasped at the magician\'s trick.（人群对魔术师的戏法惊叹不已。）',
+      ],
+      synonyms: [
+        { word: 'startled', note: '受惊的，侧重突然被吓到的反应' },
+        { word: 'choked', note: '哽咽、说不出话，侧重因情绪激动而语塞' },
+        { word: 'exhaled', note: '反义词：呼气，吐气' },
+      ],
+    },
+    {
+      word: 'drifted',
+      phonetic: '/ˈdrɪftɪd/',
+      brief: '飘动，弥漫（drift 的过去式）',
+      pos: 'verb',
+      detail:
+        'drifted 是 drift 的过去式，意为"飘动、弥漫"，指轻柔地随风或随水缓缓移动。原文中"Smoke drifted through the air"——烟雾弥漫在空气中。drifted 描绘了火灾后烟雾缓缓飘散的画面，与 crumbled、burned 等词共同构建了灾后废墟的视觉场景。',
+      examples: [
+        'The boat drifted down the river.（小船顺水漂流而下。）',
+        'Leaves drifted in the wind.（落叶随风飘荡。）',
+        'The smell of coffee drifted from the kitchen.（咖啡的香气从厨房飘来。）',
+      ],
+      synonyms: [
+        { word: 'floated', note: '漂浮，侧重轻盈地悬在空中或水面' },
+        { word: 'wafted', note: '飘荡，侧重气味或声音的轻柔传送' },
+        { word: 'rushed', note: '反义词：冲、猛冲，速度快且猛烈' },
+      ],
+    },
+    {
+      word: 'spread',
+      phonetic: '/sprɛd/',
+      brief: '蔓延，扩散',
+      pos: 'verb',
+      detail:
+        'spread 意为"蔓延、扩散"，指从中心向四周扩展、延伸。原文中"The spell made the fire spread everywhere else"——咒语使火向其他所有地方蔓延。spread 在此描述火势的蔓延，与悟空"保护唐僧所住的建筑"的法术形成对比——一边被保护，另一边火势反而被推动扩散。',
+      examples: [
+        'The fire spread quickly through the forest.（大火在森林中迅速蔓延。）',
+        'The rumor spread across the school.（谣言传遍了整个学校。）',
+        'She spread butter on the bread.（她把黄油涂在面包上。）',
+      ],
+      synonyms: [
+        { word: 'expanded', note: '扩展、膨胀，侧重面积或规模的增大' },
+        { word: 'scattered', note: '散开、分散，侧重向不同方向散落' },
+        { word: 'contained', note: '反义词：控制住、遏制' },
+      ],
+    },
+    {
+      word: 'shrugged',
+      phonetic: '/ʃrʌɡd/',
+      brief: '耸肩（表示不在乎或无所谓）',
+      pos: 'verb',
+      detail:
+        'shrugged 是 shrug 的过去式，意为"耸肩"，是常见的肢体语言，表示不在乎、无所谓或轻描淡写。原文中"Wukong shrugged"——悟空耸了耸肩，紧接着说"The priests here are evil. They deserved what they got."。shrugged 配合冷酷的言语，表现了悟空对寺院被毁毫不愧疚的态度——在他看来，恶人遭到报应天经地义。',
+      examples: [
+        '"I don\'t know," she shrugged.（"我不知道，"她耸了耸肩。）',
+        'He shrugged off the criticism.（他对批评满不在乎。）',
+        'She shrugged and walked away.（她耸了耸肩走开了。）',
+      ],
+      synonyms: [
+        { word: 'dismissed', note: '不予理会，侧重态度上的轻视' },
+        { word: 'brushed off', note: '不当回事，口语化' },
+      ],
+    },
+    {
+      word: 'deserved',
+      phonetic: '/dɪˈzɜːrvd/',
+      brief: '罪有应得，活该（deserve 的过去式）',
+      pos: 'verb',
+      detail:
+        'deserved 是 deserve 的过去式，意为"应得、罪有应得"，指某人因其行为而理应得到某种结果（好或坏）。原文中"They deserved what they got"——他们罪有应得。Wukong 用 deserved 表示那些试图纵火杀人的和尚们遭到报应是合理的，这个词语气强硬，体现了悟空"以牙还牙"的正义观。',
+      examples: [
+        'He deserved the award for his hard work.（他因努力工作而应得这个奖。）',
+        'She got what she deserved.（她得到了应有的报应。）',
+        'They deserved to be punished.（他们理应受到惩罚。）',
+      ],
+      synonyms: [
+        { word: 'earned', note: '赢得、挣得，侧重通过付出获得，较正面' },
+        { word: 'merited', note: '应得的，较正式' },
+        { word: 'unfair', note: '反义词：不公平的，不该受到的' },
+      ],
+    },
+    {
+      word: 'Villains',
+      phonetic: '/ˈvɪlənz/',
+      brief: '恶棍，坏人（villain 的复数）',
+      pos: 'noun',
+      detail:
+        'villains 是 villain 的复数形式，意为"恶棍、坏人"，指道德败坏、专门做坏事的人。原文中 Wukong 喝道"Villains!"——恶棍们！Wukong 用 villains 来指责那两个和尚试图纵火谋害唐僧。注意：虽然这两个和尚只是从犯，但悟空此刻还不知道真相，所以用 villains 统称所有参与阴谋的人。',
+      examples: [
+        'The villain was caught by the police.（恶棍被警察抓住了。）',
+        'Every story needs a good villain.（每个故事都需要一个好反派。）',
+        'He played the villain in the movie.（他在电影中演反派。）',
+      ],
+      synonyms: [
+        { word: 'scoundrels', note: '无赖、恶棍，语气更强' },
+        { word: 'criminals', note: '罪犯，侧重法律层面的罪行' },
+        { word: 'heroes', note: '反义词：英雄' },
+      ],
+    },
+    {
+      word: 'club',
+      phonetic: '/klʌb/',
+      brief: '用棍棒打，猛击',
+      pos: 'verb',
+      detail:
+        'club 作动词意为"用棍棒打、猛击"，指用粗重的棒状物击打某人。原文中"I should club you with my iron bar!"——我应该用铁棒打你们！club 在此是 Wukong 威胁僧人的用语，以动词形式出现，与他手中标志性的武器（iron bar）搭配，画面感极强。',
+      examples: [
+        'He tried to club the attacker with a stick.（他试图用棍子击打攻击者。）',
+        'The seal was clubbed to death.（海豹被棍棒打死。）',
+        'She clubbed him over the head.（她用棍子猛击他的头部。）',
+      ],
+      synonyms: [
+        { word: 'beat', note: '打、击打，最通用的说法' },
+        { word: 'bludgeon', note: '用重棍猛打，力度更大更残忍' },
+        { word: 'strike', note: '击打，侧重一次有力的打击' },
+      ],
+    },
+    {
+      word: 'shaking',
+      phonetic: '/ˈʃeɪkɪŋ/',
+      brief: '发抖，颤抖',
+      pos: 'verb',
+      detail:
+        'shaking 是 shake 的现在分词形式，意为"发抖、颤抖"，指身体不由自主地快速晃动，多因恐惧引起。原文中"He was shaking"——他在发抖。shaking 描绘了那个和尚面对悟空威胁时的极度恐惧，他一边承认袈裟丢了，一边全身颤抖，暗示接下来的消息（袈裟不见了）将引发更大的危机。',
+      examples: [
+        'She was shaking with fear.（她吓得浑身发抖。）',
+        'His hands were shaking as he held the letter.（他拿着信时双手在发抖。）',
+        'The dog was shaking from the cold.（狗冻得直发抖。）',
+      ],
+      synonyms: [
+        { word: 'trembling', note: '颤抖，侧重细微持续的抖动' },
+        { word: 'quivering', note: '微微颤动，幅度更小更轻' },
+        { word: 'steady', note: '反义词：平稳的，不晃动的' },
+      ],
+    },
+    {
+      word: 'glared',
+      phonetic: '/ɡleərd/',
+      brief: '怒目而视，狠狠地瞪（glare 的过去式）',
+      pos: 'verb',
+      detail:
+        'glared 是 glare 的过去式，意为"怒目而视、狠狠地瞪"，指带着愤怒或敌意长时间盯着某人。原文中"Wukong glared at the two scared priests"——悟空怒视着两个吓坏了的和尚。glared 发生在得知袈裟丢失后，悟空的怒火从方丈转向了眼前的僧人，但紧箍咒随即制止了他的暴力冲动。',
+      examples: [
+        'She glared at him angrily.（她愤怒地瞪着他。）',
+        'The teacher glared at the noisy students.（老师狠狠地瞪了吵闹的学生。）',
+        'He glared at me without saying a word.（他一言不发地怒视着我。）',
+      ],
+      synonyms: [
+        { word: 'scowled', note: '皱眉怒视，侧重面部表情的凶狠' },
+        { word: 'stared', note: '凝视，中性词，不一定带有怒意' },
+        { word: 'smiled', note: '反义词：微笑' },
+      ],
+    },
+    {
+      word: 'screaming',
+      phonetic: '/ˈskriːmɪŋ/',
+      brief: '尖叫，大喊大叫',
+      pos: 'verb',
+      detail:
+        'screaming 是 scream 的现在分词形式，意为"尖叫、大喊大叫"，指因恐惧、疼痛或愤怒而发出高声叫喊。原文中"Wukong rolled around, kicking and screaming"——悟空满地打滚，又踢又叫。screaming 与 kicking 并列，生动描绘了悟空被紧箍咒折磨时的剧烈反应——不是普通的疼痛，而是痛到满地翻滚、又踢又叫的程度。',
+      examples: [
+        'The baby was screaming in pain.（婴儿痛得尖叫。）',
+        'She came running out of the house, screaming.（她尖叫着从房子里跑了出来。）',
+        'The fans were screaming with excitement.（粉丝们兴奋地尖叫。）',
+      ],
+      synonyms: [
+        { word: 'yelling', note: '大喊，侧重声音大而非恐惧' },
+        { word: 'shrieking', note: '尖叫，声音更尖锐刺耳' },
+        { word: 'whimpering', note: '呜咽，低声哭泣，程度比 screaming 轻' },
+      ],
+    },
+    {
+      word: 'boulder',
+      phonetic: '/ˈboʊldər/',
+      brief: '巨石，大圆石',
+      pos: 'noun',
+      detail:
+        'boulder 意为"巨石、大圆石"，指体积很大的光滑岩石，通常由风化或水流磨圆。原文中两次出现：第一次 Wukong 躲在巨石后面偷听（Peeking over a boulder），第二次跳过巨石冲入妖群（jumped over the boulder）。boulder 在此既作为隐蔽观察的掩体，也作为悟空发起冲锋的跳板，一块石头承载了两个截然不同的场景功能。',
+      examples: [
+        'The hikers sat on a boulder to rest.（徒步者坐在一块巨石上休息。）',
+        'A huge boulder blocked the road.（一块巨石挡住了去路。）',
+        'We climbed over the boulder.（我们爬过了那块巨石。）',
+      ],
+      synonyms: [
+        { word: 'rock', note: '岩石，泛指，大小不限' },
+        { word: 'crag', note: '峭壁岩石，多指悬崖上的突起' },
+        { word: 'pebble', note: '鹅卵石，小石头，与 boulder 大小相反' },
+      ],
+    },
+    {
+      word: 'throwing a feast',
+      phonetic: '/ˈθroʊɪŋ ə fiːst/',
+      brief: '举办宴会，设宴',
+      pos: 'phrase',
+      detail:
+        'throw a feast 是固定搭配，意为"举办宴会、设宴"，指举办一场丰盛的宴席来庆祝。throwing 是 throw 的现在分词形式，在此处并非字面意义的"投掷"，而是引申为"举办"。原文中黑熊精说"I\'m throwing a feast to celebrate!"——我要办一场宴会来庆祝！黑熊精偷了佛教珍宝后大摆宴席庆祝，表现出妖怪的嚣张和不知天高地厚。类似搭配还有 throw a party（举办派对）。',
+      examples: [
+        'They are throwing a feast for the festival.（他们为节日举办盛宴。）',
+        'She threw a feast for her birthday.（她为生日设了一场盛宴。）',
+        'The king threw a feast to welcome the hero.（国王设宴欢迎英雄。）',
+      ],
+      synonyms: [
+        { word: 'hosting a banquet', note: '举办宴会，更正式的说法' },
+        { word: 'holding a celebration', note: '举行庆祝活动' },
+        { word: 'fasting', note: '反义词：禁食，斋戒' },
+      ],
+    },
+    {
+      word: 'fled',
+      phonetic: '/flɛd/',
+      brief: '逃跑，逃散（flee 的过去式）',
+      pos: 'verb',
+      detail:
+        'fled 是 flee 的过去式，意为"逃跑、逃离"，指因恐惧而快速逃离某处。原文中"The spirits all fled in different directions"——妖怪们四散逃窜。fled in different directions 描绘了群妖见到悟空后惊慌失措、向四面八方逃散的画面，突出了悟空的威慑力。',
+      examples: [
+        'The soldiers fled from the battlefield.（士兵们从战场上逃跑了。）',
+        'The thief fled when he heard the police coming.（小偷听到警察来了就逃跑了。）',
+        'The villagers fled the flood.（村民们逃离了洪水。）',
+      ],
+      synonyms: [
+        { word: 'escaped', note: '逃脱，侧重成功摆脱困境或追捕' },
+        { word: 'scattered', note: '散开、四散，侧重向不同方向分散' },
+        { word: 'approached', note: '反义词：靠近、接近' },
+      ],
+    },
+    {
+      word: 'pounded',
+      phonetic: '/ˈpaʊndɪd/',
+      brief: '猛敲，重重地捶打（pound 的过去式）',
+      pos: 'verb',
+      detail:
+        'pounded 是 pound 的过去式，意为"猛敲、重重地捶打"，指用力反复敲击。原文中"Wukong pounded on the cave\'s door"——悟空猛敲洞门。pounded 刻画了悟空追到黑熊精洞口后急不可耐、暴力砸门的画面，力度感十足。',
+      examples: [
+        'He pounded on the door.（他用力砸门。）',
+        'She pounded the table with her fist.（她用拳头重重地捶桌子。）',
+        'The waves pounded against the cliff.（海浪猛烈拍打着悬崖。）',
+      ],
+      synonyms: [
+        { word: 'banged', note: '砰砰地敲，侧重撞击的声音' },
+        { word: 'hammered', note: '锤击，侧重反复用力的敲打' },
+        { word: 'tapped', note: '反义词：轻敲，轻轻叩击' },
+      ],
+    },
+    {
+      word: 'smash',
+      phonetic: '/smæʃ/',
+      brief: '砸碎，猛击',
+      pos: 'verb',
+      detail:
+        'smash 意为"砸碎、猛击"，指用力将某物打碎或猛然撞击。原文中"I\'ll smash this door down!"——我要把这扇门砸烂！smash 在此是 Wukong 的威胁用语，配合"down"表示要将门完全砸开，语气强硬而暴力。',
+      examples: [
+        'He smashed the window with a rock.（他用石头砸碎了窗户。）',
+        'The car smashed into a tree.（汽车撞上了一棵树。）',
+        'She smashed the plate on the floor.（她把盘子摔碎在地上。）',
+      ],
+      synonyms: [
+        { word: 'shatter', note: '粉碎、碎裂，侧重碎片飞溅的效果' },
+        { word: 'crush', note: '压碎、碾碎，侧重施加重压' },
+        { word: 'fix', note: '反义词：修理、修补' },
+      ],
+    },
+    {
+      word: 'lance',
+      phonetic: '/læns/',
+      brief: '长矛，长枪',
+      pos: 'noun',
+      detail:
+        'lance 意为"长矛、长枪"，是一种长柄武器，尖端有金属矛头，历史上骑兵冲锋时使用。原文中三次出现，都是黑熊精手持长矛与悟空交战的场景。lance 作为妖怪的武器，与悟空的铁棒（iron bar）形成对抗——长兵器对短兵器，各有所长。',
+      examples: [
+        'The knight charged with his lance.（骑士手持长矛冲锋。）',
+        'The soldier thrust his lance at the enemy.（士兵将长矛刺向敌人。）',
+        'Lances were used by medieval cavalry.（长矛是中世纪骑兵的武器。）',
+      ],
+      synonyms: [
+        { word: 'spear', note: '矛、枪，与 lance 近义，更通用的说法' },
+        { word: 'pike', note: '长枪，比 lance 更长，步兵使用' },
+        { word: 'shield', note: '反义词：盾牌（防御性武器）' },
+      ],
+    },
+    {
+      word: 'pound',
+      phonetic: '/paʊnd/',
+      brief: '猛敲，重重地捶打',
+      pos: 'verb',
+      detail:
+        'pound 意为"猛敲、重重地捶打"，指用力反复敲击。此处是动词原形，出现在黑熊精的质问中："How dare you pound on my door and yell at me!"——你竟敢砸我的门还对我大吼！pound 与前文 Wukong 的 pounded 是同一个词的不同时态——Wukong 先 pounded（过去式），然后黑熊精用原形 pound 回应，强调指责。',
+      examples: [
+        'He pounded on the door.（他猛敲着门。）',
+        'She pounded the dough with her fists.（她用拳头反复捶打面团。）',
+        'The rain pounded on the roof.（雨猛烈地敲打着屋顶。）',
+      ],
+      synonyms: [
+        { word: 'bang', note: '砰砰地敲，侧重撞击声' },
+        { word: 'hammer', note: '锤击，侧重反复用力敲打' },
+        { word: 'stroke', note: '反义词：轻抚，轻轻碰触' },
+      ],
+    },
+    {
+      word: 'snorted',
+      phonetic: '/snɔːrtɪd/',
+      brief: '嗤之以鼻，哼了一声（snort 的过去式）',
+      pos: 'verb',
+      detail:
+        'snorted 是 snort 的过去式，意为"嗤之以鼻、哼了一声"，指通过鼻子发出短促的哼声来表示轻蔑或不屑。原文中"The Black Wind King snorted. You don\'t impress me."——黑风王哼了一声：你吓不到我。snorted 配合"You don\'t impress me"，生动刻画了黑熊精对悟空大名鼎鼎的过往毫不在意的傲慢态度。',
+      examples: [
+        'He snorted in disgust.（他厌恶地哼了一声。）',
+        '"Yeah, right," she snorted.（"得了吧，"她嗤之以鼻。）',
+        'The horse snorted and stamped its hoof.（马打了个响鼻，跺了跺蹄子。）',
+      ],
+      synonyms: [
+        { word: 'scoffed', note: '嘲笑、冷笑，侧重口头上的嘲讽' },
+        { word: 'sneered', note: '嗤笑，侧重面部表情的不屑' },
+        { word: 'nodded', note: '反义词：点头表示赞同' },
+      ],
+    },
+    {
+      word: 'impress',
+      phonetic: '/ɪmˈprɛs/',
+      brief: '使…印象深刻，使…敬畏',
+      pos: 'verb',
+      detail:
+        'impress 意为"使…印象深刻、使…敬畏"，指通过某方面的优秀表现让他人感到钦佩。原文中"You don\'t impress me"——你吓不到我/你打动不了我。这是黑熊精的挑衅之语——悟空自称大闹天宫，但黑熊精并不以为然。impress 在否定句中表示"不放在眼里"。',
+      examples: [
+        'She impressed the judges with her performance.（她的表演给评委留下了深刻印象。）',
+        'He tried to impress his boss.（他试图给老板留下好印象。）',
+        'I was impressed by her courage.（我被她的勇气打动了。）',
+      ],
+      synonyms: [
+        { word: 'awe', note: '使敬畏，程度更强，侧重令人惊叹' },
+        { word: 'intimidate', note: '威慑、恐吓，侧重使对方害怕' },
+        { word: 'disappoint', note: '反义词：使失望' },
+      ],
+    },
+    {
+      word: 'jabbed',
+      phonetic: '/ˈdʒæbd/',
+      brief: '猛刺，猛戳（jab 的过去式）',
+      pos: 'verb',
+      detail:
+        'jabbed 是 jab 的过去式，意为"猛刺、猛戳"，指快速、短促地向前刺击。原文中"He jabbed his lance at Wukong"——他向悟空猛刺长矛。jabbed 刻画了黑熊精发起攻击的动作——快速、短促、精准的刺击，与 lunge（猛扑）相比更侧重武器的尖端刺击。',
+      examples: [
+        'He jabbed his finger at the map.（他用手指猛戳地图。）',
+        'The boxer jabbed at his opponent\'s face.（拳击手朝对手脸上刺了一拳。）',
+        'She jabbed the needle into the fabric.（她把针猛扎进布料里。）',
+      ],
+      synonyms: [
+        { word: 'thrust', note: '猛刺、插入，力度更大更深入' },
+        { word: 'stabbed', note: '刺、捅，侧重尖锐物体刺入' },
+        { word: 'patted', note: '反义词：轻拍' },
+      ],
+    },
+    {
+      word: 'tumbled',
+      phonetic: '/ˈtʌmbld/',
+      brief: '滚落，翻滚下来（tumble 的过去式）',
+      pos: 'verb',
+      detail:
+        'tumbled 是 tumble 的过去式，意为"滚落、翻滚"，指人或物体失去平衡后沿斜面翻滚而下。原文中"Rocks tumbled and rolled downhill as the two warriors fought"——两个勇士激战时，岩石滚落翻下山坡。tumbled 刻画了悟空与黑熊精战斗的激烈程度——连山上的岩石都被震得滚落，侧面展现了双方力量的惊人。',
+      examples: [
+        'The rocks tumbled down the hillside.（岩石从山坡上滚落。）',
+        'She tumbled off the bike.（她从自行车上摔了下来。）',
+        'The child tumbled into the pile of leaves.（孩子一头扎进了落叶堆里。）',
+      ],
+      synonyms: [
+        { word: 'rolled', note: '滚动，强调沿某个方向持续转动' },
+        { word: 'fell', note: '落下，最基础的说法' },
+        { word: 'climbed', note: '反义词：攀爬，向上移动' },
+      ],
+    },
+    {
+      word: 'warriors',
+      phonetic: '/ˈwɒriərz/',
+      brief: '勇士，战士（warrior 的复数）',
+      pos: 'noun',
+      detail:
+        'warriors 是 warrior 的复数形式，意为"勇士、战士"，指擅长战斗、勇敢善战的人。原文中"the two warriors fought"——两位勇士激烈交战。warriors 在此将悟空和黑熊精平等地并称为"战士"，暗示两人实力相当、棋逢对手，为后文黑熊精提出"午休"的荒诞转折做铺垫——即使是势均力敌的勇士，也需要吃午饭。',
+      examples: [
+        'The warriors fought bravely in the battle.（勇士们在战斗中英勇作战。）',
+        'He was a great warrior in ancient times.（他是古代的一位伟大战士。）',
+        'The samurai were Japanese warriors.（武士是日本的战士。）',
+      ],
+      synonyms: [
+        { word: 'fighters', note: '斗士，侧重格斗或战斗的人' },
+        { word: 'champions', note: '冠军、斗士，侧重胜者身份' },
+        { word: 'cowards', note: '反义词：胆小鬼，懦夫' },
+      ],
+    },
+    {
+      word: 'jaw',
+      phonetic: '/dʒɔː/',
+      brief: '下巴，颌',
+      pos: 'noun',
+      detail:
+        'jaw 意为"下巴、颌"，指嘴部下方的骨头。原文中"Wukong\'s jaw fell open"——悟空的下巴掉了下来（嘴巴大张）。jaw fell open / jaw dropped 是英语中形容"极度惊讶、目瞪口呆"的固定表达。悟空之所以震惊，是因为黑熊精居然在激战正酣时说"我要吃午饭了"——这种荒诞的转折让齐天大圣也惊得合不拢嘴。',
+      examples: [
+        'Her jaw dropped when she heard the news.（她听到消息时惊得合不拢嘴。）',
+        'He broke his jaw in the accident.（他在事故中摔断了下巴。）',
+        'My jaw hurts from chewing too much.（我嚼太多东西下巴都疼了。）',
+      ],
+      synonyms: [
+        { word: 'chin', note: '下巴尖，指下颌最前端的部分' },
+        { word: 'mouth', note: '嘴巴，泛指整个口腔区域' },
+      ],
+    },
   ],
 };
 
