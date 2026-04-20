@@ -4236,6 +4236,501 @@ const vocab = {
         { word: 'cruelty', note: '反义词：残忍，残酷' },
       ],
     },
+    {
+      word: 'snout',
+      phonetic: '/snaʊt/',
+      brief: '（动物的）口鼻部，猪嘴',
+      pos: 'noun',
+      detail:
+        'snout 意为"动物的口鼻部"，特指猪、熊等动物突出的长嘴巴。原文中"The creature had a pig\'s snout and ears"——那生物长着猪一样的嘴巴和耳朵。snout 在此是辨认猪八戒外貌的关键词——虽然他能像人一样直立行走，但 snout 和 ears 暴露了他的猪妖身份。',
+      examples: [
+        'The pig rooted around with its snout.（猪用鼻子到处拱。）',
+        'The dog pushed its snout into the bag.（狗把嘴拱进了袋子里。）',
+        'The crocodile has a long snout.（鳄鱼有长长的嘴巴。）',
+      ],
+      synonyms: [
+        { word: 'muzzle', note: '动物的口鼻部，多用于狗、马等' },
+        { word: 'nose', note: '鼻子，通用词，人类和动物通用' },
+      ],
+    },
+    {
+      word: 'Surrender',
+      phonetic: '/səˈrɛndər/',
+      brief: '投降，放弃抵抗',
+      pos: 'verb',
+      detail:
+        'Surrender 意为"投降、放弃抵抗"，指在战斗或冲突中承认失败、停止反抗。原文中悟空大喊"Surrender now!"——现在投降！这是悟空与猪八戒交战时的喊话，展现出悟空自信满满的战斗风格——先让对方投降，不投降再动手。',
+      examples: [
+        'The soldiers surrendered to the enemy.（士兵向敌人投降了。）',
+        '"Surrender!" shouted the police.（"投降！"警察喊道。）',
+        'She surrendered after a long struggle.（她经过长时间挣扎后放弃了。）',
+      ],
+      synonyms: [
+        { word: 'give up', note: '放弃，口语化，不限于战斗场景' },
+        { word: 'yield', note: '屈服、让步，较正式' },
+        { word: 'resist', note: '反义词：抵抗，反抗' },
+      ],
+    },
+    {
+      word: 'lunged',
+      phonetic: '/lʌndʒd/',
+      brief: '猛扑，突然冲向（lunge 的过去式）',
+      pos: 'verb',
+      detail:
+        'lunged 是 lunge 的过去式，意为"猛扑、突然冲向"，指快速用力地向前扑去，常用于攻击动作。原文中两次出现：第一次猪八戒"He lunged at the monkey again"——他又向猴子猛扑过去；第二次老虎"Then he lunged at Bajie"——然后他向八戒猛扑过来。lunged 强调攻击时的突然性和爆发力。',
+      examples: [
+        'The dog lunged at the intruder.（狗向闯入者猛扑过去。）',
+        'He lunged forward to catch the ball.（他猛地向前冲去接球。）',
+        'The tiger lunged at its prey.（老虎向猎物猛扑过去。）',
+      ],
+      synonyms: [
+        { word: 'charged', note: '冲锋，侧重持续向前的冲力' },
+        { word: 'pounced', note: '猛扑，多用于猫科动物突然跳扑猎物' },
+        { word: 'retreated', note: '反义词：撤退，后退' },
+      ],
+    },
+    {
+      word: 'punished',
+      phonetic: '/ˈpʌnɪʃt/',
+      brief: '受到惩罚，被处罚（punish 的过去式/过去分词）',
+      pos: 'verb',
+      detail:
+        'punished 是 punish 的过去式/过去分词，意为"受到惩罚、被处罚"，指因犯错或做坏事而承受不良后果。原文中"I thought you were being punished"——我以为你正在受罚呢。猪八戒用 punished 来调侃悟空——既然大闹天宫后被压在山下五百年，那就应该还在"服刑"中。punished 在此揭示了猪八戒与悟空的共同背景——都是天庭的"罪人"。',
+      examples: [
+        'He was punished for lying.（他因为撒谎而受到了惩罚。）',
+        'The criminal was punished by the law.（罪犯受到了法律的制裁。）',
+        'She punished her son by taking away his toys.（她没收玩具来惩罚儿子。）',
+      ],
+      synonyms: [
+        { word: 'penalized', note: '被处罚，较正式，多用于规则或法律层面' },
+        { word: 'disciplined', note: '被管教，侧重教育和纠正' },
+        { word: 'rewarded', note: '反义词：被奖励' },
+      ],
+    },
+    {
+      word: 'supposed to',
+      phonetic: '/səˈpoʊzd tuː/',
+      brief: '应该，理应（做某事）',
+      pos: 'phrase',
+      detail:
+        'be supposed to 意为"应该、理应"，表示按计划、约定或期望应该做某事。原文中两次出现：猪八戒说"I\'m supposed to go with him too"——我也应该跟着他走；悟空说"Going to the Western Paradise is supposed to be difficult"——去西天取经本来就应该是艰难的。supposed to 在此强调"命运安排"——无论是八戒加入取经队伍，还是旅途注定艰辛，都是"本该如此"。',
+      examples: [
+        'You are supposed to be here by 8 am.（你应该早上8点到这里。）',
+        'The movie is supposed to be really good.（据说这部电影非常好。）',
+        'I\'m supposed to meet her at the station.（我应该去车站接她。）',
+      ],
+      synonyms: [
+        { word: 'meant to', note: '注定、本该，侧重命运的安排' },
+        { word: 'expected to', note: '被期望做，侧重他人的期望' },
+      ],
+    },
+    {
+      word: 'complaining',
+      phonetic: '/kəmˈpleɪnɪŋ/',
+      brief: '抱怨，发牢骚',
+      pos: 'verb',
+      detail:
+        'complaining 是 complain 的现在分词形式，意为"抱怨、发牢骚"，指表达不满或诉说不如意。原文中两次出现：叙述者说"the pig kept complaining"——猪一直在抱怨；悟空说"Stop complaining"——别抱怨了。complaining 是猪八戒标志性的性格特征——他贪吃、怕累、爱发牢骚，与悟空的勇猛果断形成鲜明对比。',
+      examples: [
+        'She is always complaining about the weather.（她总是抱怨天气不好。）',
+        'Stop complaining and do your homework!（别抱怨了，做作业去！）',
+        'He kept complaining about the food.（他不停地抱怨饭菜不好。）',
+      ],
+      synonyms: [
+        { word: 'grumbling', note: '嘟嘟囔囔地抱怨，声音低沉' },
+        { word: 'whining', note: '哀怨地抱怨，语气更委屈' },
+        { word: 'praising', note: '反义词：赞美，称赞' },
+      ],
+    },
+    {
+      word: 'snapped',
+      phonetic: '/snæpt/',
+      brief: '厉声说，怒气冲冲地说（snap 的过去式）',
+      pos: 'verb',
+      detail:
+        'snapped 在此是 snap 的过去式，意为"厉声说、怒气冲冲地说话"，指突然且不客气地回话。原文中"Stop complaining, snapped Wukong"——别抱怨了，悟空厉声说道。snapped 刻画了悟空对八戒不停发牢骚的厌烦——不是温和地劝说，而是毫不客气地打断。snap 本义是"猛然折断"，引申为说话时语气的突然和尖锐。',
+      examples: [
+        '"Just do it!" she snapped.（"做就是了！"她厉声说道。）',
+        'He snapped at me when I asked the question.（我问问题时他对我吼了一声。）',
+        '"I\'m busy," she snapped.（"我忙着呢，"她不耐烦地说。）',
+      ],
+      synonyms: [
+        { word: 'barked', note: '大声呵斥，语气粗暴' },
+        { word: 'retorted', note: '反驳、回嘴，侧重针锋相对' },
+        { word: 'whispered', note: '反义词：低语，轻声说' },
+      ],
+    },
+    {
+      word: 'moaned',
+      phonetic: '/moʊnd/',
+      brief: '呻吟，哀叹（moan 的过去式）',
+      pos: 'verb',
+      detail:
+        'moaned 是 moan 的过去式，意为"呻吟、哀叹"，指因疼痛、不满或悲伤而发出低沉的哼声。原文中"The pig moaned. I\'m hungry too."——猪哼哼唧唧地说：我还饿呢。moaned 配合"我还饿"的台词，生动刻画了八戒贪吃懒做的形象——刚吃完早饭又喊饿，还要配上哼哼唧唧的抱怨声。',
+      examples: [
+        'The patient moaned in pain.（病人痛苦地呻吟着。）',
+        'She moaned about having to get up early.（她哀叹要早起。）',
+        'He moaned that the movie was too long.（他抱怨电影太长了。）',
+      ],
+      synonyms: [
+        { word: 'groaned', note: '呻吟，声音更低沉，多因疼痛' },
+        { word: 'whined', note: '哀怨地哼唧，语气更委屈' },
+        { word: 'cheered', note: '反义词：欢呼' },
+      ],
+    },
+    {
+      word: 'bend',
+      phonetic: '/bɛnd/',
+      brief: '弯道，拐角处',
+      pos: 'noun',
+      detail:
+        'bend 作名词意为"弯道、拐角处"，指道路转弯的地方。原文中"They went around a bend and saw a large tiger"——他们转过弯道，看见一只大老虎。bend 在此是故事转折的场景标记——弯道之前是轻松的赶路闲聊，弯道之后立刻遭遇老虎妖怪，一弯之间从喜剧切换到危机。',
+      examples: [
+        'The car slowed down at the bend in the road.（汽车在路弯处减速了。）',
+        'There was a house just around the bend.（拐过弯就有一座房子。）',
+        'The river has a sharp bend.（河流有一个急弯。）',
+      ],
+      synonyms: [
+        { word: 'curve', note: '曲线、弯道，较平缓的弯曲' },
+        { word: 'turn', note: '转弯处，最通用的说法' },
+        { word: 'straight', note: '反义词：直道，直线段' },
+      ],
+    },
+    {
+      word: 'hosting',
+      phonetic: '/ˈhoʊstɪŋ/',
+      brief: '举办，做东（host 的现在分词）',
+      pos: 'verb',
+      detail:
+        'hosting 是 host 的现在分词形式，意为"举办、做东"，指作为主人招待客人或组织活动。原文中"My master, the great king Yellow Wind, is hosting a feast"——我主人大王黄风正在举办宴席。hosting 在此以进行时态出现，说明宴席正在进行中，老虎是出来为宴席"采购食材"的——而这个"食材"就是唐僧。',
+      examples: [
+        'She is hosting a dinner party tonight.（她今晚举办晚宴。）',
+        'The city is hosting the Olympics.（这座城市正在举办奥运会。）',
+        'Who is hosting the meeting?（谁在主持这次会议？）',
+      ],
+      synonyms: [
+        { word: 'organizing', note: '组织、筹办，侧重策划安排' },
+        { word: 'throwing', note: '举办（口语），如 throw a party' },
+        { word: 'attending', note: '反义词：参加（作为客人而非主人）' },
+      ],
+    },
+    {
+      word: 'pale',
+      phonetic: '/peɪl/',
+      brief: '苍白的，没有血色的',
+      pos: 'adjective',
+      detail:
+        'pale 意为"苍白的、没有血色的"，指脸色因恐惧或疾病而失去血色。原文中"The Tang Monk\'s face turned pale"——唐僧的脸变得惨白。pale 是经典的恐惧反应描写——听到妖怪说要吃自己，唐僧吓得脸色苍白，甚至从马上摔了下来。turned pale 是固定搭配，形容因惊吓而脸色突变。',
+      examples: [
+        'She turned pale when she heard the news.（她听到消息时脸色变得苍白。）',
+        'He looked pale after being sick.（他病后面色苍白。）',
+        'The walls were painted a pale blue.（墙壁被漆成了淡蓝色。）',
+      ],
+      synonyms: [
+        { word: 'ashen', note: '灰白色的，程度更重，如死灰一般' },
+        { word: 'wan', note: '病态的苍白，多因疾病或疲惫' },
+        { word: 'flushed', note: '反义词：脸红的，满面红光的' },
+      ],
+    },
+    {
+      word: 'dare',
+      phonetic: '/dɛr/',
+      brief: '胆敢，竟敢',
+      pos: 'verb',
+      detail:
+        'dare 意为"胆敢、竟敢"，表示对某人做某事的震惊或愤怒，常用于否定句和疑问句中表示强烈的警告。原文中"Don\'t you dare harm our master!"——你竟敢伤害我们的师傅！don\'t you dare 是固定搭配，表示强烈的警告和威慑——八戒虽然贪吃懒做，但面对威胁唐僧的敌人时也展现出了护主的勇气。',
+      examples: [
+        'Don\'t you dare talk to me like that!（你竟敢这样跟我说话！）',
+        'How dare you!（你怎么敢！）',
+        'I dare you to do it.（我量你也不敢/你敢做吗。）',
+      ],
+      synonyms: [
+        { word: 'venture', note: '胆敢，较正式' },
+        { word: 'have the nerve to', note: '竟有脸做某事，口语化' },
+      ],
+    },
+    {
+      word: 'claws',
+      phonetic: '/klɔːz/',
+      brief: '爪子，利爪（claw 的复数）',
+      pos: 'noun',
+      detail:
+        'claws 是 claw 的复数形式，意为"爪子、利爪"，指动物脚上尖锐弯曲的指甲。原文中"The tiger showed his claws"——老虎亮出了利爪。showed his claws 是展示攻击性的动作——老虎没有直接扑上来，而是先亮出武器，这是一种威慑性的示威行为。',
+      examples: [
+        'The cat scratched me with its claws.（猫用爪子抓了我。）',
+        'Eagles have sharp claws.（鹰有锋利的爪子。）',
+        'The bear\'s claws were huge.（熊的爪子非常大。）',
+      ],
+      synonyms: [
+        { word: 'talons', note: '猛禽的利爪，如鹰、隼的爪' },
+        { word: 'nails', note: '指甲，人类手指甲' },
+      ],
+    },
+    {
+      word: 'dodged',
+      phonetic: '/ˈdɒdʒd/',
+      brief: '闪避，躲开（dodge 的过去式）',
+      pos: 'verb',
+      detail:
+        'dodged 是 dodge 的过去式，意为"闪避、躲开"，指快速移动身体以避开攻击或危险。原文中"The tiger dodged the bar"——老虎躲开了铁棒。dodged 刻画了老虎的身手敏捷——面对悟空打来的铁棒，它不是硬接而是灵巧闪避，说明这只老虎妖怪不是普通的野兽，有一定的战斗能力。',
+      examples: [
+        'He dodged the ball at the last second.（他在最后一秒躲开了球。）',
+        'She dodged the question.（她回避了那个问题。）',
+        'The boxer dodged the punch.（拳击手躲过了那一拳。）',
+      ],
+      synonyms: [
+        { word: 'evaded', note: '规避、躲开，较正式' },
+        { word: 'ducked', note: '低头躲过，侧重弯腰或低头闪避' },
+        { word: 'confronted', note: '反义词：正面面对，迎击' },
+      ],
+    },
+    {
+      word: 'lay',
+      phonetic: '/leɪ/',
+      brief: '平放着，搁在…上面（lie 的过去式）',
+      pos: 'verb',
+      detail:
+        'lay 是 lie 的过去式，意为"平放、躺"，指物体水平地放置在某处。原文中"a tiger skin lay over a rock"——一块虎皮平铺在石头上。lay 在此揭示了真相——悟空和八戒追踪的"老虎"其实已经逃走了，只留下了一张虎皮铺在石头上，说明老虎被吓得不轻，连皮都"跑掉了"。',
+      examples: [
+        'The book lay on the table.（书平放在桌子上。）',
+        'A blanket lay over the bed.（毯子铺在床上。）',
+        'The cat lay in the sun.（猫躺在阳光下。）',
+      ],
+      synonyms: [
+        { word: 'rested', note: '搁在、放在，较中性' },
+        { word: 'was spread', note: '被铺开，侧重展开的状态' },
+      ],
+    },
+    {
+      word: 'ran right out of',
+      phonetic: '/ræn raɪt aʊt ʌv/',
+      brief: '直接从…跑出来（夸张用法）',
+      pos: 'phrase',
+      detail:
+        'ran right out of 在此是夸张的幽默表达，字面意思是"直接从…里面跑了出来"。原文中"He was so scared, he ran right out of his skin!"——他吓得不轻，连皮都直接跑出来了！正常情况下不可能从自己的皮里"跑出来"，但这里是悟空的玩笑话——老虎跑得太快，连虎皮都留在了原地，就好像老虎从自己的皮里钻出来逃跑了一样。',
+      examples: [
+        'He jumped right out of his chair.（他直接从椅子上跳了起来。）',
+        'The dog ran right out of the yard.（狗直接从院子里跑了出去。）',
+        'She was so scared she almost jumped right out of her skin.（她吓得魂飞魄散。）',
+      ],
+      synonyms: [
+        { word: 'burst out of', note: '从…中冲出来，强调爆发力' },
+        { word: 'escaped from', note: '从…中逃脱，侧重摆脱困境' },
+      ],
+    },
+    {
+      word: 'slapped',
+      phonetic: '/slæpt/',
+      brief: '拍打，拍…的背（slap 的过去式）',
+      pos: 'verb',
+      detail:
+        'slapped 是 slap 的过去式，意为"拍打、掌击"，指用手掌快速击打。原文中"He slapped Bajie on the back"——他拍了一下八戒的后背。slapped someone on the back 是西方文化中表示庆祝、鼓励或友好的常见肢体动作（相当于中文的"拍肩膀"），这里悟空用这个动作庆祝他们的胜利。',
+      examples: [
+        'He slapped his friend on the back.（他拍了拍朋友的后背。）',
+        'She slapped the mosquito on her arm.（她一巴掌拍死了胳膊上的蚊子。）',
+        'The coach slapped the player on the back to congratulate him.（教练拍拍球员的后背表示祝贺。）',
+      ],
+      synonyms: [
+        { word: 'patted', note: '轻拍，力度更轻更温柔' },
+        { word: 'whacked', note: '重拍、猛打，力度比 slap 大得多' },
+        { word: 'stroked', note: '反义词：抚摸，温柔地触碰' },
+      ],
+    },
+    {
+      word: 'slumped',
+      phonetic: '/slʌmpt/',
+      brief: '瘫软地垂着，无力地耷拉',
+      pos: 'verb',
+      detail:
+        'slumped 是 slump 的过去式，意为"瘫倒、无力地垂着"，指身体因失去力气或意识而耷拉下来。原文中"The Tang Monk was slumped over the tiger\'s shoulder"——唐僧无力地耷拉在老虎的肩膀上。slumped over 描绘了唐僧被绑架时的状态——不是站立或行走，而是像一袋面粉一样软绵绵地搭在妖怪肩上，暗示他可能已昏迷或吓得动弹不得。',
+      examples: [
+        'He slumped in his chair, exhausted.（他筋疲力尽地瘫坐在椅子里。）',
+        'She was slumped over the steering wheel.（她无力地趴在方向盘上。）',
+        'The unconscious man slumped to the ground.（那个失去知觉的人瘫倒在地上。）',
+      ],
+      synonyms: [
+        { word: 'slouched', note: '没精打采地垂着，侧重姿态懒散' },
+        { word: 'collapsed', note: '倒塌、瘫倒，侧重突然倒下' },
+        { word: 'sat upright', note: '反义词：笔直地坐着' },
+      ],
+    },
+    {
+      word: 'trembled',
+      phonetic: '/ˈtrɛmbld/',
+      brief: '发抖，颤抖（tremble 的过去式）',
+      pos: 'verb',
+      detail:
+        'trembled 是 tremble 的过去式，意为"发抖、颤抖"，指身体因恐惧、寒冷或激动而轻微快速地抖动。原文中"Yellow Wind trembled. A monkey?"——黄风大王颤抖了一下。"一只猴子？"trembled 刻画了黄风大王听到"猴子"时的本能恐惧反应——尽管他自己是强大的妖王，但齐天大圣的名号足以让他发抖，侧面说明了悟空在天庭的威名远扬。',
+      examples: [
+        'She trembled with fear.（她吓得发抖。）',
+        'His hands trembled as he opened the letter.（他拆信时双手颤抖。）',
+        'The dog trembled in the cold.（狗冻得直哆嗦。）',
+      ],
+      synonyms: [
+        { word: 'shivered', note: '哆嗦，多因寒冷' },
+        { word: 'quaked', note: '剧烈颤抖，程度比 tremble 更强' },
+        { word: 'remained calm', note: '反义词：保持镇定' },
+      ],
+    },
+    {
+      word: 'distracted',
+      phonetic: '/dɪˈstræktɪd/',
+      brief: '转移注意力，分散（distract 的过去式）',
+      pos: 'verb',
+      detail:
+        'distracted 是 distract 的过去式，意为"转移注意力、分散注意力"，指用某种手段让对手的注意力从正事上移开。原文中"I distracted them with a fake tiger skin"——我用一张假虎皮转移了他们的注意力。distracted 在此是老虎向黄风大王邀功的关键词——他用伪装的虎皮让悟空和八戒以为他已经脱皮逃跑，实际是金蝉脱壳之计。',
+      examples: [
+        'The noise distracted me from my work.（噪音让我无法专心工作。）',
+        'She distracted the baby with a toy.（她用玩具转移了宝宝的注意力。）',
+        'He was distracted by his phone.（他被手机分散了注意力。）',
+      ],
+      synonyms: [
+        { word: 'diverted', note: '转移、使转向，较正式' },
+        { word: 'misled', note: '误导，侧重给出错误信息' },
+        { word: 'focused', note: '反义词：集中注意力' },
+      ],
+    },
+    {
+      word: 'spices',
+      phonetic: '/ˈspaɪsɪz/',
+      brief: '香料，调味品（spice 的复数）',
+      pos: 'noun',
+      detail:
+        'spices 是 spice 的复数形式，意为"香料、调味品"，指用于给食物增添风味的植物性调料。原文中"prepare some spices"——准备一些香料。老虎提到要准备香料来烹饪唐僧，这个细节既增添了黑色幽默——把吃人当作烹饪美食一样认真对待，也展现了妖怪世界的"日常生活感"。',
+      examples: [
+        'Indian food uses many spices.（印度菜使用很多香料。）',
+        'She added spices to the soup.（她往汤里加了香料。）',
+        'The market sells a variety of spices.（市场上出售各种香料。）',
+      ],
+      synonyms: [
+        { word: 'seasonings', note: '调味料，包括盐、酱油等，范围更广' },
+        { word: 'herbs', note: '草本调料，如罗勒、迷迭香等' },
+      ],
+    },
+    {
+      word: 'get rid of',
+      phonetic: '/ɡɛt rɪd ʌv/',
+      brief: '摆脱，除掉，赶走',
+      pos: 'phrase',
+      detail:
+        'get rid of 意为"摆脱、除掉、赶走"，指消除、处理掉不需要或讨厌的人或事物。原文中"I will get rid of them"——我会除掉他们。老虎用 get rid of 表示要"解决掉"悟空和八戒，语气轻松自信，仿佛收拾两个人只是举手之劳。get rid of 既可用于人也可用于物，是非常高频的口语表达。',
+      examples: [
+        'We need to get rid of the old furniture.（我们需要处理掉旧家具。）',
+        'How can I get rid of this headache?（我怎么才能摆脱这个头痛？）',
+        'She got rid of the unwanted guests.（她打发走了不受欢迎的客人。）',
+      ],
+      synonyms: [
+        { word: 'eliminate', note: '消灭、消除，较正式，语气更重' },
+        { word: 'dispose of', note: '处理掉，侧重丢弃或销毁' },
+        { word: 'keep', note: '反义词：保留' },
+      ],
+    },
+    {
+      word: 'crashing',
+      phonetic: '/ˈkræʃɪŋ/',
+      brief: '碰撞声，轰隆声',
+      pos: 'verb / adjective',
+      detail:
+        'crashing 是 crash 的现在分词形式，在此作形容词用，意为"碰撞的、轰隆作响的"，形容物体撞击发出的巨大声响。原文中"there was some yelling and then a crashing sound"——先是一些叫喊声，接着是一声轰隆巨响。crashing sound 暗示了外面发生了猛烈的撞击——悟空和八戒正在痛击老虎妖怪，声音从洞外传到洞内。',
+      examples: [
+        'We heard a crashing sound from the kitchen.（我们听到厨房传来一阵轰隆声。）',
+        'The crashing waves hit the shore.（轰隆作响的海浪拍打着岸边。）',
+        'There was a crashing noise as the tree fell.（树倒下时发出一阵轰隆声。）',
+      ],
+      synonyms: [
+        { word: 'smashing', note: '猛烈的，侧重破碎的声音' },
+        { word: 'thundering', note: '雷鸣般的，声音极大' },
+        { word: 'silent', note: '反义词：安静的' },
+      ],
+    },
+    {
+      word: 'disaster',
+      phonetic: '/dɪˈzæstər/',
+      brief: '灾难，大祸',
+      pos: 'noun',
+      detail:
+        'disaster 意为"灾难、大祸"，指突然发生的严重不幸事件。原文中小妖跑进来大喊"Great king, disaster!"——大王，大祸临头了！disaster 在此是紧急报警的用语——老虎被八戒一耙打死，说明外面的猴猪组合远比预想的强大，整个洞穴的安全都受到威胁。',
+      examples: [
+        'The earthquake was a terrible disaster.（地震是一场可怕的灾难。）',
+        'The party was a complete disaster.（派对彻底搞砸了。）',
+        'We need a plan to prevent disasters.（我们需要一个防灾计划。）',
+      ],
+      synonyms: [
+        { word: 'catastrophe', note: '大灾难，程度比 disaster 更重' },
+        { word: 'calamity', note: '灾祸，较正式，多用于书面语' },
+        { word: 'triumph', note: '反义词：大捷，辉煌胜利' },
+      ],
+    },
+    {
+      word: 'trident',
+      phonetic: '/ˈtraɪdənt/',
+      brief: '三叉戟，三尖兵器',
+      pos: 'noun',
+      detail:
+        'trident 意为"三叉戟、三尖兵器"，是一种有三个尖头的长柄武器，在西方神话中海神波塞冬手持的就是三叉戟。原文中两次出现：黄风大王先"grabbed a trident"——抓起一把三叉戟，然后用它挡住了悟空的铁棒。trident 作为妖王的武器，与悟空的 iron bar 形成对峙——三叉对一棒，各有威势。',
+      examples: [
+        'Poseidon carries a trident in Greek mythology.（希腊神话中波塞冬手持三叉戟。）',
+        'The statue shows Neptune with his trident.（雕像展示海王手持三叉戟。）',
+        'The warrior fought with a trident.（战士用三叉戟作战。）',
+      ],
+      synonyms: [
+        { word: 'spear', note: '长矛，有两个尖头或一个尖头' },
+        { word: 'pitchfork', note: '干草叉，农具，外形类似三叉戟' },
+      ],
+    },
+    {
+      word: 'puffed out',
+      phonetic: '/pʌft aʊt/',
+      brief: '鼓起来，挺起（胸膛）',
+      pos: 'phrase',
+      detail:
+        'puffed out 是 puff out 的过去式，意为"鼓起来、挺起"，指身体某部分因充气或用力而膨胀突出。原文中"He puffed out his chest"——他挺起了胸膛。puffed out his chest 是经典的肢体语言，表示自信、骄傲或虚张声势。黄风大王听到悟空大名时先是 trembled（发抖），但随即 puff out his chest（挺起胸膛），展现了妖怪"先怕后逞强"的心理转变。',
+      examples: [
+        'He puffed out his chest proudly.（他骄傲地挺起了胸膛。）',
+        'The bird puffed out its feathers in the cold.（鸟在寒冷中把羽毛蓬起来保暖。）',
+        'She puffed out her cheeks and blew.（她鼓起腮帮子吹气。）',
+      ],
+      synonyms: [
+        { word: 'swelled', note: '膨胀、鼓起，侧重体积增大' },
+        { word: 'inflated', note: '充气膨胀，较正式' },
+        { word: 'shrank', note: '反义词：缩小，收缩' },
+      ],
+    },
+    {
+      word: 'stomped out',
+      phonetic: '/stɒmpt aʊt/',
+      brief: '怒气冲冲地走出去（stomp out 的过去式）',
+      pos: 'phrase',
+      detail:
+        'stomped out 是 stomp out 的过去式，意为"怒气冲冲地走出去"，指用力踩着脚步、带着怒气离开某处。原文中"He stomped out of the cave"——他怒气冲冲地走出洞穴。stomped out 与前面的 puffed out his chest 形成连贯动作链——先挺胸壮胆，再大步流星地走出洞穴迎战，刻画了黄风大王虚张声势的出场。',
+      examples: [
+        'She stomped out of the room in anger.（她怒气冲冲地跺着脚走出了房间。）',
+        'He stomped out of the meeting.（他气冲冲地离开了会议。）',
+        'The child stomped out, slamming the door.（孩子跺着脚走出去，砰地关上了门。）',
+      ],
+      synonyms: [
+        { word: 'stormed out', note: '怒气冲冲地冲出去，速度更快更猛烈' },
+        { word: 'marched out', note: '大步走出去，侧重步伐坚定' },
+        { word: 'tiptoed out', note: '反义词：蹑手蹑脚地走出去' },
+      ],
+    },
+    {
+      word: 'Dozens',
+      phonetic: '/ˈdʌzənz/',
+      brief: '几十个，许多（dozen 的复数）',
+      pos: 'noun',
+      detail:
+        'dozens 是 dozen 的复数形式，dozen 意为"一打、十二个"，复数 dozens 引申为"几十个、许多"。原文中"Dozens of little Wukongs ran toward the demon king"——几十个小悟空朝妖王冲去。Dozens of 是固定搭配，表示"大量的"。悟空用拔毛变身的法术变出几十个分身围攻敌人，这是他标志性的战斗技能之一。',
+      examples: [
+        'There were dozens of people at the party.（派对上有几十个人。）',
+        'She has dozens of books on her shelf.（她的书架上有几十本书。）',
+        'We need dozens of eggs for the recipe.（这个食谱需要几十个鸡蛋。）',
+      ],
+      synonyms: [
+        { word: 'scores of', note: '许多、大量，约二十的倍数' },
+        { word: 'numerous', note: '无数的、大量的，不强调具体数量' },
+      ],
+    },
   ],
 };
 
