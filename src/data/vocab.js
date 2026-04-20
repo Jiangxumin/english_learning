@@ -3829,6 +3829,413 @@ const vocab = {
         { word: 'mouth', note: '嘴巴，泛指整个口腔区域' },
       ],
     },
+    {
+      word: 'insults',
+      phonetic: '/ˈɪnsʌlts/',
+      brief: '辱骂，侮辱性的话',
+      pos: 'noun',
+      detail:
+        'insults 是 insult 的复数形式，意为"辱骂、侮辱性的话"，指故意伤害他人尊严的言语。原文中"I kicked the door and yelled insults at him"——我踢着门对他大喊辱骂。yelled insults 描绘了悟空对紧闭洞门的黑熊精进行言语攻击的画面——物理攻击（踢门）与言语攻击（辱骂）并用，但都无济于事。',
+      examples: [
+        'He shouted insults at the referee.（他对裁判大喊辱骂。）',
+        'She ignored their insults.（她无视了他们的侮辱。）',
+        'The insults hurt her feelings.（那些辱骂伤害了她的感情。）',
+      ],
+      synonyms: [
+        { word: 'abuse', note: '谩骂、虐待，程度更重，可包含身体伤害' },
+        { word: 'taunts', note: '嘲讽、讥讽，侧重用言语刺激挑衅' },
+        { word: 'compliments', note: '反义词：赞美，称赞' },
+      ],
+    },
+    {
+      word: 'treasure',
+      phonetic: '/ˈtreʒər/',
+      brief: '珍宝，宝物',
+      pos: 'noun',
+      detail:
+        'treasure 意为"珍宝、宝物"，指极具价值的人或物。原文中在本章多次出现：Guanyin 说"The robe is a Buddhist treasure"，黑熊精称袈裟为"a new robe that is a Buddhist treasure"，狼精也说"to celebrate your new Buddhist treasure"。treasure 在本章中成为多方争夺的核心物件——人人都知道它是宝物，人人都想要它。',
+      examples: [
+        'The pirates buried their treasure on the island.（海盗把宝藏埋在了岛上。）',
+        'The museum displays ancient treasures.（博物馆展出古代珍宝。）',
+        'She is a treasure to her family.（她是家里的宝贝。）',
+      ],
+      synonyms: [
+        { word: 'valuable', note: '贵重物品，较泛指' },
+        { word: 'gem', note: '宝石、珍品，侧重小巧珍贵' },
+        { word: 'junk', note: '反义词：破烂，废物' },
+      ],
+    },
+    {
+      word: 'pebble',
+      phonetic: '/ˈpɛbl/',
+      brief: '小石头，鹅卵石',
+      pos: 'noun',
+      detail:
+        'pebble 意为"小石头、鹅卵石"，指体积小、表面光滑的石头，通常由水流长期冲刷磨圆。原文中"He kicked a pebble"——他踢了一颗小石子。这是一个极其微妙的动作描写——悟空被 Guanyin 批评后踢石子，表现出一种孩子般的委屈和不服气，与他平日里桀骜不驯的形象形成有趣的反差。',
+      examples: [
+        'The beach was covered in smooth pebbles.（海滩上铺满了光滑的鹅卵石。）',
+        'She skipped a pebble across the water.（她打水漂让石子在水面上弹跳。）',
+        'He picked up a pebble and threw it.（他捡起一颗小石子扔了出去。）',
+      ],
+      synonyms: [
+        { word: 'stone', note: '石头，泛指，大小不限' },
+        { word: 'boulder', note: '巨石，与 pebble 大小相反' },
+        { word: 'gravel', note: '碎石、砾石，指大量小石子的集合' },
+      ],
+    },
+    {
+      word: 'mumbled',
+      phonetic: '/ˈmʌmbld/',
+      brief: '含糊地说，嘟囔（mumble 的过去式）',
+      pos: 'verb',
+      detail:
+        'mumbled 是 mumble 的过去式，意为"含糊地说、嘟囔"，指说话声音低且不清楚，常因心虚、害羞或不情愿。原文中"\'I know,\' he mumbled"——"我知道，"他嘟囔着说。mumbled 精准刻画了悟空被 Guanyin 批评后认错却不甘心的微妙心理——嘴上说"我知道"，但声音含糊低调，既承认了错误，又流露出一丝不服。',
+      examples: [
+        'She mumbled something I couldn\'t hear.（她嘟囔了什么我没听清。）',
+        'He mumbled an apology.（他含糊地道了歉。）',
+        '"I\'m sorry," he mumbled.（"对不起，"他嘟囔着说。）',
+      ],
+      synonyms: [
+        { word: 'muttered', note: '低声嘀咕，侧重不满或抱怨地小声说' },
+        { word: 'whispered', note: '耳语、低语，侧重刻意压低声音' },
+        { word: 'shouted', note: '反义词：大喊，高声叫嚷' },
+      ],
+    },
+    {
+      word: 'sneak',
+      phonetic: '/sniːk/',
+      brief: '悄悄地走，偷偷靠近',
+      pos: 'verb',
+      detail:
+        'sneak 意为"悄悄地走、偷偷靠近"，指不发出声响地移动以避免被发现。原文中"We should sneak up to it"——我们应该悄悄靠近。sneak up to 是固定搭配，意为"悄悄接近"。悟空建议不直接正面硬闯，而是偷偷摸到洞口，体现了他战斗中不仅有蛮力，也有策略头脑。',
+      examples: [
+        'The cat sneaked up on the bird.（猫悄悄靠近那只鸟。）',
+        'She sneaked out of the house at night.（她夜里偷偷溜出了家门。）',
+        'He tried to sneak past the guard.（他试图偷偷从守卫身边溜过去。）',
+      ],
+      synonyms: [
+        { word: 'creep', note: '蹑手蹑脚地走，侧重小心不发出声响' },
+        { word: 'tiptoe', note: '踮脚走，侧重用脚尖走路' },
+        { word: 'march', note: '反义词：大步走，堂而皇之地行进' },
+      ],
+    },
+    {
+      word: 'Daoist',
+      phonetic: '/ˈdaʊɪst/',
+      brief: '道教的，道士',
+      pos: 'adjective / noun',
+      detail:
+        'Daoist（也写作 Taoist）意为"道教的、道士的"，与道教相关。原文中"a Daoist priest"指一个道士。在中国宗教传统中，佛教（Buddhist）和道教（Daoist）是两大主要宗教。这里狼精化身道士出现，暗示妖怪世界中佛道两教的力量交织——黑熊精偷了佛教珍宝，狼精却打扮成道士来贺。',
+      examples: [
+        'Daoist temples are found across China.（道教寺庙遍布中国各地。）',
+        'He studied Daoist philosophy.（他研究了道家哲学。）',
+        'The Daoist priest performed a ritual.（道士举行了一场法事。）',
+      ],
+      synonyms: [
+        { word: 'Taoist', note: '道教的，Daoist 的另一种拼法，发音相同' },
+        { word: 'Buddhist', note: '佛教的，与 Daoist 并列的中国主要宗教' },
+      ],
+    },
+    {
+      word: 'tray',
+      phonetic: '/treɪ/',
+      brief: '托盘，浅盘',
+      pos: 'noun',
+      detail:
+        'tray 意为"托盘、浅盘"，指用来承载物品的扁平盘子。原文中多次出现——狼精手持托盘，上面放着一颗紫色仙丹（pill）。tray 在此是一个关键道具——托盘上的仙丹是悟空计谋的核心，他后来变化成这颗仙丹钻进黑熊精肚子里制服它。',
+      examples: [
+        'She carried a tray of drinks.（她端着一托盘饮料。）',
+        'The waiter brought the food on a tray.（服务员用托盘端来了食物。）',
+        'He put his keys on the tray by the door.（他把钥匙放在门边的托盘上。）',
+      ],
+      synonyms: [
+        { word: 'platter', note: '大浅盘，通常用于盛放食物' },
+        { word: 'plate', note: '盘子，比 tray 更深，边缘更高' },
+      ],
+    },
+    {
+      word: 'realized',
+      phonetic: '/ˈriːəlaɪzd/',
+      brief: '意识到，发觉（realize 的过去式）',
+      pos: 'verb',
+      detail:
+        'realized 是 realize 的过去式，意为"意识到、发觉"，指突然明白或认识到某事。原文中"That\'s not a priest! Wukong realized"——那不是和尚！悟空意识到。realized 标志着悟空用火眼金睛识破狼精伪装的关键瞬间——从"看到"到"意识到"，真相揭开。',
+      examples: [
+        'She realized she had left the stove on.（她意识到自己忘了关炉子。）',
+        'He suddenly realized the truth.（他突然意识到了真相。）',
+        'I realized that I was going the wrong way.（我发觉自己走错了方向。）',
+      ],
+      synonyms: [
+        { word: 'discovered', note: '发现，侧重找到隐藏的事物' },
+        { word: 'noticed', note: '注意到，侧重感官上的察觉' },
+        { word: 'ignored', note: '反义词：忽视，不理会' },
+      ],
+    },
+    {
+      word: 'lit up',
+      phonetic: '/lɪt ʌp/',
+      brief: '亮了起来，（眼睛）闪亮',
+      pos: 'phrase',
+      detail:
+        'lit up 是 light up 的过去式，意为"亮了起来、闪亮"，可形容灯光照亮，也可形容人的表情突然变得兴奋。原文中"The monkey\'s eyes lit up"——猴子的眼睛亮了起来。lit up 在此形容悟空想出妙计时的兴奋——他刚识破狼精伪装，立刻计上心来，眼睛闪烁着灵光，与前面被 Guanyin 批评时踢石子的沮丧形成鲜明对比。',
+      examples: [
+        'Her face lit up with joy.（她的脸上绽放出喜悦的光芒。）',
+        'The fireworks lit up the sky.（烟花照亮了天空。）',
+        'His eyes lit up when he saw the gift.（他看到礼物时眼睛亮了起来。）',
+      ],
+      synonyms: [
+        { word: 'brightened', note: '变亮，侧重光线或表情的明亮' },
+        { word: 'beamed', note: '满面春风，侧重笑容灿烂' },
+        { word: 'dimmed', note: '反义词：变暗，黯淡' },
+      ],
+    },
+    {
+      word: 'pesky',
+      phonetic: '/ˈpɛski/',
+      brief: '讨厌的，烦人的',
+      pos: 'adjective',
+      detail:
+        'pesky 意为"讨厌的、烦人的"，指令人烦恼、不断制造麻烦的人或事物，语气较轻，常用于口语。原文中"A pesky monkey spirit was here"——一只讨厌的猴子精来过。黑熊精用 pesky 形容悟空，语气中既有厌烦又有一丝轻蔑——在他看来，悟空不过是只烦人的猴子，不值得认真对待。',
+      examples: [
+        'Those pesky mosquitoes are everywhere.（那些讨厌的蚊子到处都是。）',
+        'Stop being so pesky!（别这么烦人！）',
+        'The pesky little brother kept interrupting.（那个烦人的小弟弟一直打断说话。）',
+      ],
+      synonyms: [
+        { word: 'annoying', note: '令人恼火的，最通用的说法' },
+        { word: 'troublesome', note: '惹麻烦的，较正式' },
+        { word: 'delightful', note: '反义词：令人愉快的' },
+      ],
+    },
+    {
+      word: 'banging',
+      phonetic: '/ˈbæŋɪŋ/',
+      brief: '砰砰地敲，猛砸',
+      pos: 'verb',
+      detail:
+        'banging 是 bang 的现在分词形式，意为"砰砰地敲、猛砸"，指用力撞击发出巨响。原文中"He kept banging on my door and yelling at me"——他一直砸我的门还对我大吼。banging 侧重撞击的声响——不同于 pounded 的沉重感，banging 更强调反复撞击发出的"砰砰"声，让读者仿佛能听到悟空疯狂砸门的声音。',
+      examples: [
+        'Someone was banging on the door.（有人在砰砰地敲门。）',
+        'He kept banging the table.（他不停地敲桌子。）',
+        'The door was banging in the wind.（门在风中砰砰作响。）',
+      ],
+      synonyms: [
+        { word: 'pounding', note: '猛敲，侧重反复用力的敲打' },
+        { word: 'hammering', note: '锤击，侧重连续有力的敲打' },
+        { word: 'tapping', note: '反义词：轻敲，轻轻叩击' },
+      ],
+    },
+    {
+      word: 'stroked',
+      phonetic: '/stroʊkt/',
+      brief: '抚摸，捋（stroke 的过去式）',
+      pos: 'verb',
+      detail:
+        'stroked 是 stroke 的过去式，意为"抚摸、捋"，指用手轻轻沿着物体表面滑动。原文中"The Black Wind King stroked his chin"——黑风王抚摸着下巴。stroked his chin 是经典的"思考"肢体语言，配合"You know, I was just thinking..."，刻画出黑熊精听到长生不老药后的贪婪盘算。',
+      examples: [
+        'She stroked the cat\'s fur.（她抚摸着猫的毛。）',
+        'He stroked his beard thoughtfully.（他若有所思地捋着胡须。）',
+        'The mother stroked her child\'s hair.（母亲抚摸着孩子的头发。）',
+      ],
+      synonyms: [
+        { word: 'rubbed', note: '摩擦、揉搓，力度比 stroke 大' },
+        { word: 'patted', note: '轻拍，动作是上下轻拍而非沿表面滑动' },
+        { word: 'slapped', note: '反义词：拍打，力度大且突然' },
+      ],
+    },
+    {
+      word: 'wiggled',
+      phonetic: '/ˈwɪɡld/',
+      brief: '扭动，蠕动（wiggle 的过去式）',
+      pos: 'verb',
+      detail:
+        'wiggled 是 wiggle 的过去式，意为"扭动、蠕动"，指小幅度地左右或上下快速摆动。原文中"the pill wiggled"——仙丹扭动了一下。wiggled 是一个关键伏笔——这颗"仙丹"其实是悟空变化的，他变身成仙丹被狼精端到黑熊精面前，当仙丹突然扭动时，预示着悟空即将在黑熊精肚子里大闹。',
+      examples: [
+        'The worm wiggled in the dirt.（虫子在泥土里蠕动。）',
+        'The child wiggled his loose tooth.（小孩摇晃他那颗松动的牙齿。）',
+        'She wiggled her toes in the sand.（她在沙子里扭动脚趾。）',
+      ],
+      synonyms: [
+        { word: 'wriggled', note: '扭动、挣扎，幅度比 wiggle 大' },
+        { word: 'squirmed', note: '蠕动、局促不安地扭动，侧重不适感' },
+        { word: 'stayed still', note: '反义词：保持不动' },
+      ],
+    },
+    {
+      word: 'slid',
+      phonetic: '/slɪd/',
+      brief: '滑入，溜入（slide 的过去式）',
+      pos: 'verb',
+      detail:
+        'slid 是 slide 的过去式，意为"滑入、溜入"，指平滑顺畅地进入或通过某处。原文中"It shot into his mouth and slid down his throat"——它射入他的口中，滑入他的喉咙。slid down his throat 描绘了悟空变化成的仙丹顺滑地滑进黑熊精食道的瞬间——从 wiggled（扭动预兆）到 shot（射入口中）再到 slid（滑入喉咙），三个动词构成一连串不可逆的动作。',
+      examples: [
+        'The book slid off the table.（书从桌上滑落了。）',
+        'She slid the key into the lock.（她把钥匙滑入锁孔。）',
+        'The snake slid through the grass.（蛇从草丛中滑过。）',
+      ],
+      synonyms: [
+        { word: 'slipped', note: '滑入、溜入，侧重顺畅无阻' },
+        { word: 'glided', note: '滑行，侧重优雅流畅的动作' },
+        { word: 'got stuck', note: '反义词：卡住' },
+      ],
+    },
+    {
+      word: 'disguise',
+      phonetic: '/dɪsˈɡaɪz/',
+      brief: '伪装，假扮',
+      pos: 'noun',
+      detail:
+        'disguise 意为"伪装、假扮"，指改变外貌以隐藏真实身份。原文中"You tricked me with a disguise!"——你用伪装骗了我！黑熊精发现眼前的"道士"其实是 Guanyin 变化而成的，disguise 在此指 Guanyin 和悟空共同策划的变身计谋——Guanyin 变成狼精的模样，悟空变成仙丹，层层伪装。',
+      examples: [
+        'He wore a disguise to the party.（他化装去了派对。）',
+        'She recognized him despite his disguise.（尽管他伪装了，她还是认出了他。）',
+        'The spy was in disguise.（间谍乔装打扮。）',
+      ],
+      synonyms: [
+        { word: 'costume', note: '服装、戏服，侧重装饰性而非隐藏身份' },
+        { word: 'mask', note: '面具，侧重遮盖面部的道具' },
+        { word: 'true self', note: '反义词：真实面目' },
+      ],
+    },
+    {
+      word: 'groaned',
+      phonetic: '/ɡroʊnd/',
+      brief: '呻吟，痛苦地哼声（groan 的过去式）',
+      pos: 'verb',
+      detail:
+        'groaned 是 groan 的过去式，意为"呻吟、痛苦地哼声"，指因疼痛或不适发出低沉的声音。原文中两次出现：第一次"He held his stomach and groaned"——他捂着肚子呻吟；第二次"He fell to his knees and groaned again"——他跪倒在地又呻吟起来。两次 groaned 对应悟空在肚子里不同阶段的攻击——先是隐痛，然后剧痛到跪倒。',
+      examples: [
+        'The patient groaned in pain.（病人痛苦地呻吟。）',
+        'He groaned when he saw the bill.（他看到账单时痛苦地哼了一声。）',
+        'She groaned and rolled over in bed.（她呻吟着在床上翻了个身。）',
+      ],
+      synonyms: [
+        { word: 'moaned', note: '呻吟、哀叹，声音更长更持续' },
+        { word: 'grunted', note: '哼哼声，短促而低沉' },
+        { word: 'cheered', note: '反义词：欢呼' },
+      ],
+    },
+    {
+      word: 'punched',
+      phonetic: '/pʌntʃt/',
+      brief: '用拳猛击，捶打（punch 的过去式）',
+      pos: 'verb',
+      detail:
+        'punched 是 punch 的过去式，意为"用拳猛击、捶打"，指握紧拳头用力击打。原文中"The monkey punched and kicked the bear\'s insides"——猴子在黑熊精体内拳打脚踢。punched and kicked 是经典搭配，描绘了悟空在妖怪肚子里的暴烈攻击——配合拟声词 Boomph! Pow!，读者仿佛能听到拳头击打内脏的闷响。',
+      examples: [
+        'He punched the wall in anger.（他愤怒地捶墙。）',
+        'She punched him in the stomach.（她一拳打在他肚子上。）',
+        'The boxer punched his opponent.（拳击手击打了对手。）',
+      ],
+      synonyms: [
+        { word: 'struck', note: '击打，通用说法，不限于拳头' },
+        { word: 'slugged', note: '猛击，口语化，侧重沉重的一拳' },
+        { word: 'caressed', note: '反义词：轻抚，温柔地触摸' },
+      ],
+    },
+    {
+      word: 'flips',
+      phonetic: '/flɪps/',
+      brief: '空翻，翻跟头（flip 的复数）',
+      pos: 'noun',
+      detail:
+        'flips 是 flip 的复数形式，意为"空翻、翻跟头"，指身体在空中完成翻转的动作。原文中"Wukong jumped up and down, did flips, and ran around in circles"——悟空上蹿下跳、翻跟头、绕圈跑。flips 展现了悟空在黑熊精肚子里肆无忌惮地运动——不仅拳打脚踢，还翻跟头、绕圈跑，把妖怪的肚子当成了游乐场。',
+      examples: [
+        'The gymnast did three flips in a row.（体操运动员连续翻了三个跟头。）',
+        'He did a back flip off the diving board.（他从跳板上做了个后空翻入水。）',
+        'The acrobat performed amazing flips.（杂技演员表演了惊人的空翻。）',
+      ],
+      synonyms: [
+        { word: 'somersaults', note: '翻筋斗，更正式的体操术语' },
+        { word: 'tumbles', note: '翻滚，侧重翻滚而非空中翻转' },
+      ],
+    },
+    {
+      word: 'charged',
+      phonetic: '/tʃɑːrdʒd/',
+      brief: '猛冲，冲锋（charge 的过去式）',
+      pos: 'verb',
+      detail:
+        'charged 是 charge 的过去式，意为"猛冲、冲锋"，指快速、凶猛地向目标冲去。原文中"the Black Wind King charged at Guanyin"——黑风王向观音猛冲过去。charged 发生在悟空离开去取袈裟的间隙——黑熊精趁机试图偷袭 Guanyin，暴露了他"投降"的虚伪，也为 Guanyin 用金属环制服他提供了正当理由。',
+      examples: [
+        'The bull charged at the matador.（公牛向斗牛士冲去。）',
+        'The soldiers charged the enemy.（士兵们向敌人冲锋。）',
+        'He charged across the field.（他猛冲过田野。）',
+      ],
+      synonyms: [
+        { word: 'rushed', note: '猛冲，最通用的说法' },
+        { word: 'lunged', note: '猛扑，侧重突然的前冲动作' },
+        { word: 'retreated', note: '反义词：撤退，后退' },
+      ],
+    },
+    {
+      word: 'clamped onto',
+      phonetic: '/klæmpt ˈɒntə/',
+      brief: '紧紧夹住，扣住（clamp onto 的过去式）',
+      pos: 'phrase',
+      detail:
+        'clamped onto 是 clamp onto 的过去式，意为"紧紧夹住、扣住"，指用力合拢并牢牢固定在某物上。原文中两次出现：两条金属环扣住了黑熊精的手腕，另外两条扣住了脚踝。clamped onto 描绘了金属环自动收紧、牢牢箍住四肢的机械感——一旦扣上就无法挣脱，与悟空头上的金箍一样是永久性的约束。',
+      examples: [
+        'The crab clamped onto his finger.（螃蟹紧紧夹住了他的手指。）',
+        'She clamped the paper onto the clipboard.（她把纸紧紧夹在写字板上。）',
+        'The vise clamped onto the wood.（虎钳紧紧夹住了木头。）',
+      ],
+      synonyms: [
+        { word: 'gripped', note: '紧握，侧重手的抓握' },
+        { word: 'fastened to', note: '固定在…上，较中性' },
+        { word: 'released', note: '反义词：松开，释放' },
+      ],
+    },
+    {
+      word: 'wrists',
+      phonetic: '/rɪsts/',
+      brief: '手腕（wrist 的复数）',
+      pos: 'noun',
+      detail:
+        'wrists 是 wrist 的复数形式，意为"手腕"，指手臂与手之间的关节处。原文中"Two clamped onto his wrists"——两条（金属环）扣住了他的手腕。wrists 和 ankles 并列出现，描述 Guanyin 用金属环束缚黑熊精四肢的过程——双手双脚都被金属环紧紧箍住，使其无法反抗。',
+      examples: [
+        'She wore a bracelet on her wrist.（她手腕上戴着一只手镯。）',
+        'He sprained his wrist playing tennis.（他打网球时扭伤了手腕。）',
+        'The handcuffs clicked onto his wrists.（手铐咔嗒一声铐住了他的手腕。）',
+      ],
+      synonyms: [
+        { word: 'joints', note: '关节，泛指，不限于手腕' },
+      ],
+    },
+    {
+      word: 'ankles',
+      phonetic: '/ˈæŋklz/',
+      brief: '脚踝（ankle 的复数）',
+      pos: 'noun',
+      detail:
+        'ankles 是 ankle 的复数形式，意为"脚踝"，指小腿与脚之间的关节处。原文中"The other two clamped onto his ankles"——另外两条（金属环）扣住了他的脚踝。ankles 与 wrists 配对出现，描述四肢被束缚的完整画面——双手双脚各被一个金属环扣住，黑熊精彻底失去了行动自由。',
+      examples: [
+        'She twisted her ankle while running.（她跑步时扭伤了脚踝。）',
+        'His ankles were swollen after the hike.（徒步后他的脚踝肿了。）',
+        'The chain was fastened to his ankles.（锁链锁在了他的脚踝上。）',
+      ],
+      synonyms: [
+        { word: 'feet', note: '脚，泛指整只脚而非特指脚踝' },
+      ],
+    },
+    {
+      word: 'mercy',
+      phonetic: '/ˈmɜːrsi/',
+      brief: '仁慈，宽恕',
+      pos: 'noun',
+      detail:
+        'mercy 意为"仁慈、宽恕"，指对有罪或处于自己掌控中的人给予宽容和怜悯。原文中"I will show him mercy"——我会对他仁慈。Guanyin 用 mercy 描述她对黑熊精的处置——虽然黑熊精偷了佛教珍宝、袭击了悟空，但 Guanyin 选择宽恕他，让他成为自己在普陀山的守卫。mercy 体现了佛教"慈悲为怀"的核心精神。',
+      examples: [
+        'The king showed mercy to the prisoner.（国王对囚犯展现了仁慈。）',
+        'They begged for mercy.（他们乞求宽恕。）',
+        'Have mercy on us!（请宽恕我们！）',
+      ],
+      synonyms: [
+        { word: 'compassion', note: '同情、怜悯，侧重感同身受的关怀' },
+        { word: 'forgiveness', note: '原谅、宽恕，侧重对过错的释然' },
+        { word: 'cruelty', note: '反义词：残忍，残酷' },
+      ],
+    },
   ],
 };
 
