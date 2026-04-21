@@ -5660,6 +5660,420 @@ const vocab = {
         { word: 'toppled', note: '倾倒，翻倒，强调从高处翻下' },
       ],
     },
+    {
+      word: 'gasped',
+      phonetic: '/ɡæspt/',
+      brief: '倒吸一口气，惊喘',
+      pos: 'verb (past tense of gasp)',
+      detail:
+        'gasp 指"因惊讶或震惊而突然吸气"，通常伴随张大嘴巴的动作。原文中两个道士跑到外面看到人参果树倒在地上时 gasped（倒吸一口凉气）——他们完全没想到一夜之间这棵比天地还古老的树竟然被毁了。gasp 强调的是震惊到说不出话的那一瞬间反应。',
+      examples: [
+        'She gasped when she saw the bill.（她看到账单时倒吸了一口气。）',
+        'The audience gasped at the magician\'s trick.（观众对魔术师的表演惊叹不已。）',
+      ],
+      synonyms: [
+        { word: 'startled', note: '被吓一跳，强调突然受惊' },
+        { word: 'choked', note: '因情绪激动而说不出话' },
+      ],
+    },
+    {
+      word: 'gray',
+      phonetic: '/ɡreɪ/',
+      brief: '灰色的，（脸色）苍白的',
+      pos: 'adjective',
+      detail:
+        'gray 指"灰色的"，在此处形容人参果树倒下后变成灰色，暗示它已经完全枯死——原本翠绿的枝叶全都消失了。用灰色而不用 brown（褐色）或 dry（干枯），是因为灰色更能传达"生命完全消逝"的感觉，像是一切色彩都被抽走。',
+      examples: [
+        'The old man has gray hair.（那位老人头发花白。）',
+        'The sky turned gray before the storm.（暴风雨前天空变成了灰色。）',
+      ],
+      synonyms: [
+        { word: 'pale', note: '苍白的，强调缺乏血色或色彩' },
+        { word: 'ashy', note: '灰白的，像灰烬一样的颜色' },
+      ],
+    },
+    {
+      word: 'scolding',
+      phonetic: '/ˈskoʊldɪŋ/',
+      brief: '责骂，训斥',
+      pos: 'verb (present participle of scold)',
+      detail:
+        'scold 指"责骂、训斥"，通常指长辈对晚辈、上级对下级的不满批评。原文中唐僧在道观内训斥徒弟们（scolding his companions）——他们是客人却偷了主人的东西，唐僧作为师父既感到丢脸又生气。scolding 比 telling off 更正式，带有"教训"的意味。',
+      examples: [
+        'The mother was scolding her child for running into the street.（母亲在训斥跑到马路上的孩子。）',
+        'He got a scolding for being late.（他因为迟到被训了一顿。）',
+      ],
+      synonyms: [
+        { word: 'reprimanding', note: '正式训斥，更严肃、更官方' },
+        { word: 'lecturing', note: '说教，长篇大论地批评' },
+      ],
+    },
+    {
+      word: 'apology',
+      phonetic: '/əˈpɑːlədʒi/',
+      brief: '道歉，歉意',
+      pos: 'noun',
+      detail:
+        'apology 指"道歉、认错"，表示承认自己做错了事并请求原谅。原文中道士们先是假意道歉（owe you an apology），说人参果一个也没少——其实他们在演戏，为了稳住唐僧一行人。八戒信以为真还道了谢，完全没有察觉到这是个陷阱。该词在文中出现两次，第一次是道士假道歉，第二次是八戒感谢"道歉"。',
+      examples: [
+        'She made a sincere apology for her mistake.（她为自己的错误做了真诚的道歉。）',
+        'I owe you an apology.（我欠你一个道歉。）',
+      ],
+      synonyms: [
+        { word: 'regret', note: '遗憾，后悔，语气比 apology 轻' },
+        { word: 'confession', note: '坦白，承认错误，侧重认错本身' },
+      ],
+    },
+    {
+      word: 'suspicious',
+      phonetic: '/səˈspɪʃəs/',
+      brief: '怀疑的，起疑心的',
+      pos: 'adjective',
+      detail:
+        'suspicious 指"觉得可疑的、心生怀疑的"。原文中悟空给了道士们一个怀疑的眼神（a suspicious look）——他凭直觉感到道士在说谎，只是不知道为什么。这体现了悟空的警觉性和敏锐的直觉，与其他徒弟的懵懂形成对比。',
+      examples: [
+        'The police officer gave him a suspicious look.（警察怀疑地看了他一眼。）',
+        'I\'m suspicious of his motives.（我对他的动机感到怀疑。）',
+      ],
+      synonyms: [
+        { word: 'doubtful', note: '怀疑的，更侧重不确定' },
+        { word: 'wary', note: '警惕的，侧重小心防备' },
+      ],
+    },
+    {
+      word: 'slammed',
+      phonetic: '/slæmd/',
+      brief: '猛地关上，砰地关上',
+      pos: 'verb (past tense of slam)',
+      detail:
+        'slam 指"用力猛关"，发出巨大的声响。原文中道士把门猛地关上（slammed the door shut）——这不是普通的关门，而是故意用力关上并上了锁，说明道士们已经发现了人参果树被毁的真相，准备把唐僧一行人困住等师父回来处置。',
+      examples: [
+        'She slammed the door in his face.（她当着他的面砰地关上了门。）',
+        'He slammed the book on the table.（他把书重重地摔在桌上。）',
+      ],
+      synonyms: [
+        { word: 'banged', note: '砰地撞击，侧重声音大' },
+        { word: 'shut', note: '关上，普通用词，不含力度' },
+      ],
+    },
+    {
+      word: 'glared',
+      phonetic: '/ɡlerd/',
+      brief: '怒目而视，瞪着眼看',
+      pos: 'verb (past tense of glare)',
+      detail:
+        'glare 指"怒目而视"，比 scowl 语气更重——不仅是板着脸，而是带着明显的怒意直视对方。原文中唐僧怒视他的徒弟们（glared at his companions），因为他既生气又失望——偷果子、毁树，一路上尽是徒弟们惹的祸。glared 表现了他作为师父恨铁不成钢的愤怒。',
+      examples: [
+        'The teacher glared at the students who were talking.（老师怒视着在说话的学生。）',
+        'She glared at him in silence.（她一言不发地瞪着他。）',
+      ],
+      synonyms: [
+        { word: 'scowled', note: '皱眉板脸，语气稍轻' },
+        { word: 'stared down', note: '用目光压倒对方，侧重气势' },
+      ],
+    },
+    {
+      word: 'ever',
+      phonetic: '/ˈevər/',
+      brief: '究竟，到底（用于强调语气）',
+      pos: 'adverb',
+      detail:
+        'ever 在此处用于疑问句中加强语气，表示"究竟、到底"。原文中唐僧绝望地问"How will I ever reach the Western Paradise?"——我到底怎样才能到达西天？ever 让这个问题更加绝望和无力，暗示"以这种状况，根本不可能到达"。这种用法是 ever 在口语中常见的强调功能。',
+      examples: [
+        'How will I ever finish this project on time?（我到底怎样才能按时完成这个项目？）',
+        'Will he ever learn?（他到底能不能吸取教训？）',
+      ],
+      synonyms: [
+        { word: 'possibly', note: '可能地，用于否定和疑问句中表示怀疑' },
+        { word: 'at all', note: '究竟，到底，放在句末加强语气' },
+      ],
+    },
+    {
+      word: 'lock-picking',
+      phonetic: '/ˈlɑːkˌpɪkɪŋ/',
+      brief: '撬锁，开锁术',
+      pos: 'noun / adjective',
+      detail:
+        'lock-picking 是个复合词，指"撬锁、开锁的技术"。原文中悟空说他要用 lock-picking magic（开锁法术）来逃出道观——当然他不是用工具撬锁，而是用变化法术。lock-picking 加上 magic，巧妙地把世俗的开锁概念和悟空的神奇能力结合在一起。',
+      examples: [
+        'Lock-picking is a skill used by locksmiths.（撬锁是锁匠的技能。）',
+        'He learned lock-picking from a book.（他从书上学了开锁术。）',
+      ],
+      synonyms: [
+        { word: 'locksmithing', note: '锁匠技术，更正式的职业用语' },
+      ],
+    },
+    {
+      word: 'glanced',
+      phonetic: '/ɡlænst/',
+      brief: '瞥了一眼，匆匆看了下',
+      pos: 'verb (past tense of glance)',
+      detail:
+        'glance 指"匆匆看一眼"，动作快速而短暂。原文中唐僧紧张地瞥了徒弟们一眼（glanced nervously），然后才吞吞吐吐地回答"嗯，是的"——他在路上遇到镇元大仙（伪装成老人），不敢直接说谎，但又不能暴露真相。glanced nervously 精准地描绘了他左右为难的窘态。',
+      examples: [
+        'She glanced at her watch.（她瞥了一眼手表。）',
+        'He glanced nervously around the room.（他紧张地环顾了一下房间。）',
+      ],
+      synonyms: [
+        { word: 'peeked', note: '偷看，瞄一眼，侧重悄悄看' },
+        { word: 'looked quickly', note: '快速看了一眼，更直白的表达' },
+      ],
+    },
+    {
+      word: 'Cosmos',
+      phonetic: '/ˈkɑːzmɑːs/',
+      brief: '宇宙，天地',
+      pos: 'noun',
+      detail:
+        'Cosmos 指"宇宙、天地万物"，比 universe 更带有哲学和诗意的色彩。原文中镇元大仙展示的绝招叫"Magic of the Cosmos in the Sleeve"（袖里乾坤）——字面意思是"袖子里的宇宙"，形容他的袖子能容纳整个天地。这是道教神话中的经典法术概念，用 Cosmos 强调了其法力的宏大。',
+      examples: [
+        'The cosmos is vast and mysterious.（宇宙广袤而神秘。）',
+        'Scientists study the origins of the cosmos.（科学家研究宇宙的起源。）',
+      ],
+      synonyms: [
+        { word: 'universe', note: '宇宙，更通用的科学用语' },
+        { word: 'heavens', note: '天地，苍天，偏文学化' },
+      ],
+    },
+    {
+      word: 'swooped',
+      phonetic: '/swuːpt/',
+      brief: '猛扑下来，突然俯冲',
+      pos: 'verb (past tense of swoop)',
+      detail:
+        'swoop 指"从高处猛然扑下"，常用来形容猛禽俯冲捕猎的动作。原文中镇元大仙挥臂时袖子向悟空一行人猛扑下来（swooped down）——用袖子像猛禽一样从天而降，把所有人卷走。swooped 强调了动作的迅猛和不可抵挡。',
+      examples: [
+        'The eagle swooped down and grabbed the fish.（鹰猛扑下来抓住了鱼。）',
+        'The car swooped around the corner.（汽车猛地转过弯。）',
+      ],
+      synonyms: [
+        { word: 'dived', note: '俯冲，侧重自上而下快速下降' },
+        { word: 'plunged', note: '猛然投入，更强调速度和力度' },
+      ],
+    },
+    {
+      word: 'swept up',
+      phonetic: '/swept ʌp/',
+      brief: '被卷起，被一扫而空',
+      pos: 'phrase (past participle)',
+      detail:
+        'sweep up 意为"把……卷起来、一扫而空"。原文中镇元大仙施展"袖里乾坤"，他的袖子像旋风一样把唐僧师徒全部卷走。这个短语形象地描绘了他们被一股巨大力量席卷而去的场景——毫无还手之力。该词在文中出现两次，第二次是悟空他们逃跑后再次被同样的法术捕获。',
+      examples: [
+        'The tornado swept up everything in its path.（龙卷风把沿途的一切都卷了起来。）',
+        'She was swept up by the crowd.（她被人群裹挟着走了。）',
+      ],
+      synonyms: [
+        { word: 'engulfed', note: '吞噬，吞没，强调被完全包围' },
+        { word: 'scooped up', note: '一把捞起来，侧重被容器般的物体收取' },
+      ],
+    },
+    {
+      word: 'refused',
+      phonetic: '/rɪˈfjuːzd/',
+      brief: '拒绝',
+      pos: 'verb (past tense of refuse)',
+      detail:
+        'refuse 指"明确地拒绝做某事"。原文中八戒推卸责任，对悟空说"你应该拒绝去偷（refused to steal it）"——明明是他自己嘴馋提议偷人参果的，现在却反过来怪悟空不该答应。这种"自己犯错却怪别人"的台词是八戒的经典喜剧形象。',
+      examples: [
+        'She refused to help him.（她拒绝帮助他。）',
+        'He refused to apologize.（他拒绝道歉。）',
+      ],
+      synonyms: [
+        { word: 'declined', note: '婉拒，语气比较客气' },
+        { word: 'rejected', note: '驳回，断然拒绝，更坚决' },
+      ],
+    },
+    {
+      word: 'pea',
+      phonetic: '/piː/',
+      brief: '豌豆',
+      pos: 'noun',
+      detail:
+        'pea 是一种绿色小圆豆，常见蔬菜。原文中悟空念咒缩小到豌豆大小（the size of a pea），这样才能从绳索的缝隙中挣脱。"豌豆大小"是英语中形容极小的常见比喻，就像中文说"米粒大小"一样。',
+      examples: [
+        'She added some peas to the soup.（她在汤里加了一些豌豆。）',
+        'The insect was no bigger than a pea.（那只虫子还没有一颗豌豆大。）',
+      ],
+      synonyms: [
+        { word: 'bean', note: '豆子，泛指各种豆类' },
+      ],
+    },
+    {
+      word: 'slipped',
+      phonetic: '/slɪpt/',
+      brief: '滑脱，悄悄挣脱',
+      pos: 'verb (past tense of slip)',
+      detail:
+        'slip 指"悄悄滑动、溜出"，动作轻巧不引人注意。原文中悟空变成豌豆大小后从绳索中 slipped out（悄悄挣脱）——绳索绑不住一个只有豌豆大小的身体。slipped 强调了动作的灵活和无声无息，没有被任何人发现。',
+      examples: [
+        'The fish slipped out of his hands.（鱼从他的手中滑脱了。）',
+        'She slipped out of the room quietly.（她悄悄地溜出了房间。）',
+      ],
+      synonyms: [
+        { word: 'wriggled', note: '扭动身体挣脱，强调身体扭曲的动作' },
+        { word: 'squeezed out', note: '挤出来，强调从狭窄空间挤出' },
+      ],
+    },
+    {
+      word: 'tiptoed',
+      phonetic: '/ˈtɪptoʊd/',
+      brief: '踮着脚走，蹑手蹑脚',
+      pos: 'verb (past tense of tiptoe)',
+      detail:
+        'tiptoe 指"踮着脚尖走"，为了不发出声响。原文中师徒一行人蹑手蹑脚地穿过黑暗安静的道观（tiptoed through the dark and silent abbey）——他们刚从绑绳中逃脱，必须尽可能安静地离开，否则会被道士发现。tiptoed 生动地描绘了他们小心翼翼的样子。',
+      examples: [
+        'She tiptoed into the bedroom so as not to wake the baby.（她蹑手蹑脚地走进卧室，以免吵醒婴儿。）',
+        'He tiptoed past the sleeping dog.（他踮着脚走过睡觉的狗旁边。）',
+      ],
+      synonyms: [
+        { word: 'crept', note: '悄悄爬行，更强调身体低伏' },
+        { word: 'sneaked', note: '偷偷溜走，侧重不被发现' },
+      ],
+    },
+    {
+      word: 'boomed',
+      phonetic: '/buːmd/',
+      brief: '发出隆隆巨响，声如洪钟地说',
+      pos: 'verb (past tense of boom)',
+      detail:
+        'boom 指"发出深沉、响亮的声音"，形容声音低沉而极具穿透力。原文中镇元大仙突然出现在路上，他的声音 boomed（如洪钟般响起）——"你们逃不掉的！"boomed 不仅说明声音大，更暗示说话者法力强大、气势惊人，让逃跑的师徒瞬间被恐惧笼罩。',
+      examples: [
+        'Thunder boomed in the distance.（远处雷声隆隆。）',
+        '"Stop right there!" he boomed.（"站住！"他声如洪钟地喝道。）',
+      ],
+      synonyms: [
+        { word: 'thundered', note: '如雷鸣般轰响，更强调声音的震撼' },
+        { word: 'bellowed', note: '大声吼叫，侧重人发出的怒吼' },
+      ],
+    },
+    {
+      word: 'moved out',
+      phonetic: '/muːvd aʊt/',
+      brief: '闪开，移开',
+      pos: 'phrase',
+      detail:
+        'move out 在此处指"移开、闪到一旁"，避开攻击。原文中镇元大仙轻松闪开了悟空的铁棒攻击（moved out of the way）——他法力高强，悟空的攻击在他看来只是花拳绣腿。move out 强调了躲避的从容和优雅。',
+      examples: [
+        'He moved out of the way to let the car pass.（他闪到一边让汽车过去。）',
+        'She moved out of the crowd.（她从人群中走出来。）',
+      ],
+      synonyms: [
+        { word: 'dodged', note: '灵巧闪避，侧重敏捷躲避攻击' },
+        { word: 'sidestepped', note: '侧身闪开，强调向旁边迈步' },
+      ],
+    },
+    {
+      word: 'stabbed',
+      phonetic: '/stæbd/',
+      brief: '刺，戳',
+      pos: 'verb (past tense of stab)',
+      detail:
+        'stab 指"用尖锐武器刺、戳"。原文中沙悟净用他的降妖宝杖刺向镇元大仙（stabbed with his spear）——宝杖的前端尖锐如枪，适合刺击。stab 强调的是尖锐武器向前突刺的动作，与悟空的挥打（swung）和八戒的拍击（struck）形成对比，三种攻击方式各不相同。',
+      examples: [
+        'He stabbed the meat with a fork.（他用叉子戳了戳肉。）',
+        'The soldier stabbed the enemy with his sword.（士兵用剑刺向敌人。）',
+      ],
+      synonyms: [
+        { word: 'pierced', note: '穿透，刺穿，强调刺入深处' },
+        { word: 'thrust', note: '猛力推刺，强调力量的集中' },
+      ],
+    },
+    {
+      word: 'criminals',
+      phonetic: '/ˈkrɪmɪnəlz/',
+      brief: '罪犯，罪人',
+      pos: 'noun (plural of criminal)',
+      detail:
+        'criminal 指"罪犯、犯罪的人"。原文中镇元大仙怒斥唐僧师徒为 criminals，要油炸他们——在道观中偷吃仙果、毁掉万年神树，在他看来这确实是不可饶恕的罪行。用 criminals 而不是 thieves（小偷），表明镇元大仙认为他们的行为已经超出了偷窃，是严重的犯罪。',
+      examples: [
+        'The police arrested the criminals.（警察逮捕了那些罪犯。）',
+        'Criminals will be punished.（罪犯将受到惩罚。）',
+      ],
+      synonyms: [
+        { word: 'offenders', note: '犯错者，违法者，语气较正式' },
+        { word: 'wrongdoers', note: '做坏事的人，语气较轻' },
+      ],
+    },
+    {
+      word: 'enormous',
+      phonetic: '/ɪˈnɔːrməs/',
+      brief: '巨大的，庞大的',
+      pos: 'adjective',
+      detail:
+        'enormous 指"非常大的、巨大的"，远超正常大小。原文中道士们抬来一口巨大的平底锅（an enormous frying pan）——要炸一个人需要多大的锅？enormous 夸张地描绘了这场惩罚的规模，也暗示镇元大仙道观的非同寻常。',
+      examples: [
+        'The elephant was enormous.（那头大象非常巨大。）',
+        'They live in an enormous house.（他们住在一栋巨大的房子里。）',
+      ],
+      synonyms: [
+        { word: 'gigantic', note: '庞大的，强调超出想象的大' },
+        { word: 'massive', note: '大而重的，侧重体积和重量' },
+      ],
+    },
+    {
+      word: 'mortal',
+      phonetic: '/ˈmɔːrtəl/',
+      brief: '凡人的，会死的',
+      pos: 'adjective',
+      detail:
+        'mortal 指"终有一死的、凡人的"，与 immortal（长生不老的）形成对比。原文中悟空心想"唐僧是凡人（mortal），会被烧焦"——悟空和八戒、沙僧都有法力护体不怕火，但唐僧是普通人类，经不起油锅的考验。mortal 在神话故事中是核心概念，区分了神仙和凡人。',
+      examples: [
+        'All humans are mortal.（人终有一死。）',
+        'Mortal danger awaited them.（致命的危险正等着他们。）',
+      ],
+      synonyms: [
+        { word: 'human', note: '人类的，不含"与神仙对比"的意味' },
+        { word: 'fragile', note: '脆弱的，强调容易被伤害' },
+      ],
+    },
+    {
+      word: 'crisp',
+      phonetic: '/krɪsp/',
+      brief: '酥脆的，焦脆的',
+      pos: 'adjective',
+      detail:
+        'crisp 本义是"脆的、酥的"，形容食物外表烤得又脆又干。原文中"burned to a crisp"是个固定表达，意思是"被烧得焦脆"——悟空担心唐僧如果被扔进油锅，会像炸食物一样被炸到焦脆。这个比喻既生动又有点黑色幽默，因为悟空想到的是"炸脆"而不是"烧死"。',
+      examples: [
+        'The bacon was fried to a crisp.（培根被炸得焦脆。）',
+        'She likes her toast crisp.（她喜欢吐司烤得脆脆的。）',
+      ],
+      synonyms: [
+        { word: 'charred', note: '烧焦的，侧重表面被烧黑' },
+        { word: 'brittle', note: '易碎的，干硬的，不含烧焦的意思' },
+      ],
+    },
+    {
+      word: 'panting',
+      phonetic: '/ˈpæntɪŋ/',
+      brief: '气喘吁吁，大口喘气',
+      pos: 'verb (present participle of pant)',
+      detail:
+        'pant 指"因体力消耗或炎热而急促喘气"。原文中道士们抬着悟空变成的石像时气喘吁吁（panting）——石像比真正的悟空重得多，两个道士使出吃奶的力气才勉强搬动。panting 与前面的"breathing heavily"呼应，从不同角度描绘了石像之重。',
+      examples: [
+        'The dog was panting after the long run.（狗跑了很远之后气喘吁吁。）',
+        'He was panting heavily after climbing the stairs.（他爬完楼梯后大口喘气。）',
+      ],
+      synonyms: [
+        { word: 'gasping', note: '大口吸气，更强调呼吸困难' },
+        { word: 'wheezing', note: '呼哧呼哧地喘，带有声响' },
+      ],
+    },
+    {
+      word: 'rotten',
+      phonetic: '/ˈrɑːtn/',
+      brief: '糟糕透顶的，讨厌的',
+      pos: 'adjective',
+      detail:
+        'rotten 本义是"腐烂的、变质的"，口语中常用来骂人"讨厌的、卑鄙的"。原文中八戒骂悟空"That rotten monkey!"（那个臭猴子！）——他以为悟空只顾自己逃命，把师父和师弟们丢下了。rotten 在这里不是字面意思"腐烂"，而是愤怒的骂人话，相当于中文的"臭""烂"。',
+      examples: [
+        'That rotten kid broke my window!（那个臭小子打破了我的窗户！）',
+        'The fruit has gone rotten.（水果腐烂了。）',
+      ],
+      synonyms: [
+        { word: 'lousy', note: '差劲的，糟糕的，口语骂人用词' },
+        { word: 'wicked', note: '邪恶的，恶劣的，语气更重' },
+      ],
+    },
   ],
 };
 
