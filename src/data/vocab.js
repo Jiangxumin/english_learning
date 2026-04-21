@@ -5101,6 +5101,565 @@ const vocab = {
         { word: 'beasts', note: '野兽，泛指凶猛动物' },
       ],
     },
+    {
+      word: 'trembled',
+      phonetic: '/ˈtrembəld/',
+      brief: '发抖，颤抖',
+      pos: 'verb (past tense of tremble)',
+      detail:
+        'tremble 指"因恐惧、寒冷或激动而发抖"。原文中唐僧独自在黑暗森林中面对狼群、熊和老虎时 trembled with fear（吓得发抖），生动描绘了他作为凡人在面对危险时的恐惧。这个动词强调身体不受控制地颤抖，比单纯的"害怕"更加具体、形象。',
+      examples: [
+        'She trembled with fear when she saw the snake.（她看到蛇时吓得发抖。）',
+        'His hands trembled as he opened the letter.（他拆信时双手颤抖。）',
+      ],
+      synonyms: [
+        { word: 'shivered', note: '因寒冷或恐惧而颤抖，更强调身体反应' },
+        { word: 'quivered', note: '微微颤抖，更强调细微的颤动' },
+      ],
+    },
+    {
+      word: 'fangs',
+      phonetic: '/fæŋz/',
+      brief: '尖牙，毒牙',
+      pos: 'noun (plural of fang)',
+      detail:
+        'fang 指动物（尤其是猛兽或毒蛇）口中又长又尖的牙齿。原文中森林里的猛兽"showed their fangs"——露出尖牙，这是动物威吓和准备攻击的姿态。用 fangs 而不是 teeth，更强调了这些野兽的危险性和攻击性。',
+      examples: [
+        'The snake bared its fangs.（蛇露出了毒牙。）',
+        'The wolf showed its fangs menacingly.（狼凶狠地露出尖牙。）',
+      ],
+      synonyms: [
+        { word: 'teeth', note: '牙齿，泛指所有牙齿，不强调尖锐' },
+        { word: 'tusks', note: '獠牙，多指大象或野猪的长牙' },
+      ],
+    },
+    {
+      word: 'beasts',
+      phonetic: '/biːsts/',
+      brief: '野兽，猛兽',
+      pos: 'noun (plural of beast)',
+      detail:
+        'beast 指"野兽、猛兽"，通常暗示体型大、凶猛的动物。原文中唐僧说"Those beasts were going to attack me!"，用 beasts 而不是 animals 强调了这些猛兽的危险性。beast 带有"凶猛、可怕"的语气色彩，在奇幻文学中常用来形容怪物。',
+      examples: [
+        'The beasts roamed the dark forest.（野兽在黑暗的森林中游荡。）',
+        'A wild beast attacked the village.（一头野兽袭击了村庄。）',
+      ],
+      synonyms: [
+        { word: 'animals', note: '动物，中性词，不暗示凶猛' },
+        { word: 'creatures', note: '生物，范围更广' },
+      ],
+    },
+    {
+      word: 'attack',
+      phonetic: '/əˈtæk/',
+      brief: '攻击，袭击',
+      pos: 'verb',
+      detail:
+        'attack 指"发动攻击、袭击"。原文中唐僧愤怒地指责悟空："Those beasts were going to attack me!"——那些猛兽差点就攻击了他。注意本书之前"attacked"（过去式）已经出现过，这里是动词原形，用于 were going to attack（差点发动攻击）的语境中。',
+      examples: [
+        'The dog tried to attack the mailman.（狗试图攻击邮递员。）',
+        'The army planned to attack at dawn.（军队计划在黎明时发动攻击。）',
+      ],
+      synonyms: [
+        { word: 'assault', note: '猛烈攻击，更正式，语气更重' },
+        { word: 'strike', note: '击打，侧重单次动作' },
+      ],
+    },
+    {
+      word: 'Daoist',
+      phonetic: '/ˈdaʊɪst/',
+      brief: '道教的，道士的',
+      pos: 'adjective',
+      detail:
+        'Daoist 指"道教的"，也可作名词指"道教徒、道士"。原文中唐僧看到前方一座建筑，说"That looks like a Daoist abbey"——看起来像一座道观。《西游记》的世界中佛道并存，道观（Daoist abbey）是道士修行的地方，与佛教的寺庙（temple）不同。这里故事进入了一个道教背景的场景——镇元大仙（Great Immortal）的道观。',
+      examples: [
+        'Daoist philosophy emphasizes living in harmony with nature.（道家哲学强调与自然和谐共处。）',
+        'They visited a Daoist temple on the mountain.（他们参观了山上的道观。）',
+      ],
+      synonyms: [
+        { word: 'Taoist', note: '道教的，另一种拼写方式' },
+      ],
+    },
+    {
+      word: 'Immortal',
+      phonetic: '/ɪˈmɔːrtəl/',
+      brief: '仙人，不朽者',
+      pos: 'noun',
+      detail:
+        'Immortal 作名词指"仙人、长生不老之人"，在道教语境中指修炼得道、超越生死的存在。原文中道士称其主人为"the Great Immortal"——大仙，即镇元大仙。他是道教中极为古老且法力高强的地仙，与天庭神仙不同，属于地仙之祖。注意首字母大写表示尊称。',
+      examples: [
+        'In Chinese mythology, immortals can live forever.（在中国神话中，仙人可以长生不老。）',
+        'The emperor sought the secret of becoming immortal.（皇帝寻求成为仙人的秘密。）',
+      ],
+      synonyms: [
+        { word: 'deity', note: '神灵，更偏西方宗教概念' },
+        { word: 'celestial', note: '天神，侧重天庭的神仙' },
+      ],
+    },
+    {
+      word: 'doubt',
+      phonetic: '/daʊt/',
+      brief: '怀疑，不相信',
+      pos: 'verb',
+      detail:
+        'doubt 作动词指"怀疑、不相信"。原文中悟空听到镇元大仙的名号后毫不在意地说"I doubt he\'s very powerful"——他怀疑大仙是否真的有那么厉害。这体现了悟空一贯的傲慢性格——在他看来，除了佛祖和少数几位，没有什么神仙值得他畏惧。注意 b 是不发音的，发音为 /daʊt/。',
+      examples: [
+        'I doubt he will come to the party.（我怀疑他会不会来参加聚会。）',
+        'Nobody doubted her ability.（没有人怀疑她的能力。）',
+      ],
+      synonyms: [
+        { word: 'question', note: '质疑，侧重提出疑问' },
+        { word: 'suspect', note: '怀疑，侧重猜疑有某种情况' },
+      ],
+    },
+    {
+      word: 'scowled',
+      phonetic: '/skaʊld/',
+      brief: '皱眉怒视，板着脸',
+      pos: 'verb (past tense of scowl)',
+      detail:
+        'scowl 指"皱着眉头，面带怒色地看"，是不满或生气时的面部表情。原文中唐僧在悟空轻慢镇元大仙时 scowled（板起了脸），然后低声教训他要"show some respect"。scowled 精准描绘了唐僧作为师父既要维持礼仪又不好当众发火的微妙表情。',
+      examples: [
+        'The teacher scowled at the noisy students.（老师对吵闹的学生皱眉怒视。）',
+        'He scowled when he heard the bad news.（他听到坏消息时板起了脸。）',
+      ],
+      synonyms: [
+        { word: 'frowned', note: '皱眉，语气较轻，不一定是生气' },
+        { word: 'glared', note: '怒目而视，比 scowl 更强的敌意' },
+      ],
+    },
+    {
+      word: 'respect',
+      phonetic: '/rɪˈspekt/',
+      brief: '尊重，敬意',
+      pos: 'noun',
+      detail:
+        'respect 作名词指"尊重、尊敬"。原文中唐僧低声对悟空说"Show some respect"——让悟空对别人表现出应有的尊重。这是唐僧反复教导悟空的一个主题：无论对方身份如何，作为客人应该有基本的礼貌。这里 respect 强调"对长辈或修行者应有的恭敬态度"。',
+      examples: [
+        'You should show respect to your elders.（你应该尊敬长辈。）',
+        'He earned everyone\'s respect through hard work.（他通过努力赢得了大家的尊重。）',
+      ],
+      synonyms: [
+        { word: 'courtesy', note: '礼貌，客套，侧重行为上的得体' },
+        { word: 'honor', note: '敬意，荣誉，语气更庄重' },
+      ],
+    },
+    {
+      word: 'annoyed',
+      phonetic: '/əˈnɔɪd/',
+      brief: '恼怒的，不高兴的',
+      pos: 'adjective',
+      detail:
+        'annoyed 指"感到恼火、不高兴"，程度比 angry 轻。原文中道士们听到悟空质疑他们师父的实力后 looked annoyed——面露不悦。他们虽然不满，但还没有到愤怒的程度，只是觉得悟空的傲慢态度令人反感。annoyed 常用于描述因被打扰、被冒犯而产生的轻度不满。',
+      examples: [
+        'She was annoyed by the loud music.（她对吵闹的音乐感到恼火。）',
+        'He looked annoyed when I interrupted him.（我打断他时他显得很不高兴。）',
+      ],
+      synonyms: [
+        { word: 'irritated', note: '被激怒的，更强调持续的不快' },
+        { word: 'frustrated', note: '沮丧的，受挫的，侧重无能为力的不满' },
+      ],
+    },
+    {
+      word: 'shrugged',
+      phonetic: '/ʃrʌɡd/',
+      brief: '耸肩（表示无所谓或不以为然）',
+      pos: 'verb (past tense of shrug)',
+      detail:
+        'shrug 指"耸肩"，这个肢体动作通常表示"无所谓、不在乎"或"我不知道"。原文中悟空对道士说师父能上天庭拜访朋友一事 shrugged（耸了耸肩），说"I used to live in Heaven. The place isn\'t that great."——他满不在乎地表示自己当年就在天庭住过，觉得也没什么了不起。shrugged 完美刻画了悟空傲慢不逊的态度。',
+      examples: [
+        'She shrugged and said, "I don\'t know."（她耸了耸肩说："我不知道。"）',
+        'He shrugged off the criticism.（他对批评不以为然。）',
+      ],
+      synonyms: [
+        { word: 'dismissed', note: '不以为然地打发掉，用语言行为表示不在意' },
+        { word: 'brushed off', note: '敷衍了事，不把某事故在心上' },
+      ],
+    },
+    {
+      word: 'tend',
+      phonetic: '/tend/',
+      brief: '照料，照看',
+      pos: 'verb',
+      detail:
+        'tend 指"照料、照看"，多用于照顾人或动物。原文中唐僧让悟空去"tend the horse"——照看马匹。这是唐僧有意把悟空支开，因为悟空在道士面前表现得太过傲慢无礼。tend 在这里指喂马、遛马等日常照料工作。',
+      examples: [
+        'She tended the garden every morning.（她每天早上照料花园。）',
+        'The shepherd tends his flock of sheep.（牧羊人照看他的羊群。）',
+      ],
+      synonyms: [
+        { word: 'care for', note: '照顾，语气更温柔' },
+        { word: 'look after', note: '照看，口语化的表达' },
+      ],
+    },
+    {
+      word: 'ripe',
+      phonetic: '/raɪp/',
+      brief: '成熟的',
+      pos: 'adjective',
+      detail:
+        'ripe 指"（水果等）成熟的"，可以食用了。原文中道士介绍人参果时说"takes ten thousand years to become ripe"——要一万年才能成熟。这夸张的时间暗示了人参果的珍稀程度。ripe 还可以引申为"时机成熟的"。',
+      examples: [
+        'The apples are ripe and ready to eat.（苹果熟了，可以吃了。）',
+        'Wait until the bananas are ripe.（等到香蕉熟了再说。）',
+      ],
+      synonyms: [
+        { word: 'mature', note: '成熟的，更常用于人或抽象事物' },
+        { word: 'ready', note: '准备好的，更通用' },
+      ],
+    },
+    {
+      word: 'According',
+      phonetic: '/əˈkɔːrdɪŋ/',
+      brief: '根据（According to）',
+      pos: 'phrase',
+      detail:
+        'According to 是固定搭配，表示"根据……所说"。原文中道士说"According to legend, one bite of the fruit will make you live forever"——根据传说，吃一口人参果就能长生不老。这里 According to legend 用来引用古老的传说作为人参果神奇功效的依据。',
+      examples: [
+        'According to the weather report, it will rain tomorrow.（根据天气预报，明天会下雨。）',
+        'According to legend, the castle is haunted.（传说这座城堡闹鬼。）',
+      ],
+      synonyms: [
+        { word: 'based on', note: '基于，侧重依据' },
+        { word: 'as stated by', note: '如……所述，更正式' },
+      ],
+    },
+    {
+      word: 'legend',
+      phonetic: '/ˈledʒənd/',
+      brief: '传说，传奇故事',
+      pos: 'noun',
+      detail:
+        'legend 指"传说、传奇故事"，通常指世代口耳相传的古老故事。原文中道士引用"According to legend"来讲述人参果的神奇功效——吃一口就能长生不老。在《西游记》的世界里，legend 往往不是虚构的，而是真实存在的神奇力量。',
+      examples: [
+        'The legend of King Arthur is famous worldwide.（亚瑟王的传说举世闻名。）',
+        'According to local legend, a dragon lives in the lake.（据当地传说，湖里住着一条龙。）',
+      ],
+      synonyms: [
+        { word: 'myth', note: '神话，侧重涉及神灵的故事' },
+        { word: 'tale', note: '故事，更泛指' },
+      ],
+    },
+    {
+      word: 'tray',
+      phonetic: '/treɪ/',
+      brief: '托盘，盘子',
+      pos: 'noun',
+      detail:
+        'tray 指"托盘"，用来端食物或物品的扁平容器。原文中道士用人参果放在托盘（tray）上端给唐僧，唐僧看到后尖叫——因为托盘上躺着一个像婴儿一样的人参果。tray 在此处出现两次，第一次是道士端着进来，第二次是唐僧看到托盘上的"婴儿"。该词出现两次。',
+      examples: [
+        'She carried a tray of drinks.（她端着一托盘饮料。）',
+        'The waiter brought the food on a silver tray.（服务员用银托盘端来了食物。）',
+      ],
+      synonyms: [
+        { word: 'platter', note: '大托盘，多用于盛放菜肴' },
+        { word: 'plate', note: '盘子，碟子，多为单个平盘' },
+      ],
+    },
+    {
+      word: 'mortal',
+      phonetic: '/ˈmɔːrtəl/',
+      brief: '凡人，会死的',
+      pos: 'noun / adjective',
+      detail:
+        'mortal 作名词指"凡人、终有一死的人"，与神仙（immortal）相对。原文中道士解释唐僧之所以看到人参果像婴儿，是因为"you\'re a mortal"——你是凡人。在《西游记》的世界观中，凡人（mortal）无法看到事物的本质，只能看到表象。注意 mortal 与 Immortal（仙人）是反义词。',
+      examples: [
+        'All mortals must die someday.（凡人终有一死。）',
+        'Mortal fear gripped his heart.（致命的恐惧攫住了他的心。）',
+      ],
+      synonyms: [
+        { word: 'human', note: '人类，中性词，不强调与神仙的对比' },
+        { word: 'earthly', note: '尘世的，凡间的，侧重"属于凡间"的含义' },
+      ],
+    },
+    {
+      word: 'convince',
+      phonetic: '/kənˈvɪns/',
+      brief: '说服，使相信',
+      pos: 'verb',
+      detail:
+        'convince 指"说服某人相信某事"。原文中道士们试图说服（tried to convince）唐僧人参果不是婴儿，但唐僧只是摇头不信。convince 强调用道理或证据让人改变想法，但在这里道士们的努力失败了——唐僧作为凡人无法接受一个"看起来像婴儿"的东西是水果。',
+      examples: [
+        'I tried to convince her to come with us.（我试图说服她和我们一起去。）',
+        'He convinced me that he was telling the truth.（他让我相信他说的是实话。）',
+      ],
+      synonyms: [
+        { word: 'persuade', note: '劝说，侧重通过说理使人行动' },
+        { word: 'assure', note: '向……保证，消除疑虑' },
+      ],
+    },
+    {
+      word: 'growled',
+      phonetic: '/ˈɡraʊld/',
+      brief: '发出低沉吼声，（肚子）咕噜作响',
+      pos: 'verb (past tense of growl)',
+      detail:
+        'growl 指"发出低沉的吼叫声"，常用于动物（如狗的低吼）。原文中八戒听到道士们谈论人参果的美味后，肚子发出了 growled——肚子咕噜叫。这里 growled 幽默地用在了肚子上，把八戒的饥饿具象化了。这个拟声效果也为下一章八戒怂恿悟空偷果做了铺垫。',
+      examples: [
+        'The dog growled at the stranger.（狗对陌生人发出低吼。）',
+        'His stomach growled because he was hungry.（他因为饿了，肚子咕噜叫。）',
+      ],
+      synonyms: [
+        { word: 'rumbled', note: '隆隆响，低沉的轰鸣' },
+        { word: 'snarled', note: '龇牙低吼，更侧重凶狠的威胁' },
+      ],
+    },
+    {
+      word: 'steal',
+      phonetic: '/stiːl/',
+      brief: '偷，偷窃',
+      pos: 'verb',
+      detail:
+        'steal 指"偷窃、盗取"。原文中八戒反问"What did we steal?"——我们偷什么了？这里 steal 用在疑问句中，是动词原形（在助动词 did 之后）。注意本书中 steal 出现了多种形态：stole（过去式）出现三次，stealing（现在分词）出现一次，steal（原形）出现一次。它们共享同一个基本含义，但语法形式不同。',
+      examples: [
+        'Don\'t steal other people\'s things.（不要偷别人的东西。）',
+        'What did he steal from the store?（他从商店偷了什么？）',
+      ],
+      synonyms: [
+        { word: 'rob', note: '抢劫，强调暴力夺取' },
+        { word: 'pilfer', note: '小偷小摸，语气较轻' },
+      ],
+    },
+    {
+      word: 'sparkled',
+      phonetic: '/ˈspɑːrkəld/',
+      brief: '闪闪发光，闪烁',
+      pos: 'verb (past tense of sparkle)',
+      detail:
+        'sparkle 指"发出闪烁的光芒"，常用于宝石、露珠或灯光等。原文中人参果在阳光下 sparkled（闪闪发光），这个画面暗示了人参果的神奇与珍贵——普通水果不会发光，只有仙家宝物才会如此。sparkled 强调光芒一闪一闪的效果，比 shine 更有动态感。',
+      examples: [
+        'The diamonds sparkled in the light.（钻石在光线下闪闪发光。）',
+        'Her eyes sparkled with excitement.（她的眼睛因兴奋而闪闪发亮。）',
+      ],
+      synonyms: [
+        { word: 'glittered', note: '闪耀，更强调耀眼夺目' },
+        { word: 'shimmered', note: '微光闪烁，更柔和朦胧' },
+      ],
+    },
+    {
+      word: 'sunlight',
+      phonetic: '/ˈsʌnlaɪt/',
+      brief: '阳光',
+      pos: 'noun',
+      detail:
+        'sunlight 是 sun（太阳）和 light（光）的复合词，指"阳光、日光"。原文中人参果在阳光（sunlight）下闪闪发光，营造出一幅美丽而神秘的画面——在道观后院的古树上，金灿灿的人参果沐浴在阳光中。',
+      examples: [
+        'The room was filled with warm sunlight.（房间里充满了温暖的阳光。）',
+        'Plants need sunlight to grow.（植物需要阳光才能生长。）',
+      ],
+      synonyms: [
+        { word: 'sunshine', note: '阳光，更强调晴朗天气的感受' },
+        { word: 'daylight', note: '日光，白天自然光' },
+      ],
+    },
+    {
+      word: 'plucked',
+      phonetic: '/plʌkt/',
+      brief: '采摘，摘下',
+      pos: 'verb (past tense of pluck)',
+      detail:
+        'pluck 指"用手快速摘取、拔下"。原文中悟空从人参果树上 plucked three pieces——摘了三个人参果。pluck 比 pick 更强调动作的果断和利落，暗示悟空轻而易举地就摘到了珍贵的人参果。pluck 还可以表示"鼓起勇气"（pluck up courage）。',
+      examples: [
+        'She plucked a flower from the garden.（她从花园里摘了一朵花。）',
+        'He plucked a apple from the branch.（他从树枝上摘下一个苹果。）',
+      ],
+      synonyms: [
+        { word: 'picked', note: '采摘，最通用的表达' },
+        { word: 'gathered', note: '采集，收集，侧重整体收获' },
+      ],
+    },
+    {
+      word: 'ashamed',
+      phonetic: '/əˈʃeɪmd/',
+      brief: '羞愧的，惭愧的',
+      pos: 'adjective',
+      detail:
+        'ashamed 指"感到羞耻、惭愧"。原文中悟空批评八戒"You should be ashamed of yourself"——你应该为自己感到羞耻，因为八戒把人参果整个吞下去连味都没尝到。"be ashamed of oneself" 是固定搭配，表示为自己的行为感到羞愧。',
+      examples: [
+        'She was ashamed of her behavior.（她为自己的行为感到羞愧。）',
+        'You should be ashamed of yourself!（你应该为自己感到惭愧！）',
+      ],
+      synonyms: [
+        { word: 'embarrassed', note: '尴尬的，侧重在他人面前的难堪' },
+        { word: 'guilty', note: '有罪恶感的，侧重做了错事的内疚' },
+      ],
+    },
+    {
+      word: 'chew',
+      phonetic: '/tʃuː/',
+      brief: '咀嚼，嚼',
+      pos: 'verb',
+      detail:
+        'chew 指"咀嚼、嚼碎食物"。原文中八戒把人参果一口吞下去，悟空批评他"You didn\'t even chew!"——你连嚼都没嚼！八戒辩解说自己太饿了顾不上嚼（too hungry to chew）。这个细节是八戒贪吃性格的经典写照。该词出现两次。',
+      examples: [
+        'Chew your food well before swallowing.（吞咽前要充分咀嚼食物。）',
+        'The dog was chewing on a bone.（狗在啃骨头。）',
+      ],
+      synonyms: [
+        { word: 'munch', note: '用力嚼，发出声响地吃' },
+        { word: 'nibble', note: '小口啃，轻咬' },
+      ],
+    },
+    {
+      word: 'groaned',
+      phonetic: '/ɡroʊnd/',
+      brief: '呻吟，发出不满声',
+      pos: 'verb (past tense of groan)',
+      detail:
+        'groan 指"发出低沉的呻吟声"，表示痛苦、不满或失望。原文中八戒后悔没尝到人参果的味道，groaned（发出一声哀叹），然后说真想再来一个。这里的 groaned 生动表现了八戒的遗憾——美味就在嘴边却没尝到，比直接说"他很难过"更有画面感。',
+      examples: [
+        'The patient groaned in pain.（病人在痛苦中呻吟。）',
+        'The students groaned when the teacher gave more homework.（老师布置更多作业时，学生们发出不满的哀叹。）',
+      ],
+      synonyms: [
+        { word: 'moaned', note: '呻吟，抱怨，更侧重发声表达不满' },
+        { word: 'sighed', note: '叹气，较轻微的不满或无奈' },
+      ],
+    },
+    {
+      word: 'criminals',
+      phonetic: '/ˈkrɪmɪnəlz/',
+      brief: '罪犯，罪人',
+      pos: 'noun (plural of criminal)',
+      detail:
+        'criminal 指"罪犯、犯罪的人"。原文中道士愤怒地指责唐僧的徒弟们："Your companions are criminals!"——你的同伴们是罪犯！这是非常严厉的指控——在他们看来，偷吃主人珍贵的人参果就是犯罪行为。注意 criminal 既可作名词（罪犯），也可作形容词（犯罪的）。',
+      examples: [
+        'The criminals were caught by the police.（罪犯被警察抓住了。）',
+        'He was treated like a criminal.（他被当作罪犯对待。）',
+      ],
+      synonyms: [
+        { word: 'offenders', note: '违法者，语气较轻' },
+        { word: 'thieves', note: '小偷，侧重偷窃行为' },
+      ],
+    },
+    {
+      word: 'stole',
+      phonetic: '/stoʊl/',
+      brief: '偷，偷窃（steal 的过去式）',
+      pos: 'verb (past tense of steal)',
+      detail:
+        'steal 的过去式，指"偷窃、盗取"。原文中道士指控唐僧的徒弟们偷了人参果——"They stole some of our ginseng fruit!"。该词在文中出现三次，分别代表不同立场的表述：道士的指控、八戒的反问"What did we steal?"、以及八戒指责悟空"You\'re the one who stole the fruit!"。三次使用勾勒出一场推卸责任的闹剧。',
+      examples: [
+        'Someone stole my wallet.（有人偷了我的钱包。）',
+        'He stole a glance at her.（他偷偷看了她一眼。）',
+      ],
+      synonyms: [
+        { word: 'took', note: '拿走，中性词，不一定是偷' },
+        { word: 'snatched', note: '一把夺走，强调快速和暴力' },
+      ],
+    },
+    {
+      word: 'juice',
+      phonetic: '/dʒuːs/',
+      brief: '汁，汁水，果汁',
+      pos: 'noun',
+      detail:
+        'juice 指"汁水、果汁"，水果或食物中流出的液体。原文中沙悟净在被道士指责偷吃人参果时，嘴边还残留着人参果的汁（juice）——他连忙擦掉嘴角的东西。这个细节极具喜剧效果：嘴上的汁水就是偷吃的铁证，怎么抵赖都没用。',
+      examples: [
+        'I\'d like a glass of orange juice.（我要一杯橙汁。）',
+        'The juice from the steak was delicious.（牛排的肉汁很美味。）',
+      ],
+      synonyms: [
+        { word: 'sap', note: '树液，植物汁液' },
+        { word: 'liquid', note: '液体，泛指' },
+      ],
+    },
+    {
+      word: 'giggled',
+      phonetic: '/ˈɡɪɡəld/',
+      brief: '咯咯笑，傻笑',
+      pos: 'verb (past tense of giggle)',
+      detail:
+        'giggle 指"咯咯地笑、吃吃地笑"，通常是压抑不住的轻声笑。原文中悟空看到沙悟净擦嘴角的汁水时 giggled（咯咯笑了起来）——他觉得这个场面太好笑了，偷吃了还不擦干净嘴。giggled 表现了悟空调皮、不在乎的性格，与道士们的愤怒形成鲜明对比。',
+      examples: [
+        'The girls giggled at the joke.（女孩们听了笑话咯咯笑起来。）',
+        'He tried to stop giggling during class.（他努力忍住不在课堂上咯咯笑。）',
+      ],
+      synonyms: [
+        { word: 'chuckled', note: '轻声笑，低声笑，更温和' },
+        { word: 'snickered', note: '窃笑，暗笑，带有不尊重的意味' },
+      ],
+    },
+    {
+      word: 'liars',
+      phonetic: '/ˈlaɪərz/',
+      brief: '说谎者，骗子',
+      pos: 'noun (plural of liar)',
+      detail:
+        'liar 指"说谎的人、骗子"。原文中道士怒骂悟空等人是"thieves and liars"——小偷和骗子。他们不仅偷了人参果，还假装不知道发生了什么，所以被骂为骗子。liar 是非常严重的侮辱，说明道士们已经怒不可遏。',
+      examples: [
+        'Nobody likes a liar.（没有人喜欢骗子。）',
+        'He called her a liar in front of everyone.（他当着所有人的面说她是骗子。）',
+      ],
+      synonyms: [
+        { word: 'cheats', note: '骗子，侧重欺骗行为' },
+        { word: 'frauds', note: '冒牌货，骗子，侧重身份造假' },
+      ],
+    },
+    {
+      word: 'stealing',
+      phonetic: '/ˈstiːlɪŋ/',
+      brief: '偷窃，盗窃',
+      pos: 'verb (present participle of steal)',
+      detail:
+        'steal 的现在分词形式，此处用于"by stealing from us"——通过偷窃来回报我们。原文中道士愤怒地说"We invited you into our abbey as guests! And you repay us by stealing from us!"——我们把你当客人请进来，你却用偷窃来回报我们。by stealing 表示手段或方式，强调"以偷窃作为回报"的讽刺和忘恩负义。',
+      examples: [
+        'He was caught stealing from the store.（他在商店偷东西时被抓住了。）',
+        'Stealing is wrong no matter what the reason.（无论什么原因，偷窃都是不对的。）',
+      ],
+      synonyms: [
+        { word: 'theft', note: '偷窃（名词），更正式的法律用语' },
+        { word: 'robbery', note: '抢劫，暴力夺取' },
+      ],
+    },
+    {
+      word: 'what if',
+      phonetic: '/wʌt ɪf/',
+      brief: '那又怎样，就算...又如何',
+      pos: 'phrase',
+      detail:
+        'what if 在此处表示不满的反问语气，意思是"那又怎样？就算...又如何？"。原文中悟空不以为然地说"So what if we ate some ginseng fruit?"——就算我们吃了几个人参果又怎样？他认为吃几个果子没什么大不了的，完全没有意识到这棵人参果树对镇元大仙的意义。what if 通常用于假设，但在这里结合 So 表示"就算...也无所谓"的态度。',
+      examples: [
+        'So what if we\'re late? The movie doesn\'t start until 8.（就算迟到又怎样？电影八点才开始。）',
+        'What if it rains tomorrow?（如果明天下雨怎么办？）',
+      ],
+      synonyms: [
+        { word: 'who cares', note: '谁在乎呢，更口语化的无所谓' },
+        { word: 'does it matter', note: '有关系吗，反问语气较轻' },
+      ],
+    },
+    {
+      word: 'crack',
+      phonetic: '/kræk/',
+      brief: '断裂声，爆裂声',
+      pos: 'noun',
+      detail:
+        'crack 作名词指"断裂声、爆裂声"，模拟物体断裂时发出的尖锐声响。原文中悟空用金箍棒猛击人参果树，发出一声巨响"There was a loud crack"——一声巨大的断裂声。crack 是拟声词，让读者仿佛听到了树干断裂的声音，增强了破坏场面的冲击力。',
+      examples: [
+        'The ice cracked under his weight.（冰在他脚下发出断裂声。）',
+        'A loud crack of thunder made her jump.（一声巨雷吓得她跳了起来。）',
+      ],
+      synonyms: [
+        { word: 'snap', note: '啪嗒断裂，更清脆' },
+        { word: 'bang', note: '砰的一声，更响亮沉闷' },
+      ],
+    },
+    {
+      word: 'crashed',
+      phonetic: '/kræʃt/',
+      brief: '轰然倒下，坠毁',
+      pos: 'verb (past tense of crash)',
+      detail:
+        'crash 指"猛烈撞击、轰然倒塌"。原文中悟空一棒之下，整棵万年人参果树 crashed to the ground——轰然倒在地上。crashed 强调了倒下时的巨大力量和声响，暗示人参果树被彻底毁坏。这棵比天地还古老的树就这样被悟空毁了，为后续镇元大仙的怒火埋下了伏笔。',
+      examples: [
+        'The tree crashed to the ground in the storm.（暴风雨中，树轰然倒在地上。）',
+        'The car crashed into the wall.（汽车撞上了墙。）',
+      ],
+      synonyms: [
+        { word: 'collapsed', note: '倒塌，强调结构性的垮塌' },
+        { word: 'toppled', note: '倾倒，翻倒，强调从高处翻下' },
+      ],
+    },
   ],
 };
 
