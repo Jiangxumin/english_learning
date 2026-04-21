@@ -4732,6 +4732,376 @@ const vocab = {
       ],
     },
   ],
+  book_05: [
+    {
+      word: 'moaned',
+      phonetic: '/moʊnd/',
+      brief: '呻吟，抱怨地说',
+      pos: 'verb (past tense of moan)',
+      detail:
+        'moan 指发出低沉的呻吟声，表示痛苦、不满或疲倦。原文中八戒在战斗结束后抱怨"Ugh, I need a nap"，moaned 体现了他懒散、怕吃苦的性格——明明师父还被妖怪抓着，他却只想着睡觉。',
+      examples: [
+        'The patient moaned in pain.（病人在痛苦中呻吟。）',
+        '"I\'m so tired," she moaned.（"我太累了，"她抱怨道。）',
+      ],
+      synonyms: [
+        { word: 'groaned', note: '发出低沉不满的声音，更侧重痛苦或厌烦' },
+        { word: 'complained', note: '直接用语言抱怨，没有呻吟的语气' },
+      ],
+    },
+    {
+      word: 'sneak',
+      phonetic: '/sniːk/',
+      brief: '偷偷溜进去，潜入',
+      pos: 'verb',
+      detail:
+        'sneak 指悄悄地、不被人发现地移动或进入某处。原文中悟空说"I\'ll sneak into the cave"，表示他要变身成蚊子偷偷潜入妖怪洞府打探情况。这是悟空常用的策略——不正面硬闯，而是用变化之术暗中行动。',
+      examples: [
+        'He sneaked into the room quietly.（他悄悄地溜进了房间。）',
+        'The cat sneaked up on the bird.（猫悄悄地靠近那只鸟。）',
+      ],
+      synonyms: [
+        { word: 'slip into', note: '悄悄进入，强调动作流畅不引人注意' },
+        { word: 'creep into', note: '蹑手蹑脚地进入，强调小心谨慎' },
+      ],
+    },
+    {
+      word: 'mosquito',
+      phonetic: '/məˈskiːtoʊ/',
+      brief: '蚊子',
+      pos: 'noun',
+      detail:
+        'mosquito 是一种会叮咬人的小飞虫。原文中悟空把自己变成一只蚊子（mosquito），从洞门的缝隙中挤进去。这是悟空七十二变的经典运用——变成极小的生物来隐藏自己、通过狭窄空间。该词在文中出现两次，分别描述悟空变身进入洞府和向唐僧解释自己的形态。',
+      examples: [
+        'Mosquitoes buzz around in summer.（夏天蚊子嗡嗡地飞来飞去。）',
+        'A mosquito bit me on the arm.（一只蚊子叮了我的手臂。）',
+      ],
+      synonyms: [
+        { word: 'insect', note: '泛指昆虫，不特指蚊子' },
+        { word: 'bug', note: '口语中泛指小虫子' },
+      ],
+    },
+    {
+      word: 'raced',
+      phonetic: '/reɪst/',
+      brief: '飞速奔跑，疾驰',
+      pos: 'verb (past tense of race)',
+      detail:
+        'race 作动词表示"快速移动、疾驰"，比 run 更强调速度感。原文中悟空得知只有灵吉菩萨能制服黄风怪后，立刻驾云赶往须弥山，raced 表现了他焦急的心情——师父随时可能被妖怪吃掉，他必须争分夺秒。',
+      examples: [
+        'She raced to the hospital.（她飞奔赶往医院。）',
+        'The car raced down the highway.（汽车在高速公路上疾驰。）',
+      ],
+      synonyms: [
+        { word: 'dashed', note: '猛冲，强调突然性和爆发力' },
+        { word: 'hurried', note: '急忙赶路，速度感不如 race 强' },
+      ],
+    },
+    {
+      word: 'pagoda',
+      phonetic: '/pəˈɡoʊdə/',
+      brief: '宝塔',
+      pos: 'noun',
+      detail:
+        'pagoda 指东亚传统多层塔式建筑，多为佛教寺庙所建。原文中灵吉菩萨住在须弥山的一座宝塔（pagoda）中，这体现了佛教文化的背景设定。在《西游记》中，许多神仙和菩萨的居所都与佛教建筑有关。',
+      examples: [
+        'The ancient pagoda overlooks the city.（那座古老的宝塔俯瞰着城市。）',
+        'Tourists visit the famous five-story pagoda.（游客们参观那座著名的五层宝塔。）',
+      ],
+      synonyms: [
+        { word: 'tower', note: '泛指塔楼，不一定是佛教建筑风格' },
+        { word: 'stupa', note: '佛教舍利塔，半球形，与多层 pagoda 不同' },
+      ],
+    },
+    {
+      word: 'weasel',
+      phonetic: '/ˈwiːzəl/',
+      brief: '黄鼠狼',
+      pos: 'noun',
+      detail:
+        'weasel 是一种小型肉食性哺乳动物，身体细长灵活。原文揭示了黄风大王的真实身份——他其实是一只黄鼠狼精（weasel spirit）。灵吉菩萨奉佛祖之命监视他，但他没有安分守己，反而兴风作浪抓了唐僧。该词在文中出现三次：第一次是灵吉揭露其身份，第二次是他被打回原形，第三次是灵吉把他提起带走。',
+      examples: [
+        'A weasel slipped through the fence.（一只黄鼠狼从篱笆缝隙中钻了过去。）',
+        'Weasels are known for being cunning.（黄鼠狼以狡猾著称。）',
+      ],
+      synonyms: [
+        { word: 'stoat', note: '白鼬，与黄鼠狼近似的动物' },
+        { word: 'ferret', note: '雪貂，常被驯养用来捕猎' },
+      ],
+    },
+    {
+      word: 'staff',
+      phonetic: '/stæf/',
+      brief: '杖，棍棒',
+      pos: 'noun',
+      detail:
+        'staff 指长杆状的手杖或武器。原文中灵吉菩萨拿起一根杖（staff），后来他把这根杖掷出变成一条金龙来制服黄风怪。注意不要与悟空的金箍棒（iron bar）混淆——staff 更像是法杖，带有法力色彩。该词出现两次。',
+      examples: [
+        'The wizard carried a magic staff.（巫师拿着一根魔杖。）',
+        'He leaned on his wooden staff for support.（他拄着木杖支撑身体。）',
+      ],
+      synonyms: [
+        { word: 'cane', note: '手杖，拐杖，较短，多为辅助行走' },
+        { word: 'rod', note: '细长的杆，不一定是法杖' },
+      ],
+    },
+    {
+      word: 'pile',
+      phonetic: '/paɪl/',
+      brief: '一堆',
+      pos: 'noun',
+      detail:
+        'pile 指"一堆、一叠"，表示东西堆叠在一起的状态。原文中悟空一棒砸碎洞门后，门变成了一堆碎石（a pile of rubble），形象地描绘了破坏的彻底程度。',
+      examples: [
+        'There is a pile of books on the desk.（桌上有一堆书。）',
+        'Leaves formed a pile in the corner.（树叶在角落里堆成了一堆。）',
+      ],
+      synonyms: [
+        { word: 'heap', note: '一堆，更强调杂乱无序' },
+        { word: 'stack', note: '整齐地堆放，有秩序的一叠' },
+      ],
+    },
+    {
+      word: 'rubble',
+      phonetic: '/ˈrʌbəl/',
+      brief: '碎石，瓦砾',
+      pos: 'noun',
+      detail:
+        'rubble 指建筑破碎后残留的碎石瓦砾。原文中悟空用金箍棒把洞门砸成"一堆碎石"（a pile of rubble），生动展现了他惊人的力量——一棒之下，整扇门化为碎片。',
+      examples: [
+        'The building collapsed into rubble.（建筑倒塌成了一片瓦砾。）',
+        'They cleared the rubble from the road.（他们清理了路上的碎石。）',
+      ],
+      synonyms: [
+        { word: 'debris', note: '碎片残骸，范围更广，不限于建筑材料' },
+        { word: 'fragments', note: '碎块，强调破碎的小片' },
+      ],
+    },
+    {
+      word: 'pearl',
+      phonetic: '/pɜːrl/',
+      brief: '珍珠',
+      pos: 'noun',
+      detail:
+        'pearl 指珍珠，也泛指珠状的宝物。原文中灵吉菩萨手持的"定风珠"（wind-stopping pearl）是佛祖赐予的法宝，能克制黄风怪的妖风。黄风怪看到此珠后立刻惊呼，说明这是他最畏惧的克星。该词出现两次。',
+      examples: [
+        'She wore a necklace of pearls.（她戴着一条珍珠项链。）',
+        'The dragon guarded a giant pearl.（龙守护着一颗巨大的珍珠。）',
+      ],
+      synonyms: [
+        { word: 'gem', note: '宝石，泛指珍贵石头' },
+        { word: 'jewel', note: '珠宝，贵重饰物' },
+      ],
+    },
+    {
+      word: 'against',
+      phonetic: '/əˈɡenst/',
+      brief: '撞在……上，靠着',
+      pos: 'preposition',
+      detail:
+        'against 在此处表示"撞到、碰到"某物上。原文中金龙把黄风怪摔向岩石（threw Yellow Wind against some rocks），against 描绘了妖王被猛烈撞击到岩石上的画面，展现了灵吉菩萨法宝的威力。',
+      examples: [
+        'The car crashed against the wall.（汽车撞在了墙上。）',
+        'He leaned against the tree.（他靠在树上。）',
+      ],
+      synonyms: [
+        { word: 'into', note: '撞入，强调穿透或嵌入' },
+        { word: 'onto', note: '撞到……上面，强调表面接触' },
+      ],
+    },
+    {
+      word: 'just',
+      phonetic: '/dʒʌst/',
+      brief: '仅仅，只是（强调语气）',
+      pos: 'adverb',
+      detail:
+        'just 在此处用于强调语气，表示"仅仅、只是"。原文中悟空说佛祖不会把真经给"just anyone"（随便什么人），意思是真经只给经过考验的人，不是谁都行的。just 在这里缩小了范围，强调"不是任何人都能得到的"。',
+      examples: [
+        'He\'s not just a friend—he\'s my brother.（他不只是一个朋友——他是我的兄弟。）',
+        'It\'s not just about money.（这不仅仅是钱的问题。）',
+      ],
+      synonyms: [
+        { word: 'merely', note: '仅仅，只是，更正式' },
+        { word: 'simply', note: '简直，只不过，可带感情色彩' },
+      ],
+    },
+    {
+      word: 'surviving',
+      phonetic: '/sərˈvaɪvɪŋ/',
+      brief: '存活，幸存',
+      pos: 'verb (present participle of survive)',
+      detail:
+        'survive 指"在困难或危险中活下来、幸存"。原文中悟空告诉唐僧，取经之路需要通过"surviving a long and difficult journey"来证明自己配得上真经。surviving 这里用动名词形式，强调"一路活下来"这个过程本身就是考验。',
+      examples: [
+        'She survived the earthquake.（她在地震中幸存下来。）',
+        'Surviving in the wilderness requires skills.（在荒野中生存需要技能。）',
+      ],
+      synonyms: [
+        { word: 'enduring', note: '忍耐、坚持，侧重承受苦难' },
+        { word: 'lasting', note: '持续、持久，侧重时间维度' },
+      ],
+    },
+    {
+      word: 'spear',
+      phonetic: '/spɪr/',
+      brief: '矛，枪',
+      pos: 'noun',
+      detail:
+        'spear 是一种长柄刺击武器，前端有尖锐的金属头。原文中河中妖怪（后来的沙悟净）手持长矛冲出水面，悟空用金箍棒挡住了他的矛（blocked the monster\'s spear）。这是沙悟净加入取经团队前的首次亮相。',
+      examples: [
+        'Ancient warriors fought with spears.（古代武士用矛战斗。）',
+        'He threw his spear at the target.（他把矛投向目标。）',
+      ],
+      synonyms: [
+        { word: 'lance', note: '长矛，多为骑兵所用' },
+        { word: 'pike', note: '超长矛，步兵方阵武器' },
+      ],
+    },
+    {
+      word: 'shore',
+      phonetic: '/ʃɔːr/',
+      brief: '岸边，岸上',
+      pos: 'noun',
+      detail:
+        'shore 指水域边缘的陆地，即"岸边"。原文中八戒两次提到 shore：第一次是建议等妖怪完全上岸（comes all the way up on shore）再动手，第二次是抱怨悟空没等妖怪上岸就出手。该词出现两次，体现了"上岸才能安全战斗"的策略。',
+      examples: [
+        'We walked along the shore of the lake.（我们沿着湖边散步。）',
+        'The ship was anchored near the shore.（船停泊在岸边附近。）',
+      ],
+      synonyms: [
+        { word: 'bank', note: '河岸，多指河流两岸' },
+        { word: 'coast', note: '海岸，多指海洋的边缘' },
+      ],
+    },
+    {
+      word: 'impatient',
+      phonetic: '/ɪmˈpeɪʃənt/',
+      brief: '不耐烦的，急躁的',
+      pos: 'adjective',
+      detail:
+        'impatient 指无法等待或忍受延迟，"急躁、不耐烦"。原文中八戒批评悟空"You\'re too impatient"——悟空没有等妖怪上岸就急急忙忙出手，导致妖怪逃回水中。这是悟空性格中急躁一面的体现，也是八戒难得正确的一次判断。',
+      examples: [
+        'Don\'t be so impatient—the bus will come.（别这么不耐烦——公交车会来的。）',
+        'She was growing impatient with the delay.（她对延误越来越不耐烦了。）',
+      ],
+      synonyms: [
+        { word: 'restless', note: '坐立不安的，侧重身体上的不安' },
+        { word: 'hasty', note: '仓促的，侧重行动过于急躁' },
+      ],
+    },
+    {
+      word: 'attacked',
+      phonetic: '/əˈtækt/',
+      brief: '攻击，进攻',
+      pos: 'verb (past tense of attack)',
+      detail:
+        'attack 指"发起攻击、进攻"。原文中沙悟净和八戒互相指责对方先动手——"They attacked me!" 对 "You attacked us first!" 这段对话充满喜剧效果，两人在菩萨面前像小孩子一样争吵。该词出现两次，分别代表双方各执一词。',
+      examples: [
+        'The enemy attacked at dawn.（敌人在黎明时发动了攻击。）',
+        'The dog attacked the intruder.（狗攻击了闯入者。）',
+      ],
+      synonyms: [
+        { word: 'assaulted', note: '猛烈攻击，更正式、语气更重' },
+        { word: 'struck', note: '击打，侧重单次打击动作' },
+      ],
+    },
+    {
+      word: 'crimes',
+      phonetic: '/kraɪmz/',
+      brief: '罪行，罪过',
+      pos: 'noun (plural of crime)',
+      detail:
+        'crime 指"罪行、犯罪行为"。原文中悟空说"Bajie and I were punished for crimes in Heaven too"，揭示了取经团队的共同背景——三个徒弟都曾因在天庭犯下过错而受到惩罚：悟空大闹天宫、八戒调戏嫦娥、沙僧打碎琉璃盏。这呼应了"赎罪之旅"的主题。',
+      examples: [
+        'He was punished for his crimes.（他因罪行受到了惩罚。）',
+        'The city has a low crime rate.（这座城市的犯罪率很低。）',
+      ],
+      synonyms: [
+        { word: 'offenses', note: '过错，违规行为，语气较轻' },
+        { word: 'sins', note: '罪孽，偏宗教语境的过失' },
+      ],
+    },
+    {
+      word: 'doubtful',
+      phonetic: '/ˈdaʊtfəl/',
+      brief: '怀疑的，不确信的',
+      pos: 'adjective',
+      detail:
+        'doubtful 指"感到怀疑、不确定"。原文中沙悟净对白龙马的身份表示怀疑——"This horse is too slow to be a dragon"。他刚加入团队，还不了解这匹马其实是小白龙变的，所以一脸不信的样子。doubtful 在这里表达了明显的怀疑态度。',
+      examples: [
+        'She looked doubtful about the plan.（她对这个计划看起来很怀疑。）',
+        'I\'m doubtful that he will come.（我怀疑他会不会来。）',
+      ],
+      synonyms: [
+        { word: 'skeptical', note: '持怀疑态度的，更强调理性质疑' },
+        { word: 'suspicious', note: '起疑心的，带有警惕和不安' },
+      ],
+    },
+    {
+      word: 'struck',
+      phonetic: '/strʌk/',
+      brief: '打，击（strike 的过去式）',
+      pos: 'verb (past tense of strike)',
+      detail:
+        'strike 的过去式，指"用力击打"。原文中悟空为了向沙悟净证明白马确实是龙，"struck the horse"——他拍了马一下，白马立刻以闪电般的速度飞奔出去。这一"击"不是为了伤害，而是为了激活白龙马的真身力量。',
+      examples: [
+        'He struck the table with his fist.（他用拳头捶了桌子。）',
+        'Lightning struck the tree.（闪电击中了那棵树。）',
+      ],
+      synonyms: [
+        { word: 'hit', note: '打，击，最通用的表达' },
+        { word: 'smacked', note: '拍打，侧重用手掌或扁平物体' },
+      ],
+    },
+    {
+      word: 'reins',
+      phonetic: '/reɪnz/',
+      brief: '缰绳',
+      pos: 'noun (plural)',
+      detail:
+        'reins 指骑马时用来控制方向的缰绳，通常成对使用（所以用复数）。原文中白马被悟空激活后飞奔如闪电，缰绳从沙悟净手中被扯脱（reins were ripped from Wujing\'s hand），说明马的速度和力量之大，让人根本抓不住。',
+      examples: [
+        'She pulled on the reins to stop the horse.（她拉紧缰绳让马停下来。）',
+        'He held the reins loosely.（他松松地握着缰绳。）',
+      ],
+      synonyms: [
+        { word: 'harness', note: '马具套具，包含缰绳在内的整套装备' },
+        { word: 'leash', note: '牵绳，多用于牵狗等小型动物' },
+      ],
+    },
+    {
+      word: 'ripped',
+      phonetic: '/rɪpt/',
+      brief: '被猛地扯掉，被撕裂',
+      pos: 'verb (past participle of rip)',
+      detail:
+        'rip 指"猛力撕裂、扯开"。原文中缰绳从沙悟净手中被"ripped"——不是慢慢滑落，而是被强大的力量瞬间扯脱。这个动词突出了白马化为龙形后爆发出的惊人速度和力量。',
+      examples: [
+        'The wind ripped the roof off the house.（狂风把屋顶掀掉了。）',
+        'She ripped the letter open.（她一把撕开了信。）',
+      ],
+      synonyms: [
+        { word: 'torn', note: '撕开，撕裂，更通用' },
+        { word: 'snatched', note: '一把夺走，侧重快速抢夺' },
+      ],
+    },
+    {
+      word: 'wolves',
+      phonetic: '/ˈwʊlvz/',
+      brief: '狼（wolf 的复数）',
+      pos: 'noun (plural of wolf)',
+      detail:
+        'wolf 的复数形式，指狼群。原文中唐僧被白马带到一片黑暗森林后，发现林中"filled with wolves, bears, and tigers"——狼、熊、虎三种猛兽同时出现，营造出极度危险的氛围。这是悟空调皮拍马带来的意外后果，让唐僧陷入了险境。',
+      examples: [
+        'Wolves hunt in packs.（狼群成群捕猎。）',
+        'The howling of wolves echoed through the valley.（狼嚎声在山谷中回荡。）',
+      ],
+      synonyms: [
+        { word: 'predators', note: '捕食者，泛指所有食肉猛兽' },
+        { word: 'beasts', note: '野兽，泛指凶猛动物' },
+      ],
+    },
+  ],
 };
 
 export default vocab;
