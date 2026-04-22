@@ -6493,6 +6493,435 @@ const vocab = {
         { word: 'skull', note: '头骨，仅指头部骨骼' },
       ],
     },
+    {
+      word: 'let out',
+      phonetic: '/lɛt aʊt/',
+      brief: '发出（声音），放出',
+      pos: 'phrase',
+      detail:
+        'let out 指"发出（声音）"或"释放"。原文中八戒 let out a great big yawn——发出一个大大的哈欠。这里 let out 表示不由自主地发出声音或动作，常搭配 cry（叫喊）、sigh（叹气）、groan（呻吟）等。let 是不规则动词，过去式仍是 let。',
+      examples: [
+        'She let out a sigh of relief.（她如释重负地叹了口气。）',
+        'He let out a loud laugh.（他放声大笑。）',
+      ],
+      synonyms: [
+        { word: 'gave', note: '发出，如 gave a cry，更通用' },
+        { word: 'emitted', note: '发出，较正式，多用于光、声等' },
+      ],
+    },
+    {
+      word: 'yawn',
+      phonetic: '/jɔːn/',
+      brief: '哈欠',
+      pos: 'noun',
+      detail:
+        'yawn 作名词指"哈欠"。原文中八戒坐在路边 let out a great big yawn——打了一个大大的哈欠。yawn 也可作动词表示"打哈欠"。打哈欠通常暗示疲倦或无聊，这里体现了八戒懒散的性格。',
+      examples: [
+        'She covered her mouth during the yawn.（她打哈欠时捂住了嘴。）',
+        'His yawn lasted for ten seconds.（他的哈欠打了十秒钟。）',
+      ],
+      synonyms: [
+        { word: 'sigh', note: '叹气，表示疲惫或无奈，不是哈欠' },
+      ],
+    },
+    {
+      word: 'moaned',
+      phonetic: '/moʊnd/',
+      brief: '呻吟，抱怨地说',
+      pos: 'verb (past tense of moan)',
+      detail:
+        'moan 指"呻吟、哀叹"。原文中八戒被叫去找食物时 moaned——哀声叹气地说"Ugh! I just sat down!"（唉！我刚坐下！）。moan 既可表示因疼痛而呻吟，也可表示因不满而抱怨，这里显然是后者。八戒用 moan 表达了他对旅途的厌倦和不情愿。',
+      examples: [
+        'The patient moaned in pain.（病人在痛苦中呻吟。）',
+        '"Do I have to?" she moaned.（"我一定要去吗？"她抱怨道。）',
+      ],
+      synonyms: [
+        { word: 'groaned', note: '呻吟，语气更沉重' },
+        { word: 'whined', note: '嘟囔抱怨，带有撒娇或耍赖的意味' },
+      ],
+    },
+    {
+      word: 'wandered',
+      phonetic: '/ˈwɑːndərd/',
+      brief: '漫步，游荡',
+      pos: 'verb (past tense of wander)',
+      detail:
+        'wander 指"漫无目的地走、游荡"。原文中八戒 wandered off——晃晃悠悠地走了，暗示他并没有认真去找食物，只是随意溜达。后面唐僧和沙僧 also wandered through the woods——在树林里到处寻找。同一个词，一次表示懒散，一次表示焦急寻找，对比鲜明。',
+      examples: [
+        'We wandered through the old town.（我们在老城里漫无目的地走着。）',
+        'He wandered off and got lost.（他走丢了。）',
+      ],
+      synonyms: [
+        { word: 'roamed', note: '漫游，范围更广' },
+        { word: 'strolled', note: '散步，轻松悠闲的走' },
+      ],
+    },
+    {
+      word: 'yawned',
+      phonetic: '/jɔːnd/',
+      brief: '打哈欠（yawn 的过去式）',
+      pos: 'verb (past tense of yawn)',
+      detail:
+        'yawn 作动词指"打哈欠"。原文中八戒又 yawned——又打了个哈欠，然后决定躺下睡一觉。八戒在短短几行里打了两次哈欠（先是名词 yawn，再是动词 yawned），充分展现了他的懒散。打哈欠在英语文化中也暗示无聊或疲倦。',
+      examples: [
+        'She yawned and stretched.（她打了个哈欠伸了个懒腰。）',
+        'He yawned during the boring lecture.（他在无聊的讲座上打哈欠。）',
+      ],
+      synonyms: [
+        { word: 'stretched', note: '伸懒腰，常与打哈欠同时出现' },
+      ],
+    },
+    {
+      word: 'annoyed',
+      phonetic: '/əˈnɔɪd/',
+      brief: '恼火的，心烦的',
+      pos: 'adjective',
+      detail:
+        'annoyed 指"恼火的、烦躁的"。原文中沙僧 looked annoyed——看起来很不耐烦，因为他猜八戒找到食物后正在独吞。annoyed 比 angry 程度轻，表示被某事打扰或激怒后的不快。这是沙僧少有的情绪外露。',
+      examples: [
+        'She was annoyed by the noise.（她被噪音吵得很烦。）',
+        'He looked annoyed when I interrupted him.（我打断他时他看起来很恼火。）',
+      ],
+      synonyms: [
+        { word: 'irritated', note: '被激怒的，侧重持续的烦躁' },
+        { word: 'frustrated', note: '沮丧的，侧重无力感' },
+      ],
+    },
+    {
+      word: 'admiring',
+      phonetic: '/ədˈmaɪərɪŋ/',
+      brief: '欣赏，赞叹',
+      pos: 'verb (present participle of admire)',
+      detail:
+        'admiring 是 admire 的现在分词，指"欣赏、赞叹"。原文中唐僧在森林里一边走一边 admiring flowers and plants——欣赏花草。admire 不仅是"看"，还包含"喜爱和赞叹"的情感。唐僧在安静的森林里独自赏花，与他即将遭遇的危险形成强烈对比——美好的景色背后隐藏着妖怪。',
+      examples: [
+        'She stood there admiring the sunset.（她站在那里欣赏日落。）',
+        'We spent the afternoon admiring the paintings.（我们花了一下午欣赏那些画作。）',
+      ],
+      synonyms: [
+        { word: 'appreciating', note: '赏识，更侧重理解和感恩' },
+        { word: 'gazing at', note: '凝视，侧重长时间的注视' },
+      ],
+    },
+    {
+      word: 'midst',
+      phonetic: '/mɪdst/',
+      brief: '中间，当中',
+      pos: 'noun',
+      detail:
+        'midst 指"中间、……之中"，用于 in the midst of 结构。原文中唐僧在森林深处 in the midst of all the trees——在一片树木的中间，看到了一座宝塔。in the midst of 表示"在……的中央/深处"，强调被包围的感觉。midst 比 middle 更具文学色彩，常用于描写氛围。',
+      examples: [
+        'In the midst of the crowd, she felt alone.（在人群中间，她感到孤独。）',
+        'A church stood in the midst of the forest.（一座教堂矗立在森林深处。）',
+      ],
+      synonyms: [
+        { word: 'middle', note: '中间，更常用、更口语化' },
+        { word: 'center', note: '中心，侧重几何位置' },
+      ],
+    },
+    {
+      word: 'gasped',
+      phonetic: '/ɡæspt/',
+      brief: '倒吸一口凉气，惊喘',
+      pos: 'verb (past tense of gasp)',
+      detail:
+        'gasp 指"倒吸一口气"，通常是因为惊讶、恐惧或震惊。原文中唐僧打开宝塔门后 gasped——倒吸一口凉气，因为他看到里面睡着一个妖怪！gasp 是一个瞬间反应，比 scream（尖叫）更内敛，但同样表达强烈的惊吓。注意发音中 gasp 的 /sp/ 不要漏掉 /p/。',
+      examples: [
+        'She gasped when she saw the bill.（她看到账单时倒吸了一口凉气。）',
+        'He gasped in horror at the sight.（他被眼前的景象吓得倒吸冷气。）',
+      ],
+      synonyms: [
+        { word: 'startled', note: '受惊的，侧重突然被吓到' },
+        { word: 'panted', note: '喘气，侧重因运动或缺氧而急促呼吸' },
+      ],
+    },
+    {
+      word: 'beard',
+      phonetic: '/bɪrd/',
+      brief: '胡须，络腮胡子',
+      pos: 'noun',
+      detail:
+        'beard 指"（下巴和脸颊上的）胡须"。原文中妖怪有一把紫色的 beard——紫色的胡须，在中国古典文学中紫色胡须常用来描写妖怪或异人的外貌。beard 特指下巴和脸颊的胡须，而上唇的胡须叫 mustache。注意英式发音 /bɪəd/，美式发音 /bɪrd/。',
+      examples: [
+        'He grew a long beard over the winter.（他整个冬天留了一把长胡子。）',
+        'The old man stroked his beard thoughtfully.（老人若有所思地捋着胡须。）',
+      ],
+      synonyms: [
+        { word: 'whiskers', note: '连鬓胡子，也可指猫的胡须' },
+        { word: 'stubble', note: '胡茬，刚长出的短胡须' },
+      ],
+    },
+    {
+      word: 'fangs',
+      phonetic: '/fæŋz/',
+      brief: '獠牙，尖牙（fang 的复数）',
+      pos: 'noun (plural of fang)',
+      detail:
+        'fang 指"（动物或妖怪的）獠牙、尖牙"。原文中妖怪有 long, sharp fangs——又长又尖的獠牙，是妖怪的标志性特征。fangs 通常指毒蛇的毒牙或猛兽的犬齿，在奇幻文学中常用来描写怪物的凶恶外貌。注意 fangs 是复数，因为獠牙成对出现。',
+      examples: [
+        'The snake bared its fangs.（蛇露出了毒牙。）',
+        'Vampires have sharp fangs.（吸血鬼有锋利的獠牙。）',
+      ],
+      synonyms: [
+        { word: 'tusks', note: '长牙，如大象的象牙' },
+        { word: 'teeth', note: '牙齿，泛指，不特指獠牙' },
+      ],
+    },
+    {
+      word: 'shaking',
+      phonetic: '/ˈʃeɪkɪŋ/',
+      brief: '发抖，颤抖',
+      pos: 'verb (present participle of shake)',
+      detail:
+        'shaking 是 shake 的现在分词，指"发抖、颤抖"。原文中唐僧 shaking with fear——吓得浑身发抖。shaking with fear 是一个常用搭配，表示因极度恐惧而身体不受控制地颤动。注意这里 shaking 与前面 Chapter 31 的 shook 是同一个动词的不同时态：shook 是过去式，shaking 是现在分词。',
+      examples: [
+        'She was shaking with cold.（她冻得直发抖。）',
+        'His hands were shaking as he opened the letter.（他拆信时双手在颤抖。）',
+      ],
+      synonyms: [
+        { word: 'trembling', note: '颤抖，更持续、更细微的抖动' },
+        { word: 'quivering', note: '微微颤动，更轻微' },
+      ],
+    },
+    {
+      word: 'licked',
+      phonetic: '/lɪkt/',
+      brief: '舔',
+      pos: 'verb (past tense of lick)',
+      detail:
+        'lick 指"舔"。原文中妖怪看到唐僧后 licked his lips——舔了舔嘴唇，这是一个令人毛骨悚然的细节，因为妖怪把唐僧当作食物，舔嘴唇暗示他迫不及待想吃掉唐僧。lick one\'s lips 这个短语既可字面表示"舔嘴唇"，也可比喻表示"期待、垂涎"。',
+      examples: [
+        'The dog licked my hand.（狗舔了舔我的手。）',
+        'He licked his lips in anticipation.（他期待地舔了舔嘴唇。）',
+      ],
+      synonyms: [
+        { word: 'tasted', note: '品尝，侧重感受味道' },
+        { word: 'smacked', note: '咂嘴，如 smack one\'s lips 表示咂嘴回味' },
+      ],
+    },
+    {
+      word: 'lips',
+      phonetic: '/lɪps/',
+      brief: '嘴唇（lip 的复数）',
+      pos: 'noun (plural of lip)',
+      detail:
+        'lip 指"嘴唇"。原文中妖怪 licked his lips——舔嘴唇，表现了对即将到口的食物（唐僧）的贪婪期待。lips 在身体语言中很重要，舔嘴唇、咬嘴唇、抿嘴都能传达不同情绪。注意 lip 的复数是 lips，发音 /lɪps/。',
+      examples: [
+        'She bit her lip nervously.（她紧张地咬了咬嘴唇。）',
+        'Words slipped from his lips.（话从他嘴里溜了出来。）',
+      ],
+      synonyms: [
+        { word: 'mouth', note: '嘴，更泛指整个口腔' },
+      ],
+    },
+    {
+      word: 'drool',
+      phonetic: '/druːl/',
+      brief: '口水，涎水',
+      pos: 'noun',
+      detail:
+        'drool 指"口水、涎水"。原文中八戒被沙僧踢醒后，wiping drool from the side of his mouth——擦掉嘴角的口水，因为他梦到在吃豆腐。drool 在这里是名词，也可作动词表示"流口水"。这个细节非常生动——八戒不仅在梦里吃东西，连真口水都流出来了。',
+      examples: [
+        'The baby had drool on his chin.（婴儿下巴上挂着口水。）',
+        'Wipe the drool off your face!（把你脸上的口水擦掉！）',
+      ],
+      synonyms: [
+        { word: 'saliva', note: '唾液，医学/正式用语' },
+        { word: 'slobber', note: '口水，侧重大口流出的样子' },
+      ],
+    },
+    {
+      word: 'clashing',
+      phonetic: '/ˈklæʃɪŋ/',
+      brief: '碰撞，交击',
+      pos: 'verb (present participle of clash)',
+      detail:
+        'clash 指"碰撞、交击"。原文中唐僧听到武器 clashing——武器碰撞的声音，说明外面正在激烈打斗。clash 特指金属与金属之间的撞击，因此非常适合描写刀剑交战的场景。clash 还可以引申为"冲突、矛盾"。',
+      examples: [
+        'The sound of swords clashing filled the air.（空气中回荡着刀剑交击的声音。）',
+        'Their opinions clashed on every topic.（他们在每个问题上都意见冲突。）',
+      ],
+      synonyms: [
+        { word: 'clanging', note: '铛铛作响，侧重金属碰撞的声音' },
+        { word: 'crashing', note: '猛烈撞击，侧重破坏力' },
+      ],
+    },
+    {
+      word: 'prisoner',
+      phonetic: '/ˈprɪzənər/',
+      brief: '囚犯，被囚禁的人',
+      pos: 'noun',
+      detail:
+        'prisoner 指"囚犯、被关押的人"。原文中百花羞公主说自己是一个 prisoner——被妖怪囚禁了十三年的俘虏。后来国王也称女儿为 prisoner。prisoner 强调失去自由的处境，可以指犯罪入狱的人，也可以像这里指被绑架扣押的人。',
+      examples: [
+        'The prisoners were freed after the war.（战后囚犯们被释放了。）',
+        'She was held prisoner for three months.（她被囚禁了三个月。）',
+      ],
+      synonyms: [
+        { word: 'captive', note: '俘虏，被俘获的人' },
+        { word: 'inmate', note: '犯人，指监狱中的服刑人员' },
+      ],
+    },
+    {
+      word: 'Precious',
+      phonetic: '/ˈprɛʃəs/',
+      brief: '珍贵的，宝贵的（专有名词"宝象"的英译）',
+      pos: 'adjective',
+      detail:
+        'precious 指"珍贵的、宝贵的"。原文中 "Precious Image Kingdom" 是"宝象国"的英文翻译，Precious（珍贵的）+ Image（形象/象）巧妙地对应了中文名。precious 作为普通形容词常用于形容珠宝、回忆等珍贵之物，发音注意 /prɛ/ 不要读成 /pri/。',
+      examples: [
+        'Time is precious.（时间宝贵。）',
+        'She kept the precious ring safe.（她把那枚珍贵的戒指保管好。）',
+      ],
+      synonyms: [
+        { word: 'valuable', note: '有价值的，侧重经济或实用价值' },
+        { word: 'treasured', note: '珍视的，侧重情感上的珍惜' },
+      ],
+    },
+    {
+      word: 'favor',
+      phonetic: '/ˈfeɪvər/',
+      brief: '帮忙，恩惠',
+      pos: 'noun',
+      detail:
+        'favor 指"恩惠、帮忙"。原文中公主对妖怪说"I must ask you a favor"——我有一件事想请你帮忙。ask a favor 是一个固定搭配，表示"请求帮忙"。公主利用 favor 这个礼貌的请求方式，成功说服妖怪放走了唐僧。注意英式拼写为 favour。',
+      examples: [
+        'Can I ask you a favor?（我能请你帮个忙吗？）',
+        'She did me a big favor.（她帮了我一个大忙。）',
+      ],
+      synonyms: [
+        { word: 'request', note: '请求，更正式' },
+        { word: 'kindness', note: '善意，善举' },
+      ],
+    },
+    {
+      word: 'mumbled',
+      phonetic: '/ˈmʌmbəld/',
+      brief: '含糊地说，嘟囔',
+      pos: 'verb (past tense of mumble)',
+      detail:
+        'mumble 指"含糊不清地说、嘟囔"。原文中八戒 mumbled——嘟嘟囔囔地说，因为他不敢相信妖怪会真的放人。mumble 形容说话声音小、口齿不清，通常是因为犹豫、不确定或不想让别人听清。',
+      examples: [
+        'He mumbled an apology.（他含糊地道了声歉。）',
+        'Stop mumbling and speak clearly!（别嘟囔了，说清楚！）',
+      ],
+      synonyms: [
+        { word: 'muttered', note: '低声嘀咕，带有不满或抱怨' },
+        { word: 'grumbled', note: '嘟嘟囔囔地抱怨' },
+      ],
+    },
+    {
+      word: 'blazing',
+      phonetic: '/ˈbleɪzɪŋ/',
+      brief: '怒火中烧的，炽烈的',
+      pos: 'adjective',
+      detail:
+        'blazing 本义是"燃烧的、炽烈的"，引申为"怒火中烧的"。原文中国王的眼睛 blazing with anger——眼中怒火燃烧。blaze 本义是"火焰、烈火"，所以 blazing with anger 用火焰来比喻愤怒，非常形象生动。这个比喻暗示国王的愤怒像烈火一样无法遏制。',
+      examples: [
+        'Her eyes were blazing with anger.（她眼中怒火燃烧。）',
+        'The blazing sun beat down on us.（烈日当空照在我们身上。）',
+      ],
+      synonyms: [
+        { word: 'burning', note: '燃烧的，语气稍弱' },
+        { word: 'furious', note: '暴怒的，直接描述愤怒程度' },
+      ],
+    },
+    {
+      word: 'general',
+      phonetic: '/ˈdʒɛnərəl/',
+      brief: '将军',
+      pos: 'noun',
+      detail:
+        'general 作名词指"将军"，是军队中的高级将领。原文中国王命令他的 general——将军召集军队去救公主。general 也可以作形容词表示"一般的、普遍的"，但这里显然是名词用法，指军事统帅。',
+      examples: [
+        'The general led his troops into battle.（将军率领部队上战场。）',
+        'General Patton was a famous military leader.（巴顿将军是一位著名的军事领袖。）',
+      ],
+      synonyms: [
+        { word: 'commander', note: '指挥官，侧重指挥权' },
+        { word: 'captain', note: '上尉/船长，军衔较低' },
+      ],
+    },
+    {
+      word: 'troops',
+      phonetic: '/truːps/',
+      brief: '军队，部队（troop 的复数）',
+      pos: 'noun (plural of troop)',
+      detail:
+        'troop 指"军队、部队"。原文中国王命令 general "Gather your troops"——召集你的部队。troops 通常指一个军事单位中的士兵群体，与 soldiers 相比，troops 更侧重"建制部队"的概念。gather the troops 是一个常见搭配，表示集结军队。',
+      examples: [
+        'The troops marched through the city.（部队穿过城市行进。）',
+        'He sent troops to the border.（他派部队前往边境。）',
+      ],
+      synonyms: [
+        { word: 'soldiers', note: '士兵，侧重个人' },
+        { word: 'forces', note: '武装力量，更泛指' },
+      ],
+    },
+    {
+      word: 'spoke up',
+      phonetic: '/spoʊk ʌp/',
+      brief: '站出来说话，大胆发言',
+      pos: 'phrase (past tense of speak up)',
+      detail:
+        'speak up 指"站出来说话、大胆表达意见"。原文中唐僧 spoke up——主动开口向国王推荐自己的徒弟。speak up 含有"在众人面前勇敢说出自己的想法"的意味。唐僧虽然平时沉默寡言，但关键时刻敢于 speak up 推荐徒弟。spoke 是 speak 的过去式。',
+      examples: [
+        'If you disagree, you should speak up.（如果你不同意，应该大胆说出来。）',
+        'She spoke up during the meeting.（她在会议上主动发言了。）',
+      ],
+      synonyms: [
+        { word: 'spoke out', note: '公开表态，更侧重反对或抗议' },
+        { word: 'voiced', note: '表达，如 voiced an opinion' },
+      ],
+    },
+    {
+      word: 'rotten',
+      phonetic: '/ˈrɑːtən/',
+      brief: '腐烂的，恶劣的（骂人用）',
+      pos: 'adjective',
+      detail:
+        'rotten 本义是"腐烂的、变质的"，这里用作骂人的口语，相当于"混蛋、可恶的"。原文中八戒大喊"You rotten monster!"——你这个烂怪物！rotten 作为侮辱词，比 bad 或 evil 更有口语色彩和愤怒情绪。',
+      examples: [
+        'The apple is rotten.（苹果烂了。）',
+        'You rotten liar!（你这个可恶的骗子！）',
+      ],
+      synonyms: [
+        { word: 'wicked', note: '邪恶的，更正式' },
+        { word: 'filthy', note: '肮脏的，也可作侮辱词' },
+      ],
+    },
+    {
+      word: 'brutes',
+      phonetic: '/bruːts/',
+      brief: '野蛮人，畜生（brute 的复数）',
+      pos: 'noun (plural of brute)',
+      detail:
+        'brute 指"野蛮人、粗暴的人、畜生"。原文中妖怪骂八戒和沙僧"You brutes!"——你们这两个野蛮家伙！brute 强调粗暴、不讲道理、没有人性。妖怪用这个词骂人非常讽刺——自己才是吃人的妖怪，反而说别人是野兽。',
+      examples: [
+        'He was a brute who bullied everyone.（他是个欺负所有人的野蛮家伙。）',
+        'The brute knocked down the door.（那个莽汉把门撞倒了。）',
+      ],
+      synonyms: [
+        { word: 'savages', note: '野蛮人，侧重文化落后' },
+        { word: 'bullies', note: '恶霸，侧重欺凌行为' },
+      ],
+    },
+    {
+      word: 'knocked out',
+      phonetic: '/nɑːkt aʊt/',
+      brief: '打昏，击倒',
+      pos: 'phrase (past tense of knock out)',
+      detail:
+        'knock out 指"打昏、击倒使失去知觉"。原文中妖怪 knocked out 沙僧——把沙僧打晕了。knock out 是拳击术语，表示一拳把对手打得不省人事（KO）。这里妖怪趁沙僧分心时把他击倒，暗示妖怪实力很强。knock out 还可以引申为"淘汰、使惊叹"。',
+      examples: [
+        'The boxer knocked out his opponent in round two.（拳击手在第二回合击倒了对手。）',
+        'The blow knocked him out cold.（那一击把他打得不省人事。）',
+      ],
+      synonyms: [
+        { word: 'knocked unconscious', note: '打昏，更直白的描述' },
+        { word: 'felled', note: '击倒，文学用语' },
+      ],
+    },
   ],
 };
 
