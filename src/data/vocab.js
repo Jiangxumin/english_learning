@@ -6922,6 +6922,356 @@ const vocab = {
         { word: 'felled', note: '击倒，文学用语' },
       ],
     },
+    {
+      word: 'in shock',
+      phonetic: '/ɪn ʃɑːk/',
+      brief: '震惊地，惊呆了',
+      pos: 'phrase',
+      detail:
+        'in shock 指"处于震惊状态"。原文中百花羞公主听到妖怪说要去拜访她父亲时，in shock——惊呆了，因为她完全没想到妖怪会做出这种决定。in shock 描写的是一种因意外消息而短暂失语、无法反应的状态。注意与 shocked 的区别：shocked 是形容词，in shock 是介词短语，强调状态更持续。',
+      examples: [
+        'She stood there in shock, unable to speak.（她震惊地站在那里，说不出话来。）',
+        'The whole country was in shock after the news.（消息传出后全国震惊。）',
+      ],
+      synonyms: [
+        { word: 'stunned', note: '惊呆的，侧重短暂失去反应能力' },
+        { word: 'dumbfounded', note: '目瞪口呆的，更强调无法说话' },
+      ],
+    },
+    {
+      word: 'sparkled',
+      phonetic: '/ˈspɑːrkəld/',
+      brief: '闪闪发光，闪烁',
+      pos: 'verb (past tense of sparkle)',
+      detail:
+        'sparkle 指"闪闪发光、闪烁"。原文中妖怪念了一个咒语后 Light sparkled——光芒闪烁，随后他就变成了一个英俊年轻人的模样。sparkled 常用来描写魔法施放时的视觉效果——光芒四射、星星点点。在本书中 sparkle 多次出现，每次都与施法变形有关。',
+      examples: [
+        'The diamond sparkled in the sunlight.（钻石在阳光下闪闪发光。）',
+        'Her eyes sparkled with excitement.（她的眼睛因兴奋而闪闪发亮。）',
+      ],
+      synonyms: [
+        { word: 'glittered', note: '闪耀，侧重反射出的点点光芒' },
+        { word: 'shimmered', note: '微光闪烁，更柔和朦胧' },
+      ],
+    },
+    {
+      word: 'court',
+      phonetic: '/kɔːrt/',
+      brief: '宫廷，朝廷',
+      pos: 'noun',
+      detail:
+        'court 指"宫廷、朝廷"，即国王处理政务和接见臣民的大殿。原文中一个信使跑进 court——跑进朝廷，报告国王的"女婿"来了。court 在这里不是"法院"或"球场"的意思，而是中世纪王国中国王上朝议事的地方。',
+      examples: [
+        'The king held court every morning.（国王每天早上上朝。）',
+        'She was presented at court.（她被引见给宫廷。）',
+      ],
+      synonyms: [
+        { word: 'palace', note: '宫殿，侧重建筑本身' },
+        { word: 'throne room', note: '王座厅，更具体指国王接见的房间' },
+      ],
+    },
+    {
+      word: 'revenge',
+      phonetic: '/rɪˈvɛndʒ/',
+      brief: '报复，复仇',
+      pos: 'noun',
+      detail:
+        'revenge 指"报复、复仇"。原文中假扮成年轻人的妖怪诬陷唐僧，说那只老虎（妖怪编造的故事）一直想要 revenge——报复，因为当年年轻人救了公主、赶走了老虎。revenge 强调对曾经伤害过自己的人进行反击和报复。注意名词 revenge 和动词 avenge 的区别：revenge 更侧重个人恩怨，avenge 更侧重为正义复仇。',
+      examples: [
+        'He swore revenge on his enemies.（他发誓要向敌人复仇。）',
+        'Revenge is sweet.（复仇是甜蜜的。——英语谚语）',
+      ],
+      synonyms: [
+        { word: 'vengeance', note: '报仇，更正式、更强烈' },
+        { word: 'retaliation', note: '报复，更中性，可指军事或政治报复' },
+      ],
+    },
+    {
+      word: 'disguises',
+      phonetic: '/dɪsˈɡaɪzɪz/',
+      brief: '伪装，假扮（动词第三人称单数）',
+      pos: 'verb (3rd person singular of disguise)',
+      detail:
+        'disguise 作动词指"伪装、假扮"。原文中妖怪变年轻人后诬陷唐僧说那只老虎 disguises itself as a monk——把自己伪装成一个和尚。注意这里 disguise 是动词用法（ disguises itself），与前面 Chapter 32 中 disguise 的名词用法不同。itself 指代老虎精，disguise oneself as... 是固定搭配，表示"把自己伪装成……"。',
+      examples: [
+        'She disguises herself as a man to join the army.（她女扮男装从军。）',
+        'The spy disguises his voice on the phone.（间谍在电话中伪装声音。）',
+      ],
+      synonyms: [
+        { word: 'masquerades', note: '假扮，侧重以虚假身份出现' },
+        { word: 'impersonates', note: '冒充，侧重模仿他人身份' },
+      ],
+    },
+    {
+      word: 'narrowed',
+      phonetic: '/ˈnæroʊd/',
+      brief: '眯起（眼睛），变窄',
+      pos: 'verb (past tense of narrow)',
+      detail:
+        'narrow 本义是"变窄"，这里指"眯起眼睛"。原文中假扮成年轻人的妖怪 narrowed his eyes at the Tang Monk——眯起眼睛看着唐僧，然后指向他说"那个和尚！"narrow one\'s eyes 是一个典型的身体语言，表示怀疑、敌意或威胁。眯眼让目光更锐利，暗示接下来要采取行动。',
+      examples: [
+        'She narrowed her eyes in suspicion.（她怀疑地眯起了眼睛。）',
+        'He narrowed his eyes against the bright light.（他因强光而眯起了眼睛。）',
+      ],
+      synonyms: [
+        { word: 'squinted', note: '眯着眼看，侧重因光线或视力原因' },
+        { word: 'glared', note: '怒视，更强调愤怒的注视' },
+      ],
+    },
+    {
+      word: 'stable',
+      phonetic: '/ˈsteɪbəl/',
+      brief: '马厩，马房',
+      pos: 'noun',
+      detail:
+        'stable 指"马厩、马房"，是饲养和停放马匹的地方。原文中在 stable 里，一个男孩正在给唐僧的白马喂草料。stable 在古代是宫殿或旅店的重要设施，相当于现代的停车场。注意 stable 还可以作形容词表示"稳定的"，但这里显然是名词。',
+      examples: [
+        'The horses were in the stable.（马在马厩里。）',
+        'He cleaned the stable every morning.（他每天早上打扫马厩。）',
+      ],
+      synonyms: [
+        { word: 'barn', note: '谷仓/牲口棚，更大，可放各种牲畜' },
+        { word: 'stable yard', note: '马厩院子，包含马厩周围的空地' },
+      ],
+    },
+    {
+      word: 'silently',
+      phonetic: '/ˈsaɪləntli/',
+      brief: '默默地，无声地',
+      pos: 'adverb',
+      detail:
+        'silently 指"默默地、一声不吭地"。原文中悟空身边的小猴们手持刀枪，silently——无声地盯着八戒看。这种沉默比任何言语都更有威胁感——一群武装的猴子一言不发地注视着来客，营造出紧张的氛围。silently 由形容词 silent（沉默的）加副词后缀 -ly 构成。',
+      examples: [
+        'They sat silently in the dark.（他们在黑暗中默默地坐着。）',
+        'She silently agreed with him.（她默默地点头同意。）',
+      ],
+      synonyms: [
+        { word: 'quietly', note: '安静地，侧重声音小，不一定有威胁感' },
+        { word: 'wordlessly', note: '一言不发地，强调不说话' },
+      ],
+    },
+    {
+      word: 'scowled',
+      phonetic: '/skaʊld/',
+      brief: '怒视，皱眉',
+      pos: 'verb (past tense of scowl)',
+      detail:
+        'scowl 指"怒视、皱眉表示不满"。原文中悟空看到八戒来了 scowled——皱着眉头怒视他，然后冷冷地问"What are you doing here?"scowl 描写的是一种把眉头拧在一起、嘴角下沉的愤怒表情，比 frown（皱眉）更有敌意。悟空的 scowl 说明他还在为被赶走的事生气。',
+      examples: [
+        'The teacher scowled at the noisy students.（老师怒视着吵闹的学生。）',
+        'He scowled when he heard the bad news.（他听到坏消息时皱起了眉头。）',
+      ],
+      synonyms: [
+        { word: 'frowned', note: '皱眉，较温和，表示不满或困惑' },
+        { word: 'glowered', note: '怒目而视，更强烈的敌意' },
+      ],
+    },
+    {
+      word: 'clobber',
+      phonetic: '/ˈklɑːbər/',
+      brief: '痛打，猛揍',
+      pos: 'verb',
+      detail:
+        'clobber 指"狠狠地打、猛揍"，是一个非常口语化的动词。原文中悟空对八戒说"I should take out my iron bar and clobber you!"——我应该掏出金箍棒痛打你一顿！clobber 比 hit 或 beat 更生动，带有情绪化的暴力色彩，常用于口语威胁。悟空用这个词表达他对八戒挑唆唐僧念紧箍咒的愤怒。',
+      examples: [
+        'If you don\'t stop, I\'ll clobber you!（你再不停下来我就揍你！）',
+        'The boxer clobbered his opponent.（拳击手狠狠地揍了对手一顿。）',
+      ],
+      synonyms: [
+        { word: 'pound', note: '猛击，侧重连续重重打击' },
+        { word: 'thrash', note: '痛打，侧重彻底地打' },
+      ],
+    },
+    {
+      word: 'forced a laugh',
+      phonetic: '/fɔːrst ə læf/',
+      brief: '强颜欢笑，硬挤出笑容',
+      pos: 'phrase',
+      detail:
+        'force a laugh 指"强颜欢笑、勉强笑出来"。原文中八戒被悟空威胁要痛打他时，forced a laugh——硬挤出一个笑容，说"I was just joking"。force 在这里是"勉强、强压"的意思，laugh 是笑。forced a laugh 描写的是一种不自然的、为了掩饰紧张或恐惧而故意做出的笑——八戒明明害怕极了，却假装在笑。',
+      examples: [
+        'She forced a laugh to hide her embarrassment.（她强颜欢笑以掩饰尴尬。）',
+        'He forced a laugh, but his eyes showed fear.（他硬挤出一笑，但眼中满是恐惧。）',
+      ],
+      synonyms: [
+        { word: 'faked a smile', note: '假装微笑，侧重嘴角的假笑' },
+        { word: 'laughed nervously', note: '紧张地笑，更侧重不安情绪' },
+      ],
+    },
+    {
+      word: 'leaned',
+      phonetic: '/liːnd/',
+      brief: '探身，前倾',
+      pos: 'verb (past tense of lean)',
+      detail:
+        'lean 指"探身、向前倾斜"。原文中悟空听说八戒对妖怪提过自己，leaned closer——身体前倾凑近八戒，追问"What did he say?"这个前倾的动作表现了悟空的好奇和关注——他想知道别人对自己的评价。lean 还可以表示"依靠"（lean on），但这里是身体姿势的描写。注意 lean 的过去式可以写成 leaned 或 leant（英式）。',
+      examples: [
+        'She leaned forward to hear better.（她探身向前以便听得更清楚。）',
+        'He leaned against the wall.（他靠在墙上。）',
+      ],
+      synonyms: [
+        { word: 'bent forward', note: '弯腰向前，动作幅度更大' },
+        { word: 'inched closer', note: '缓缓靠近，强调渐进移动' },
+      ],
+    },
+    {
+      word: 'lip',
+      phonetic: '/lɪp/',
+      brief: '嘴唇',
+      pos: 'noun',
+      detail:
+        'lip 指"嘴唇"。原文中八戒 bit his lip——咬了咬嘴唇，这是他在编造谎言（说妖怪嘲笑悟空是胆小鬼）时的小动作。bite one\'s lip 是一个常见的身体语言，表示紧张、犹豫或忍痛。八戒虽然嘴上在说谎，但身体的紧张出卖了他。注意这里是单数 lip（bite one\'s lip 通常用单数），而前面 Chapter 33 中 licked his lips 用了复数。',
+      examples: [
+        'She bit her lip nervously.（她紧张地咬了咬嘴唇。）',
+        'A word was on his lips.（话到他嘴边了。）',
+      ],
+      synonyms: [
+        { word: 'mouth', note: '嘴，更泛指' },
+      ],
+    },
+    {
+      word: 'coward',
+      phonetic: '/ˈkaʊərd/',
+      brief: '懦夫，胆小鬼',
+      pos: 'noun',
+      detail:
+        'coward 指"懦夫、胆小鬼"，是侮辱性词语。原文中八戒编造谎言说妖怪嘲笑悟空是"a tiny little coward"——一个小小的胆小鬼。coward 是对勇气和尊严的直接攻击，对于骄傲的齐天大圣来说，被人叫 coward 比任何侮辱都更刺耳。八戒正是利用这一点来激怒悟空，让他回来帮忙。',
+      examples: [
+        'Don\'t be a coward!（别做胆小鬼！）',
+        'Only a coward would run away.（只有懦夫才会逃跑。）',
+      ],
+      synonyms: [
+        { word: 'chicken', note: '胆小鬼（俚语），口语化、不正式' },
+        { word: 'weakling', note: '弱者，侧重体力和意志力薄弱' },
+      ],
+    },
+    {
+      word: 'blazed',
+      phonetic: '/bleɪzd/',
+      brief: '燃烧，怒火中烧（blaze 的过去式）',
+      pos: 'verb (past tense of blaze)',
+      detail:
+        'blaze 本义是"猛烈燃烧"，引申为"怒火中烧"。原文中悟空听到妖怪称他为 coward 后，eyes blazed with fury——眼睛里燃烧着怒火。blaze 用火焰比喻愤怒，非常形象。注意这里 blazed 是过去式动词，与前面 Chapter 34 中 blazing（现在分词作形容词）是同一个词的不同形式。blaze 的变化：blaze → blazed → blazed。',
+      examples: [
+        'Anger blazed in his eyes.（愤怒在他的眼中燃烧。）',
+        'The fire blazed through the night.（大火燃烧了一整夜。）',
+      ],
+      synonyms: [
+        { word: 'flamed', note: '燃烧，与 blaze 相似但更短暂' },
+        { word: 'burned', note: '燃烧，更通用' },
+      ],
+    },
+    {
+      word: 'fury',
+      phonetic: '/ˈfjʊəri/',
+      brief: '狂怒，暴怒',
+      pos: 'noun',
+      detail:
+        'fury 指"狂怒、暴怒"，是比 anger 更强烈的愤怒。原文中悟空的眼睛 blazed with fury——怒火燃烧。fury 来源于希腊神话中的复仇女神 Furies（厄里倪厄斯），暗示一种近乎疯狂的、不可遏制的愤怒。八戒用一个"coward"就点燃了悟空的 fury，说明激将法完全奏效。',
+      examples: [
+        'He flew into a fury.（他勃然大怒。）',
+        'She screamed in fury.（她愤怒地尖叫。）',
+      ],
+      synonyms: [
+        { word: 'rage', note: '狂怒，更侧重失控的暴力' },
+        { word: 'wrath', note: '义愤，更正式、更文学化' },
+      ],
+    },
+    {
+      word: 'regret',
+      phonetic: '/rɪˈɡrɛt/',
+      brief: '后悔，懊悔',
+      pos: 'verb',
+      detail:
+        'regret 指"后悔、懊悔"。原文中悟空怒吼"He will regret saying that!"——他会后悔说了那句话！regret 在这里作动词，表示对做过的事感到后悔。悟空的意思不是"他应该反省"，而是"我要让他付出代价，让他后悔惹了我"。这是一种带有威胁意味的用法。regret 也可作名词表示"遗憾"。',
+      examples: [
+        'I regret what I said.（我为我说的话感到后悔。）',
+        'You will regret this!（你会后悔的！）',
+      ],
+      synonyms: [
+        { word: 'rue', note: '懊悔，文学用语，更沉重' },
+        { word: 'repent', note: '悔改，带有道德和宗教色彩' },
+      ],
+    },
+    {
+      word: 'dining',
+      phonetic: '/ˈdaɪnɪŋ/',
+      brief: '用餐的，进餐的',
+      pos: 'adjective',
+      detail:
+        'dining 是 dine（进餐、用餐）的现在分词，作定语修饰名词。原文中 the monster sat in the dining hall——妖怪坐在餐厅/宴会厅里。dining hall 指"宴会厅、大餐厅"，是宫殿或大宅中专用于进餐的房间。dining 还常见于 dining room（餐厅）、dining table（餐桌）等搭配。',
+      examples: [
+        'The dining hall can seat 200 people.（宴会厅可以坐两百人。）',
+        'They sat around the dining table.（他们围坐在餐桌旁。）',
+      ],
+      synonyms: [
+        { word: 'banquet', note: '宴会，侧重正式的多人聚餐活动' },
+      ],
+    },
+    {
+      word: 'servant',
+      phonetic: '/ˈsɜːrvənt/',
+      brief: '仆人，侍从',
+      pos: 'noun',
+      detail:
+        'servant 指"仆人、侍从"，在宫殿或贵族家中服侍主人的下人。原文中一个 servant——仆人走进宴会厅，递给假扮年轻人的妖怪一张纸条。这个"仆人"其实是八戒变的，他利用仆人的身份给妖怪递假消息。servant 在古代社会中地位低下，所以不太会引起注意，是完美的伪装身份。',
+      examples: [
+        'The servant brought tea to the guests.（仆人给客人端来了茶。）',
+        'They treated their servants well.（他们善待仆人。）',
+      ],
+      synonyms: [
+        { word: 'attendant', note: '侍从，侧重随侍在旁的人员' },
+        { word: 'maid', note: '女仆，特指女性仆人' },
+      ],
+    },
+    {
+      word: 'giggled',
+      phonetic: '/ˈɡɪɡəld/',
+      brief: '咯咯笑，偷笑',
+      pos: 'verb (past tense of giggle)',
+      detail:
+        'giggle 指"咯咯地笑、偷笑"，通常声音不大，带有调皮或紧张的意味。原文中八戒变成仆人骗走妖怪后 giggled——咯咯偷笑，得意地说"The monster is going to be so surprised!"giggle 比 laugh 更轻、更细碎，常用来形容小孩或女生的笑声，也用来描写因为恶作剧得逞而忍不住的窃笑。',
+      examples: [
+        'The girls giggled at the joke.（女孩们听了笑话咯咯笑。）',
+        'He giggled nervously during the exam.（他在考试中紧张地偷笑。）',
+      ],
+      synonyms: [
+        { word: 'snickered', note: '暗笑，偷笑，带有嘲讽意味' },
+        { word: 'chuckled', note: '轻声笑，更温和' },
+      ],
+    },
+    {
+      word: 'burst',
+      phonetic: '/bɜːrst/',
+      brief: '猛冲，闯入',
+      pos: 'verb (past tense of burst)',
+      detail:
+        'burst 本义是"爆裂、破裂"，这里指"猛冲、闯入"。原文中妖怪 burst through the door——猛地冲进门，因为他以为有人要毁他的宝塔，所以心急如焚地冲回来。burst through 形象地描写了像爆炸一样猛烈地穿过门的动作——不是推门、不是开门，而是冲进来。burst 的变化是不规则的：burst → burst → burst（三态同形）。',
+      examples: [
+        'He burst through the door.（他猛地冲进门。）',
+        'The dam burst and water flooded the valley.（大坝决口，洪水淹没了山谷。）',
+      ],
+      synonyms: [
+        { word: 'stormed', note: '猛冲，带有愤怒情绪' },
+        { word: 'rushed', note: '冲，强调速度快' },
+      ],
+    },
+    {
+      word: 'panic',
+      phonetic: '/ˈpænɪk/',
+      brief: '惊慌，恐慌',
+      pos: 'noun',
+      detail:
+        'panic 指"惊慌、恐慌"，一种突然袭来的极度恐惧。原文中妖怪 in a panic——惊慌失措地冲进门，因为他收到纸条说有猴子在毁他的宝塔。in a panic 表示处于慌乱之中，失去了冷静思考的能力。panic 来源于希腊神话中的牧神 Pan，据说他在山林中出现时会让人突然产生莫名的恐惧。',
+      examples: [
+        'The crowd fled in panic.（人群惊慌地逃跑了。）',
+        'Don\'t panic!（别慌！）',
+      ],
+      synonyms: [
+        { word: 'terror', note: '恐怖，程度更极端' },
+        { word: 'alarm', note: '警觉、惊慌，程度较轻' },
+      ],
+    },
   ],
 };
 
