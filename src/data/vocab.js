@@ -6075,6 +6075,425 @@ const vocab = {
       ],
     },
   ],
+  book_06: [
+    {
+      word: 'shook',
+      phonetic: '/ʃʊk/',
+      brief: '发抖，摇动（shake 的过去式）',
+      pos: 'verb (past tense of shake)',
+      detail:
+        'shake 的过去式，指"摇动、发抖"。本章中出现两次：第一次是唐僧吓得发抖（shook with fear），因为镇元大仙威胁要炸他；第二次是八戒摇头（shook his head），表示对悟空能否救他们感到绝望。同一个动词，两种完全不同的身体语言——一个表示恐惧，一个表示失望。',
+      examples: [
+        'She shook with cold.（她冻得发抖。）',
+        'He shook his head slowly.（他慢慢摇了摇头。）',
+      ],
+      synonyms: [
+        { word: 'trembled', note: '颤抖，侧重因恐惧或寒冷而不自主发抖' },
+        { word: 'quivered', note: '微微颤动，更轻微的抖动' },
+      ],
+    },
+    {
+      word: 'doomed',
+      phonetic: '/duːmd/',
+      brief: '注定完蛋的，在劫难逃的',
+      pos: 'adjective',
+      detail:
+        'doomed 指"注定要失败的、注定灭亡的"。原文中八戒说"We\'re doomed"——我们完蛋了。这是八戒的典型台词，每次遇到危险他就会悲观地认为大家都没救了。doomed 含有"命运已定、无法改变"的意味，比简单的"we\'re going to die"更有宿命感。',
+      examples: [
+        'The plan was doomed from the start.（这个计划从一开始就注定失败。）',
+        'Without water, the plants are doomed.（没有水，这些植物注定活不了。）',
+      ],
+      synonyms: [
+        { word: 'destined', note: '命中注定的，中性词，不含失败意味' },
+        { word: 'condemned', note: '被判死刑的，语气更重' },
+      ],
+    },
+    {
+      word: 'suspicious',
+      phonetic: '/səˈspɪʃəs/',
+      brief: '怀疑的，起疑心的',
+      pos: 'adjective',
+      detail:
+        'suspicious 指"感到怀疑的、起疑心的"。原文中观音菩萨给悟空一个 suspicious look（怀疑的眼神），因为她猜到人参果树的事肯定跟悟空有关。这个形容词暗示观音已经从悟空的语气和表情中察觉到了什么。注意重音在第二个音节 /ˈspɪʃ/。',
+      examples: [
+        'She gave him a suspicious glance.（她怀疑地看了他一眼。）',
+        'The police found his behavior suspicious.（警方觉得他的行为很可疑。）',
+      ],
+      synonyms: [
+        { word: 'doubtful', note: '怀疑的，侧重不确定感' },
+        { word: 'skeptical', note: '持怀疑态度的，更强调理性质疑' },
+      ],
+    },
+    {
+      word: 'rare',
+      phonetic: '/rer/',
+      brief: '稀有的，珍贵的',
+      pos: 'adjective',
+      detail:
+        'rare 指"稀有的、罕见的"。原文中观音说人参果树是 a rare treasure——一件稀世珍宝，因为它比天地还要古老。rare 强调某物的珍贵和难得，不是随便就能找到的。注意发音中不含任何 r 之间的元音，只有一个音节 /rer/。',
+      examples: [
+        'This is a rare book.（这是一本珍贵的稀有书。）',
+        'Snow is rare in this region.（这个地区很少下雪。）',
+      ],
+      synonyms: [
+        { word: 'scarce', note: '稀少的，侧重数量不足' },
+        { word: 'precious', note: '珍贵的，侧重价值和情感意义' },
+      ],
+    },
+    {
+      word: 'shrugged',
+      phonetic: '/ʃrʌɡd/',
+      brief: '耸了耸肩（shrug 的过去式）',
+      pos: 'verb (past tense of shrug)',
+      detail:
+        'shrug 指"耸肩"，表示无所谓、不知道或不以为然。原文中悟空被观音批评推倒人参果树后，他耸了耸肩（shrugged），说了句"I was angry"——我生气了嘛。这个耸肩的动作完美展现了悟空满不在乎的态度：他知道自己做错了，但不想承认，只好用耸肩来敷衍。这是一个非常典型的身体语言词。',
+      examples: [
+        'She shrugged and walked away.（她耸了耸肩就走了。）',
+        'He shrugged off the criticism.（他对批评不屑一顾。）',
+      ],
+      synonyms: [
+        { word: 'dismissed', note: '不当回事，侧重心理上的轻视' },
+        { word: 'gestured', note: '做手势，泛指用手势表达' },
+      ],
+    },
+    {
+      word: 'anger',
+      phonetic: '/ˈæŋɡər/',
+      brief: '愤怒，怒气',
+      pos: 'noun',
+      detail:
+        'anger 是名词，指"愤怒、怒气"。原文中观音告诫悟空"You must learn to control your anger"——你必须学会控制你的愤怒。这是整部《西游记》的一个重要主题：悟空的冲动和怒火经常给他和团队带来麻烦。control one\'s anger（控制愤怒）是一个常用搭配。',
+      examples: [
+        'He could not hide his anger.（他无法掩饰自己的愤怒。）',
+        'Anger management is important for everyone.（情绪管理对每个人都很重要。）',
+      ],
+      synonyms: [
+        { word: 'fury', note: '狂怒，程度比 anger 更强烈' },
+        { word: 'rage', note: '暴怒，失去理智的愤怒' },
+      ],
+    },
+    {
+      word: 'shelf',
+      phonetic: '/ʃelf/',
+      brief: '架子，搁板',
+      pos: 'noun',
+      detail:
+        'shelf 指"架子、搁板"，用来放置物品。原文中观音站起来，走到架子旁（went to a shelf），从上面拿了一个花瓶。注意 shelf 的复数是 shelves，不是 shelfs。在佛塔中，shelf 上放着法器，暗示这个花瓶不是普通物品。',
+      examples: [
+        'She put the book on the top shelf.（她把书放在了最上面的架子上。）',
+        'The medicine is on the second shelf.（药在第二层架子上。）',
+      ],
+      synonyms: [
+        { word: 'rack', note: '挂架，侧重悬挂式支架' },
+        { word: 'ledge', note: '壁架，凸出的窄平台' },
+      ],
+    },
+    {
+      word: 'vase',
+      phonetic: '/veɪs/',
+      brief: '花瓶，瓶',
+      pos: 'noun',
+      detail:
+        'vase 指"花瓶、装饰瓶"。原文中观音从架子上取下的净瓶（vase），在佛教中叫"净瓶"或"甘露瓶"，是观音菩萨的法器，里面装着能起死回生的甘露。这个花瓶不是用来插花的普通容器，而是拥有强大法力的宝物。注意英式发音 /vɑːz/，美式发音 /veɪs/。',
+      examples: [
+        'She arranged flowers in a beautiful vase.（她把花插在漂亮的花瓶里。）',
+        'The antique vase is worth millions.（这个古董花瓶价值数百万。）',
+      ],
+      synonyms: [
+        { word: 'jar', note: '广口瓶，罐子，通常有盖' },
+        { word: 'pitcher', note: '水壶，有把手和嘴的容器' },
+      ],
+    },
+    {
+      word: 'dew',
+      phonetic: '/duː/',
+      brief: '露水，甘露',
+      pos: 'noun',
+      detail:
+        'dew 指"露水"。原文中观音净瓶里装的是 magic dew——神奇的甘露。这种甘露具有起死回生的力量，能让枯萎的人参果树重新复活。在中国文化中，"甘露"（sweet dew）被视为天降的祥瑞之物，具有治愈和再生的象征意义。dew 强调清晨凝结在植物上的水珠，纯净而美好。',
+      examples: [
+        'Morning dew sparkled on the grass.（晨露在草地上闪闪发光。）',
+        'The leaves were covered with dew.（树叶上布满了露水。）',
+      ],
+      synonyms: [
+        { word: 'moisture', note: '水分，湿气，泛指' },
+        { word: 'condensation', note: '凝结水，科学用语' },
+      ],
+    },
+    {
+      word: 'bring',
+      phonetic: '/brɪŋ/',
+      brief: '使…复活（bring...back to life 固定搭配）',
+      pos: 'phrase (bring...back to life)',
+      detail:
+        'bring 本义是"带来"，原文中用于固定搭配 bring...back to life——"使……复活"。结构是 bring + 宾语 + back to life，中间插入被"复活"的对象。原文中观音说甘露能 bring spirit plants back to life——让仙树起死回生。bring 在这里不是简单的"带来"，而是搭配 back to life 后引申为"恢复生命"的意思。',
+      examples: [
+        'The rain brought the flowers back to life.（雨水让花儿重新活了过来。）',
+        'Doctors brought the patient back to life.（医生把病人从死亡线上拉了回来。）',
+        'The old song brought back memories of my childhood.（这首老歌唤起了我对童年的回忆。）',
+      ],
+      synonyms: [
+        { word: 'restore', note: '恢复，侧重修复到原来的状态' },
+        { word: 'revive', note: '使复苏，侧重重新激活' },
+      ],
+    },
+    {
+      word: 'dew droplets',
+      phonetic: '/duː ˈdrɒpləts/',
+      brief: '露珠，露滴',
+      pos: 'noun phrase',
+      detail:
+        'dew droplets 是"dew（露水）+ droplets（小水滴）"的组合，指"露珠"。原文描写甘露洒落在人参果树枝上时，露珠（dew droplets）在枝干上滚动，光芒闪烁。droplet 是 drop 的指小词，强调水滴的细小圆润。这种细致的描写营造出一种神奇的视觉效果。',
+      examples: [
+        'Tiny dew droplets glistened on the spider web.（微小的露珠在蜘蛛网上闪闪发光。）',
+        'Droplets of water fell from the leaf.（水珠从叶子上滴落。）',
+      ],
+      synonyms: [
+        { word: 'beads', note: '珠子，形容水珠圆润如珠' },
+        { word: 'moisture drops', note: '水滴，更直白的描述' },
+      ],
+    },
+    {
+      word: 'host',
+      phonetic: '/hoʊst/',
+      brief: '主办，举办',
+      pos: 'verb',
+      detail:
+        'host 作动词指"主办、举办（活动）"。原文中镇元大仙为了感谢大家，决定 host a feast——举办一场盛宴。host 在这里从名词"主人"转化为动词"做东请客"，表示他是这场宴会的发起者和主办者。这是表示感谢和友好的社交行为。',
+      examples: [
+        'They hosted a dinner party last night.（他们昨晚举办了一场晚宴。）',
+        'The city will host the Olympic Games.（这座城市将主办奥运会。）',
+      ],
+      synonyms: [
+        { word: 'organize', note: '组织，侧重策划和安排' },
+        { word: 'throw', note: '举办（非正式），如 throw a party' },
+      ],
+    },
+    {
+      word: 'trays',
+      phonetic: '/treɪz/',
+      brief: '托盘，盘子（tray 的复数）',
+      pos: 'noun (plural of tray)',
+      detail:
+        'tray 指"托盘、浅盘"，用来盛放或运送食物、物品。原文中两个小道士用 trays 端着人参果进来——托盘上摆满了珍贵的人参果。用 trays 而不是 plates（盘子），说明人参果是整颗摆放展示的，而不是切成片的食物，体现了人参果的珍贵。',
+      examples: [
+        'She carried a tray of drinks.（她端着一托盘饮料。）',
+        'The waiter brought our food on a silver tray.（服务员用银色托盘端来了我们的食物。）',
+      ],
+      synonyms: [
+        { word: 'platters', note: '大浅盘，侧重扁平的大盘子' },
+        { word: 'plates', note: '盘子，日常餐具' },
+      ],
+    },
+    {
+      word: 'assured',
+      phonetic: '/əˈʃʊrd/',
+      brief: '向……保证，使放心',
+      pos: 'verb (past tense of assure)',
+      detail:
+        'assure 指"向某人保证、使某人放心"。原文中观音告诉唐僧人参果可以吃，assured him——让他放心。唐僧之前因为人参果长得像婴儿而不敢吃，观音用 assured 表达了她的权威保证——连菩萨都说安全了，你不用担心。assure 常用于消除别人的疑虑或恐惧。',
+      examples: [
+        'She assured me that everything would be fine.（她向我保证一切都会好的。）',
+        'The doctor assured the patient about the surgery.（医生让病人对手术放心。）',
+      ],
+      synonyms: [
+        { word: 'guaranteed', note: '保证，承诺，更正式且有法律意味' },
+        { word: 'convinced', note: '说服，使确信' },
+      ],
+    },
+    {
+      word: 'heat',
+      phonetic: '/hiːt/',
+      brief: '炎热，高温',
+      pos: 'noun',
+      detail:
+        'heat 作名词指"炎热、高温"。原文中描写取经团队在路上经历了各种天气："rain and sunshine, heat and cold"——风雨晴热寒。heat 在这里与 cold 对比，表示极端的天气条件。heat 还可以作动词表示"加热"，但这里显然是名词用法，指旅途中的酷热。',
+      examples: [
+        'The heat of the desert is unbearable.（沙漠的酷热令人难以忍受。）',
+        'She couldn\'t sleep because of the heat.（因为太热她睡不着。）',
+      ],
+      synonyms: [
+        { word: 'warmth', note: '温暖，程度较轻，令人舒适' },
+        { word: 'scorching', note: '灼热，程度更极端' },
+      ],
+    },
+    {
+      word: 'disguise',
+      phonetic: '/dɪsˈɡaɪz/',
+      brief: '伪装，假扮',
+      pos: 'noun',
+      detail:
+        'disguise 指"伪装、 disguises"，用来隐藏真实身份。原文中白骨精知道唐僧身边有厉害的徒弟，所以决定用 disguise——伪装来接近他。她先后变成年轻女子、老妇人和老头，三次伪装都是为了骗过唐僧的肉眼。disguise 既可作名词也可作动词，这里是名词用法。',
+      examples: [
+        'She wore a disguise to the party.（她化了伪装去参加聚会。）',
+        'The spy was in disguise.（间谍乔装打扮了。）',
+      ],
+      synonyms: [
+        { word: 'costume', note: '服装，戏服，侧重外表装扮' },
+        { word: 'mask', note: '面具，侧重遮盖面部的伪装' },
+      ],
+    },
+    {
+      word: 'orchard',
+      phonetic: '/ˈɔːrtʃərd/',
+      brief: '果园',
+      pos: 'noun',
+      detail:
+        'orchard 指"果园"，专门种植果树的田地。原文中悟空用火眼金睛看到千里之外有一片桃树 orchard——桃园，于是飞去摘桃子给大家当午饭。orchard 和 garden 不同，garden 可以是花园或菜园，而 orchard 专指种果树的园地。',
+      examples: [
+        'They own an apple orchard.（他们拥有一座苹果园。）',
+        'We went apple picking at the orchard.（我们去果园摘苹果了。）',
+      ],
+      synonyms: [
+        { word: 'grove', note: '小树林，不一定是果树' },
+        { word: 'plantation', note: '种植园，规模更大，常指经济作物' },
+      ],
+    },
+    {
+      word: 'miles',
+      phonetic: '/maɪlz/',
+      brief: '英里（mile 的复数）',
+      pos: 'noun (plural of mile)',
+      detail:
+        'mile 是英制长度单位，1 英里约等于 1.6 公里。原文中悟空看到"thousands of miles away"——数千里之外的桃园。miles 在英语中常用来表示"很远的距离"，不一定精确计算。注意 mile 的复数是 miles，发音为 /maɪlz/。',
+      examples: [
+        'The nearest town is five miles away.（最近的镇子在五英里外。）',
+        'We walked for miles.（我们走了好几英里。）',
+      ],
+      synonyms: [
+        { word: 'kilometers', note: '公里，公制单位，1 英里 ≈ 1.6 公里' },
+        { word: 'leagues', note: '里格，旧时距离单位，约 3 英里' },
+      ],
+    },
+    {
+      word: 'held out',
+      phonetic: '/hɛld aʊt/',
+      brief: '伸出，递出',
+      pos: 'phrase (past tense of hold out)',
+      detail:
+        'hold out 指"伸出（手或物品）"。原文中白骨精变成的年轻女子 held out a bowl——伸出一只碗，假装要给唐僧送饭。held 是 hold 的过去式。这个短语形象地描写了"把手臂向前伸展、把东西递向对方"的动作。在语境中，"伸出一碗饭"是白骨精诱骗唐僧的手段。',
+      examples: [
+        'She held out her hand to shake.（她伸出手来握手。）',
+        'He held out the letter to me.（他把信递给了我。）',
+      ],
+      synonyms: [
+        { word: 'reached out', note: '伸出手，侧重伸手够东西' },
+        { word: 'offered', note: '递上，提供，侧重给予的动作' },
+      ],
+    },
+    {
+      word: 'struck',
+      phonetic: '/strʌk/',
+      brief: '击打，猛击（strike 的过去式）',
+      pos: 'verb (past tense of strike)',
+      detail:
+        'strike 的过去式，指"用力击打"。原文中悟空第一次出手时 struck at the young woman——朝年轻女子打去。注意 struck at 和 struck 的区别：struck at 表示"朝…打去"，不一定打中（原文她消失了，所以确实没打中）。struck 是一个不规则动词变化：strike → struck → struck。',
+      examples: [
+        'He struck the table with his fist.（他用拳头捶了桌子。）',
+        'Lightning struck the tree.（闪电击中了那棵树。）',
+      ],
+      synonyms: [
+        { word: 'swung', note: '挥击，侧重挥动武器' },
+        { word: 'smashed', note: '猛击，侧重力量的破坏性' },
+      ],
+    },
+    {
+      word: 'Unfortunately',
+      phonetic: '/ʌnˈfɔːrtʃənətli/',
+      brief: '不幸的是，遗憾的是',
+      pos: 'adverb',
+      detail:
+        'unfortunately 指"不幸的是、遗憾地"，用于引出坏消息或令人失望的情况。原文中悟空说"Unfortunately she got away"——遗憾的是她跑了。这个词用来表示说话者对结果的不满和遗憾。由 un-（不）+ fortunate（幸运的）+ -ly（副词后缀）构成。在句首使用时，后面通常加逗号。',
+      examples: [
+        'Unfortunately, the tickets are sold out.（遗憾的是，票已经卖完了。）',
+        'The weather was unfortunately bad that day.（那天天气很不好。）',
+      ],
+      synonyms: [
+        { word: 'sadly', note: '令人遗憾的是，语气更温和' },
+        { word: 'regrettably', note: '可惜地，更正式' },
+      ],
+    },
+    {
+      word: 'cruel',
+      phonetic: '/ˈkruːəl/',
+      brief: '残忍的，残酷的',
+      pos: 'adjective',
+      detail:
+        'cruel 指"残忍的、冷酷无情的"。原文中唐僧质问悟空"Why are you so cruel?"——你为什么这么残忍？因为唐僧用肉眼看到的只是一个年轻女子在送饭，而悟空却一棒打过去。在唐僧看来，悟空的行为是 cruel（残忍的）；而在悟空看来，他是在保护师父。cruel 是理解这师徒矛盾的关键词。',
+      examples: [
+        'It\'s cruel to leave him outside in the cold.（让他待在外面挨冻太残忍了。）',
+        'The cruel king punished his people.（残暴的国王惩罚了他的人民。）',
+      ],
+      synonyms: [
+        { word: 'heartless', note: '无情的，侧重缺乏同情心' },
+        { word: 'brutal', note: '野蛮的，暴力的，程度更重' },
+      ],
+    },
+    {
+      word: 'ridiculous',
+      phonetic: '/rɪˈdɪkjələs/',
+      brief: '荒唐的，可笑的',
+      pos: 'adjective',
+      detail:
+        'ridiculous 指"荒唐可笑的、不合理的"。原文中悟空反驳八戒的污蔑时说"That\'s ridiculous"——那简直荒唐！八戒谎称悟空用妖术把食物变成了虫子，悟空认为这个说法太荒谬了。ridiculous 比 funny 或 silly 更强烈，暗示对方的说法不值得认真对待。',
+      examples: [
+        'That\'s a ridiculous idea!（那个想法太荒唐了！）',
+        'He looked ridiculous in that hat.（他戴着那顶帽子看起来很滑稽。）',
+      ],
+      synonyms: [
+        { word: 'absurd', note: '荒谬的，更强调不合逻辑' },
+        { word: 'nonsense', note: '胡说八道，名词，不是形容词' },
+      ],
+    },
+    {
+      word: 'innocent',
+      phonetic: '/ˈɪnəsənt/',
+      brief: '无辜的，清白的',
+      pos: 'adjective',
+      detail:
+        'innocent 指"无辜的、没有罪过的"。原文中八戒大喊"He killed another innocent person!"——他又杀了一个无辜的人！八戒用 innocent 来强调被悟空打倒的"老妇人"是一个好人、没有做错任何事。这是整个白骨精故事的核心矛盾：悟空看到的是妖怪，而其他人看到的是 innocent（无辜的）普通人。',
+      examples: [
+        'The jury found him innocent.（陪审团判定他无罪。）',
+        'She has an innocent smile.（她的笑容天真无邪。）',
+      ],
+      synonyms: [
+        { word: 'guiltless', note: '无罪的，法律语境' },
+        { word: 'harmless', note: '无害的，侧重不会造成伤害' },
+      ],
+    },
+    {
+      word: 'whipped',
+      phonetic: '/wɪpt/',
+      brief: '猛地抽出，快速拔出',
+      pos: 'verb (past tense of whip)',
+      detail:
+        'whip 本义是"鞭打"，这里指"猛地抽出、迅速拔出"。原文中悟空 whipped out his iron bar——猛地抽出金箍棒。whip out 是一个生动的短语动词，形容动作极快、像挥鞭子一样干脆利落。这体现了悟空第三次出手时的果断和坚决——前两次没打死妖怪，这次他毫不犹豫。',
+      examples: [
+        'She whipped out her phone and took a photo.（她迅速掏出手机拍了一张照。）',
+        'He whipped out a knife.（他猛地拔出一把刀。）',
+      ],
+      synonyms: [
+        { word: 'yanked', note: '猛拉，侧重用力拽出' },
+        { word: 'drew', note: '拔出，较正式，速度不一定快' },
+      ],
+    },
+    {
+      word: 'skeleton',
+      phonetic: '/ˈskɛlɪtən/',
+      brief: '骷髅，骨架',
+      pos: 'noun',
+      detail:
+        'skeleton 指"骷髅、骨架"，即人或动物的全副骨骼。原文中悟空第三次终于打死白骨精，烟雾散去后地上露出一具 skeleton——骷髅。白骨精的本体就是一堆白骨（"白骨"精），所以她的真身是一具骷髅。这个词在原文中出现两次：第一次描写地上躺着一具骷髅，第二次悟空宣布她是 evil skeleton spirit——邪恶的骷髅精。',
+      examples: [
+        'They found a human skeleton in the cave.（他们在洞穴里发现了一具人类骷髅。）',
+        'The skeleton of the old building was all that remained.（那座旧建筑只剩下骨架了。）',
+      ],
+      synonyms: [
+        { word: 'bones', note: '骨头，泛指，不一定是完整骨架' },
+        { word: 'skull', note: '头骨，仅指头部骨骼' },
+      ],
+    },
+  ],
 };
 
 export default vocab;
