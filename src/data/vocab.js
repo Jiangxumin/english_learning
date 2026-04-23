@@ -7273,6 +7273,858 @@ const vocab = {
       ],
     },
   ],
+  book_07: [
+    {
+      word: 'direction',
+      phonetic: '/dɪˈrekʃn/',
+      brief: '方向，方位',
+      pos: 'noun',
+      detail:
+        'direction 指"方向、方位"。原文中悟空跳到空中，朝每一个方向（every direction）搜寻妖怪的身影。in every direction 表示"朝四面八方、向各个方向"，强调搜索的全面性。',
+      examples: [
+        'He looked in every direction but saw no one.（他朝四面八方看去，但一个人也没看到。）',
+        'The wind changed direction suddenly.（风向突然变了。）',
+      ],
+      synonyms: [
+        { word: 'way', note: '普通用词，指道路或方向，较口语化' },
+        { word: 'orientation', note: '更正式，强调定位或定向' },
+      ],
+    },
+    {
+      word: 'all over',
+      phonetic: '/ɔːl ˈoʊvər/',
+      brief: '到处，四处',
+      pos: 'phrase',
+      detail:
+        'all over 是固定搭配，意为"到处、四处"。原文中神仙说他一直在到处（all over）寻找逃跑的木狼星。look all over for someone/something 表示"到处寻找某人/某物"，强调搜索范围之广。',
+      examples: [
+        'I\'ve looked all over for my keys.（我到处找我的钥匙。）',
+        'There were tourists all over the city.（游客遍布全城。）',
+      ],
+      synonyms: [
+        { word: 'everywhere', note: '到处，更强调"每个地方"的全面性' },
+        { word: 'far and wide', note: '四面八方，更偏文学表达' },
+      ],
+    },
+    {
+      word: 'taking place',
+      phonetic: '/ˈteɪkɪŋ pleɪs/',
+      brief: '正在发生，正在举行',
+      pos: 'verb phrase (present participle of take place)',
+      detail:
+        'take place 意为"发生、举行"。原文中悟空飞到宝象国宫殿时，一场盛大的庆典正在举行（A big celebration was taking place）。用过去进行时 was taking place 强调悟空到达时庆典正在进行中。',
+      examples: [
+        'The meeting is taking place right now.（会议正在进行中。）',
+        'The festival takes place every summer.（这个节日每年夏天举行。）',
+      ],
+      synonyms: [
+        { word: 'happen', note: '发生，更口语化，语气不如 take place 正式' },
+        { word: 'occur', note: '发生，较正式，多用于书面语' },
+      ],
+    },
+    {
+      word: 'flight',
+      phonetic: '/flaɪt/',
+      brief: '一段楼梯（flight of stairs）',
+      pos: 'noun',
+      detail:
+        'flight 本义为"飞行"，此处指"一段楼梯"，是 a flight of stairs 的用法。原文中国王和王后带悟空走下一层楼梯（a flight of stairs），来到关押唐僧的地牢。flight 的多个含义之间并无直接关联，需结合语境判断。',
+      examples: [
+        'She climbed a flight of stairs.（她爬了一段楼梯。）',
+        'His office is two flights up.（他的办公室在上面两层楼。）',
+      ],
+      synonyms: [
+        { word: 'staircase', note: '整部楼梯，指完整结构' },
+        { word: 'steps', note: '台阶，泛指一级级的阶梯' },
+      ],
+    },
+    {
+      word: 'dungeon',
+      phonetic: '/ˈdʌndʒən/',
+      brief: '地牢，地下监狱',
+      pos: 'noun',
+      detail:
+        'dungeon 指"地牢、地下监狱"，通常与中世纪城堡联系在一起，是关押犯人的阴暗地下空间。原文中唐僧被妖怪变成老虎后关在宫殿的地牢（palace dungeon）里，用铁笼囚禁。dungeon 带有阴暗、恐怖的联想。',
+      examples: [
+        'The prisoner was locked in a dark dungeon.（囚犯被关在黑暗的地牢里。）',
+        'The castle\'s dungeons are now a tourist attraction.（城堡的地牢现在是旅游景点。）',
+      ],
+      synonyms: [
+        { word: 'cell', note: '牢房，泛指监狱中的单个囚室' },
+        { word: 'prison', note: '监狱，泛指关押犯人的场所，规模更大' },
+      ],
+    },
+    {
+      word: 'bars',
+      phonetic: '/bɑːrz/',
+      brief: '栏杆，铁条（bar 的复数）',
+      pos: 'noun (plural of bar)',
+      detail:
+        'bar 指"条、棒"，此处 bars 指"铁栏杆、铁栅栏"。原文中悟空抓住关老虎的铁笼栏杆（bars），用力将它们掰开（twisted them apart），展现出他非凡的力量。',
+      examples: [
+        'The monkey gripped the bars of the cage.（猴子抓住笼子的铁栏杆。）',
+        'He was held behind steel bars.（他被关在铁栏杆后面。）',
+      ],
+      synonyms: [
+        { word: 'railings', note: '栏杆、围栏，通常指建筑外围的金属栏杆' },
+        { word: 'grille', note: '格栅、铁栅，强调网格结构' },
+      ],
+    },
+    {
+      word: 'apart',
+      phonetic: '/əˈpɑːrt/',
+      brief: '分开，拉开',
+      pos: 'adverb',
+      detail:
+        'apart 意为"分开、相距"。原文中悟空抓住铁栏杆将它们掰开（twisted them apart），apart 在此处表示将原本紧靠的铁条拉开、使之分离。apart 常与 pull、twist、tear 等动词搭配，表示"将某物拆开/拉开"。',
+      examples: [
+        'She tore the letter apart.（她把信撕碎了。）',
+        'He pulled the two pieces apart.（他把两块拉开。）',
+      ],
+      synonyms: [
+        { word: 'separate', note: '分开，更正式，可做动词和形容词' },
+        { word: 'asunder', note: '分成碎片，文学用语，常与 tear 搭配' },
+      ],
+    },
+    {
+      word: 'bloomed',
+      phonetic: '/bluːmd/',
+      brief: '开花，绽放',
+      pos: 'verb (past tense of bloom)',
+      detail:
+        'bloom 意为"开花、绽放"，原形 bloom。原文描写春天到来，空气变暖，花朵绽放（flowers bloomed）。bloomed 用过去时描述季节变化的景象。bloom 既可做动词也可做名词（如 in bloom 表示"盛开"）。',
+      examples: [
+        'The roses bloomed in June.（玫瑰在六月盛开。）',
+        'The cherry trees are in full bloom.（樱树正满树盛开。）',
+      ],
+      synonyms: [
+        { word: 'blossom', note: '开花，更常用于果树花，也比喻发展' },
+        { word: 'flourish', note: '繁荣，茂盛，强调生长旺盛' },
+      ],
+    },
+    {
+      word: 'swooped',
+      phonetic: '/swuːpt/',
+      brief: '俯冲，突然扑下',
+      pos: 'verb (past tense of swoop)',
+      detail:
+        'swoop 意为"俯冲、突然扑下"，原形 swoop。原文描写鸟儿从一棵树俯冲到另一棵树（birds swooped from tree to tree），表现春天鸟儿轻快飞行的动态画面。swoop 常用来描述猛禽或鸟类快速向下俯冲捕食的动作。',
+      examples: [
+        'The eagle swooped down on its prey.（老鹰向猎物俯冲下去。）',
+        'The children swooped down the hill on their bikes.（孩子们骑着自行车从山坡上冲下来。）',
+      ],
+      synonyms: [
+        { word: 'dive', note: '跳水、俯冲，更通用，不一定强调突然性' },
+        { word: 'plunge', note: '急降，投入，力度更大' },
+      ],
+    },
+    {
+      word: 'moaned',
+      phonetic: '/moʊnd/',
+      brief: '呻吟，抱怨',
+      pos: 'verb (past tense of moan)',
+      detail:
+        'moan 意为"呻吟、发出低沉的抱怨声"，原形 moan。原文中八戒被悟空叫去巡山，发出"Ugh"的抱怨声（moaned the pig），表现出他不情愿、嫌麻烦的态度。moan 既可指身体疼痛时的呻吟，也可指心理上的抱怨。',
+      examples: [
+        'He moaned about having to work late.（他抱怨不得不加班。）',
+        'The patient moaned in pain.（病人痛苦地呻吟着。）',
+      ],
+      synonyms: [
+        { word: 'groan', note: '呻吟，声音更低沉，多因痛苦或不满' },
+        { word: 'complain', note: '抱怨，更直接的口头表达' },
+      ],
+    },
+    {
+      word: 'Dragging',
+      phonetic: '/ˈdræɡɪŋ/',
+      brief: '拖着，拖着脚步走',
+      pos: 'verb (present participle of drag)',
+      detail:
+        'drag 意为"拖、拉"，此处用现在分词 Dragging 描写八戒拖着脚步上山（Dragging his feet），生动表现出他的懒散和不情愿。drag one\'s feet 是固定搭配，比喻"故意拖延、不积极行动"。原文既是字面描写（脚步沉重），也暗含拖延之意。',
+      examples: [
+        'He was dragging his feet on the way home.（他拖着脚步走回家。）',
+        'Stop dragging your feet and get to work!（别磨蹭了，快去干活！）',
+      ],
+      synonyms: [
+        { word: 'pulling', note: '拉，一般性的拉动动作' },
+        { word: 'trailing', note: '拖在后面，强调尾随的状态' },
+      ],
+    },
+    {
+      word: 'mumbled',
+      phonetic: '/ˈmʌmbld/',
+      brief: '含糊不清地说，嘟囔',
+      pos: 'verb (past tense of mumble)',
+      detail:
+        'mumble 意为"含糊不清地说、嘟囔"，原形 mumble。原文中八戒被啄木鸟吵醒后翻身嘟囔了几句（rolled over and mumbled），描写他半睡半醒、迷迷糊糊说话的状态。mumble 强调说话声音小且不清楚。',
+      examples: [
+        'He mumbled something I couldn\'t hear.（他嘟囔了几句我听不清的话。）',
+        'Stop mumbling and speak clearly!（别含含糊糊的，说清楚点！）',
+      ],
+      synonyms: [
+        { word: 'mutter', note: '低声说，常含不满或生气' },
+        { word: 'whisper', note: '耳语，小声说，不一定含糊' },
+      ],
+    },
+    {
+      word: 'Quit',
+      phonetic: '/kwɪt/',
+      brief: '停止，别（做某事）',
+      pos: 'verb',
+      detail:
+        'quit 意为"停止、放弃"。原文中八戒对啄木鸟大喊"Quit tapping"（别敲了！），此处 quit 用作祈使句，表示命令对方停止某动作。quit doing something 是口语中常见的表达，相当于 stop doing something。',
+      examples: [
+        'Quit talking and listen!（别说了，听我说！）',
+        'He quit smoking last year.（他去年戒烟了。）',
+      ],
+      synonyms: [
+        { word: 'stop', note: '停止，最通用的表达' },
+        { word: 'cease', note: '停止，较正式，多用于书面语' },
+      ],
+    },
+    {
+      word: 'annoying',
+      phonetic: '/əˈnɔɪɪŋ/',
+      brief: '令人烦恼的，讨厌的',
+      pos: 'adjective',
+      detail:
+        'annoying 意为"令人烦恼的、惹人厌的"。原文中八戒骂啄木鸟是"annoying woodpecker"（讨厌的啄木鸟），因为啄木鸟不断敲打让他无法睡觉。annoying 来自动词 annoy（使烦恼），形容持续给人带来困扰的人或事物。',
+      examples: [
+        'The mosquito was very annoying.（那只蚊子非常讨厌。）',
+        'He has an annoying habit of interrupting people.（他有打断别人说话的讨厌习惯。）',
+      ],
+      synonyms: [
+        { word: 'irritating', note: '令人恼火的，程度稍强于 annoying' },
+        { word: 'bothersome', note: '烦人的，较温和，侧重造成不便' },
+      ],
+    },
+    {
+      word: 'ashamed',
+      phonetic: '/əˈʃeɪmd/',
+      brief: '羞愧的，惭愧的',
+      pos: 'adjective',
+      detail:
+        'ashamed 意为"羞愧的、惭愧的"。原文中沙僧对八戒说"You should be ashamed of yourself"（你应该为自己感到羞愧），因为八戒偷懒没有真正巡山，还撒谎骗大家。be ashamed of oneself 表示"为自己感到羞耻"。',
+      examples: [
+        'She felt ashamed of her behavior.（她为自己的行为感到羞愧。）',
+        'You should be ashamed of yourself!（你应该感到羞耻！）',
+      ],
+      synonyms: [
+        { word: 'embarrassed', note: '尴尬的，难堪的，程度较轻' },
+        { word: 'guilty', note: '内疚的，强调做了错事后的自责' },
+      ],
+    },
+    {
+      word: 'trotted',
+      phonetic: '/ˈtrɒtɪd/',
+      brief: '小跑，快步走',
+      pos: 'verb (past tense of trot)',
+      detail:
+        'trot 意为"小跑、快步走"，原形 trot。原文中八戒把一只狐狸误认为是悟空变的，挥舞钉耙赶走了它（The fox trotted away），描写狐狸迈着小快步离开的样子。trot 通常指比走路快、比奔跑慢的步伐，常用于描述四足动物的运动方式。',
+      examples: [
+        'The dog trotted along beside its owner.（狗在主人旁边小跑着。）',
+        'She trotted up the stairs.（她快步跑上楼。）',
+      ],
+      synonyms: [
+        { word: 'jog', note: '慢跑，多用于人，节奏均匀' },
+        { word: 'scamper', note: '蹦蹦跳跳地跑，多用于小动物' },
+      ],
+    },
+    {
+      word: 'robin',
+      phonetic: '/ˈrɒbɪn/',
+      brief: '知更鸟',
+      pos: 'noun',
+      detail:
+        'robin 指"知更鸟"，一种胸部有红色或橙色羽毛的小型鸣禽。原文中一只知更鸟飞过八戒头顶（A robin flew past Bajie\'s head），八戒又误以为是悟空变的。在西方文化中，robin 是春天和圣诞节的象征，常出现在文学作品和节日贺卡中。',
+      examples: [
+        'A robin sat on the garden fence.（一只知更鸟停在花园的篱笆上。）',
+        'Robins are often associated with Christmas in England.（在英国，知更鸟常与圣诞节联系在一起。）',
+      ],
+      synonyms: [
+        { word: 'songbird', note: '鸣禽，泛指会唱歌的小鸟' },
+      ],
+    },
+    {
+      word: 'curled along',
+      phonetic: '/kɜːrld əˈlɔːŋ/',
+      brief: '沿着…蔓延开来',
+      pos: 'phrase',
+      detail:
+        'curl along 意为"沿着…蜿蜒、蔓延"。原文描写妖怪的微笑沿着嘴角蔓延开来（A smile curled along the demon\'s lips），生动地表现了妖怪贪婪、阴险的笑容逐渐浮现的过程。curl 本义为"卷曲"，此处用拟人手法将笑容比作沿嘴唇蔓延的曲线。',
+      examples: [
+        'A smile curled along her lips.（一抹微笑浮现在她唇边。）',
+        'Smoke curled along the ceiling.（烟雾沿着天花板蔓延。）',
+      ],
+      synonyms: [
+        { word: 'spread across', note: '在…上蔓延开来，更通用' },
+        { word: 'crept over', note: '悄悄爬过，强调缓慢渐进' },
+      ],
+    },
+    {
+      word: 'lips',
+      phonetic: '/lɪps/',
+      brief: '嘴唇',
+      pos: 'noun (plural of lip)',
+      detail:
+        'lip 指"嘴唇"，lips 为复数形式。原文中妖怪的微笑沿嘴角蔓延（along the demon\'s lips），是经典的文学描写手法。lip 常出现在固定搭配中，如 on everyone\'s lips（人人都在谈论）、read my lips（注意听我说）。',
+      examples: [
+        'She had a smile on her lips.（她嘴角带着微笑。）',
+        'The words were on his lips but he didn\'t say them.（话到嘴边他却没有说出口。）',
+      ],
+      synonyms: [
+        { word: 'mouth', note: '嘴，更泛指整个口腔' },
+      ],
+    },
+    {
+      word: 'injured',
+      phonetic: '/ˈɪndʒərd/',
+      brief: '受伤的',
+      pos: 'adjective / verb (past participle of injure)',
+      detail:
+        'injured 意为"受伤的"，可做形容词或动词过去分词。原文中老和尚（实为妖怪伪装）声称腿受伤了（My leg is injured），后来悟空扛着受伤的老和尚（carried the injured monk）。injure 比 hurt 更正式，通常指较严重的外伤。',
+      examples: [
+        'He was injured in a car accident.（他在车祸中受伤了。）',
+        'The injured player was taken to hospital.（受伤的球员被送往医院。）',
+      ],
+      synonyms: [
+        { word: 'hurt', note: '受伤，更口语化，程度可轻可重' },
+        { word: 'wounded', note: '受伤，多用于刀伤、枪伤等战斗伤害' },
+      ],
+    },
+    {
+      word: 'ever',
+      phonetic: '/ˈevər/',
+      brief: '究竟，到底（用于强调疑问）',
+      pos: 'adverb',
+      detail:
+        'ever 意为"曾经、究竟"，此处用于疑问句中加强语气。原文中假扮老和尚的妖怪哭诉"How will I ever get back home?"（我到底怎么才能回家呢？），ever 强化了无助和绝望的情绪。will I ever... 是一种表达怀疑或绝望的常见句式。',
+      examples: [
+        'How will I ever finish this?（我到底怎么才能做完这个？）',
+        'Will we ever see him again?（我们还能再见到他吗？）',
+      ],
+      synonyms: [
+        { word: 'never', note: '从不，与 ever 相反' },
+        { word: 'at all', note: '根本，用于强调否定或疑问' },
+      ],
+    },
+    {
+      word: 'suspiciously',
+      phonetic: '/səˈspɪʃəsli/',
+      brief: '怀疑地，可疑地',
+      pos: 'adverb',
+      detail:
+        'suspiciously 意为"怀疑地、可疑地"，来自形容词 suspicious（可疑的）。原文中悟空怀疑地看着老和尚（looked suspiciously at the man），因为他凭借火眼金睛识破了妖怪的伪装。look suspiciously at someone 表示用怀疑的目光打量某人。',
+      examples: [
+        'She looked at him suspiciously.（她怀疑地看着他。）',
+        'The dog growled suspiciously at the stranger.（那只狗对陌生人可疑地吠叫。）',
+      ],
+      synonyms: [
+        { word: 'doubtfully', note: '怀疑地，侧重不确定' },
+        { word: 'warily', note: '警惕地，侧重小心谨慎' },
+      ],
+    },
+    {
+      word: 'weight',
+      phonetic: '/weɪt/',
+      brief: '重量，重物',
+      pos: 'noun',
+      detail:
+        'weight 意为"重量、重物"。原文中悟空感到一股沉重的重压压在身上（a heavy weight pressing down on him），原来是妖怪用魔法把一座山压在他头上。weight 既可指抽象的"重量"，也可指具体的"重物"。',
+      examples: [
+        'The weight of the box surprised her.（盒子的重量让她吃惊。）',
+        'He felt the weight of responsibility on his shoulders.（他感到肩上责任重大。）',
+      ],
+      synonyms: [
+        { word: 'burden', note: '负担，侧重精神上的重压' },
+        { word: 'load', note: '负荷，侧重被承载的重量' },
+      ],
+    },
+    {
+      word: 'glanced',
+      phonetic: '/ɡlænst/',
+      brief: '瞥了一眼，匆匆一看',
+      pos: 'verb (past tense of glance)',
+      detail:
+        'glance 意为"瞥一眼、匆匆一看"，原形 glance。原文中悟空向上瞥了一眼（glanced up），发现一座山竟然平衡在自己头顶上。glance 强调快速、短暂地看一眼，区别于 stare（凝视）或 gaze（注视）。',
+      examples: [
+        'She glanced at her watch.（她瞥了一眼手表。）',
+        'He glanced up from his book.（他从书上抬起头看了一眼。）',
+      ],
+      synonyms: [
+        { word: 'peek', note: '偷看，快速看一眼，带好奇意味' },
+        { word: 'stare', note: '凝视，长时间盯着看，与 glance 相反' },
+      ],
+    },
+    {
+      word: 'balanced',
+      phonetic: '/ˈbælənst/',
+      brief: '平衡在…上面',
+      pos: 'verb (past participle of balance)',
+      detail:
+        'balance 意为"使平衡"。原文中悟空发现一整座山竟然平衡地放在他头顶上（an entire mountain was balanced on top of his head），被动语态 was balanced 描写出山体神奇地、稳稳地搁在他头上的场景。',
+      examples: [
+        'She balanced a book on her head.（她在头上放了一本书保持平衡。）',
+        'The vase was balanced on the edge of the table.（花瓶摇摇欲坠地放在桌子边缘。）',
+      ],
+      synonyms: [
+        { word: 'poised', note: '悬停的，稳定的，强调蓄势待发' },
+        { word: 'steady', note: '稳固的，平稳的' },
+      ],
+    },
+    {
+      word: 'the first two',
+      phonetic: '/ðə fɜːrst tuː/',
+      brief: '前两座（指前两座山）',
+      pos: 'phrase',
+      detail:
+        'the first two 意为"前两个/前两座"。原文中第三座山出现在前两座山之上（on top of the first two），指之前妖怪已经用魔法压在悟空头上的两座山。the first two 是常见的省略表达，相当于 the first two mountains。',
+      examples: [
+        'She won the first two games.（她赢了前两场比赛。）',
+        'The first two chapters are the most important.（前两章是最重要的。）',
+      ],
+      synonyms: [],
+    },
+    {
+      word: 'buckled',
+      phonetic: '/ˈbʌkld/',
+      brief: '弯曲，支撑不住',
+      pos: 'verb (past tense of buckle)',
+      detail:
+        'buckle 此处意为"弯曲、屈服"，原形 buckle。原文中悟空的膝盖在三座山的重压下弯曲支撑不住了（Wukong\'s knees buckled），描写三座大山终于压垮了齐天大圣。buckle 还可表示"扣上搭扣"（如系安全带），需根据语境区分。',
+      examples: [
+        'His knees buckled under the weight.（他的膝盖在重压下弯曲了。）',
+        'The bridge buckled in the earthquake.（桥在地震中变形了。）',
+      ],
+      synonyms: [
+        { word: 'collapsed', note: '倒塌，完全垮掉，程度比 buckle 更严重' },
+        { word: 'gave way', note: '支撑不住，垮了' },
+      ],
+    },
+    {
+      word: 'crashed down',
+      phonetic: '/kræʃt daʊn/',
+      brief: '砸下来，轰然倒塌',
+      pos: 'phrase (verb)',
+      detail:
+        'crash down 意为"猛然倒塌、砸下来"。原文中三座山轰然砸在悟空身上（all three mountains crashed down on top of him），描写山峰猛烈地压在他身上的震撼场景。crash 强调撞击的力度和声响，down 表示向下的方向。',
+      examples: [
+        'The tree crashed down in the storm.（暴风雨中那棵树轰然倒塌。）',
+        'The waves crashed down on the rocks.（海浪猛烈地拍打在岩石上。）',
+      ],
+      synonyms: [
+        { word: 'collapsed', note: '倒塌，强调结构性的垮塌' },
+        { word: 'slammed down', note: '猛然放下/砸下，强调力度' },
+      ],
+    },
+    {
+      word: 'delight',
+      phonetic: '/dɪˈlaɪt/',
+      brief: '高兴，欣喜',
+      pos: 'noun',
+      detail:
+        'delight 意为"高兴、欣喜、快乐"。原文中金角大王得意地大笑（laughed with delight），因为自以为最强大的对手悟空已被制服。with delight 表示"高兴地、欣喜若狂地"，常与 laugh、gasp 等动词搭配。',
+      examples: [
+        'The children squealed with delight.（孩子们高兴得尖叫起来。）',
+        'To my delight, she said yes.（令我高兴的是，她答应了。）',
+      ],
+      synonyms: [
+        { word: 'joy', note: '欢乐，喜悦，程度更强烈持久' },
+        { word: 'pleasure', note: '愉快，满足，程度较温和' },
+      ],
+    },
+    {
+      word: 'sucked into',
+      phonetic: '/sʌkt ˈɪntuː/',
+      brief: '被吸进去',
+      pos: 'phrase (verb)',
+      detail:
+        'suck into 意为"把…吸进去"。原文中金角大王吩咐小妖用宝葫芦喊悟空的名字，就能把他吸进去（he will be sucked into the gourd）。suck 指用吸力将某物拉入，into 表示方向。被动语态 was/will be sucked into 描写宝葫芦的神奇威力。',
+      examples: [
+        'The spaceship was sucked into the black hole.（飞船被吸进了黑洞。）',
+        'Don\'t get sucked into their argument.（别被卷进他们的争吵中。）',
+      ],
+      synonyms: [
+        { word: 'pulled into', note: '被拉进去，力度不如 suck 强' },
+        { word: 'drawn into', note: '被卷入，多用于比喻义' },
+      ],
+    },
+    {
+      word: 'was about to',
+      phonetic: '/wəz əˈbaʊt tuː/',
+      brief: '正准备，刚要',
+      pos: 'phrase',
+      detail:
+        'be about to 意为"正准备做某事、马上就要"。原文中悟空正准备再次推山（He was about to push again），就在那一刻山突然升空了。was about to... when... 是常见叙事句式，表示"正要做某事时，突然…"。',
+      examples: [
+        'I was about to leave when the phone rang.（我正要出门时电话响了。）',
+        'She was about to speak but changed her mind.（她正要说话但又改变了主意。）',
+      ],
+      synonyms: [
+        { word: 'was going to', note: '打算做，不如 about to 紧迫' },
+        { word: 'was on the point of', note: '正要做，更正式' },
+      ],
+    },
+    {
+      word: 'ducked',
+      phonetic: '/dʌkt/',
+      brief: '蹲下，迅速低头躲避',
+      pos: 'verb (past tense of duck)',
+      detail:
+        'duck 此处意为"迅速低头、蹲下躲避"，原形 duck。原文中悟空在小妖看到他之前迅速躲到岩石后面（ducked behind a rock）。duck 做动词时指快速弯腰或低头以避开视线或危险，与名词"鸭子"同形同音。',
+      examples: [
+        'He ducked behind a wall to hide.（他蹲到墙后面躲起来。）',
+        'She ducked to avoid the low branch.（她低头躲过了低矮的树枝。）',
+      ],
+      synonyms: [
+        { word: 'dodged', note: '闪避，强调躲开攻击或危险' },
+        { word: 'crouched', note: '蹲下，强调姿势而非躲避意图' },
+      ],
+    },
+    {
+      word: 'be willing to',
+      phonetic: '/biː ˈwɪlɪŋ tuː/',
+      brief: '愿意做某事',
+      pos: 'phrase',
+      detail:
+        'be willing to 意为"愿意做某事、乐意做某事"。原文中悟空假装说"我也许愿意和你换葫芦"（I might be willing to trade gourds with you），实际是在设套骗取宝葫芦。willing 表示"乐意的、心甘情愿的"，与 reluctant（不情愿的）相反。',
+      examples: [
+        'Are you willing to help us?（你愿意帮助我们吗？）',
+        'She is willing to try anything once.（她什么 都愿意试一次。）',
+      ],
+      synonyms: [
+        { word: 'be prepared to', note: '准备好做，侧重心理准备' },
+        { word: 'be ready to', note: '准备好做，侧重时机成熟' },
+      ],
+    },
+    {
+      word: 'trade',
+      phonetic: '/treɪd/',
+      brief: '交换，交易',
+      pos: 'verb',
+      detail:
+        'trade 意为"交换、交易"。原文中悟空提出要和小妖交换葫芦（trade gourds with you），用假葫芦骗取真宝葫芦。trade 既可做动词也可做名词，此处做动词。trade A for B 表示"用 A 换 B"。',
+      examples: [
+        'Let\'s trade seats.（我们换个座位吧。）',
+        'He traded his car for a motorcycle.（他用汽车换了一辆摩托车。）',
+      ],
+      synonyms: [
+        { word: 'exchange', note: '交换，较正式' },
+        { word: 'swap', note: '互换，口语化，指同类物品交换' },
+      ],
+    },
+    {
+      word: 'dim',
+      phonetic: '/dɪm/',
+      brief: '使变暗，变暗淡',
+      pos: 'verb / adjective',
+      detail:
+        'dim 意为"使变暗、变暗淡"。原文中悟空请求天庭守卫关闭天门、让星光变暗（dim the stars），好让地上的小妖误以为天庭被吸进了葫芦。此处 dim 做动词用。dim 做形容词时表示"昏暗的、不明亮的"。',
+      examples: [
+        'He dimmed the lights.（他把灯光调暗了。）',
+        'The room was dim and quiet.（房间昏暗而安静。）',
+      ],
+      synonyms: [
+        { word: 'darken', note: '使变暗，更通用' },
+        { word: 'fade', note: '褪色，变淡，强调逐渐变弱' },
+      ],
+    },
+    {
+      word: 'slammed his fist down',
+      phonetic: '/slæmd hɪz fɪst daʊn/',
+      brief: '猛拍桌子，猛砸拳头',
+      pos: 'phrase',
+      detail:
+        'slam one\'s fist down 意为"猛砸拳头、猛拍桌子"。原文中玉皇大帝听到悟空又要大闹天宫，气得猛拍桌子（slammed his fist down）。slam 指"猛然关闭或重击"，fist 指"拳头"。这个动作表现出玉帝的愤怒和恼火。',
+      examples: [
+        'He slammed his fist down on the table.（他猛拍桌子。）',
+        'The judge slammed his fist down in anger.（法官愤怒地猛拍桌子。）',
+      ],
+      synonyms: [
+        { word: 'banged the table', note: '拍桌子，更口语化' },
+        { word: 'pounded his fist', note: '连续捶拳，强调反复敲击' },
+      ],
+    },
+    {
+      word: 'rotten',
+      phonetic: '/ˈrɒtn/',
+      brief: '讨厌的，可恶的',
+      pos: 'adjective',
+      detail:
+        'rotten 本义为"腐烂的、腐朽的"，此处做俚语表示"讨厌的、可恶的"。原文中玉皇大帝骂悟空是"that rotten monkey"（那只讨厌的猴子），表达他对悟空的厌烦和愤怒。rotten 用于骂人时语气较轻，类似中文"臭猴子"。',
+      examples: [
+        'You rotten liar!（你这个可恶的骗子！）',
+        'The rotten weather ruined our trip.（糟糕的天气毁了我们的旅行。）',
+      ],
+      synonyms: [
+        { word: 'terrible', note: '糟糕的，语气较通用' },
+        { word: 'lousy', note: '差劲的，口语化' },
+      ],
+    },
+    {
+      word: 'planets',
+      phonetic: '/ˈplænɪts/',
+      brief: '行星',
+      pos: 'noun (plural of planet)',
+      detail:
+        'planet 意为"行星"，planets 为复数。原文中悟空骗小妖说葫芦里装了整个天庭，包括所有的星星、行星、神仙（stars, planets, spirits, and gods）。planet 指围绕恒星运行的天体，区别于 star（恒星）。',
+      examples: [
+        'Earth is the third planet from the Sun.（地球是距离太阳第三近的行星。）',
+        'Do you think there is life on other planets?（你认为其他行星上有生命吗？）',
+      ],
+      synonyms: [],
+    },
+    {
+      word: 'Fascinating',
+      phonetic: '/ˈfæsɪneɪtɪŋ/',
+      brief: '太神奇了，引人入胜的',
+      pos: 'adjective',
+      detail:
+        'fascinating 意为"迷人的、引人入胜的、令人着迷的"。原文中小妖看到天庭"被吸进"葫芦后惊叹"Fascinating!"（太神奇了！），表现出他的惊叹和羡慕。fascinating 语气比 interesting 强烈，表示某事物令人深深着迷。',
+      examples: [
+        'That\'s a fascinating story!（那故事太引人入胜了！）',
+        'She finds ancient history fascinating.（她觉得古代历史令人着迷。）',
+      ],
+      synonyms: [
+        { word: 'amazing', note: '令人惊叹的，侧重惊奇' },
+        { word: 'captivating', note: '迷人的，侧重吸引注意力' },
+      ],
+    },
+    {
+      word: 'clobber',
+      phonetic: '/ˈklɒbər/',
+      brief: '痛打，猛击',
+      pos: 'verb',
+      detail:
+        'clobber 意为"痛打、猛击"，是口语化的表达。原文中悟空冲进妖怪洞穴大喊"I\'ll clobber all of you!"（我要把你们统统痛打一顿！），展现出他霸气和好斗的性格。clobber 比 hit 或 beat 更生动，带有"彻底击败"的意味。',
+      examples: [
+        'He clobbered his opponent in the boxing match.（他在拳击比赛中痛击了对手。）',
+        'If you don\'t stop, I\'ll clobber you!（你再不停下来我就揍你！）',
+      ],
+      synonyms: [
+        { word: 'thrash', note: '痛打，鞭打，程度较重' },
+        { word: 'pound', note: '连续重击' },
+      ],
+    },
+    {
+      word: 'snagged',
+      phonetic: '/snæɡd/',
+      brief: '勾住，缠住',
+      pos: 'verb (past tense of snag)',
+      detail:
+        'snag 意为"勾住、缠住、绊住"，原形 snag。原文中金角大王挥出金绳，绳子勾住了悟空（the rope snagged him），绳子缠在他腰上越挣扎越紧。snag 强调被意外地勾住或卡住。',
+      examples: [
+        'Her sweater snagged on a nail.（她的毛衣被钉子勾住了。）',
+        'The fishing line snagged on a rock.（鱼线被石头缠住了。）',
+      ],
+      synonyms: [
+        { word: 'caught', note: '抓住，最通用' },
+        { word: 'entangled', note: '缠绕，较正式' },
+      ],
+    },
+    {
+      word: 'waist',
+      phonetic: '/weɪst/',
+      brief: '腰，腰部',
+      pos: 'noun',
+      detail:
+        'waist 意为"腰、腰部"。原文中金绳缠住了悟空的腰（looped around his waist），越挣扎越紧。waist 指人体胸和臀之间的最细处。',
+      examples: [
+        'She put her hands on her waist.（她双手叉腰。）',
+        'The belt goes around your waist.（腰带系在腰上。）',
+      ],
+      synonyms: [],
+    },
+    {
+      word: 'wriggle',
+      phonetic: '/ˈrɪɡl/',
+      brief: '扭动，挣脱',
+      pos: 'verb',
+      detail:
+        'wriggle 意为"扭动身体、蠕动"。原文中悟空越想扭动挣脱金绳，绳子反而越紧（The more Wukong tried to wriggle free, the tighter the rope got）。wriggle free 是固定搭配，表示"扭动着挣脱"。wriggle 强调小幅度的身体扭动。',
+      examples: [
+        'The worm wriggled in his hand.（虫子在他手里扭动着。）',
+        'She wriggled free from his grasp.（她扭动着从他手里挣脱了。）',
+      ],
+      synonyms: [
+        { word: 'squirm', note: '扭动，侧重不适或尴尬' },
+        { word: 'struggle', note: '挣扎，力度更大' },
+      ],
+    },
+    {
+      word: 'dine on',
+      phonetic: '/daɪn ɒn/',
+      brief: '享用，以…为食',
+      pos: 'phrase (verb)',
+      detail:
+        'dine on 意为"以…为盛宴享用"。原文中金角大王说"Tonight I will dine on the Tang Monk!"（今晚我要享用唐僧肉！），dine on 表示以某种食物为主菜来享用，语气比 eat 更正式、更贪婪。',
+      examples: [
+        'They dined on roast beef and champagne.（他们享用烤牛肉和香槟。）',
+        'The king dined on the finest food.（国王享用最精美的食物。）',
+      ],
+      synonyms: [
+        { word: 'feast on', note: '大吃特吃，强调丰盛' },
+        { word: 'feed on', note: '以…为食，多用于动物' },
+      ],
+    },
+    {
+      word: 'struggled',
+      phonetic: '/ˈstrʌɡld/',
+      brief: '挣扎，奋力挣脱',
+      pos: 'verb (past tense of struggle)',
+      detail:
+        'struggle 意为"挣扎、奋力"。原文中悟空被金绳缠住，挣扎着想要挣脱（struggled to free himself from the golden rope）。struggle to do something 表示"努力做某事（但有困难）"，强调过程的艰辛。',
+      examples: [
+        'He struggled to escape the net.（他挣扎着想要挣脱网。）',
+        'She struggled to carry the heavy box.（她费力地搬运那个重箱子。）',
+      ],
+      synonyms: [
+        { word: 'fought', note: '战斗，对抗，力度更大' },
+        { word: 'wrestled', note: '摔跤，扭打，强调身体对抗' },
+      ],
+    },
+    {
+      word: 'banged',
+      phonetic: '/bæŋd/',
+      brief: '猛敲，砰砰地砸',
+      pos: 'verb (past tense of bang)',
+      detail:
+        'bang 意为"猛敲、砰砰地砸"。原文中悟空两次猛敲洞穴大门（banged on the cave door），表现他的霸气和急切。bang on something 表示用力敲打某物，发出巨大的声响。',
+      examples: [
+        'He banged on the door.（他砰砰地敲门。）',
+        'She banged the drum loudly.（她大声敲鼓。）',
+      ],
+      synonyms: [
+        { word: 'pounded', note: '连续重击，力度更大' },
+        { word: 'knocked', note: '敲门，力度较轻' },
+      ],
+    },
+    {
+      word: 'violence',
+      phonetic: '/ˈvaɪələns/',
+      brief: '暴力',
+      pos: 'noun',
+      detail:
+        'violence 意为"暴力"。原文中悟空假装遗憾地说想不用暴力解决问题（without violence），实际是讽刺——他紧接着就拿出了铁棒。violence 指"使用身体力量伤害他人的行为"，without violence 即"不使用暴力"。',
+      examples: [
+        'They protested against violence.（他们抗议暴力行为。）',
+        'The movie contains scenes of violence.（这部电影包含暴力场面。）',
+      ],
+      synonyms: [
+        { word: 'force', note: '武力，力量，较通用' },
+        { word: 'brutality', note: '残忍，野蛮，程度更极端' },
+      ],
+    },
+    {
+      word: 'cap',
+      phonetic: '/kæp/',
+      brief: '盖子',
+      pos: 'noun',
+      detail:
+        'cap 意为"盖子、帽子"。原文中金角大王把悟空吸入葫芦后盖上盖子（put a cap on the gourd），后来又打开盖子查看（removed the cap）。cap 此处指容器的盖子。cap 还可指棒球帽等帽子。',
+      examples: [
+        'Put the cap back on the bottle.（把瓶盖盖回去。）',
+        'He unscrewed the cap of the pen.（他拧开笔帽。）',
+      ],
+      synonyms: [
+        { word: 'lid', note: '盖子，多指锅盖、盒盖等扁平的盖子' },
+        { word: 'cover', note: '覆盖物，较通用' },
+      ],
+    },
+    {
+      word: 'as if',
+      phonetic: '/æz ɪf/',
+      brief: '好像，仿佛',
+      pos: 'conjunction',
+      detail:
+        'as if 意为"好像、仿佛"，用于引导方式状语从句。原文中悟空制造假象，让它看起来仿佛假悟空的腿已经化成了液体（it looked as if the fake Wukong\'s legs had turned into liquid）。as if 常与 look、sound、feel 等感官动词搭配。',
+      examples: [
+        'It looks as if it\'s going to rain.（看起来好像要下雨了。）',
+        'She acted as if nothing had happened.（她表现得好像什么都没发生。）',
+      ],
+      synonyms: [
+        { word: 'as though', note: '好像，与 as if 几乎完全同义，稍正式' },
+        { word: 'like', note: '像…一样，口语化，非正式用法中可替代 as if' },
+      ],
+    },
+    {
+      word: 'unseen',
+      phonetic: '/ʌnˈsiːn/',
+      brief: '不被看见地，未被察觉地',
+      pos: 'adverb / adjective',
+      detail:
+        'unseen 意为"不被看见的、未被察觉的"，由 un-（不）+ seen（被看见）构成。原文中缩小后的悟空趁金角大王打开盖子时跳了出来，未被察觉（leaped out, unseen）。unseen 此处做副词，修饰动作的隐蔽性。',
+      examples: [
+        'He slipped away unseen.（他悄悄溜走了，没人看见。）',
+        'The spy watched them from an unseen corner.（间谍从看不见的角落监视着他们。）',
+      ],
+      synonyms: [
+        { word: 'unnoticed', note: '未被注意的，侧重未引起关注' },
+        { word: 'invisible', note: '看不见的，侧重本身不可见' },
+      ],
+    },
+    {
+      word: 'tilted',
+      phonetic: '/ˈtɪltɪd/',
+      brief: '倾斜，歪（头）',
+      pos: 'verb (past tense of tilt)',
+      detail:
+        'tilt 意为"倾斜、歪斜"。原文中金角大王歪着头准备喝水（tilted his head to take a drink），就在这时悟空趁机偷走了宝葫芦。tilt one\'s head 指把头歪向一侧，是常见的描写动作。',
+      examples: [
+        'She tilted her head to look at the painting.（她歪着头看那幅画。）',
+        'The boat tilted to one side.（船向一侧倾斜了。）',
+      ],
+      synonyms: [
+        { word: 'leaned', note: '倾斜，靠向，动作更缓慢' },
+        { word: 'tipped', note: '倾斜，轻推使歪' },
+      ],
+    },
+    {
+      word: 'slipped',
+      phonetic: '/slɪpt/',
+      brief: '悄悄塞入，偷偷放入',
+      pos: 'verb (past tense of slip)',
+      detail:
+        'slip 意为"悄悄放入、滑入"。原文中悟空趁金角大王不注意，把真宝葫芦悄悄塞进自己的袍子里（slipped the gourd into his robe）。此处 slip 表示快速、隐蔽地将某物放入某处，强调动作的敏捷和不为人知。',
+      examples: [
+        'He slipped a note into her hand.（他悄悄把纸条塞到她手里。）',
+        'She slipped the book into her bag.（她偷偷把书塞进了包里。）',
+      ],
+      synonyms: [
+        { word: 'sneaked', note: '偷偷摸摸地做，强调不被人发现' },
+        { word: 'tucked', note: '塞入，藏好，侧重收拢' },
+      ],
+    },
+    {
+      word: 'threw',
+      phonetic: '/θruː/',
+      brief: '猛然打开（门）',
+      pos: 'verb (past tense of throw)',
+      detail:
+        'throw 意为"投、扔"，但 throw the door open 是固定搭配，表示"猛然把门打开"。原文中金角大王猛地打开门（threw the door open），表现出他的急躁和愤怒。throw 此处强调开门动作的力度和突然性。',
+      examples: [
+        'She threw the door open and stormed in.（她猛地推开门冲了进去。）',
+        'He threw open the window to get fresh air.（他猛地推开窗户透气。）',
+      ],
+      synonyms: [
+        { word: 'flung open', note: '猛然打开，力度更大，更戏剧化' },
+        { word: 'burst open', note: '突然打开，强调突发性' },
+      ],
+    },
+    {
+      word: 'nephews',
+      phonetic: '/ˈnefjuːz/',
+      brief: '侄子们',
+      pos: 'noun (plural of nephew)',
+      detail:
+        'nephew 意为"侄子、外甥"，nephews 为复数。原文中悟空假扮成另一个人，声称金角大王抓了他的侄子们（You captured my nephews），这是悟空编造的假身份故事。nephew 指兄弟的儿子，niece 指兄弟的女儿。',
+      examples: [
+        'My nephew is five years old.（我的侄子五岁了。）',
+        'She has two nephews and one niece.（她有两个侄子和一个侄女。）',
+      ],
+      synonyms: [],
+    },
+  ],
 };
 
 export default vocab;
