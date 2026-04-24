@@ -8125,6 +8125,916 @@ const vocab = {
       synonyms: [],
     },
   ],
+  book_08: [
+    {
+      word: 'scowled',
+      phonetic: '/ˈskaʊld/',
+      brief: '皱眉，怒视',
+      pos: 'verb (past tense of scowl)',
+      detail:
+        'scowl 指因生气或不悦而皱起眉头、拉下脸来。本书中出现两次：第一次是金角大王对悟空怒目而视（Golden Horn scowled at Wukong）；第二次是唐僧对悟空皱眉表示不满（The Tang Monk scowled at the monkey），两次都表现了强烈的不满情绪。',
+      examples: [
+        'She scowled at the rude customer.（她对那个无礼的顾客怒目而视。）',
+        'He scowled when he heard the bad news.（他听到坏消息时皱起了眉头。）',
+      ],
+      synonyms: [
+        { word: 'frown', note: '皱眉，可因困惑或不悦，程度较轻' },
+        { word: 'glare', note: '怒视，带有更强烈的敌意' },
+      ],
+    },
+    {
+      word: 'doubt',
+      phonetic: '/daʊt/',
+      brief: '怀疑，不信',
+      pos: 'verb',
+      detail:
+        'doubt 表示对某事的真实性或可能性感到不确定、不相信。原文中金角大王说 I doubt you have a gourd like mine，表示他不相信悟空拥有类似的宝葫芦。注意 doubt 中字母 b 不发音。',
+      examples: [
+        'I doubt he will come on time.（我怀疑他不会准时来。）',
+        'Nobody doubted her ability.（没有人怀疑她的能力。）',
+      ],
+      synonyms: [
+        { word: 'suspect', note: '怀疑（偏向认为某事是真的）' },
+        { word: 'question', note: '质疑，提出疑问' },
+      ],
+    },
+    {
+      word: 'several',
+      phonetic: '/ˈsevərəl/',
+      brief: '几个，数个',
+      pos: 'determiner / pronoun',
+      detail:
+        'several 表示几个、数个，通常指三个以上但不超过很多。原文中 Several demons were inside 描述洞穴里有一些小妖，数量不多但足以造成威胁。',
+      examples: [
+        'I have several questions to ask.（我有几个问题想问。）',
+        'Several students were late today.（今天有几个学生迟到了。）',
+      ],
+      synonyms: [
+        { word: 'a few', note: '少数几个，语气更少' },
+      ],
+    },
+    {
+      word: 'shrugged',
+      phonetic: '/ʃrʌɡd/',
+      brief: '耸肩（表示不在乎、无奈或不知道）',
+      pos: 'verb (past tense of shrug)',
+      detail:
+        'shrug 指上下耸动肩膀，是英语中常见的肢体语言，表示无所谓或我不知道的态度。原文中悟空对八戒的抱怨耸耸肩，表现出漫不经心的态度。',
+      examples: [
+        'She shrugged and said she did not know.（她耸了耸肩说不知道。）',
+        'He shrugged off the criticism.（他对批评满不在乎。）',
+      ],
+      synonyms: [
+        { word: 'dismiss', note: '不予理会，更正式' },
+      ],
+    },
+    {
+      word: 'boomed',
+      phonetic: '/buːmd/',
+      brief: '用低沉洪亮的声音说话',
+      pos: 'verb (past tense of boom)',
+      detail:
+        'boom 作动词指发出低沉而响亮的声音，常用来描述人说话时声音浑厚有力、带有威严。原文中老子用洪亮的声音命令悟空归还葫芦，体现了他作为天神的威势。',
+      examples: [
+        'Silence! boomed the principal.（安静！校长用洪亮的声音说道。）',
+        'Thunder boomed in the distance.（远处传来隆隆雷声。）',
+      ],
+      synonyms: [
+        { word: 'roared', note: '咆哮，声音更猛烈' },
+        { word: 'bellowed', note: '大声吼叫，带有愤怒色彩' },
+      ],
+    },
+    {
+      word: 'joking around',
+      phonetic: '/ˈdʒoʊkɪŋ əˈraʊnd/',
+      brief: '开玩笑，闹着玩',
+      pos: 'phrase',
+      detail:
+        'joke around 是一个非正式短语，意为开玩笑、闹着玩。原文中悟空对老子说 I was just joking around，意思是自己只是开个玩笑，并非真的想耍赖不还葫芦。',
+      examples: [
+        'Do not be mad, I am just joking around.（别生气，我只是在开玩笑。）',
+        'The kids were joking around after class.（孩子们下课后在闹着玩。）',
+      ],
+      synonyms: [
+        { word: 'kidding', note: '开玩笑，更简短口语化' },
+        { word: 'messing around', note: '胡闹、瞎搞，语气更随便' },
+      ],
+    },
+    {
+      word: 'glanced',
+      phonetic: '/ɡlænst/',
+      brief: '瞥了一眼，匆匆看了一眼',
+      pos: 'verb (past tense of glance)',
+      detail:
+        'glance 指快速地看一眼，通常不是仔细观察。原文中悟空随意地看了一眼葫芦（glanced at the gourd），暗示他并不太担心金角大王的情况。',
+      examples: [
+        'She glanced at her watch.（她瞥了一眼手表。）',
+        'He glanced up from his book.（他从书本上抬起头匆匆看了一眼。）',
+      ],
+      synonyms: [
+        { word: 'peeked', note: '偷看，偷偷地看一眼' },
+        { word: 'stared', note: '盯着看（反义词，目光长久而专注）' },
+      ],
+    },
+    {
+      word: 'moaning',
+      phonetic: '/ˈmoʊnɪŋ/',
+      brief: '呻吟声，呜咽声',
+      pos: 'verb / adjective (present participle of moan)',
+      detail:
+        'moan 指低沉的呻吟声或哀号声，通常表示痛苦或悲伤。原文中唐僧在寺院里听到外面传来 a moaning sound，以为是鬼魂逼近，营造出恐怖的气氛。',
+      examples: [
+        'The patient was moaning in pain.（病人在痛苦地呻吟。）',
+        'I heard a moaning wind outside.（我听到外面风声呜咽。）',
+      ],
+      synonyms: [
+        { word: 'groaning', note: '呻吟，声音更低沉' },
+        { word: 'whimpering', note: '抽泣声，带有恐惧或委屈' },
+      ],
+    },
+    {
+      word: 'trembling',
+      phonetic: '/ˈtremblɪŋ/',
+      brief: '发抖，颤抖',
+      pos: 'verb (present participle of tremble)',
+      detail:
+        'tremble 指因恐惧、寒冷或激动而身体不由自主地抖动。原文中唐僧听到诡异的声音后 sat up, trembling with fear，trembling with fear 是固定搭配，意为吓得发抖。',
+      examples: [
+        'Her hands were trembling with cold.（她的手冻得发抖。）',
+        'He was trembling with anger.（他气得浑身发抖。）',
+      ],
+      synonyms: [
+        { word: 'shivering', note: '发抖，多因寒冷引起' },
+        { word: 'shaking', note: '摇晃、发抖，泛指各种抖动' },
+      ],
+    },
+    {
+      word: 'creaked',
+      phonetic: '/kriːkt/',
+      brief: '嘎吱作响',
+      pos: 'verb (past tense of creak)',
+      detail:
+        'creak 指门、地板、楼梯等因老化或受力而发出的嘎吱声。原文中 his door creaked open 描写了门慢慢被推开时发出的令人不安的声音，增添了鬼故事的悬疑氛围。',
+      examples: [
+        'The old stairs creaked under his weight.（老旧的楼梯在他脚下嘎吱作响。）',
+        'The door creaked open slowly.（门慢慢嘎吱一声打开了。）',
+      ],
+      synonyms: [
+        { word: 'squeaked', note: '发出尖细的吱嘎声' },
+        { word: 'groaned', note: '发出低沉的呻吟声（如木板承重时）' },
+      ],
+    },
+    {
+      word: 'dripping',
+      phonetic: '/ˈdrɪpɪŋ/',
+      brief: '湿淋淋的，滴着水的',
+      pos: 'adjective / verb (present participle of drip)',
+      detail:
+        'dripping wet 是固定搭配，意为湿淋淋的、浑身滴水。原文中鬼魂国王出现时 dripping wet，因为他从井里出来全身湿透，既符合逻辑又增强了恐怖效果。',
+      examples: [
+        'She came in dripping wet from the rain.（她淋着雨进来浑身湿透。）',
+        'Water was dripping from the ceiling.（水从天花板滴下来。）',
+      ],
+      synonyms: [
+        { word: 'soaking', note: '湿透的，强调完全被浸湿' },
+        { word: 'sopping', note: '湿透的，更口语化' },
+      ],
+    },
+    {
+      word: 'suffered',
+      phonetic: '/ˈsʌfərd/',
+      brief: '遭受，经历（痛苦或困难）',
+      pos: 'verb (past tense of suffer)',
+      detail:
+        'suffer 指经历痛苦、困难或损失。原文中乌鸡国国王讲述国家 suffered a horrible drought（遭受了可怕的旱灾），suffer 后常接表示灾难的名词。',
+      examples: [
+        'The city suffered a major earthquake.（这座城市遭受了一次大地震。）',
+        'She suffered from headaches for years.（她头痛了很多年。）',
+      ],
+      synonyms: [
+        { word: 'endured', note: '忍受，强调坚持忍耐' },
+        { word: 'experienced', note: '经历，中性词不含痛苦意味' },
+      ],
+    },
+    {
+      word: 'drought',
+      phonetic: '/draʊt/',
+      brief: '干旱，旱灾',
+      pos: 'noun',
+      detail:
+        'drought 指长期无雨造成的干旱状态。注意 drought 的拼写中 gh 不发音，发音为 /draʊt/。原文中乌鸡国遭遇五年前的严重旱灾，庄稼无法生长，百姓挨饿。',
+      examples: [
+        'The region is suffering from a severe drought.（该地区正遭受严重干旱。）',
+        'Drought conditions have destroyed the harvest.（旱灾毁掉了收成。）',
+      ],
+      synonyms: [
+        { word: 'dry spell', note: '一段干旱时期，程度较轻' },
+      ],
+    },
+    {
+      word: 'crops',
+      phonetic: '/krɑːps/',
+      brief: '庄稼，农作物',
+      pos: 'noun (plural of crop)',
+      detail:
+        'crop 指种植的农作物，crops 是复数形式。原文中旱灾导致庄稼无法生长（Crops would not grow），后来道士求雨后庄稼又开始生长（our crops began to grow）。',
+      examples: [
+        'The farmers are harvesting their crops.（农民们正在收割庄稼。）',
+        'The flood destroyed all the crops.（洪水毁坏了所有庄稼。）',
+      ],
+      synonyms: [
+        { word: 'harvest', note: '收成、收获，侧重收获的结果' },
+        { word: 'produce', note: '农产品，泛指所有农业产出' },
+      ],
+    },
+    {
+      word: 'pray',
+      phonetic: '/preɪ/',
+      brief: '祈祷，祷告',
+      pos: 'verb',
+      detail:
+        'pray 指向神灵或上天祈求、祷告。原文中道士声称他能 pray for rain（祈雨），这是中国古代常见的宗教仪式。pray for 表示为某事祈祷。',
+      examples: [
+        'She prayed for her family safety.（她为家人的平安祈祷。）',
+        'They prayed that the rain would come.（他们祈祷降雨。）',
+      ],
+      synonyms: [
+        { word: 'worship', note: '崇拜、敬奉，更侧重仪式本身' },
+      ],
+    },
+    {
+      word: 'prayers',
+      phonetic: '/ˈpreɪərz/',
+      brief: '祈祷，祷告（复数）',
+      pos: 'noun (plural of prayer)',
+      detail:
+        'prayer 是 pray 的名词形式，prayers 为复数。原文中唐僧问道士的祈祷是否带来了雨水（Did the Daoist prayers bring rain?），prayers 在这里指道士所做的祈雨仪式。',
+      examples: [
+        'Her prayers were answered.（她的祈祷应验了。）',
+        'He says his prayers every night.（他每晚做祷告。）',
+      ],
+      synonyms: [
+      ],
+    },
+    {
+      word: 'faded',
+      phonetic: '/ˈfeɪdɪd/',
+      brief: '渐渐消失，褪去',
+      pos: 'verb (past tense of fade)',
+      detail:
+        'fade 指颜色、声音、表情等逐渐变淡或消失。原文中唐僧听到国王遭遇后笑容 faded（消失了），表现出从开心到震惊的情感转变。',
+      examples: [
+        'The colors of the painting have faded.（画的颜色已经褪了。）',
+        'His smile faded when he heard the news.（听到消息后他的笑容消失了。）',
+      ],
+      synonyms: [
+        { word: 'vanished', note: '突然消失，速度更快' },
+        { word: 'diminished', note: '减少、变弱，更正式' },
+      ],
+    },
+    {
+      word: 'sealed',
+      phonetic: '/siːld/',
+      brief: '封住，密封',
+      pos: 'verb (past tense of seal)',
+      detail:
+        'seal 作动词指封闭、密封，使某物无法打开。原文中道士把国王推入井后 sealed the well shut（把井口封死），seal shut 是常见搭配，意为把某物封死。',
+      examples: [
+        'The envelope was sealed with wax.（信封用蜡封住了。）',
+        'They sealed the entrance to the cave.（他们封住了洞穴入口。）',
+      ],
+      synonyms: [
+        { word: 'blocked', note: '堵住，更通用' },
+        { word: 'closed', note: '关闭，程度较轻' },
+      ],
+    },
+    {
+      word: 'shut',
+      phonetic: '/ʃʌt/',
+      brief: '关紧，合拢',
+      pos: 'adverb / adjective',
+      detail:
+        'shut 在此处作副词修饰 sealed，表示紧闭地、严实地。seal shut 是固定搭配，意为封死、关紧。shut 的原形、过去式和过去分词相同（shut - shut - shut）。',
+      examples: [
+        'Keep your mouth shut.（闭嘴。）',
+        'The door was shut tight.（门关得紧紧的。）',
+      ],
+      synonyms: [
+        { word: 'closed', note: '关闭，语气不如 shut 强烈' },
+      ],
+    },
+    {
+      word: 'guards',
+      phonetic: '/ɡɑːrdz/',
+      brief: '卫兵，侍卫',
+      pos: 'noun (plural of guard)',
+      detail:
+        'guard 指负责守卫或保护的人。原文中唐僧问 Your guards punished the Daoist, right?（你的卫兵惩罚了那个道士对吧？），以为国王的卫兵会为国王报仇。',
+      examples: [
+        'The guards stood at the palace gate.（卫兵站在宫殿门口。）',
+        'Security guards patrol the building at night.（保安夜间巡逻大楼。）',
+      ],
+      synonyms: [
+        { word: 'soldiers', note: '士兵，侧重军事职能' },
+        { word: 'bodyguards', note: '保镖，侧重个人保护' },
+      ],
+    },
+    {
+      word: 'ever since',
+      phonetic: '/ˈevər sɪns/',
+      brief: '从那以后一直',
+      pos: 'phrase',
+      detail:
+        'ever since 表示从过去某个时间点到现在一直如此，强调持续的状态。原文中国王的鬼魂说自己 ever since 都待在阴间，表示从被推入井中死亡后一直困在那里。',
+      examples: [
+        'He moved to New York and has lived there ever since.（他搬到了纽约从那以后一直住在那里。）',
+        'She has been afraid of dogs ever since she was bitten.（自从被咬后她一直怕狗。）',
+      ],
+      synonyms: [
+        { word: 'since then', note: '从那时起，语气稍弱' },
+      ],
+    },
+    {
+      word: 'charge',
+      phonetic: '/tʃɑːrdʒ/',
+      brief: '猛冲，冲向',
+      pos: 'verb',
+      detail:
+        'charge 在此处作动词，意为猛冲、冲锋，带有强烈的方向感和速度感。原文中唐僧说悟空不能 charge into the palace（冲进宫殿），意思是不能鲁莽地闯入皇宫。charge 还有充电、收费、指控等多种含义。',
+      examples: [
+        'The bull charged at the matador.（公牛向斗牛士冲去。）',
+        'He was charged with murder.（他被指控犯有谋杀罪。）',
+      ],
+      synonyms: [
+        { word: 'rush', note: '冲、跑，更通用' },
+        { word: 'dash', note: '猛冲，强调速度' },
+      ],
+    },
+    {
+      word: 'private',
+      phonetic: '/ˈpraɪvɪt/',
+      brief: '私下的，不公开的',
+      pos: 'adjective',
+      detail:
+        'private 意为私人的、私下的，与 public（公开的）相对。原文中 fight the Daoist in private（私下里和道士打斗），意思是不要在众人面前动手避免引起恐慌。',
+      examples: [
+        'Can I speak to you in private?（我能私下和你谈谈吗？）',
+        'This is a private matter.（这是私事。）',
+      ],
+      synonyms: [
+        { word: 'secret', note: '秘密的，更强调不被人知晓' },
+        { word: 'personal', note: '个人的，侧重属于个人' },
+      ],
+    },
+    {
+      word: 'hunting',
+      phonetic: '/ˈhʌntɪŋ/',
+      brief: '打猎，狩猎',
+      pos: 'verb (present participle of hunt) / noun',
+      detail:
+        'hunting 指打猎活动，hunt 的动名词形式。原文中国王说太子明天会出去打猎（He will be out hunting tomorrow），这是古代皇室常见的活动。',
+      examples: [
+        'They went hunting in the forest.（他们去森林里打猎了。）',
+        'Hunting is a popular sport in some countries.（打猎在一些国家是一项流行的运动。）',
+      ],
+      synonyms: [
+        { word: 'chasing', note: '追逐，不限于猎物' },
+      ],
+    },
+    {
+      word: 'jade coin',
+      phonetic: '/dʒeɪd kɔɪn/',
+      brief: '玉币，玉质钱币',
+      pos: 'noun',
+      detail:
+        'jade 意为玉，coin 意为硬币、钱币。jade coin 是一种玉制的贵重货币或饰品，在中国古代是皇室珍宝。原文中国王将玉币交给唐僧作为信物，太子看到玉币就能确认唐僧所言属实。',
+      examples: [
+        'The museum has a collection of ancient jade coins.（博物馆收藏有古代玉币。）',
+        'Jade is considered precious in Chinese culture.（玉在中国文化中被视为珍宝。）',
+      ],
+      synonyms: [
+      ],
+    },
+    {
+      word: 'though',
+      phonetic: '/ðoʊ/',
+      brief: '不过，然而（副词）',
+      pos: 'adverb',
+      detail:
+        'though 在此处作副词放在句末，意为不过、然而，表示转折。原文中唐僧说 I do not know where it is now though（不过我不知道它现在在哪里），though 在句末起到可是的转折作用。注意与 although（连词放句首）的区别。',
+      examples: [
+        'It is a nice car. It is too expensive, though.（车是不错。不过太贵了。）',
+        'I am busy. I can help you later, though.（我很忙。不过我可以稍后帮你。）',
+      ],
+      synonyms: [
+        { word: 'however', note: '然而，更正式，通常放句首' },
+        { word: 'although', note: '虽然（连词，引导从句，不放句末）' },
+      ],
+    },
+    {
+      word: 'making up',
+      phonetic: '/ˈmeɪkɪŋ ʌp/',
+      brief: '编造，捏造（故事或谎言）',
+      pos: 'phrase (phrasal verb make up)',
+      detail:
+        'make up 在此处意为编造、虚构，尤指编造故事或谎言。原文中太子不相信唐僧的话认为他在 making up such a story（编造这样的故事）。make up 还有化妆、组成、和好等其他含义。',
+      examples: [
+        'He made up an excuse for being late.（他编了一个迟到的借口。）',
+        'Do not make things up.（别瞎编。）',
+      ],
+      synonyms: [
+        { word: 'inventing', note: '发明、编造，带有创造性' },
+        { word: 'fabricating', note: '捏造，更正式，带有欺骗性' },
+      ],
+    },
+    {
+      word: 'get rid of',
+      phonetic: '/ɡet rɪd ʌv/',
+      brief: '除掉，摆脱',
+      pos: 'phrase',
+      detail:
+        'get rid of 是固定短语，意为除掉、消灭、摆脱。原文中悟空说 We will get rid of that fake king（我们要除掉那个假国王），表示要消灭冒充国王的道士。',
+      examples: [
+        'We need to get rid of the old furniture.（我们需要处理掉旧家具。）',
+        'How do I get rid of this headache?（我怎么才能摆脱这头痛？）',
+      ],
+      synonyms: [
+        { word: 'eliminate', note: '消除，更正式' },
+        { word: 'dispose of', note: '处理掉，侧重丢弃' },
+      ],
+    },
+    {
+      word: 'deny',
+      phonetic: '/dɪˈnaɪ/',
+      brief: '否认，拒绝承认',
+      pos: 'verb',
+      detail:
+        'deny 指拒绝承认某事属实。原文中悟空预判道士会 deny everything（否认一切），拒绝承认自己杀害了真国王。deny 后接名词或动名词，不接不定式。',
+      examples: [
+        'He denied stealing the money.（他否认偷了钱。）',
+        'She denied the accusation.（她否认了指控。）',
+      ],
+      synonyms: [
+        { word: 'contradict', note: '反驳，表示与某说法相反' },
+        { word: 'refuse', note: '拒绝，侧重不愿做某事' },
+      ],
+    },
+    {
+      word: 'poked',
+      phonetic: '/poʊkt/',
+      brief: '戳，捅',
+      pos: 'verb (past tense of poke)',
+      detail:
+        'poke 指用手指或物体戳、捅某物或某人。本书中出现两次：第一次是悟空戳醒熟睡的八戒；第二次是悟空在老子炼丹房里戳蓝色瓶子，表现出他的顽皮好奇。',
+      examples: [
+        'She poked him in the ribs.（她戳了戳他的肋骨。）',
+        'Do not poke the fire with your fingers.（别用手指戳火。）',
+      ],
+      synonyms: [
+        { word: 'jab', note: '猛戳，力度更大' },
+        { word: 'prod', note: '轻戳，多用于催促或引起注意' },
+      ],
+    },
+    {
+      word: 'fast asleep',
+      phonetic: '/fæst əˈsliːp/',
+      brief: '熟睡，睡得很沉',
+      pos: 'phrase',
+      detail:
+        'fast asleep 是固定搭配意为熟睡，其中 fast 不是快的意思而是完全地、深深地。原文中悟空趁八戒 fast asleep（熟睡）时把他戳醒，引他去井底捞国王的尸体。',
+      examples: [
+        'The baby is fast asleep.（婴儿睡得正香。）',
+        'Within minutes he was fast asleep.（几分钟内他就沉沉睡去了。）',
+      ],
+      synonyms: [
+        { word: 'sound asleep', note: '熟睡，与 fast asleep 同义' },
+        { word: 'dead to the world', note: '睡得死死的，更口语化夸张' },
+      ],
+    },
+    {
+      word: 'mumbled',
+      phonetic: '/ˈmʌmbld/',
+      brief: '含糊不清地说，嘟囔',
+      pos: 'verb (past tense of mumble)',
+      detail:
+        'mumble 指说话含糊不清、声音很低，让人听不太清楚。原文中八戒半睡半醒间嘟囔着说 Not now，mumbled Bajie 描写了猪八戒迷迷糊糊不愿被打扰的状态。',
+      examples: [
+        'He mumbled something I could not hear.（他嘟囔了什么我没听清。）',
+        'Stop mumbling and speak clearly.（别含含糊糊的说清楚点。）',
+      ],
+      synonyms: [
+        { word: 'muttered', note: '低声说，可能带有不满情绪' },
+        { word: 'grumbled', note: '嘟嘟囔囔地抱怨' },
+      ],
+    },
+    {
+      word: 'rotten',
+      phonetic: '/ˈrɑːtn/',
+      brief: '糟糕的，讨厌的（俚语）；腐烂的',
+      pos: 'adjective',
+      detail:
+        'rotten 本义为腐烂的、变质的，在口语中常用来骂人意为讨厌的、卑劣的。原文中八戒被悟空骗入井中后骂道 You rotten monkey!（你这个臭猴子！），rotten 在这里是骂人的口语用法。',
+      examples: [
+        'The fruit has gone rotten.（水果已经烂了。）',
+        'You rotten liar!（你这个可恶的骗子！）',
+      ],
+      synonyms: [
+        { word: 'spoiled', note: '变质的，侧重食物' },
+        { word: 'nasty', note: '令人讨厌的，侧重行为或态度' },
+      ],
+    },
+    {
+      word: 'protested',
+      phonetic: '/prəˈtestɪd/',
+      brief: '抗议，反对，辩解',
+      pos: 'verb (past tense of protest)',
+      detail:
+        'protest 指强烈地反对或为自己辩护。原文中悟空在八戒诬蔑他会救活国王时大声辩解，protested Wukong 在此处意为极力否认、辩解。注意动词重音在第二音节。',
+      examples: [
+        'That is not fair! she protested.（那不公平！她抗议道。）',
+        'He protested his innocence.（他坚称自己无罪。）',
+      ],
+      synonyms: [
+        { word: 'objected', note: '反对，语气较温和' },
+        { word: 'argued', note: '争辩，侧重讲理' },
+      ],
+    },
+    {
+      word: 'potion',
+      phonetic: '/ˈpoʊʃən/',
+      brief: '魔药，药剂',
+      pos: 'noun',
+      detail:
+        'potion 指有魔法或药效的液体，常见于奇幻文学和神话故事中。原文中老子正在炼制 a potion（药剂），配合蒸汽翻腾的大锅，营造出神秘的炼丹场景。',
+      examples: [
+        'The witch brewed a magic potion.（女巫熬制了一瓶魔药。）',
+        'He drank a sleeping potion.（他喝了一瓶安眠药水。）',
+      ],
+      synonyms: [
+        { word: 'elixir', note: '灵丹妙药，带有神奇色彩' },
+        { word: 'brew', note: '酿造的饮料或药剂' },
+      ],
+    },
+    {
+      word: 'steam',
+      phonetic: '/stiːm/',
+      brief: '蒸汽，水蒸气',
+      pos: 'noun',
+      detail:
+        'steam 指水沸腾后产生的蒸汽。原文中 Steam rose from the bubbling cauldron（蒸汽从翻腾的大锅中升起），描写了老子炼丹时锅里水汽蒸腾的画面。',
+      examples: [
+        'Steam rose from the hot soup.（热汤冒出蒸汽。）',
+        'The bathroom was full of steam.（浴室里满是水蒸气。）',
+      ],
+      synonyms: [
+        { word: 'vapor', note: '蒸气，泛指各种气态物质' },
+      ],
+    },
+    {
+      word: 'bubbling cauldron',
+      phonetic: '/ˈbʌblɪŋ ˈkɔːldrən/',
+      brief: '冒泡的大锅',
+      pos: 'noun',
+      detail:
+        'bubbling 意为冒泡的、翻腾的，cauldron 意为大锅（尤指巫婆或炼金术士用的）。bubbling cauldron 是奇幻文学中的经典意象，代表魔法正在发生。原文中老子的炼丹大锅蒸汽翻腾营造出神秘氛围。',
+      examples: [
+        'The witches stirred the bubbling cauldron.（女巫们搅动着冒泡的大锅。）',
+        'A large cauldron hung over the fire.（一口大锅悬挂在火上。）',
+      ],
+      synonyms: [
+      ],
+    },
+    {
+      word: 'groaned',
+      phonetic: '/ɡroʊnd/',
+      brief: '呻吟，发出不满的声音',
+      pos: 'verb (past tense of groan)',
+      detail:
+        'groan 指因疼痛、不满或疲惫而发出低沉的声音。本书中出现两次：第一次是老子看到悟空闯入时的不满；第二次是唐僧对悟空反复犹豫的不耐烦。',
+      examples: [
+        'He groaned in pain.（他痛苦地呻吟。）',
+        'The students groaned when the teacher gave more homework.（老师布置更多作业时学生们发出抱怨声。）',
+      ],
+      synonyms: [
+        { word: 'moaned', note: '呻吟，更多表示悲伤或疼痛' },
+        { word: 'sighed', note: '叹气，较轻的不满或无奈' },
+      ],
+    },
+    {
+      word: 'equipment',
+      phonetic: '/ɪˈkwɪpmənt/',
+      brief: '设备，器材',
+      pos: 'noun',
+      detail:
+        'equipment 是不可数名词，指用于特定目的的设备、工具或器材。原文中悟空在老子的炼丹房里看 all the bottles and equipment（所有的瓶瓶罐罐和器具）。',
+      examples: [
+        'The lab is equipped with modern equipment.（实验室配备了现代化设备。）',
+        'We need to buy new sports equipment.（我们需要买新的运动器材。）',
+      ],
+      synonyms: [
+        { word: 'apparatus', note: '器械，较正式，多指科学仪器' },
+        { word: 'tools', note: '工具，更具体可数' },
+      ],
+    },
+    {
+      word: 'rude',
+      phonetic: '/ruːd/',
+      brief: '无礼的，粗鲁的',
+      pos: 'adjective',
+      detail:
+        'rude 指行为粗鲁、不礼貌。原文中老子对悟空的无理要求忍无可忍骂道 You are rude and disrespectful!（你又无礼又不尊重人！），rude 和 disrespectful 连用加强语气。',
+      examples: [
+        'It is rude to interrupt people.（打断别人说话是不礼貌的。）',
+        'He made a rude gesture.（他做了一个粗鲁的手势。）',
+      ],
+      synonyms: [
+        { word: 'impolite', note: '不礼貌的，较正式' },
+        { word: 'disrespectful', note: '不尊重的，侧重缺乏敬意' },
+      ],
+    },
+    {
+      word: 'stirred',
+      phonetic: '/stɜːrd/',
+      brief: '搅拌',
+      pos: 'verb (past tense of stir)',
+      detail:
+        'stir 指用勺子或棍子在液体中搅动。原文中老子回到药锅旁继续搅拌（went back to his potion and stirred），stir 是烹饪和炼丹中的基本动作。stir 的过去式和过去分词都是 stirred（双写 r）。',
+      examples: [
+        'She stirred the soup with a wooden spoon.（她用木勺搅了搅汤。）',
+        'Stir the mixture until it is smooth.（搅拌混合物直到顺滑。）',
+      ],
+      synonyms: [
+        { word: 'mixed', note: '混合，更泛指' },
+      ],
+    },
+    {
+      word: 'hood',
+      phonetic: '/hʊd/',
+      brief: '兜帽，头巾',
+      pos: 'noun',
+      detail:
+        'hood 指连在衣服上的兜帽或单独戴的头巾，可以遮住头部和脸部。原文中复活的国王戴着兜帽隐藏身份，当他拉下兜帽时道士才认出他是真正的国王。',
+      examples: [
+        'She pulled up her hood against the rain.（她拉起兜帽挡雨。）',
+        'The figure wore a dark hood.（那个人影戴着深色兜帽。）',
+      ],
+      synonyms: [
+        { word: 'cloak', note: '斗篷，整件衣服而非仅帽子' },
+      ],
+    },
+    {
+      word: 'tell',
+      phonetic: '/tel/',
+      brief: '分辨，辨别（与 apart 连用）',
+      pos: 'verb',
+      detail:
+        'tell 在此处意为分辨、辨别，通常与 apart 连用构成短语动词 tell apart。原文中 We cannot tell them apart（我们分辨不出它们），指两个一模一样的唐僧让人无法辨别真假。tell 的常见含义是告诉，但与 apart 连用时意思完全不同。',
+      examples: [
+        'The twins look so alike, I cannot tell them apart.（这对双胞胎长得太像了我分辨不出来。）',
+        'Can you tell the difference between these two colors?（你能分辨这两种颜色的区别吗？）',
+      ],
+      synonyms: [
+        { word: 'distinguish', note: '区分，更正式' },
+        { word: 'identify', note: '识别，确认身份' },
+      ],
+    },
+    {
+      word: 'apart',
+      phonetic: '/əˈpɑːrt/',
+      brief: '分开，区别（与 tell 连用）',
+      pos: 'adverb',
+      detail:
+        'apart 意为分开地、相隔地。tell apart 是固定搭配意为分辨、区分。原文中 We cannot tell them apart 表示两个唐僧长得一模一样无法将他们区分开来。',
+      examples: [
+        'The two houses are two miles apart.（两栋房子相隔两英里。）',
+        'He tore the letter apart.（他把信撕碎了。）',
+      ],
+      synonyms: [
+      ],
+    },
+    {
+      word: 'glared',
+      phonetic: '/ɡleərd/',
+      brief: '怒目而视，瞪眼',
+      pos: 'verb (past tense of glare)',
+      detail:
+        'glare 指生气地、长时间地盯着看。本书中出现两次：第一次是假唐僧怒视真唐僧；第二次是悟空愤怒地瞪着伪装成小孩的妖怪，两次都表达了强烈的愤怒。',
+      examples: [
+        'She glared at him in anger.（她愤怒地瞪着他。）',
+        'The teacher glared at the noisy students.（老师怒视着吵闹的学生。）',
+      ],
+      synonyms: [
+        { word: 'scowled', note: '皱眉怒视，侧重面部表情' },
+        { word: 'stared', note: '盯着看，不含愤怒情绪' },
+      ],
+    },
+    {
+      word: 'swirled',
+      phonetic: '/swɜːrld/',
+      brief: '旋转，盘旋',
+      pos: 'verb (past tense of swirl)',
+      detail:
+        'swirl 指液体或气体旋转、盘旋流动。原文中 Clouds swirled 描写悟空等人追赶青狮时云层在天空中旋转翻涌的壮观场面，增强了空中大战的动感。',
+      examples: [
+        'The leaves swirled in the wind.（树叶在风中旋转。）',
+        'Smoke swirled up from the chimney.（烟从烟囱里盘旋升起。）',
+      ],
+      synonyms: [
+        { word: 'spun', note: '旋转，速度更快' },
+        { word: 'whirled', note: '急速旋转，带有呼啸感' },
+      ],
+    },
+    {
+      word: 'strike',
+      phonetic: '/straɪk/',
+      brief: '打击，攻击',
+      pos: 'verb',
+      detail:
+        'strike 作动词意为打击、击打。原文中悟空举起金箍棒 raised it to strike（举起准备打击），描述悟空即将对青狮发起攻击的动作。strike 的过去式是 struck。',
+      examples: [
+        'He raised his sword to strike.（他举剑准备劈下去。）',
+        'The snake struck at its prey.（蛇向猎物发起攻击。）',
+      ],
+      synonyms: [
+        { word: 'attack', note: '攻击，更泛指各种进攻' },
+        { word: 'hit', note: '打、击，更口语化' },
+      ],
+    },
+    {
+      word: 'cruel',
+      phonetic: '/ˈkruːəl/',
+      brief: '残忍的，残酷的',
+      pos: 'adjective',
+      detail:
+        'cruel 指故意使他人或动物遭受痛苦，缺乏同情心。原文中文殊菩萨解释说乌鸡国国王多年前曾 was cruel to someone（对某人很残忍），所以他的坐骑青狮下凡惩罚国王。',
+      examples: [
+        'It is cruel to keep wild animals in cages.（把野生动物关在笼子里是残忍的。）',
+        'The cruel king treated his people badly.（残忍的国王虐待他的百姓。）',
+      ],
+      synonyms: [
+        { word: 'mean', note: '刻薄的，程度较轻' },
+        { word: 'brutal', note: '野蛮残暴的，程度更重' },
+      ],
+    },
+    {
+      word: 'mysterious',
+      phonetic: '/mɪˈstɪriəs/',
+      brief: '神秘的，不可思议的',
+      pos: 'adjective',
+      detail:
+        'mysterious 指难以理解或解释的，带有神秘感。原文中悟空看到一座山上出现 a mysterious red cloud（一朵神秘的红云），预感到前方有妖怪。',
+      examples: [
+        'A mysterious stranger appeared at the door.（一个神秘的陌生人出现在门口。）',
+        'There was a mysterious noise in the attic.（阁楼里传来神秘的声响。）',
+      ],
+      synonyms: [
+        { word: 'eerie', note: '诡异、令人不安的' },
+        { word: 'puzzling', note: '令人困惑的，侧重费解' },
+      ],
+    },
+    {
+      word: 'leads',
+      phonetic: '/liːdz/',
+      brief: '通向，延伸到',
+      pos: 'verb (third person singular of lead)',
+      detail:
+        'lead 作动词意为引导、通向。原文中 The road leads right into those mountains（这条路一直通向那些山），leads 在此处表示道路的方向和终点。注意 lead 的过去式是 led。',
+      examples: [
+        'This path leads to the beach.（这条小路通向海滩。）',
+        'All roads lead to Rome.（条条大路通罗马。）',
+      ],
+      synonyms: [
+        { word: 'connects', note: '连接，侧重两端相通' },
+      ],
+    },
+    {
+      word: 'alongside',
+      phonetic: '/əˈlɔːŋˈsaɪd/',
+      brief: '在旁边，沿着',
+      pos: 'preposition / adverb',
+      detail:
+        'alongside 意为在某物旁边、沿着某物。原文中妖怪变成小孩坐在路边（sat alongside it），等待取经团队经过以便欺骗唐僧。',
+      examples: [
+        'She sat alongside her friend.（她坐在朋友旁边。）',
+        'The boat docked alongside the pier.（船停靠在码头旁边。）',
+      ],
+      synonyms: [
+        { word: 'beside', note: '在旁边，更通用' },
+        { word: 'next to', note: '紧挨着，更口语化' },
+      ],
+    },
+    {
+      word: 'horrified',
+      phonetic: '/ˈhɔːrɪfaɪd/',
+      brief: '惊恐的，吓坏了的',
+      pos: 'adjective',
+      detail:
+        'horrified 指因恐惧或震惊而吓坏了。原文中伪装成小孩的妖怪听到悟空揭穿身份后装出 horrified（惊恐万分）的样子，实际上是在演戏骗唐僧。',
+      examples: [
+        'She was horrified by the accident.（她被那场事故吓坏了。）',
+        'The parents were horrified to see their child missing.（父母发现孩子不见了吓坏了。）',
+      ],
+      synonyms: [
+        { word: 'terrified', note: '极度恐惧的，程度更强' },
+        { word: 'shocked', note: '震惊的，侧重意外' },
+      ],
+    },
+    {
+      word: 'snapped',
+      phonetic: '/snæpt/',
+      brief: '厉声说，怒斥',
+      pos: 'verb (past tense of snap)',
+      detail:
+        'snap 在此处意为厉声说话、怒斥，带有突然性和不悦。原文中唐僧对悟空厉声说 Wukong! snapped the Tang Monk（唐僧厉声道），因为悟空在吓唬那个小孩。snap 还有折断、咬、拍等多种含义。',
+      examples: [
+        'Stop it! she snapped.（住手！她厉声说道。）',
+        'He snapped the stick in half.（他把棍子折成两段。）',
+      ],
+      synonyms: [
+        { word: 'barked', note: '大声吼叫，更粗暴' },
+        { word: 'scolded', note: '责备，带有教育的意味' },
+      ],
+    },
+    {
+      word: 'injured',
+      phonetic: '/ˈɪndʒərd/',
+      brief: '受伤的',
+      pos: 'adjective / verb (past participle of injure)',
+      detail:
+        'injured 意为受伤的，可作形容词或动词过去分词。原文中妖怪假装 My leg is injured（我的腿受伤了），骗唐僧让悟空背着走。injure 比 hurt 更正式，比 wound 更通用。',
+      examples: [
+        'Three people were injured in the accident.（三个人在事故中受伤。）',
+        'He injured his knee playing soccer.（他踢足球时伤了膝盖。）',
+      ],
+      synonyms: [
+        { word: 'hurt', note: '受伤，更口语化' },
+        { word: 'wounded', note: '受创，多指刀伤枪伤等外伤' },
+      ],
+    },
+    {
+      word: 'uprooting',
+      phonetic: '/ʌpˈruːtɪŋ/',
+      brief: '连根拔起',
+      pos: 'verb (present participle of uproot)',
+      detail:
+        'uproot 指将植物连根拔起，也可比喻使背井离乡。原文中妖怪引发狂风 uprooting trees（连根拔起树木），描写了妖风的巨大威力，树木不是被吹断而是被整棵拔起。',
+      examples: [
+        'The storm uprooted several trees.（暴风雨把几棵树连根拔起。）',
+        'The flood uprooted many families from their homes.（洪水使许多家庭背井离乡。）',
+      ],
+      synonyms: [
+        { word: 'tearing out', note: '撕裂拔出，动作更暴力' },
+      ],
+    },
+    {
+      word: 'dust',
+      phonetic: '/dʌst/',
+      brief: '尘土，灰尘',
+      pos: 'noun',
+      detail:
+        'dust 指干燥细小的沙土、灰尘。原文中妖风刮起后 dust filled the air（尘土弥漫空中），悟空试图透过尘土寻找师父。',
+      examples: [
+        'The car raised a cloud of dust.（汽车扬起了一阵尘土。）',
+        'The old book was covered in dust.（旧书上落满了灰尘。）',
+      ],
+      synonyms: [
+        { word: 'dirt', note: '泥土、污垢，侧重脏' },
+        { word: 'sand', note: '沙子，颗粒更大' },
+      ],
+    },
+    {
+      word: 'rushed',
+      phonetic: '/rʌʃt/',
+      brief: '冲过去，急忙跑',
+      pos: 'verb (past tense of rush)',
+      detail:
+        'rush 指急速移动或行动，带有紧迫感。原文中悟空听到惨叫声后 rushed ahead to find his friends（冲上前去找朋友），表现出他焦急的心情。',
+      examples: [
+        'She rushed to the hospital.（她急忙赶往医院。）',
+        'The students rushed out of the classroom.（学生们冲出教室。）',
+      ],
+      synonyms: [
+        { word: 'dashed', note: '猛冲，更强调速度' },
+        { word: 'hurried', note: '匆忙，稍温和' },
+      ],
+    },
+    {
+      word: 'frantically',
+      phonetic: '/ˈfræntɪkli/',
+      brief: '疯狂地，拼命地',
+      pos: 'adverb',
+      detail:
+        'frantically 是 frantic 的副词形式，意为疯狂地、拼命地、极其焦急地。原文中悟空发现唐僧不见了后 looked frantically around（疯狂地四处张望），表现出他极度焦急不安的状态。',
+      examples: [
+        'She searched frantically for her lost keys.（她拼命寻找丢失的钥匙。）',
+        'He waved his arms frantically to get attention.（他拼命挥动手臂引起注意。）',
+      ],
+      synonyms: [
+        { word: 'desperately', note: '绝望地、不顾一切地' },
+        { word: 'wildly', note: '狂乱地，缺乏控制' },
+      ],
+    },
+  ],
 };
 
 export default vocab;
