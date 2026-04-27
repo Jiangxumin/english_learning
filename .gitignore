@@ -8,3 +8,4 @@ build/
 .docusaurus/
 
 .playwright-mcp/
+.DS_Store
